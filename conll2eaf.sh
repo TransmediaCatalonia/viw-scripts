@@ -17,7 +17,7 @@
 
 
 if [ ! $# -ge 2 ]; then
-  echo Usage: `basename $0` 'path conLL_file_name'
+  echo Usage: `basename $0` 'path' 'conLL_file_name'
   echo 
   exit
 fi

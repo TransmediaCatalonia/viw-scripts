@@ -1,5 +1,18 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+#-----------------------------------------------------------------------------------
+# Marta Villegas (UAB)  VIW project (Visual into Words http://pagines.uab.cat/viw)
+#
+# Adds WordNet semantic classes to freeling files (for Nouns, Verbs and Adjectives)
+# 
+# This script uses the IULA sparql server: http://lodserver.iula.upf.edu/sparql
+#
+# No semantic dissambiguation is performed (manual checking required...)
+# 
+#-----------------------------------------------------------------------------------
+
+
 from SPARQLWrapper import SPARQLWrapper, JSON
 from collections import defaultdict
 import sys

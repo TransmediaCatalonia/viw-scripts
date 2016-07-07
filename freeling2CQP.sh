@@ -28,6 +28,6 @@ for file in $path
 do
     echo doing $file
 	awk 'BEGIN { OFS = "\t"} {print $1,$2,$3,$7}' $file | sed "1s|^|<text id=\'$file\'>\n<s>\n|" | sed "s/\t\t\t//" | 
-        sed 's/Fp\t$/Fp\t\n<\/s>\n<s>/' | sed '/^$/d' | sed 's/Fp\t-/Fp\t-\n<\/s>\n<s>/'>> cqp
+        sed 's/Fp\t$/Fp\t\n<\/s>\n<s>/' | sed '/^$/d' | sed 's/Fp\t-/Fp\t-\n<\/s>\n<s>/'>> cqp.txt
     echo done $file  
 done

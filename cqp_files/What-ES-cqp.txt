@@ -1,0 +1,8524 @@
+<text id='Aptent-ES'>
+<s>
+En	en	SPS00	-
+una	uno	DI0FS0	-
+playa	playa	NCFS000	Location
+,	,	Fc	-
+y	y	CC	-
+bajo	bajo	SPS00	Location
+un	uno	DI0MS0	-
+cielo	cielo	NCMS000	Location
+parcialmente	parcialmente	RG	Quantifier
+nublado	nublar	VMP00SM	A-RadiatingLight
+,	,	Fc	-
+se	se	P00CN000	-
+cruzan	cruzar	VMIP3P0	Motion
+por	por	SPS00	-
+la	el	DA0FS0	-
+arena	arena	NCFS000	Location
+una	uno	DI0FS0	-
+pareja	pareja	NCFS000	Human
+que	que	PR0CN000	-
+pasea	pasear	VMIP3S0	Walking
+a	a	SPS00	-
+un	uno	DI0MS0	-
+perro	perro	NCMS000	Animal
+de	de	SPS00	-
+gran	gran	AQ0CS0	A-SubjectiveAssessmentAttribute
+tamaño	tamaño	NCMS000	-
+y	y	CC	-
+un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+haciendo_footing	hacer_footing	VMG0000	Walking
+.	.	Fp	
+</s>
+<s>
+El	el	DA0MS0	-
+perro	perro	NCMS000	Animal
+olisquea	olisquear	VMIP3S0	Smelling
+.	.	Fp	
+</s>
+<s>
+A	a	SPS00	-
+el	el	DA0MS0	-
+oír	oír	VMN0000	Hearing
+el	el	DA0MS0	-
+silbido	silbido	NCMS000	RadiatingSound
+corre	correr	VMIP3S0	Walking
+con	con	SPS00	-
+sus	su	DP3CP0	-
+amos	amo	NCMP000	Human
+.	.	Fp	-
+</s>
+<s>
+Sobreimpreso	sobreimprimir	VMP00SM	A-FilmLanguage
+con	con	SPS00	-
+fondo	fondo	NCMS000	FilmLanguage
+blanco	blanco	AQ0MS0	A-ColorAttribute
+:	:	Fd	
+Junto_a	junto_a	SPS00	Location
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+se	se	P00CN000	-
+detiene	detener	VMIP3S0	Motion
+un	uno	DI0MS0	-
+coche	coche	NCMS000	-
+blanco	blanco	AQ0MS0	A-ColorAttribute
+de	de	SPS00	-
+alta	alto	AQ0FS0	A-SubjectiveAssessmentAttribute
+gama	gama	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Saldrá	salir	VMIF3S0	Motion
+el	el	DA0MS0	-
+conductor	conductor	NCMS000	Human
+hablando	hablar	VMG0000	Communication
+por	por	SPS00	-
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+,	,	Fc	-
+guardará	guardar	VMIF3S0	Putting
+su	su	DP3CS0	-
+maletín	maletín	NCMS000	Object
+en	en	SPS00	-
+el	el	DA0MS0	-
+maletero	maletero	NCMS000	Location
+y	y	CC	-
+cogerá	coger	VMIF3S0	Touching
+un	uno	DI0MS0	-
+bolso	bolso	NCMS000	Clothing
+de	de	SPS00	-
+playa	playa	NCFS000	Location
+azul	azul	AQ0CS0	A-ColorAttribute
+y	y	CC	-
+blanco	blanco	AQ0MS0	A-ColorAttribute
+.	.	Fp	
+</s>
+<s>
+Cuelga	colgar	VMIP3S0	Process
+y	y	CC	-
+guarda	guardar	VMIP3S0	Putting
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+lleva	llevar	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+mano	mano	NCFS000	BodyPart
+a	a	SPS00	-
+el	el	DA0MS0	-
+bolsillo	bolsillo	NCMS000	Clothing
+interior	interior	AQ0CS0	A-PositionalAttribute
+de	de	SPS00	-
+el	el	DA0MS0	-
+traje	traje	NCMS000	Clothing
+.	.	Fp	
+</s>
+<s>
+Se	se	P00CN000	-
+pone	poner	VMIP3S0	Putting
+unas	uno	DI0FP0	-
+gafas	gafas	NCFP000	Clothing
+de	de	SPS00	-
+sol	sol	NCMS000	-
+de	de	SPS00	-
+aviador	aviador	NCMS000	-
+doradas	dorada	AQ0FP0	A-ColorAttribute
+y	y	CC	-
+mira	mirar	VMIP3S0	Seeing
+al_frente	al_frente	RG	Location
+.	.	Fp	
+</s>
+<s>
+Sobreimpreso	sobreimprimir	VMP00SM	A-FilmLanguage
+:	:	Fd	-
+james	james	NP00G00	Human
+,	,	Fc	-
+el	el	DA0MS0	-
+empresario	empresario	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Caminando	caminar	VMG0000	Walking
+por	por	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+se	se	P00CN000	-
+lleva	llevar	VMIP3S0	Putting
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+a	a	SPS00	-
+la	el	DA0FS0	-
+oreja	oreja	NCFS000	BodyPart
+.	.	Fp	
+</s>
+<s>
+Se	se	P00CN000	-
+tiende	tender	VMIP3S0	BodyMotion
+boca_arriba	boca_arriba	RG	PositionalAttribute
+y	y	CC	-
+en	en	SPS00	-
+bañador	bañador	NCMS000	Clothing
+sobre	sobre	SPS00	Location
+una	uno	DI0FS0	-
+toalla	toalla	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Deja	dejar	VMIP3S0	Putting
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+junto_a	junto_a	SPS00	Location
+sus	su	DP3CP0	-
+pertenencias	pertenencia	NCFP000	-
+.	.	Fp	
+</s>
+<s>
+Permanece	permanecer	VMIP3S0	BodyMotion
+unos	uno	DI0MP0	-
+segundos	segundo	NCMP000	Time
+con_los_ojos_cerrados	con_los_ojos_cerrados	RG	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+lleva	llevar	VMIP3S0	BodyMotion
+las	el	DA0FP0	-
+manos	mano	NCFP000	BodyPart
+a	a	SPS00	-
+la	el	DA0FS0	-
+cara	cara	NCFS000	BodyPart
+y	y	CC	-
+luego	luego	RG	-
+extiende	extender	VMIP3S0	BodyMotion
+los	el	DA0MP0	-
+brazos	brazo	NCMP000	BodyPart
+sobre	sobre	SPS00	Location
+la	el	DA0FS0	-
+arena	arena	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Con	con	SPS00	-
+la	el	DA0FS0	-
+mano	mano	NCFS000	BodyPart
+recoge	recoger	VMIP3S0	Touching
+unos	uno	DI0MP0	-
+granos	grano	NCMP000	-
+y	y	CC	-
+los	lo	PP3MPA00	-
+deja	dejar	VMIP3S0	Aux
+caer	caer	VMN0000	Motion
+lentamente	lentamente	RG	Time
+.	.	Fp	
+</s>
+<s>
+Se	se	P00CN000	-
+incorpora	incorporar	VMIP3S0	BodyMotion
+y	y	CC	-
+coge	coger	VMIP3S0	Touching
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	
+</s>
+<s>
+Preocupado	preocupar	VMP00SM	A-StateOfMind
+busca	busca	NCFS000	IntentionalPsychologicalProcess
+algo	algo	PI0CS000	-
+entre	entre	SPS00	-
+sus	su	DP3CP0	-
+pertenencias	pertenencia	NCFP000	-
+.	.	Fp	
+</s>
+<s>
+Deja	dejar	VMIP3S0	Putting
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+a	a	SPS00	-
+un	uno	DI0MS0	-
+lado	lado	NCMS000	Location
+y	y	CC	-
+se	se	P00CN000	-
+levanta	levantar	VMIP3S0	BodyMotion
+.	.	Fp	
+</s>
+<s>
+Se	se	P00CN000	-
+aleja	alejar	VMIP3S0	Motion
+unos	uno	DI0MP0	-
+metros	metro	NCMP000	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+toalla	toalla	NCFS000	Object
+mirando	mirar	VMG0000	Seeing
+a_lo_lejos	a_lo_lejos	RG	Location
+,	,	Fc	-
+en_dirección_a	en_dirección_a	SPS00	-
+el	el	DA0MS0	-
+paseo	paseo	NCMS000	Location
+marítimo	marítimo	AQ0MS0	A-PositionalAttribute
+.	.	Fp	
+</s>
+<s>
+Se	se	P00CN000	-
+detiene	detener	VMIP3S0	Motion
+y	y	CC	-
+centra_su_atención	centrar_su_atención	VMIP3S0	Seeing
+en	en	SPS00	-
+un	uno	DI0MS0	-
+punto	punto	NCMS000	Location
+fijo	fijo	AQ0MS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Una	uno	DI0FS0	-
+gaviota	gaviota	NCFS000	Animal
+vuela	volar	VMIP3S0	Motion
+a	a	SPS00	-
+unos	uno	DI0MP0	-
+metros	metro	NCMP000	-
+de	de	SPS00	-
+él	él	PP3MS000	-
+agitando	agitar	VMG0000	BodyMotion
+las	el	DA0FP0	-
+alas	ala	NCFP000	BodyPart
+con	con	SPS00	-
+ímpetu	ímpetu	NCMS000	-
+.	.	Fp	
+</s>
+<s>
+Dirige_la_mirada	dirigir_la_mirada	VMIP3S0	Seeing
+de_un_lado_a_otro	de_un_lado_a_otro	RG	Location
+de	de	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+,	,	Fc	-
+como	como	CS	-
+desorientado	desorientar	VMP00SM	A-StateOfMind
+.	.	Fp	
+</s>
+<s>
+Da_media_vuelta	dar_media_vuelta	VMIP3S0	Motion
+y	y	CC	-
+sin	sin	SPS00	-
+dejar	dejar	VMN0000	Aux
+de	de	SPS00	-
+mirar	mirar	VMN0000	Seeing
+en	en	SPS00	-
+todas	todo	DI0FP0	-
+direcciones	dirección	NCFP000	Location
+se	se	P00CN000	-
+acerca	acercar	VMIP3S0	Motion
+a	a	SPS00	-
+la	el	DA0FS0	-
+orilla	orilla	NCFS000	Location
+.	.	Fp	
+</s>
+<s>
+Su	su	DP3CS0	-
+rostro	rostro	NCMS000	BodyPart
+denota	denotar	VMIP3S0	Process
+cierta	cierto	AQ0FS0	A-SubjectiveAssessmentAttribute
+inquietud	inquietud	NCFS000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+de	de	SPS00	-
+vuelta	vuelta	NCFS000	-
+hacia	hacia	SPS00	-
+la	el	DA0FS0	-
+toalla	toalla	NCFS000	Object
+sin	sin	SPS00	-
+prestar_atención	prestar	_atención	1574
+a	a	SPS00	-
+sus	su	DP3CP0	-
+pasos	paso	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+Dos	2	Z	-
+yates	yate	NCMP000	-
+surcan	surcar	VMIP3P0	Motion
+el	el	DA0MS0	-
+mar	mar	NCMS000	Location
+.	.	Fp	
+</s>
+<s>
+Se	se	P00CN000	-
+inclina	inclinar	VMIP3S0	BodyMotion
+ligeramente	ligeramente	RG	Quantifier
+para	para	SPS00	-
+recoger	recoger	VMN0000	Touching
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+y	y	CC	-
+vuelve	volver	VMIP3S0	Aux
+a	a	SPS00	-
+alzar_la_mirada	alzar_la_mirada	VMN0000	Seeing
+mientras	mientras	CS	Time
+se	se	P00CN000	-
+la	lo	PP3FSA00	-
+pone	poner	VMIP3S0	Putting
+.	.	Fp	-
+</s>
+<s>
+Después	después	RG	Time
+se	se	P00CN000	-
+agacha	agachar	VMIP3S0	BodyMotion
+para	para	SPS00	-
+recoger	recoger	VMN0000	Touching
+el	el	DA0MS0	-
+resto	resto	NCMS000	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+ropa	ropa	NCFS000	Clothing
+y	y	CC	-
+seguir	seguir	VMN0000	Aux
+vistiendo	vestir	VMG0000	Dressing
+se	se	PP3CN000	-
+.	.	Fp	
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+por	por	SPS00	-
+un	uno	DI0MS0	-
+largo	largo	AQ0MS0	A-SubjectiveAssessmentAttribute
+paseo	paseo	NCMS000	Location
+rodeado	rodear	VMP00SM	A-PositionalAttribute
+de	de	SPS00	-
+árboles	árbol	NCMP000	Vegetable
+de	de	SPS00	-
+abundante	abundante	AQ0CS0	A-SubjectiveAssessmentAttribute
+follaje	follaje	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Tiene	tener	VMIP3S0	possesses
+el	el	DA0MS0	-
+cuello	cuello	NCMS000	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+desabrochado	desabrochar	VMP00SM	A-SubjectiveAssessmentAttribute
+y	y	CC	-
+ya	ya	RG	-
+no	no	RN	-
+lleva	llevar	VMIP3S0	Dressing
+corbata	corbata	NCFS000	Clothing
+.	.	Fp	
+</s>
+<s>
+Sube	subir	VMIP3S0	Motion
+por	por	SPS00	-
+una	uno	DI0FS0	-
+montaña	montaña	NCFS000	Location
+a_través_de	a_través_de	SPS00	Location
+un	uno	DI0MS0	-
+estrecho	estrecho	AQ0MS0	A-SubjectiveAssessmentAttribute
+sendero	sendero	NCMS000	Location
+pedregoso	pedregoso	AQ0MS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	
+</s>
+<s>
+Un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+de	de	SPS00	-
+mediana	mediano	AQ0FS0	A-SubjectiveAssessmentAttribute
+edad	edad	NCFS000	-
+con	con	SPS00	-
+barba	barba	NCFS000	BodyPart
+canosa	canoso	AQ0FS0	A-ColorAttribute
+y	y	CC	-
+ligeramente	ligeramente	RG	Quantifier
+descuidada	descuidar	VMP00SF	A-SubjectiveAssessmentAttribute
+está	estar	VSIP3S0	Aux
+sentado	sentar	VMP00SM	A-PositionalAttribute
+en	en	SPS00	-
+un	uno	DI0MS0	-
+banco	banco	NCMS000	Object
+individual	individual	AQ0CS0	A-SubjectiveAssessmentAttribute
+rodeado	rodear	VMP00SM	A-PositionalAttribute
+de	de	SPS00	-
+vegetación	vegetación	NCFS000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Sostiene	sostener	VMIP3S0	Touching
+un	uno	DI0MS0	-
+vaso	vaso	NCMS000	Object
+de	de	SPS00	-
+plástico	plástico	NCMS000	-
+con	con	SPS00	-
+tapa	tapa	NCFS000	Object
+y	y	CC	-
+tamborilea	tamborilear	VMIP3S0	BodyMotion
+sobre	sobre	SPS00	Location
+él	él	PP3MS000	-
+con	con	SPS00	-
+el	el	DA0MS0	-
+dedo_índice	dedo_índice	NCMS000	BodyPart
+de	de	SPS00	-
+la	el	DA0FS0	-
+mano	mano	NCFS000	BodyPart
+izquierda	izquierdo	AQ0FS0	A-PositionalAttribute
+.	.	Fp	
+</s>
+<s>
+Sonríe	sonreír	VMIP3S0	Gesture
+y	y	CC	-
+dice	decir	VMIP3S0	Communication
+que	que	CS	-
+no	no	RN	-
+con	con	SPS00	-
+la	el	DA0FS0	-
+cabeza	cabeza	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Continúa	continuar	VMIP3S0	Aux
+tocando	tocar	VMG0000	Touching
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+como	como	CS	-
+nervioso	nervioso	AQ0MS0	A-StateOfMind
+y	y	CC	-
+finalmente	finalmente	RG	Time
+quita	quitar	VMIP3S0	Putting
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Contiene	contener	VMIP3S0	possesses
+café	café	NCMS000	-
+solo	solo	AQ0MS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+el	el	DA0MS0	-
+interior	interior	NCMS000	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+,	,	Fc	-
+bebe	beber	VMIP3S0	Drinking
+un	uno	DI0MS0	-
+trago	trago	NCMS000	-
+y	y	CC	-
+lo	lo	PP3CNA00	-
+saborea	saborear	VMIP3S0	IntentionalPsychologicalProcess
+.	.	Fp	
+</s>
+<s>
+Sobreimpreso	sobreimprimir	VMP00SM	A-FilmLanguage
+:	:	Fd	-
+Rick	rick	NP00SP0	Human
+,	,	Fc	-
+el	el	DA0MS0	-
+jubilado	jubilado	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Deja	dejar	VMIP3S0	Putting
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+en	en	SPS00	-
+uno	uno	PI0MS000	-
+de	de	SPS00	-
+los	el	DA0MP0	-
+dos	2	Z	-
+bancos	banco	NCMP000	Object
+individuales	individual	AQ0CP0	A-SubjectiveAssessmentAttribute
+que	que	PR0CN000	-
+tiene	tener	VMIP3S0	possesses
+a	a	SPS00	-
+cada	cada	DI0CS0	-
+lado	lado	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Después	después	RG	Time
+bebe	beber	VMIP3S0	Drinking
+otro	otro	DI0MS0	-
+trago	trago	NCMS000	-
+de	de	SPS00	-
+café	café	NCMS000	-
+sin	sin	SPS00	-
+dejar	dejar	VMN0000	Aux
+de	de	SPS00	-
+mover	mover	VMN0000	BodyMotion
+la	el	DA0FS0	-
+pierna	pierna	NCFS000	BodyPart
+derecha	derecho	AQ0FS0	A-PositionalAttribute
+nervioso	nervioso	AQ0MS0	A-StateOfMind
+.	.	Fp	
+</s>
+<s>
+Deja	dejar	VMIP3S0	Putting
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+junto_a	junto_a	SPS00	Location
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+y	y	CC	-
+da_unas_palmadas	dar_palmadas	VMIP3S0	BodyMotion
+.	.	Fp	
+</s>
+<s>
+Saca	sacar	VMIP3S0	Putting
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+bolsillo	bolsillo	NCMS000	Clothing
+trasero	trasero	AQ0MS0	A-PositionalAttribute
+de	de	SPS00	-
+el	el	DA0MS0	-
+pantalón	pantalón	NCMS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Accede	acceder	VMIP3S0	Process
+a	a	SPS00	-
+la	el	DA0FS0	-
+sección	sección	NCFS000	-
+"	"	Fe	-
+contactos	contacto	NCMP000	-
+"	"	Fe	-
+y	y	CC	-
+desliza	deslizar	VMIP3S0	BodyMotion
+el	el	DA0MS0	-
+dedo	dedo	NCMS000	BodyPart
+por	por	SPS00	-
+la	el	DA0FS0	-
+pantalla	panalla	NCFS000	Object
+hasta	hasta	SPS00	-
+detener	detener	VMN0000	Motion
+se	se	PP3CN000	-
+en	en	SPS00	-
+Craig_Anderson	craig_anderson	NP00SP0	-
+.	.	Fp	-
+</s>
+<s>
+Pulsa	pulsar	VMIP3S0	BodyMotion
+llamar	llamar	VMN0000	Communication
+con	con	SPS00	-
+gesto	gesto	NCMS000	Gesture
+de	de	SPS00	-
+fastidio	fastidio	NCMS000	StateOfMind
+.	.	Fp	
+</s>
+<s>
+Gesto	gesto	NCMS000	Gesture
+de	de	SPS00	-
+impotencia	impotencia	NCFS000	StateOfMind
+.	.	Fp	
+</s>
+<s>
+De_repente	de_repente	RG	Time
+frunce_el_ceño	fruncir_el_ceño	VMIP3S0	Gesture
+y	y	CC	-
+alza_la_mirada	alzar_la_mirada	VMIP3S0	Seeing
+.	.	Fp	
+</s>
+<s>
+Extrañado	extrañar	VMP00SM	A-StateOfMind
+.	.	Fp	
+</s>
+<s>
+Mueve	mover	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+mano	mano	NCFS000	BodyPart
+intentando	intentar	VMG0000	Aux
+explicar	explicar	VMN0000	Communication
+se	se	PP3CN000	-
+.	.	Fp	
+</s>
+<s>
+Vuelve	volver	VMIP3S0	Aux
+a	a	SPS00	-
+alzar_la_mirada	alzar_la_mirada	VMN0000	Seeing
+extrañado	extrañar	VMP00SM	A-StateOfMind
+.	.	Fp	
+</s>
+<s>
+Esboza	esbozar	VMIP3S0	BodyMotion
+una	uno	DI0FS0	-
+pequeña	pequeño	AQ0FS0	A-SubjectiveAssessmentAttribute
+sonrisa	sonrisa	NCFS000	BodyPart
+.	.	Fp	
+</s>
+<s>
+El	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+de	de	SPS00	-
+plástico	plástico	NCMS000	-
+reposa	reposar	VMIP3S0	located
+sobre	sobre	SPS00	Location
+el	el	DA0MS0	-
+banco	banco	NCMS000	Object
+con	con	SPS00	-
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+puesta	poner	VMP00SF	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Él	él	PP3MS000	-
+se	se	P00CN000	-
+aleja	alejar	VMIP3S0	Motion
+mirando	mirar	VMG0000	Seeing
+inquieto	inquieto	AQ0MS0	A-StateOfMind
+en	en	SPS00	-
+todas	todo	DI0FP0	-
+direcciones	dirección	NCFP000	Location
+y	y	CC	-
+se	se	P00CN000	-
+adentra	adentrar	VMIP3S0	Motion
+en	en	SPS00	-
+un	uno	DI0MS0	-
+sendero	sendero	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Una	uno	DI0FS0	-
+joven	joven	NCCS000	Human
+pelirroja	pelirrojo	AQ0FS0	A-ColorAttribute
+con	con	SPS00	-
+rizos	rizo	NCMP000	BodyPart
+está	estar	VSIP3S0	Aux
+sentada	sentar	VMP00SF	A-PositionalAttribute
+frente_a	frente_a	SPS00	Location
+un	uno	DI0MS0	-
+ordenador	ordenador	NCMS000	Object
+portátil	portátil	AQ0CS0	A-SubjectiveAssessmentAttribute
+rodeada	rodear	VMP00SF	A-PositionalAttribute
+de	de	SPS00	-
+apuntes	apunte	NCMP000	Object
+.	.	Fp	-
+</s>
+<s>
+Muerde	morder	VMIP3S0	Process
+el	el	DA0MS0	-
+lápiz	lápiz	NCMS000	Object
+con	con	SPS00	-
+hastío	hastío	NCMS000	StateOfMind
+.	.	Fp	
+</s>
+<s>
+Sobreimpreso	sobreimprimir	VMP00SM	A-FilmLanguage
+:	:	Fd	-
+Jess	jess	NP00SP0	Human
+,	,	Fc	-
+la	el	DA0FS0	-
+estudiante	estudiante	NCCS000	Human
+.	.	Fp	
+</s>
+<s>
+Busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	
+</s>
+<s>
+Finalmente	finalmente	RG	Time
+lo	lo	PP3CNA00	-
+encuentra	encontrar	VMIP3S0	Process
+entre	entre	SPS00	-
+los	el	DA0MP0	-
+papeles	papel	NCMP000	Object
+.	.	Fp	-
+</s>
+<s>
+Descuelga	descolgar	VMIP3S0	Process
+y	y	CC	-
+se	se	P00CN000	-
+lo	lo	PP3CNA00	-
+lleva	llevar	VMIP3S0	Putting
+a	a	SPS00	-
+la	el	DA0FS0	-
+oreja	oreja	NCFS000	BodyPart
+.	.	Fp	
+</s>
+<s>
+Arquea_las_cejas	arquear_las_cejas	VMIP3S0	Gesture
+.	.	Fp	
+</s>
+<s>
+Mueve	mover	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+mano	mano	NCFS000	BodyPart
+alterada	alterar	VMP00SF	A-StateOfMind
+.	.	Fp	
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+hacia	hacia	SPS00	-
+ambos	ambos	DI0MP0	-
+lados	lado	NCMP000	Location
+,	,	Fc	-
+con	con	SPS00	-
+gesto	gesto	NCMS000	Gesture
+de	de	SPS00	-
+extrañeza	extrañeza	NCFS000	StateOfMind
+y	y	CC	-
+temor	temor	NCMS000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Ligeramente	ligeramente	RG	Quantifier
+aliviada	aliviar	VMP00SF	StateOfMind
+por	por	SPS00	-
+el	el	DA0MS0	-
+cese	cese	NCMS000	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+ruido	ruido	NCMS000	RadiatingSound
+,	,	Fc	-
+baja_la_mirada	bajar_la_mirada	VMIP3S0	Seeing
+para	para	SPS00	-
+seguir	seguir	VMN0000	Aux
+estudiando	estudiar	VMG0000	IntentionalPsychologicalProcess
+.	.	Fp	
+</s>
+<s>
+Se	se	P00CN000	-
+levanta	levantar	VMIP3S0	BodyMotion
+de	de	SPS00	-
+la	el	DA0FS0	-
+silla	silla	NCFS000	Object
+.	.	Fp	
+</s>
+<s>
+Ha	haber	VAIP3S0	Aux
+salido	salir	VMP00SM	Motion
+a	a	SPS00	-
+la	el	DA0FS0	-
+calle	calle	NCFS000	Location
+con	con	SPS00	-
+un	uno	DI0MS0	-
+abrigo	abrigo	NCMS000	Clothing
+marrón	marrón	AQ0MS0	A-ColorAttribute
+y	y	CC	-
+un	uno	DI0MS0	-
+fular	fular	NCMS000	Clothing
+negro	negro	AQ0MS0	A-ColorAttribute
+con	con	SPS00	-
+estampado	estampado	NCMS000	-
+blanco	blanco	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Sube	subir	VMIP3S0	Motion
+una	uno	DI0FS0	-
+pendiente	pendiente	NCFS000	Location
+llena	lleno	AQ0FS0	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+vegetación	vegetación	NCFS000	Vegetable
+.	.	Fp	
+</s>
+<s>
+De_repente	de_repente	RG	Time
+gira	girar	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+cabeza	cabeza	NCFS000	BodyPart
+como	como	CS	-
+intentando	intentar	VMG0000	Aux
+averiguar	averiguar	VMN0000	IntentionalPsychologicalProcess
+de	de	SPS00	-
+dónde	dónde	PT000000	-
+viene	venir	VMIP3S0	Motion
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+y	y	CC	-
+prosigue	proseguir	VMIP3S0	Process
+su	su	DP3CS0	-
+camino	camino	NCMS000	Location
+.	.	Fp	
+</s>
+<s>
+Llega	llegar	VMIP3S0	Motion
+a	a	SPS00	-
+una	uno	DI0FS0	-
+explanada	explanada	NCFS000	Location
+y	y	CC	-
+camina	caminar	VMIP3S0	Walking
+lentamente	lentamente	RG	Time
+hacia	hacia	SPS00	-
+james	james	NP00G00	Human
+y	y	CC	-
+Rick	rick	NP00G00	Human
+,	,	Fc	-
+que	que	PR0CN000	-
+también	también	RG	-
+están	estar	VSIP3P0	located
+allí	allí	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Los	el	DA0MP0	-
+tres	3	Z	-
+dan_vueltas	dar_vueltas	VMIP3P0	Motion
+sobre	sobre	SPS00	Location
+sí	sí	RG	-
+mismos	mismo	AQ0MP0	-
+moviendo	mover	VMG0000	BodyMotion
+la	el	DA0FS0	-
+cabeza	cabeza	NCFS000	BodyPart
+desconcertados	desconcertar	VMP00PM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Les	le	PP3CPD00	-
+sorprende	sorprender	VMIP3S0	IntentionalPsychologicalProcess
+una	uno	DI0FS0	-
+voz	voz	NCFS000	RadiatingSound
+.	.	Fp	
+</s>
+<s>
+james	james	NP00G00	Human
+mira	mirar	VMIP3S0	Seeing
+a_lo_lejos	a_lo_lejos	RG	Location
+haciendo_visera	hacer_visera	VMG0000	BodyMotion
+con	con	SPS00	-
+la	el	DA0FS0	-
+mano	mano	NCFS000	BodyPart
+para	para	SPS00	-
+evitar	evitar	VMN0000	Process
+el	el	DA0MS0	-
+intenso	intenso	AQ0MS0	A-SubjectiveAssessmentAttribute
+sol	sol	NCMS000	RadiatingLight
+.	.	Fp	
+</s>
+<s>
+james	james	NP00G00	Human
+da_un_paso	dar_un_paso	VMIP3S0	Walking
+adelante	adelante	RG	Location
+.	.	Fp	
+</s>
+<s>
+Buscan	buscar	VMIP3P0	IntentionalPsychologicalProcess
+.	.	Fp	
+</s>
+<s>
+Gesto	gesto	NCMS000	Gesture
+angustiado	angustiar	VMP00SM	A-StateOfMind
+.	.	Fp	
+</s>
+<s>
+Los	el	DA0MP0	-
+mira	mirar	VMIP3S0	Seeing
+fijamente	fijamente	RG	-
+.	.	Fp	
+</s>
+<s>
+Jess	jess	NP00SP0	Human
+escucha	escuchar	VMIP3S0	Hearing
+atenta	atento	AQ0FS0	A-IntentionalPsychologicalProcess
+.	.	Fp	
+</s>
+<s>
+Serio	serio	AQ0MS0	A-StateOfMind
+.	.	Fp	
+</s>
+<s>
+james	james	NP00G00	Human
+reflexivo	reflexivo	AQ0MS0	A-IntentionalPsychologicalProcess
+.	.	Fp	
+</s>
+<s>
+Gestos	gesto	NCMP000	Gesture
+de	de	SPS00	-
+inquietud	inquietud	NCFS000	StateOfMind
+.	.	Fp	
+</s>
+<s>
+james	james	NP00G00	Human
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+Rick	rick	NP00G00	Human
+que	que	PR0CN000	-
+parece	parecer	VMIP3S0	Aux
+dudar	dudar	VMN0000	StateOfMind
+y	y	CC	-
+Jess	jess	NP00SP0	Human
+niega_con_la_cabeza	negar	VMIP3S0	Gesture
+.	.	Fp	
+</s>
+<s>
+Se	se	P00CN000	-
+mantiene	mantener	VMIP3S0	Process
+expectante	expectante	AQ0CS0	A-IntentionalPsychologicalProcess
+.	.	Fp	
+</s>
+<s>
+De_repente	de_repente	RG	Time
+Rick	rick	NP00SP0	Human
+abre	abrir	VMIP3S0	BodyMotion
+los	el	DA0MP0	-
+brazos	brazo	NCMP000	BodyPart
+.	.	Fp	
+</s>
+<s>
+Sonríe	sonreír	VMIP3S0	Gesture
+.	.	Fp	
+</s>
+<s>
+Mirando	mirar	VMG0000	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+.	.	Fp	
+</s>
+<s>
+james	james	NP00G00	Human
+retrocede_unos_pasos	retroceder_un_paso	VMIP3S0	Walking
+.	.	Fp	
+</s>
+<s>
+james	james	NP00G00	Human
+se	se	P00CN000	-
+marcha	marchar	VMIP3S0	Motion
+con	con	SPS00	-
+las	el	DA0FP0	-
+manos	mano	NCFP000	BodyPart
+en	en	SPS00	-
+los	el	DA0MP0	-
+bolsillos	bolsillo	NCMP000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+se	se	P00CN000	-
+apresura	apresurar	VMIP3S0	Process
+a	a	SPS00	-
+alcanzar	alcanzar	VMN0000	Process
+lo	lo	PP3CNA00	-
+.	.	Fp	-
+</s>
+<s>
+Jess	jess	NP00SP0	Human
+corre	correr	VMIP3S0	Walking
+con	con	SPS00	-
+ellos	ellos	PP3MP000	-
+.	.	Fp	-
+</s>
+<s>
+Cuando	cuando	CS	-
+los	lo	PP3MPA00	-
+alcanza	alcanzar	VMIP3S0	Process
+,	,	Fc	-
+james	james	NP00SP0	Human
+le	le	PP3CSD00	-
+da	dar	VMIP3S0	Process
+unas	uno	DI0FP0	-
+palmadas	palmada	NCFP000	BodyPart
+en	en	SPS00	-
+la	el	DA0FS0	-
+espalda	espalda	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Mientras	mientras	CS	Time
+hablan	hablar	VMIP3P0	Communication
+se	se	P00CN000	-
+van	ir	VMIP3P0	Aux
+alejando	alejar	VMG0000	Motion
+poco_a_poco	poco_a_poco	RG	Time
+en_dirección_a	en_dirección_a	SPS00	-
+la	el	DA0FS0	-
+vegetación	vegetación	NCFS000	Vegetable
+.	.	Fp	
+</s>
+<s>
+Una	uno	DI0FS0	-
+mujer	mujer	NCFS000	Human
+negra	negro	AQ0FS0	A-ColorAttribute
+tiende	tender	VMIP3S0	Process
+la	el	DA0FS0	-
+ropa	ropa	NCFS000	Clothing
+con	con	SPS00	-
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+sujeto	sujeto	AQ0MS0	A-PositionalAttribute
+entre	entre	SPS00	-
+la	el	DA0FS0	-
+cabeza	cabeza	NCFS000	BodyPart
+y	y	CC	-
+el	el	DA0MS0	-
+hombro	hombro	NCMS000	BodyPart
+izquierdo	izquierdo	AQ0MS0	A-PositionalAttribute
+.	.	Fp	
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+no	no	RN	-
+he	haber	VAIP1S0	Aux
+terminado	terminar	VMP00SM	Aux
+de	de	SPS00	-
+tender	tender	VMN0000	Process
+la	lo	PP3FSA00	-
+.	.	Fp	-
+</s>
+<s>
+Tengo	tener	VMIP1S0	Aux
+que	que	CS	-
+dar_me_prisa	dar_se_prisa	VMN0000	Process
+.	.	Fp	
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+¿	¿	Fia	-
+de	de	SPS00	-
+qué	qué	PT0CN000	-
+me	me	PP1CS000	-
+hablas	hablar	VMIP2S0	Communication
+?	?	Fit	-
+Sí	sí	RG	-
+,	,	Fc	-
+claro	claro	RG	-
+,	,	Fc	-
+las	el	DA0FP0	-
+maletas	maleta	NCFP000	Object
+están	estar	VSIP3P0	Aux
+a	a	SPS00	-
+punto	punto	NCMS000	-
+...	...	Fs	
+Mira	mirar	VMIP3S0	Seeing
+extrañada	extrañar	VMP00SF	A-StateOfMind
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	
+</s>
+<s>
+Oye	oír	VMM02S0	Hearing
+,	,	Fc	-
+ahora	ahora	RG	Time
+no	no	RN	-
+puedo	poder	VMIP1S0	Aux
+hablar	hablar	VMN0000	Communication
+.	.	Fp	-
+</s>
+<s>
+Tengo	tener	VMIP1S0	Aux
+que	que	CS	-
+dejar	dejar	VMN0000	Motion
+te	te	PP2CS000	-
+.	.	Fp	
+</s>
+<s>
+Asustada	asustar	VMP00SF	A-StateOfMind
+y	y	CC	-
+con	con	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+perdida	perder	VMP00SF	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Sobreimpreso	sobreimprimir	VMP00SM	A-FilmLanguage
+:	:	Fd	-
+Zoé	zoé	NP00SP0	Human
+,	,	Fc	-
+la	el	DA0FS0	-
+próxima	próximo	AQ0FS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+negro	negro	AQ0MS0	A-ColorAttribute
+y	y	CC	-
+sobre	sobre	SPS00	Location
+fondo	fondo	NCMS000	FilmLanguage
+blanco	blanco	AQ0MS0	A-ColorAttribute
+:	:	Fd	-
+¿	¿	Fia	-
+qué	qué	PT0CN000	-
+pasa	pasar	VMIP3S0	Process
+mientras	mientras	CS	Time
+...	...	Fs	-
+?	?	Fit	-
+<text id='Aristia-ES'>
+<s>
+Una	uno	DI0FS0	-
+pareja	pareja	NCFS000	Human
+con	con	SPS00	-
+un	uno	DI0MS0	-
+gran	gran	AQ0CS0	A-SubjectiveAssessmentAttribute
+danés	danés	NCMS000	-
+camina	caminar	VMIP3S0	Walking
+por	por	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+cruzan	cruzar	VMIP3P0	Motion
+con	con	SPS00	-
+un	uno	DI0MS0	-
+corredor	corredor	NCMS000	-
+que	que	PR0CN000	-
+va	ir	VMIP3S0	Motion
+en	en	SPS00	-
+sentido	sentido	NCMS000	-
+contrario	contrario	AQ0MS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+día	día	NCMS000	Time
+es	ser	VSIP3S0	Aux
+gris	gris	AQ0CS0	A-RadiatingLight
+y	y	CC	-
+van	ir	VMIP3P0	Motion
+abrigados	abrigar	VMP00PM	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Rótulo	rótulo	NCMS000	FilmLanguage
+sobre	sobre	SPS00	Location
+la	el	DA0FS0	-
+pantalla	pantalla	NCFS000	FilmLanguage
+blanca	blanco	AQ0FS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Un	uno	DI0MS0	-
+BMW	bmw	NP00V00	Aux
+blanco	blanco	AQ0MS0	A-ColorAttribute
+se	se	P00CN000	-
+detiene	detener	VMIP3S0	Motion
+frente_a	frente_a	SPS00	Location
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+conductor	conductor	NCMS000	Human
+habla	hablar	VMIP3S0	Communication
+por	por	SPS00	-
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+apea	apear	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+Ronda	rondar	VMIP3S0	Process
+los	el	DA0MP0	-
+cincuenta	50	Z	-
+años	año	NCMP000	Time
+,	,	Fc	-
+con	con	SPS00	-
+pelo	pelo	NCMS000	BodyPart
+rubio	rubio	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+bigote	bigote	NCMS000	BodyPart
+y	y	CC	-
+barba	barba	NCFS000	BodyPart
+recortada	recortar	VMP00SF	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Ha	haber	VAIP3S0	Aux
+dejado	dejar	VMP00SM	Process
+un	uno	DI0MS0	-
+maletín	maletín	NCMS000	Object
+en	en	SPS00	-
+el	el	DA0MS0	-
+maletero	maletero	NCMS000	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+coche	coche	NCMS000	-
+y	y	CC	-
+ha	haber	VAIP3S0	Aux
+sacado	sacar	VMP00SM	Putting
+una	uno	DI0FS0	-
+bolsa	bolsa	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+pone	poner	VMIP3S0	Putting
+gafas	gafas	NCFP000	Clothing
+de	de	SPS00	-
+sol	sol	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Un	uno	DI0MS0	-
+letrero	letrero	NCMS000	FilmLanguage
+anuncia	anunciar	VMIP3S0	Communication
+:	:	Fd	-
+james	james	NP00G00	Human
+,	,	Fc	-
+el	el	DA0MS0	-
+empresario	empresario	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+por	por	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+manipulando	manipular	VMG0000	BodyMotion
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+y	y	CC	-
+con	con	SPS00	-
+la	el	DA0FS0	-
+bolsa	bolsa	NCFS000	Object
+a	a	SPS00	-
+el	el	DA0MS0	-
+hombro	hombro	NCMS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+tumba	tumbar	VMIP3S0	BodyMotion
+boca_arriba	boca_arriba	RG	PositionalAttribute
+sobre	sobre	SPS00	Location
+una	uno	DI0FS0	-
+toalla	toalla	NCFS000	Object
+en	en	SPS00	-
+la	el	DA0FS0	-
+arena	arena	NCFS000	Location
+,	,	Fc	-
+junto_a	junto_a	SPS00	Location
+su	su	DP3CS0	-
+ropa	ropa	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Lleva	llevar	VMIP3S0	Dressing
+bañador	bañador	NCMS000	Clothing
+negro	negro	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Cierra	cerrar	VMIP3S0	BodyMotion
+los	el	DA0MP0	-
+ojos	ojo	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+los	lo	PP3MPA00	-
+frota	frotar	VMIP3S0	BodyMotion
+y	y	CC	-
+los	lo	PP3MPA00	-
+abre	abrir	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+incorpora	incorporar	VMIP3S0	BodyMotion
+y	y	CC	-
+coge	coger	VMIP3S0	Touching
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Escucha	escuchar	VMIP3S0	Hearing
+intrigado	intrigar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+con	con	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+levanta	levantar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+por	por	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+,	,	Fc	-
+cerca	cerca	RG	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+orilla	orilla	NCFS000	Location
+,	,	Fc	-
+escuchando	escuchar	VMG0000	Hearing
+atento	atento	AQ0MS0	A-IntentionalPsychologicalProcess
+y	y	CC	-
+mirando	mirar	VMG0000	Seeing
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Gira	girar	VMIP3S0	Motion
+hacia	hacia	SPS00	-
+su	su	DP3CS0	-
+ropa	ropa	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+detiene	detener	VMIP3S0	Motion
+y	y	CC	-
+mira	mirar	VMIP3S0	Seeing
+de_nuevo	de_nuevo	RG	Time
+a	a	SPS00	-
+el	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+intrigado	intrigar	VMP00SM	A-StateOfMind
+,	,	Fc	-
+buscando	buscar	VMG0000	IntentionalPsychologicalProcess
+con	con	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+.	.	Fp	-
+</s>
+<s>
+Coge	coger	VMIP3S0	Touching
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+y	y	CC	-
+se	se	P00CN000	-
+la	lo	PP3FSA00	-
+pone	poner	VMIP3S0	Putting
+.	.	Fp	-
+</s>
+<s>
+Vestido	vestir	VMP00SM	A-Dressing
+con	con	SPS00	-
+su	su	DP3CS0	-
+traje	traje	NCMS000	Clothing
+negro	negro	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+camina	caminar	VMIP3S0	Walking
+por	por	SPS00	-
+una	uno	DI0FS0	-
+zona	zona	NCFS000	Location
+arbolada	arbolar	VMP00SF	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Sube	subir	VMIP3S0	Motion
+una	uno	DI0FS0	-
+ladera	ladera	NCFS000	Location
+cubierta	cubrir	VMP00SF	A-SubjectiveAssessmentAttribute
+por	por	SPS00	-
+matorral	matorral	NCMS000	Vegetable
+bajo	bajo	AQ0MS0	ALocationSubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+repiquetea	repiquetear	VMIP3S0	BodyMotion
+sobre	sobre	SPS00	Location
+un	uno	DI0MS0	-
+vaso	vaso	NCMS000	Object
+de	de	SPS00	-
+plástico	plástico	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Lleva	llevar	VMIP3S0	Dressing
+guedejas	guedeja	NCFP000	BodyPart
+,	,	Fc	-
+bigote	bigote	NCMS000	BodyPart
+y	y	CC	-
+barba	barba	NCFS000	BodyPart
+entrecanos	entrecano	AQ0MP0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+triste	triste	AQ0CS0	A-StateOfMind
+al_frente	al_frente	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Lleva	llevar	VMIP3S0	Dressing
+una	uno	DI0FS0	-
+camiseta	camiseta	NCFS000	Clothing
+de	de	SPS00	-
+tirantes	tirante	NCMP000	-
+verdosa	verdoso	AQ0FS0	A-ColorAttribute
+y	y	CC	-
+una	uno	DI0FS0	-
+cadena	cadena	NCFS000	Clothing
+a	a	SPS00	-
+el	el	DA0MS0	-
+cuello	cuello	NCMS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Pasa	pasar	VMIP3S0	BodyMotion
+el	el	DA0MS0	-
+dedo	dedo	NCMS000	BodyPart
+sobre	sobre	SPS00	Location
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+quita	quitar	VMIP3S0	Putting
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+contiene	contener	VMIP3S0	possesses
+café	café	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+acerca	acercar	VMIP3S0	Motion
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+a	a	SPS00	-
+los	el	DA0MP0	-
+labios	labio	NCMP000	BodyPart
+y	y	CC	-
+o	o	CC	-
+mira	mirar	VMIP3S0	Seeing
+pensativo	pensativo	AQ0MS0	A-IntentionalPsychologicalProcess
+.	.	Fp	-
+</s>
+<s>
+Bebe	beber	VMIP3S0	Drinking
+.	.	Fp	-
+</s>
+<s>
+Un	uno	DI0MS0	-
+cartel	cartel	NCMS000	FilmLanguage
+anuncia	anunciar	VMIP3S0	Communication
+:	:	Fd	-
+Rick	rick	NP00SP0	Human
+,	,	Fc	-
+el	el	DA0MS0	-
+jubilado	jubilado	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+deja	dejar	VMIP3S0	Putting
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+en	en	SPS00	-
+un	uno	DI0MS0	-
+banco	banco	NCMS000	Object
+cercano	cercano	AQ0MS0	A-PositionalAttribute
+a	a	SPS00	-
+el	el	DA0MS0	-
+suyo	suyo	PX3MS0C0	-
+.	.	Fp	-
+</s>
+<s>
+Está	estar	VSIP3S0	located
+entre	entre	SPS00	-
+los	el	DA0MP0	-
+árboles	árbol	NCMP000	Vegetable
+de	de	SPS00	-
+un	uno	DI0MS0	-
+parque	parque	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Mueve	mover	VMIP3S0	BodyMotion
+rítmicamente	rítmicamente	RG	-
+la	el	DA0FS0	-
+pierna	pierna	NCFS000	BodyPart
+derecha	derecho	AQ0FS0	A-PositionalAttribute
+Deja	dejar	VMIP3S0	Putting
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+en	en	SPS00	-
+el	el	DA0MS0	-
+banco	banco	NCMS000	Object
+contiguo	contiguo	AQ0MS0	A-PositionalAttribute
+y	y	CC	-
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Saca	sacar	VMIP3S0	Putting
+un	uno	DI0MS0	-
+móvil	móvil	NCMS000	Object
+y	y	CC	-
+busca	busca	NCFS000	IntentionalPsychologicalProcess
+en	en	SPS00	-
+los	el	DA0MP0	-
+contactos	contacto	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+Selecciona	seleccionar	VMIP3S0	BodyMotion
+uno	uno	PI0MS000	-
+y	y	CC	-
+llama	llamar	VMIP3S0	Communication
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+intrigado	intrigar	VMP00SM	A-StateOfMind
+a	a	SPS00	-
+el	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+de_nuevo	de_nuevo	RG	Time
+a	a	SPS00	-
+el	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+levanta	levantar	VMIP3S0	BodyMotion
+mirando	mirar	VMG0000	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+y	y	CC	-
+se	se	P00CN000	-
+aleja	alejar	VMIP3S0	Motion
+de	de	SPS00	-
+los	el	DA0MP0	-
+bancos	banco	NCMP000	Object
+,	,	Fc	-
+sobre	sobre	SPS00	Location
+los	el	DA0MP0	-
+que	que	PR0CN000	-
+queda	quedar	VMIP3S0	Process
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+de	de	SPS00	-
+plástico	plástico	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+estudiante	estudiante	NCCS000	Human
+Jess	jess	NP00SP0	Human
+ronda	rondar	VMIP3S0	Process
+los	el	DA0MP0	-
+veinte	20	Z	-
+años	año	NCMP000	Time
+.	.	Fp	-
+</s>
+<s>
+Es	ser	VSIP3S0	Aux
+pelirroja	pelirrojo	AQ0FS0	A-ColorAttribute
+con	con	SPS00	-
+la	el	DA0FS0	-
+melena	melena	NCFS000	BodyPart
+rizada	rizar	VMP00SF	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Está	estar	VSIP3S0	Aux
+pensativa	pensativo	AQ0FS0	A-IntentionalPsychologicalProcess
+sentada	sentar	VMP00SF	A-PositionalAttribute
+ante	ante	SPS00	Location
+su	su	DP3CS0	-
+portátil	portátil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+por	por	SPS00	-
+la	el	DA0FS0	-
+mesa	mesa	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Coge	coger	VMIP3S0	Touching
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+intrigada	intrigar	VMP00SF	A-StateOfMind
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+levanta	levantar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+por	por	SPS00	-
+la	el	DA0FS0	-
+calle	calle	NCFS000	Location
+con	con	SPS00	-
+un	uno	DI0MS0	-
+anorak	anorak	NCMS000	Clothing
+puesto	poner	VMP00SM	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+extrañada	extrañar	VMP00SF	A-StateOfMind
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+Sube	subir	VMIP3S0	Motion
+una	uno	DI0FS0	-
+ladera	ladera	NCFS000	Location
+entre	entre	SPS00	-
+plantas	planta	NCFP000	-
+de	de	SPS00	-
+maíz	maíz	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+detiene	detener	VMIP3S0	Motion
+y	y	CC	-
+mira	mirar	VMIP3S0	Seeing
+hacia	hacia	SPS00	-
+atrás	atrás	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Sube	subir	VMIP3S0	Motion
+corriendo	correr	VMG0000	Walking
+hacia	hacia	SPS00	-
+su	su	DP3CS0	-
+izquierda	izquierda	NCFS000	Location
+Llega	llegar	VMIP3S0	Motion
+a	a	SPS00	-
+una	uno	DI0FS0	-
+explanada	explanada	NCFS000	Location
+terrosa	terroso	AQ0FS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+en	en	SPS00	-
+la	el	DA0FS0	-
+que	que	PR0CN000	-
+están	estar	VSIP3P0	located
+Rick	rick	NP00O00	Human
+y	y	CC	-
+james	james	NP00O00	Human
+.	.	Fp	-
+</s>
+<s>
+Todos	todo	PI0MP000	-
+miran	mirar	VMIP3P0	Seeing
+extrañados	extrañar	VMP00PM	A-StateOfMind
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Miran	mirar	VMIP3P0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+,	,	Fc	-
+mientras	mientras	CS	Time
+escuchan	escuchar	VMIP3P0	Hearing
+asombrados	asombrar	VMP00PM	A-StateOfMind
+la	el	DA0FS0	-
+voz	voz	NCFS000	RadiatingSound
+en	en	SPS00	-
+off	off	NCMS000	FilmLanguage
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+gesticula	gesticular	VMIP3S0	Gesture
+incrédulo	incrédulo	AQ0MS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+miran	mirar	VMIP3P0	Seeing
+entre	entre	SPS00	-
+ellos	ellos	PP3MP000	-
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+niega	negar	VMIP3S0	Communication
+.	.	Fp	-
+</s>
+<s>
+Miran	mirar	VMIP3P0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+desde	desde	SPS00	-
+la	el	DA0FS0	-
+explanada	explanada	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+camina	caminar	VMIP3S0	Walking
+tras	tras	SPS00	-
+James	james	NP00G00	Human
+.	.	Fp	-
+</s>
+<s>
+Jessica	jessica	NP00SP0	-
+queda	quedar	VMIP3S0	Process
+pensativa	pensativo	AQ0FS0	A-IntentionalPsychologicalProcess
+y	y	CC	-
+sonríe	sonreír	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+Va	ir	VMIP3S0	Motion
+tras	tras	SPS00	-
+ellos	ellos	PP3MP000	Location
+,	,	Fc	-
+que	que	PR0CN000	-
+caminan	caminar	VMIP3P0	Walking
+hacia	hacia	SPS00	-
+la	el	DA0FS0	-
+vegetación	vegetación	NCFS000	Vegetable
+que	que	PR0CN000	-
+rodea	rodear	VMIP3S0	PositionalAttribute
+la	el	DA0FS0	-
+explanada	explanada	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+imagen	imagen	NCFS000	FilmLanguage
+funde	fundir	VMIP3S0	FilmLanguage
+a	a	SPS00	-
+negro	negro	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Una	uno	DI0FS0	-
+mujer	mujer	NCFS000	Human
+tiende	tender	VMIP3S0	Process
+ropa	ropa	NCFS000	Clothing
+y	y	CC	-
+sujeta	sujetar	VMIP3S0	Touching
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+sobre	sobre	SPS00	Location
+el	el	DA0MS0	-
+hombro	hombro	NCMS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+no	no	RN	-
+he	haber	VAIP1S0	Aux
+terminado	terminar	VMP00SM	Aux
+de	de	SPS00	-
+tender	tender	VMN0000	Process
+la	lo	PP3FSA00	-
+.	.	Fp	-
+</s>
+<s>
+Tengo	tener	VMIP1S0	Aux
+que	que	CS	-
+dar_me_prisa	dar_se_prisa	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+¿	¿	Fia	-
+de	de	SPS00	-
+qué	qué	PT0CN000	-
+me	me	PP1CS000	-
+hablas	hablar	VMIP2S0	Communication
+?	?	Fit	-
+Sí	sí	RG	-
+,	,	Fc	-
+claro	claro	RG	-
+,	,	Fc	-
+las	el	DA0FP0	-
+maletas	maleta	NCFP000	Object
+están	estar	VSIP3P0	Aux
+a	a	SPS00	-
+punto	punto	NCMS000	-
+Mira	mirar	VMIP3S0	Seeing
+intrigada	intrigar	VMP00SF	A-StateOfMind
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Oye	oír	VMM02S0	Hearing
+,	,	Fc	-
+ahora	ahora	RG	Time
+no	no	RN	-
+puedo	poder	VMIP1S0	Process
+hablar	hablar	VMN0000	Communication
+.	.	Fp	-
+</s>
+<s>
+Tengo	tener	VMIP1S0	Aux
+que	que	CS	-
+dejar	dejar	VMN0000	Motion
+te	te	PP2CS000	-
+.	.	Fp	-
+</s>
+<s>
+Guarda	guardar	VMIP3S0	Putting
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Zoé	zoé	NP00SP0	Human
+,	,	Fc	-
+la	el	DA0FS0	-
+próxima	próximo	AQ0FS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Es	ser	VSIP3S0	Aux
+negra	negro	AQ0FS0	A-ColorAttribute
+y	y	CC	-
+ronda	rondar	VMIP3S0	Process
+los	el	DA0MP0	-
+veinte	20	Z	-
+.	.	Fp	-
+</s>
+<s>
+¿	¿	Fia	-
+Qué	qué	PT0CN000	-
+pasa	pasar	VMIP3S0	Process
+mientras	mientras	CS	Time
+?	?	Fit	-
+<text id='CEIAF-ES'>
+<s>
+A	a	SPS00	-
+el	el	DA0MS0	-
+amanecer	amanecer	NCMS000	Time
+,	,	Fc	-
+una	uno	DI0FS0	-
+pareja	pareja	NCFS000	Human
+pasea	pasear	VMIP3S0	Walking
+con	con	SPS00	-
+su	su	DP3CS0	-
+perro	perro	NCMS000	Animal
+por	por	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+cruzan	cruzar	VMIP3P0	Motion
+con	con	SPS00	-
+un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+que	que	PR0CN000	-
+va	ir	VMIP3S0	Aux
+corriendo	correr	VMG0000	Walking
+en	en	SPS00	-
+chándal	chándal	NCMS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Un	uno	DI0MS0	-
+BMW	bmw	NP0V00	Aux
+de	de	SPS00	-
+color	color	NCMS000	-
+blanco	blanco	AQ0MS0	A-ColorAttribute
+se	se	P00CN000	-
+detiene	detener	VMIP3S0	Motion
+en	en	SPS00	-
+el	el	DA0MS0	-
+paseo	paseo	NCMS000	Location
+marítimo	marítimo	AQ0MS0	A-PositionalAttribute
+El	el	DA0MS0	-
+conductor	conductor	NCMS000	Human
+baja	bajar	VMIP3S0	Motion
+hablando	hablar	VMG0000	Communication
+por	por	SPS00	-
+un	uno	DI0MS0	-
+teléfono_móvil	teléfono_móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+guarda	guardar	VMIP3S0	Putting
+el	el	DA0MS0	-
+teléfono	teléfono	NCMS000	Object
+en	en	SPS00	-
+el	el	DA0MS0	-
+pantalón	pantalón	NCMS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+continuación	continuación	NCFS000	Time
+saca	sacar	VMIP3S0	Putting
+de	de	SPS00	-
+el	el	DA0MS0	-
+bolsillo	bolsillo	NCMS000	Clothing
+de	de	SPS00	-
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+unas	uno	DI0FP0	-
+gafas	gafas	NCFP000	Clothing
+de	de	SPS00	-
+sol	sol	NCMS000	-
+y	y	CC	-
+se	se	P00CN000	-
+las	lo	PP3FPA00	-
+pone	poner	VMIP3S0	Putting
+.	.	Fp	-
+</s>
+<s>
+Sobreimpreso	sobreimprimir	VMP00SM	FilmLanguage
+:	:	Fd	-
+JAMES	james	NP00SP0	Human
+,	,	Fc	-
+el	el	DA0MS0	-
+empresario	empresario	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Poco	poco	RG	-
+después	después	RG	Time
+,	,	Fc	-
+deambula	deambular	VMIP3S0	Walking
+con	con	SPS00	-
+una	uno	DI0FS0	-
+bolsa	bolsa	NCFS000	Object
+de	de	SPS00	-
+playa	playa	NCFS000	Location
+a	a	SPS00	-
+el	el	DA0MS0	-
+hombro	hombro	NCMS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Minutos	minuto	NCMP000	Time
+más	más	RG	-
+tarde	tarde	RG	Time
+,	,	Fc	-
+en	en	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+,	,	Fc	-
+james	james	NP00SP0	Human
+se	se	P00CN000	-
+tumba	tumbar	VMIP3S0	BodyMotion
+sobre	sobre	SPS00	Location
+una	uno	DI0FS0	-
+toalla	toalla	NCFS000	Object
+con	con	SPS00	-
+el	el	DA0MS0	-
+torso	torso	NCMS000	BodyPart
+desnudo	desnudo	AQ0MS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Cierra	cerrar	VMIP3S0	BodyMotion
+los	el	DA0MP0	-
+ojos	ojo	NCMP000	BodyPart
+y	y	CC	-
+se	se	P00CN000	-
+lleva	llevar	VMIP3S0	BodyMotion
+las	el	DA0FP0	-
+manos	mano	NCFP000	BodyPart
+a	a	SPS00	-
+la	el	DA0FS0	-
+cara	cara	NCFS000	BodyPart
+Luego	luego	RG	Time
+extiende	extender	VMIP3S0	BodyMotion
+los	el	DA0MP0	-
+brazos	brazo	NCMP000	BodyPart
+palpando	palpar	VMG0000	Touching
+suavemente	suavemente	RG	-
+la	el	DA0FS0	-
+arena	arena	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+recuesta	recostar	VMIP3S0	BodyMotion
+y	y	CC	-
+coge	coger	VMIP3S0	Touching
+el	el	DA0MS0	-
+teléfono_móvil	teléfono_móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+james	james	NP00G00	Human
+mira	mirar	VMIP3S0	Seeing
+inquieto	inquieto	AQ0MS0	A-StateOfMind
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Suelta	soltar	VMIP3S0	Putting
+el	el	DA0MS0	-
+teléfono_móvil	teléfono_móvil	NCMS000	Object
+en	en	SPS00	-
+la	el	DA0FS0	-
+toalla	toalla	NCFS000	Object
+y	y	CC	-
+se	se	P00CN000	-
+incorpora	incorporar	VMIP3S0	BodyMotion
+Camina	caminar	VMIP3S0	Walking
+descalzo	descalzo	AQ0MS0	A-SubjectiveAssessmentAttribute
+por	por	SPS00	-
+la	el	DA0FS0	-
+orilla	orilla	NCFS000	Location
+,	,	Fc	-
+mirando	mirar	VMG0000	Seeing
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+playa	playa	NCFS000	Location
+está	estar	VSIP3S0	Aux
+totalmente	totalmente	RG	Quantifier
+desierta	desierto	AQ0FS0	A-SubjectiveAssessmentAttribute
+Se	se	P00CN000	-
+aproxima	aproximar	VMIP3S0	Motion
+a	a	SPS00	-
+la	el	DA0FS0	-
+orilla	orilla	NCFS000	Location
+,	,	Fc	-
+mostrando	mostrar	VMG0000	Process
+cierto	cierto	AQ0MS0	A-SubjectiveAssessmentAttribute
+recelo	recelo	NCMS000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Es	ser	VSIP3S0	Aux
+un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+rubio	rubio	AQ0MS0	A-ColorAttribute
+con	con	SPS00	-
+barba	barba	NCFS000	BodyPart
+,	,	Fc	-
+de	de	SPS00	-
+estatura	estatura	NCFS000	-
+media	medio	AQ0FS0	A-SubjectiveAssessmentAttribute
+y	y	CC	-
+complexión	complexión	NCFS000	-
+fuerte	fuerte	AQ0CS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+extraño	extraño	AQ0MS0	A-SubjectiveAssessmentAttribute
+sonido	sonido	NCMS000	RadiatingSound
+que	que	PR0CN000	-
+percibe	percibir	VMIP3S0	Hearing
+lo	lo	PP3CNA00	-
+mantiene	mantener	VMIP3S0	Process
+alerta	alerta	AQ0CS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Regresa	regresar	VMIP3S0	Motion
+adonde	adonde	CS	-
+tiene	tener	VMIP3S0	possesses
+la	el	DA0FS0	-
+toalla	toalla	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Comienza	comenzar	VMIP3S0	Aux
+a	a	SPS00	-
+poner	poner	VMN0000	Putting
+se	se	PP3CN000	-
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+sin	sin	SPS00	-
+dejar	dejar	VMN0000	Aux
+de	de	SPS00	-
+mirar	mirar	VMN0000	Seeing
+alrededor	alrededor	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Ya	ya	RG	-
+vestido	vestir	VMP00SM	A-Dressing
+,	,	Fc	-
+avanza	avanzar	VMIP3S0	Motion
+solo	solo	AQ0MS0	A-SubjectiveAssessmentAttribute
+por	por	SPS00	-
+una	uno	DI0FS0	-
+arboleda	arboleda	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Continúa	continuar	VMIP3S0	Aux
+la	el	DA0FS0	-
+marcha	marcha	NCFS000	Walking
+subiendo	subir	VMG0000	Motion
+por	por	SPS00	-
+una	uno	DI0FS0	-
+ladera	ladera	NCFS000	Location
+salpicada	salpicar	VMP00SF	A-PositionalAttribute
+de	de	SPS00	-
+arbustos	arbusto	NCMP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+otro	otro	DI0MS0	-
+lugar	lugar	NCMS000	Location
+,	,	Fc	-
+un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+con	con	SPS00	-
+barba	barba	NCFS000	BodyPart
+cana	cano	AQ0FS0	A-ColorAttribute
+y	y	CC	-
+el	el	DA0MS0	-
+pelo	pelo	NCMS000	BodyPart
+alborotado	alborotar	VMP00SM	A-SubjectiveAssessmentAttribute
+descansa	descansar	VMIP3S0	Process
+con	con	SPS00	-
+un	uno	DI0MS0	-
+vaso	vaso	NCMS000	Object
+de	de	SPS00	-
+plástico	plástico	NCMS000	-
+entre	entre	SPS00	-
+las	el	DA0FP0	-
+manos	mano	NCFP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Lleva	llevar	VMIP3S0	Dressing
+una	uno	DI0FS0	-
+cadena	cadena	NCFS000	Clothing
+plateada	platear	VMP00SF	A-ColorAttribute
+a	a	SPS00	-
+el	el	DA0MS0	-
+cuello	cuello	NCMS000	BodyPart
+y	y	CC	-
+viste	vestir	VMIP3S0	Dressing
+una	uno	DI0FS0	-
+camiseta	camiseta	NCFS000	Clothing
+verde	verde	AQ0CS0	A-ColorAttribute
+de	de	SPS00	-
+tirantes	tirante	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+distrae	distraer	VMIP3S0	StateOfMind
+pasando	pasar	VMG0000	BodyMotion
+un	uno	DI0MS0	-
+dedo	dedo	NCMS000	BodyPart
+sobre	sobre	SPS00	Location
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+que	que	PR0CN000	-
+cubre	cubrir	VMIP3S0	PositionalAttribute
+el	el	DA0MS0	-
+envase	envase	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Lo	lo	PP3CNA00	-
+abre	abrir	VMIP3S0	Motion
+y	y	CC	-
+se	se	P00CN000	-
+lleva	llevar	VMIP3S0	Putting
+la	el	DA0FS0	-
+bebida	bebida	NCFS000	-
+a	a	SPS00	-
+los	el	DA0MP0	-
+labios	labio	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Prueba	probar	VMIP3S0	Drinking
+un	uno	DI0MS0	-
+poco	poco	PI0MS000	-
+.	.	Fp	-
+</s>
+<s>
+Sobreimpreso	sobreimprimir	VMP00SM	FilmLanguage
+:	:	Fd	-
+RICK	rick	NP00SP0	Human
+,	,	Fc	-
+el	el	DA0MS0	-
+jubilado	jubilado	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Su	su	DP3CS0	-
+atuendo	atuendo	NCMS000	Clothing
+lo	lo	PP3CNA00	-
+completan	completar	VMIP3P0	Process
+un	uno	DI0MS0	-
+pantalón	pantalón	NCMS000	Clothing
+vaquero	vaquero	AQ0MS0	A-SubjectiveAssessmentAttribute
+y	y	CC	-
+unas	uno	DI0FP0	-
+zapatillas	zapatilla	NCFP000	Clothing
+deportivas	deportivo	AQ0FP0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+está	estar	VSIP3S0	Aux
+sentado	sentar	VMP00SM	A-PositionalAttribute
+solo	solo	AQ0MS0	A-SubjectiveAssessmentAttribute
+en	en	SPS00	-
+un	uno	DI0MS0	-
+banco	banco	NCMS000	Object
+de	de	SPS00	-
+un	uno	DI0MS0	-
+parque	parque	NCMS000	Location
+,	,	Fc	-
+tomando	tomar	VMG0000	Drinking
+café	café	NCMS000	-
+y	y	CC	-
+moviendo	mover	VMG0000	BodyMotion
+con	con	SPS00	-
+nerviosismo	nerviosismo	NCMS000	-
+una	uno	DI0FS0	-
+pierna	pierna	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Saca	sacar	VMIP3S0	Putting
+de	de	SPS00	-
+un	uno	DI0MS0	-
+bolsillo	bolsillo	NCMS000	Clothing
+de	de	SPS00	-
+el	el	DA0MS0	-
+pantalón	pantalón	NCMS000	Clothing
+un	uno	DI0MS0	-
+teléfono_móvil	teléfono_móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Desliza	deslizar	VMIP3S0	BodyMotion
+un	uno	DI0MS0	-
+dedo	dedo	NCMS000	BodyPart
+por	por	SPS00	-
+la	el	DA0FS0	-
+pantalla	panalla	NCFS000	Object
+,	,	Fc	-
+revisando	revisar	VMG0000	Seeing
+la	el	DA0FS0	-
+lista	lista	NCFS000	-
+de	de	SPS00	-
+contactos	contacto	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+Selecciona	seleccionar	VMIP3S0	BodyMotion
+uno	uno	PI0MS000	-
+y	y	CC	-
+marca	marca	NCFS000	BodyMotion
+llamada	llamada	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+alza_la_mirada	alzar_la_mirada	VMIP3S0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+notar	notar	VMN0000	Process
+algo	algo	PI0CS000	-
+extraño	extraño	AQ0MS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Percibe	percibir	VMIP3S0	Hearing
+el	el	DA0MS0	-
+extraño	extraño	AQ0MS0	A-SubjectiveAssessmentAttribute
+sonido	sonido	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+se	se	P00CN000	-
+levanta	levantar	VMIP3S0	BodyMotion
+y	y	CC	-
+comienza	comenzar	VMIP3S0	Aux
+a	a	SPS00	-
+alejar	alejar	VMN0000	Motion
+se	se	PP3CN000	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+parque	parque	NCMS000	Location
+,	,	Fc	-
+intentando	intentar	VMG0000	Aux
+localizar	localizar	VMN0000	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Ha	haber	VAIP3S0	Aux
+dejado	dejar	VMP00SM	Process
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+de	de	SPS00	-
+plástico	plástico	NCMS000	-
+sobre	sobre	SPS00	Location
+uno	uno	PI0MS000	-
+de	de	SPS00	-
+los	el	DA0MP0	-
+bancos	banco	NCMP000	Object
+.	.	Fp	-
+</s>
+<s>
+Mientras	mientras	CS	Time
+,	,	Fc	-
+en	en	SPS00	-
+una	uno	DI0FS0	-
+habitación	habitación	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Sobreimpreso	sobreimprimir	VMP00SM	FilmLanguage
+:	:	Fd	-
+JESS	jess	NP00SP0	Human
+,	,	Fc	-
+la	el	DA0FS0	-
+estudiante	estudiante	NCCS000	Human
+.	.	Fp	-
+</s>
+<s>
+Es	ser	VSIP3S0	Aux
+una	uno	DI0FS0	-
+adolescente	adolescente	NCCS000	-
+con	con	SPS00	-
+el	el	DA0MS0	-
+pelo	pelo	NCMS000	BodyPart
+rizado	rizar	VMP00SM	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+teléfono_móvil	teléfono_móvil	NCMS000	Object
+bajo	bajo	SPS00	Location
+un	uno	DI0MS0	-
+montón	montón	NCMS000	-
+de	de	SPS00	-
+papeles	papel	NCMP000	Object
+que	que	PR0CN000	-
+tiene	tener	VMIP3S0	possesses
+sobre	sobre	SPS00	Location
+la	el	DA0FS0	-
+mesa	mesa	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Jess	jess	NP00SP0	Human
+también	también	RG	-
+percibe	percibir	VMIP3S0	Hearing
+el	el	DA0MS0	-
+extraño	extraño	AQ0MS0	A-SubjectiveAssessmentAttribute
+sonido	sonido	NCMS000	RadiatingSound
+en	en	SPS00	-
+la	el	DA0FS0	-
+habitación	habitación	NCFS000	Location
+donde	donde	PR000000	-
+está	estar	VAIP3S0	Aux
+estudiando	estudiar	VMG0000	IntentionalPsychologicalProcess
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+levanta	levantar	VMIP3S0	BodyMotion
+y	y	CC	-
+se	se	P00CN000	-
+marcha	marchar	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+Segundos	segundo	NCMP000	Time
+después	después	RG	Time
+,	,	Fc	-
+deambula	deambular	VMIP3S0	Walking
+por	por	SPS00	-
+una	uno	DI0FS0	-
+zona	zona	NCFS000	Location
+boscosa	boscoso	AQ0FS0	A-SubjectiveAssessmentAttribute
+percibiendo	percibir	VMG0000	Hearing
+con	con	SPS00	-
+mayor	mayor	AQ0CS0	A-SubjectiveAssessmentAttribute
+intensidad	intensidad	NCFS000	-
+el	el	DA0MS0	-
+extraño	extraño	AQ0MS0	A-SubjectiveAssessmentAttribute
+sonido	sonido	NCMS000	RadiatingSournd
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+detiene	detener	VMIP3S0	Motion
+un	uno	DI0MS0	-
+instante	instante	NCMS000	Time
+a	a	SPS00	-
+el	el	DA0MS0	-
+llegar	llegar	VMN0000	Motion
+a	a	SPS00	-
+una	uno	DI0FS0	-
+elevación	elevación	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Continúa	continuar	VMIP3S0	Aux
+caminando	caminar	VMG0000	Walking
+hacia	hacia	SPS00	-
+una	uno	DI0FS0	-
+pradera	pradera	NCFS000	Location
+donde	donde	PR000000	-
+se	se	P00CN000	-
+encuentran	encontrar	VSIP3P0	Process
+Rick	rick	NP00O00	Human
+y	y	CC	-
+james	james	NP00O00	Human
+.	.	Fp	-
+</s>
+<s>
+Los	el	DA0MP0	-
+tres	3	Z	-
+miran	mirar	VMIP3P0	Seeing
+con	con	SPS00	-
+perplejidad	perplejidad	NCFS000	StateOfMind
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+,	,	Fc	-
+sin	sin	SPS00	-
+reparar	reparar	VMN0000	Seeing
+en	en	SPS00	-
+la	el	DA0FS0	-
+presencia	presencia	NCFS000	-
+de	de	SPS00	-
+los	el	DA0MP0	-
+demás	demás	PI0CP000	-
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+chica	chico	NCFS000	Human
+y	y	CC	-
+los	el	DA0MP0	-
+dos	2	Z	-
+hombres	hombre	NCMP000	Human
+tratan	tratar	VMIP3P0	Aux
+de	de	SPS00	-
+localizar	localizar	VMN0000	IntentionalPsychologicalProcess
+con	con	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+el	el	DA0MS0	-
+lugar	lugar	NCMS000	Location
+de	de	SPS00	-
+donde	donde	PR000000	Location
+procede	proceder	VMIP3S0	Process
+la	el	DA0FS0	-
+voz	voz	NCFS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+jubilado	jubilado	NCMS000	Human
+niega_con_la_bcabeza	negar_con_la_cabeza	VMIP3S0	Gesture
+mirando	mirar	VMG0000	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+empresario	empresario	NCMS000	Human
+y	y	CC	-
+a	a	SPS00	-
+la	el	DA0FS0	-
+estudiante	estudiante	NCCS000	Human
+,	,	Fc	-
+que	que	PR0CN000	-
+reaccionan	reaccionar	VMIP3P0	Process
+de	de	SPS00	-
+igual	igual	AQ0CS0	A-SubjectiveAssessmentAttribute
+modo	modo	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+abre	abrir	VMIP3S0	BodyMotion
+los	el	DA0MP0	-
+brazos	brazo	NCMP000	BodyPart
+y	y	CC	-
+sonríe	sonreír	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+empresario	empresario	NCMS000	Human
+y	y	CC	-
+el	el	DA0MS0	-
+jubilado	jubilado	NCMS000	Human
+se	se	P00CN000	-
+marchan	marchar	VMIP3P0	Motion
+de	de	SPS00	-
+el	el	DA0MS0	-
+lugar	lugar	NCMS000	Location
+mientras	mientras	CS	Time
+la	el	DA0FS0	-
+estudiante	estudiante	NCCS000	Human
+se	se	P00CN000	-
+muestra	mostrar	VMIP3S0	Process
+pensativa	pensativo	AQ0FS0	A-IntentionalPsychologicalProcess
+.	.	Fp	-
+</s>
+<s>
+Corre	correr	VMIP3S0	Walking
+unos	uno	DI0MP0	-
+metros	metro	NCMP000	-
+hasta	hasta	SPS00	-
+dar	dar	VMN0000	Process
+les	le	PP3CPD00	-
+alcance	alcance	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Los	el	DA0MP0	-
+tres	3	Z	-
+se	se	P00CN000	-
+marchan	marchar	VMIP3P0	Motion
+juntos	junto	AQ0MP0	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+el	el	DA0MS0	-
+paraje	paraje	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+otro	otro	DI0MS0	-
+momento	momento	NCMS000	Time
+,	,	Fc	-
+una	uno	DI0FS0	-
+mujer	mujer	NCFS000	Human
+negra	negro	AQ0FS0	A-ColorAttribute
+habla	hablar	VMIP3S0	Communication
+por	por	SPS00	-
+un	uno	DI0MS0	-
+teléfono_móvil	teléfono_móvil	NCMS000	Object
+mientras	mientras	CS	Time
+tiende	tender	VMIP3S0	Process
+ropa	ropa	NCFS000	Clothing
+en	en	SPS00	-
+una	uno	DI0FS0	-
+azotea	azotea	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+no	no	RN	-
+he	haber	VAIP1S0	Aux
+terminado	terminar	VMP00SM	Aux
+de	de	SPS00	-
+tender	tender	VMN0000	Process
+la	lo	PP3FSA00	-
+.	.	Fp	-
+</s>
+<s>
+Tengo	tener	VMIP1S0	Aux
+que	que	CS	-
+dar_me_prisa	dar_se_prisa	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+¿	¿	Fia	-
+de	de	SPS00	-
+qué	qué	DT0CN0	-
+hablas	hablar	VMIP2S0	Communication
+?	?	Fit	-
+Sí	sí	RG	-
+,	,	Fc	-
+claro	claro	RG	-
+,	,	Fc	-
+las	el	DA0FP0	-
+maletas	maleta	NCFP000	Object
+están	estar	VSIP3P0	Aux
+a	a	SPS00	-
+punto	punto	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Oye	oír	VMM02S0	Hearing
+,	,	Fc	-
+ahora	ahora	RG	Time
+no	no	RN	-
+puedo	poder	VMIP1S0	Aux
+hablar	hablar	VMN0000	Communication
+.	.	Fp	-
+</s>
+<s>
+Tengo	tener	VMIP1S0	Aux
+que	que	CS	-
+dejar	dejar	VMN0000	Motion
+te	te	PP2CS000	-
+.	.	Fp	-
+</s>
+<s>
+Sobreimpreso	sobreimprimir	VMP00SM	FilmLanguage
+:	:	Fd	-
+ZOÉ	zoé	NP00O00	Human
+,	,	Fc	-
+la	el	DA0FS0	-
+próxima	próximo	AQ0FS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+¿	¿	Fia	-
+QUÉ	qué	PT0CN000	-
+OCURRE	ocurrir	VMIP3S0	Process
+MIENTRAS	mientras	CS	Time
+.	.	Fp	-
+</s>
+<s>
+?	?	Fit	-
+<text id='EdSolProducciones-ES'>
+<s>
+Amanece	amanecer	VMIP3S0	Time
+un_día	TM_d:1	Zu	Time
+fresco	fresco	AQ0MS0	A-SubjectiveAssessmentAttribute
+y	y	CC	-
+nublado	nublar	VMP00SM	A-RadiatingLight
+en	en	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Una	uno	DI0FS0	-
+persona	persona	NCFS000	-
+hace_footing	hacer_footing	VMIP3S0	Walking
+mientras	mientras	CS	Time
+una	uno	DI0FS0	-
+pareja	pareja	NCFS000	Human
+pasea	pasear	VMIP3S0	Walking
+a	a	SPS00	-
+su	su	DP3CS0	-
+perro	perro	NCMS000	Animal
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+la	el	DA0FS0	-
+misma	mismo	AQ0FS0	A-SubjectiveAssessmentAttribute
+playa	playa	NCFS000	Location
+un	uno	DI0MS0	-
+ejecutivo	ejecutivo	NCMS000	-
+de	de	SPS00	-
+mediana	mediano	AQ0FS0	A-SubjectiveAssessmentAttribute
+edad	edad	NCFS000	-
+,	,	Fc	-
+con	con	SPS00	-
+traje	traje	NCMS000	Clothing
+y	y	CC	-
+corbata	corbata	NCFS000	Clothing
+,	,	Fc	-
+aparca	aparcar	VMIP3S0	Motion
+su	su	DP3CS0	-
+choche	choche	NCFS000	-
+de	de	SPS00	-
+alta	alto	AQ0FS0	A-SubjectiveAssessmentAttribute
+gama	gama	NCFS000	-
+mientras	mientras	CS	Time
+habla	hablar	VMIP3S0	Communication
+por	por	SPS00	-
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Cambia	cambiar	VMIP3S0	Process
+el	el	DA0MS0	-
+maletín	maletín	NCMS000	Object
+por	por	SPS00	-
+una	uno	DI0FS0	-
+bolsa	bolsa	NCFS000	Object
+de	de	SPS00	-
+playa	playa	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Cuelga	colgar	VMIP3S0	Process
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+con	con	SPS00	-
+gesto	gesto	NCMS000	Gesture
+de	de	SPS00	-
+desagrado	desagrado	NCMS000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Saca	sacar	VMIP3S0	Putting
+las	el	DA0FP0	-
+gafas	gafas	NCFP000	Clothing
+de	de	SPS00	-
+sol	sol	NCMS000	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+bolsillo	bolsillo	NCMS000	Clothing
+de	de	SPS00	-
+su	su	DP3CS0	-
+chaqueta	chaqueta	NCFS000	Clothing
+y	y	CC	-
+mientras	mientras	CS	Time
+se	se	P00CN000	-
+las	lo	PP3FPA00	-
+pone	poner	VMIP3S0	Putting
+trata	tratar	VMIP3S0	Aux
+de	de	SPS00	-
+serenar	serenar	VMN0000	IntentionalPsychologicalProcess
+se	se	PP3CN000	-
+.	.	Fp	-
+</s>
+<s>
+james	james	NP00G00	Human
+,	,	Fc	-
+el	el	DA0MS0	-
+empresario	empresario	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+por	por	SPS00	-
+el	el	DA0MS0	-
+acceso	acceso	NCMS000	Location
+a	a	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+con	con	SPS00	-
+su	su	DP3CS0	-
+bolsa	bolsa	NCFS000	Object
+colgada	colgar	VMP00SF	A-PositionalAttribute
+mientras	mientras	CS	Time
+habla	hablar	VMIP3S0	Communication
+por	por	SPS00	-
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Ya	ya	RG	-
+en	en	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+,	,	Fc	-
+despojado	despojar	VMP00SM	A-Clothing
+de	de	SPS00	-
+su	su	DP3CS0	-
+traje	traje	NCMS000	Clothing
+y	y	CC	-
+en	en	SPS00	-
+bañador	bañador	NCMS000	Clothing
+,	,	Fc	-
+james	james	NP00SP0	Human
+se	se	P00CN000	-
+tumba	tumbar	VMIP3S0	BodyMotion
+sobre	sobre	SPS00	Location
+su	su	DP3CS0	-
+toalla	toalla	NCFS000	Object
+mientras	mientras	CS	Time
+trata	tratar	VMIP3S0	Aux
+de	de	SPS00	-
+relajar	relajar	VMN0000	IntentionalPsychologicalProcess
+se	se	PP3CN000	-
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+incorpora	incorporar	VMIP3S0	BodyMotion
+,	,	Fc	-
+con	con	SPS00	-
+gesto	gesto	NCMS000	Gesture
+incómodo	incómodo	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+para	para	SPS00	-
+atender	atender	VMN0000	Process
+la	el	DA0FS0	-
+llamada	llamada	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Gira	girar	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+cabeza	cabeza	NCFS000	BodyPart
+a	a	SPS00	-
+el	el	DA0MS0	-
+oír	oír	VMN0000	Hearing
+un	uno	DI0MS0	-
+ruido	ruido	NCMS000	RadiatingSound
+desconocido	desconocer	VMP00SM	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Extrañado	extrañar	VMP00SM	A-StateOfMind
+,	,	Fc	-
+trata	tratar	VMIP3S0	Aux
+de	de	SPS00	-
+localizar	localizar	VMN0000	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+origen	origen	NCMS000	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+agudo	agudo	AQ0MS0	A-RadiatingSound
+que	que	PR0CN000	-
+le	le	PP3CSD00	-
+perturba	perturbar	VMIP3S0	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+pone_en_pie	poner_en_pie	VMIP3S0	BodyMotion
+y	y	CC	-
+camina	caminar	VMIP3S0	Walking
+por	por	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+intentando	intentar	VMG0000	Aux
+localizar	localizar	VMN0000	IntentionalPsychologicalProcess
+la	el	DA0FS0	-
+procedencia	procedencia	NCFS000	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Habiendo	haber	VAG0000	Aux
+encontrado	encontrar	VMP00SM	IntentionalPsychologicalProcess
+la	el	DA0FS0	-
+dirección	dirección	NCFS000	-
+desde	desde	SPS00	-
+donde	donde	PR000000	-
+parece	parecer	VMIP3S0	Process
+que	que	CS	-
+se	se	P00CN000	-
+produce	producir	VMIP3S0	Process
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+,	,	Fc	-
+decide	decidir	VMIP3S0	IntentionalPsychologicalProcess
+vestir	vestir	VMN0000	Dressing
+se	se	PP3CN000	-
+para	para	SPS00	-
+llegar	llegar	VMN0000	Motion
+hasta	hasta	SPS00	-
+su	su	DP3CS0	-
+origen	origen	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Ya	ya	RG	-
+alejado	alejar	VMP00SM	A-PositionalAttribute
+de	de	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+,	,	Fc	-
+con	con	SPS00	-
+el	el	DA0MS0	-
+traje	traje	NCMS000	Clothing
+y	y	CC	-
+sin	sin	SPS00	-
+la	el	DA0FS0	-
+corbata	corbata	NCFS000	Clothing
+va	ir	VMIP3S0	Aux
+siguiendo	seguir	VMG0000	Motion
+a_pie	a_pie	RG	-
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+perturbador	perturbador	AQ0MS0	A-ObjectiveAssessmentAttribute
+que	que	PR0CN000	-
+le	le	PP3CSD00	-
+dirige	dirigir	VMIP3S0	Motion
+hacia	hacia	SPS00	-
+un	uno	DI0MS0	-
+monte	monte	NCMS000	Location
+cercano	cercano	AQ0MS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+un	uno	DI0MS0	-
+parque	parque	NCMS000	Location
+de	de	SPS00	-
+la	el	DA0FS0	-
+ciudad	ciudad	NCFS000	-
+,	,	Fc	-
+un	uno	DI0MS0	-
+personaje	personaje	NCMS000	-
+masculino	masculino	AQ0MS0	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+mayor	mayor	AQ0CS0	A-SubjectiveAssessmentAttribute
+edad	edad	NCFS000	-
+que	que	CS	-
+el	el	DA0MS0	-
+anterior	anterior	AQ0CS0	A-PositionalAttribute
+,	,	Fc	-
+con	con	SPS00	-
+barba	barba	NCFS000	BodyPart
+y	y	CC	-
+pelo	pelo	NCMS000	BodyPart
+canoso	canoso	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+camiseta	camiseta	NCFS000	Clothing
+de	de	SPS00	-
+tirantes	tirante	NCMP000	-
+y	y	CC	-
+aspecto	aspecto	NCMS000	-
+descuidado	descuidar	VMP00SM	A-SubjectiveAssessmentAttribute
+sujeta	sujetar	VMIP3S0	Touching
+un	uno	DI0MS0	-
+vaso	vaso	NCMS000	Object
+de	de	SPS00	-
+plástico	plástico	NCMS000	-
+entre	entre	SPS00	-
+sus	su	DP3CP0	-
+manos	mano	NCFP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Destapa	destapar	VMIP3S0	Putting
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+de	de	SPS00	-
+café	café	NCMS000	-
+y	y	CC	-
+le	le	PP3CSD00	-
+da	dar	VMIP3S0	Process
+un	uno	DI0MS0	-
+trago	trago	NCMS000	Drinking
+sin	sin	SPS00	-
+mucha	mucho	DI0FS0	-
+gana	gana	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+,	,	Fc	-
+el	el	DA0MS0	-
+jubilado	jubilado	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Mientras	mientras	CS	Time
+Rick	rick	NP00SP0	Human
+está	estar	VSIP3S0	Aux
+bebiendo	beber	VMG0000	Drinking
+su	su	DP3CS0	-
+café	café	NCMS000	-
+sentado	sentar	VMP00SM	A-PositionalAttribute
+en	en	SPS00	-
+un	uno	DI0MS0	-
+banco	banco	NCMS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+parque	parque	NCMS000	Location
+,	,	Fc	-
+inconscientemente	inconscientemente	RG	-
+mueve	mover	VMIP3S0	BodyMotion
+su	su	DP3CS0	-
+pierna	pierna	NCFS000	BodyPart
+derecha	derecho	AQ0FS0	A-PositionalAttribute
+de	de	SPS00	-
+forma	forma	NCFS000	-
+repetitiva	repetitivo	AQ0FS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+mostrando	mostrar	VMG0000	Process
+su	su	DP3CS0	-
+inquietud	inquietud	NCFS000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Posa	posar	VMIP3S0	Putting
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+de	de	SPS00	-
+café	café	NCMS000	-
+en	en	SPS00	-
+el	el	DA0MS0	-
+banco	banco	NCMS000	Object
+de	de	SPS00	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+lado	lado	NCMS000	Location
+,	,	Fc	-
+saca	sacar	VMIP3S0	Putting
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+bolsillo	bolsillo	NCMS000	Clothing
+,	,	Fc	-
+busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+entre	entre	SPS00	-
+sus	su	DP3CP0	-
+contactos	contacto	NCMP000	-
+,	,	Fc	-
+y	y	CC	-
+hace	hacer	VMIP3S0	Process
+una	uno	DI0FS0	-
+llamada	llamada	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Gira	girar	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+cabeza	cabeza	NCFS000	BodyPart
+a	a	SPS00	-
+el	el	DA0MS0	-
+oír	oír	VMN0000	Hearing
+un	uno	DI0MS0	-
+ruido	ruido	NCMS000	RadiatingSound
+desconocido	desconocer	VMP00SM	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Intenta	intentar	VMIP3S0	Aux
+localizar	localizar	VMN0000	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+perturbador	perturbador	AQ0MS0	A-ObjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+pone_en_pie	poner_en_pie	VMIP3S0	BodyMotion
+y	y	CC	-
+camina	caminar	VMIP3S0	Walking
+para	para	SPS00	-
+localizar	localizar	VMN0000	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+otro	otro	DI0MS0	-
+lugar	lugar	NCMS000	Location
+,	,	Fc	-
+una	uno	DI0FS0	-
+joven	joven	NCCS000	Human
+de	de	SPS00	-
+pelo	pelo	NCMS000	BodyPart
+rizado	rizar	VMP00SM	A-SubjectiveAssessmentAttribute
+está	estar	VSIP3S0	Aux
+sentada	sentar	VMP00SF	A-PositionalAttribute
+en	en	SPS00	-
+su	su	DP3CS0	-
+escritorio	escritorio	NCMS000	Object
+delante_de	delante_de	SPS00	-
+un	uno	DI0MS0	-
+ordenador	ordenador	NCMS000	Object
+portátil	portátil	AQ0CS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Jess	jess	NP00SP0	Human
+,	,	Fc	-
+la	el	DA0FS0	-
+estudiante	estudiante	NCCS000	Human
+.	.	Fp	-
+</s>
+<s>
+Busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+entre	entre	SPS00	-
+sus	su	DP3CP0	-
+apuntes	apunte	NCMP000	Object
+.	.	Fp	-
+</s>
+<s>
+Gira	girar	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+cabeza	cabeza	NCFS000	BodyPart
+para	para	SPS00	-
+localizar	localizar	VMN0000	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Preocupada	preocupar	VMP00SF	A-StateOfMind
+,	,	Fc	-
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+ambos	ambos	DI0MP0	-
+lados	lado	NCMP000	Location
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+pone_en_pie	poner_en_pie	VMIP3S0	BodyMotion
+y	y	CC	-
+sale	salir	VMIP3S0	Motion
+a	a	SPS00	-
+el	el	DA0MS0	-
+exterior	exterior	NCMS000	-
+en_busca_de	en_busca_de	SPS00	-
+el	el	DA0MS0	-
+origen	origen	NCMS000	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+perturbador	perturbador	AQ0MS0	A-ObjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+interna	internar	VMIP3S0	Motion
+en	en	SPS00	-
+el	el	DA0MS0	-
+monte	monte	NCMS000	Location
+y	y	CC	-
+avanza	avanzar	VMIP3S0	Motion
+hacia	hacia	SPS00	-
+la	el	DA0FS0	-
+dirección	dirección	NCFS000	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+ha	haber	VAIP3S0	Aux
+guiado	guiar	VMP00SM	Motion
+a	a	SPS00	-
+los	el	DA0MP0	-
+tres	3	Z	-
+protagonistas	protagonista	NCCP000	-
+hacia	hacia	SPS00	-
+un	uno	DI0MS0	-
+claro	claro	NCMS000	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+monte	monte	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Desde	desde	SPS00	-
+direcciones	dirección	NCFP000	Location
+han	haber	VAIP3P0	Aux
+llegado	llegar	VMP00SM	Motion
+andando	andar	VMG0000	Walking
+hasta	hasta	SPS00	-
+un	uno	DI0MS0	-
+mismo	mismo	AQ0MS0	A-SubjectiveAssessmentAttribute
+punto	punto	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Están	estar	VSIP3P0	Aux
+desorientados	desorientar	VMP00PM	A-StateOfMind
+y	y	CC	-
+extrañados	extrañar	VMP00PM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Los	el	DA0MP0	-
+tres	3	Z	-
+miran	mirar	VMIP3P0	Seeing
+en	en	SPS00	-
+todas	todo	DI0FP0	-
+direcciones	dirección	NCFP000	Location
+intentando	intentar	VMG0000	Aux
+localizar	localizar	VMN0000	IntentionalPsychologicalProcess
+quien	quien	PR0CS000	-
+les	le	PP3CPD00	-
+habla	hablar	VMIP3S0	Communication
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+miran	mirar	VMIP3P0	Seeing
+entre	entre	SPS00	-
+sí	sí	PP3CNO00	-
+.	.	Fp	-
+</s>
+<s>
+james	james	NP00SP0	Human
+y	y	CC	-
+Rick	rick	NP00SP0	Human
+comienzan	comenzar	VMIP3P0	Aux
+a	a	SPS00	-
+andar	andar	VMN0000	Walking
+de	de	SPS00	-
+vuelta	vuelta	NCFS000	-
+hacia	hacia	SPS00	-
+el	el	DA0MS0	-
+monte	monte	NCMS000	Location
+,	,	Fc	-
+Jess	jess	NP00SP0	Human
+duda	dudar	VMIP3S0	StateOfMind
+por	por	SPS00	-
+un	uno	DI0MS0	-
+segundo	segundo	NCMS000	Time
+,	,	Fc	-
+sonríe	sonreír	VMIP3S0	Gesture
+y	y	CC	-
+se	se	P00CN000	-
+une	unir	VMIP3S0	Process
+a	a	SPS00	-
+ellos	ellos	PP3MP000	-
+en	en	SPS00	-
+una	uno	DI0FS0	-
+breve	breve	AQ0CS0	A-SubjectiveAssessmentAttribute
+carrera	carrera	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Los	el	DA0MP0	-
+tres	3	Z	-
+juntos	junto	AQ0MP0	A-PositionalAttribute
+caminan	caminar	VMIP3P0	Walking
+alegres	alegre	AQ0CP0	A-StateOfMind
+de_nuevo	de_nuevo	SPS00	Time
+hacia	hacia	SPS00	-
+el	el	DA0MS0	-
+monte	monte	NCMS000	Location
+en_dirección_a	en_dirección_a	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+otro	otro	DI0MS0	-
+lugar	lugar	NCMS000	Location
+,	,	Fc	-
+una	uno	DI0FS0	-
+mujer	mujer	NCFS000	Human
+de	de	SPS00	-
+color	color	NCMS000	-
+habla	hablar	VMIP3S0	Communication
+por	por	SPS00	-
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+mientras	mientras	CS	Time
+tiende	tender	VMIP3S0	Process
+la	el	DA0FS0	-
+colada	colada	NCFS000	-
+en	en	SPS00	-
+la	el	DA0FS0	-
+azotea	azotea	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+no	no	RN	-
+he	haber	VAIP1S0	Aux
+terminado	terminar	VMP00SM	Aux
+de	de	SPS00	-
+tender	tender	VMN0000	Process
+la	lo	PP3FSA00	-
+.	.	Fp	-
+</s>
+<s>
+Tengo	tener	VMIP1S0	Aux
+que	que	CS	-
+dar_me_prisa	dar_se_prisa	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+Gira	girar	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+cabeza	cabeza	NCFS000	BodyPart
+ante	ante	SPS00	-
+un	uno	DI0MS0	-
+ruido	ruido	NCMS000	RadiatingSound
+desconocido	desconocer	VMP00SM	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+de	de	SPS00	-
+qué	qué	PT0CN000	-
+me	me	PP1CS000	-
+hablas	hablar	VMIP2S0	Communication
+?	?	Fit	-
+Si	si	CS	-
+claro	claro	RG	-
+,	,	Fc	-
+las	el	DA0FP0	-
+maletas	maleta	NCFP000	Object
+están	estar	VSIP3P0	Aux
+a	a	SPS00	-
+punto	punto	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Extrañada	extrañar	VMP00SF	A-StateOfMind
+trata	tratar	VMIP3S0	Aux
+de	de	SPS00	-
+localizar	localizar	VMN0000	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+perturbador	perturbador	AQ0MS0	A-ObjectiveAssessmentAttribute
+Oye	oír	VMM02S0	Hearing
+,	,	Fc	-
+ahora	ahora	RG	Time
+no	no	RN	-
+puedo	poder	VMIP1S0	Aux
+hablar	hablar	VMN0000	Communication
+.	.	Fp	-
+</s>
+<s>
+Tengo	tener	VMIP1S0	Aux
+que	que	CS	-
+dejar	dejar	VMN0000	Motion
+te	te	PP2CS000	-
+.	.	Fp	-
+</s>
+<s>
+Zoé	zoé	NP00SP0	Human
+,	,	Fc	-
+la	el	DA0FS0	-
+próxima	próximo	AQ0FS0	A-PositionalAttribute
+Qué	qué	PT0CN000	-
+pasa	pasar	VMIP3S0	Process
+mientras	mientras	CS	Time
+<text id='Ericsson-ES'>
+<s>
+Una	uno	DI0FS0	-
+pareja	pareja	NCFS000	Human
+camina	caminar	VMIP3S0	Walking
+junto_a	junto_a	SPS00	Location
+su	su	DP3CS0	-
+perro	perro	NCMS000	Animal
+por	por	SPS00	-
+un	uno	DI0MS0	-
+paseo	paseo	NCMS000	Location
+marítimo	marítimo	AQ0MS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+cruzan	cruzar	VMIP3P0	Motion
+con	con	SPS00	-
+un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+que	que	PR0CN000	-
+hace_footing	hacer_footing	VMIP3S0	Walking
+.	.	Fp	-
+</s>
+<s>
+Todos	todo	PI0MP000	-
+visten	vestir	VMIP3P0	Dressing
+ropa	ropa	NCFS000	Clothing
+de	de	SPS00	-
+abrigo	abrigo	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+playa	playa	NCFS000	Location
+está	estar	VSIP3S0	Aux
+desierta	desierto	AQ0FS0	A-SubjectiveAssessmentAttribute
+y	y	CC	-
+el	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+cubierto	cubrir	VMP00SM	A-PositionalAttribute
+de	de	SPS00	-
+nubes	nube	NCFP000	RadiatingLight
+grises	gris	AQ0CP0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Un	uno	DI0MS0	-
+automóvil	automóvil	NCMS000	-
+tipo	tipo	NCMS000	-
+coupé	coupé	NCMS000	-
+se	se	P00CN000	-
+detiene	detener	VMIP3S0	Motion
+junto_a	junto_a	SPS00	Location
+la	el	DA0FS0	-
+acera	acera	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Dentro	dentro	RG	Location
+,	,	Fc	-
+un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+de	de	SPS00	-
+unos	uno	DI0MP0	-
+45	45	Z	-
+años	año	NCMP000	Time
+gesticula	gesticular	VMIP3S0	Gesture
+hablando	hablar	VMG0000	Communication
+por	por	SPS00	-
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Tras	tras	SPS00	Time
+sacar	sacar	VMN0000	Putting
+una	uno	DI0FS0	-
+bolsa	bolsa	NCFS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+maletero	maletero	NCMS000	Location
+,	,	Fc	-
+echa_un_vistazo	echar_un_vistazo	VMIP3S0	Seeing
+a	a	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+y	y	CC	-
+se	se	P00CN000	-
+coloca	colocar	VMIP3S0	Putting
+unas	uno	DI0FP0	-
+gafas	gafas	NCFP000	Clothing
+de	de	SPS00	-
+sol	sol	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Viste	vestir	VMIP3S0	Dressing
+un	uno	DI0MS0	-
+elegante	elegante	AQ0CS0	A-SubjectiveAssessmentAttribute
+traje	traje	NCMS000	Clothing
+de	de	SPS00	-
+chaqueta	chaqueta	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Lleva	llevar	VMIP3S0	Dressing
+el	el	DA0MS0	-
+primer	1	AO0MS0	A-PositionalAttribute
+botón	botón	NCMS000	Clothing
+de	de	SPS00	-
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+desabrochado	desabrochar	VMP00SM	A-SubjectiveAssessmentAttribute
+y	y	CC	-
+la	el	DA0FS0	-
+corbata	corbata	NCFS000	Clothing
+floja	flojo	AQ0FS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Es	ser	VSIP3S0	exists
+James	james	NP00SP0	Human
+,	,	Fc	-
+el	el	DA0MS0	-
+empresario	empresario	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Minutos	minuto	NCMP000	Time
+después	después	RG	Time
+,	,	Fc	-
+camina	caminar	VMIP3S0	Walking
+con	con	SPS00	-
+la	el	DA0FS0	-
+bolsa	bolsa	NCFS000	Object
+de	de	SPS00	-
+playa	playa	NCFS000	Location
+a	a	SPS00	-
+el	el	DA0MS0	-
+hombro	hombro	NCMS000	BodyPart
+mientras	mientras	CS	Time
+hace	hacer	VMIP3S0	Process
+una	uno	DI0FS0	-
+llamada	llamada	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Poco	poco	RG	-
+después	después	RG	Time
+,	,	Fc	-
+con	con	SPS00	-
+el	el	DA0MS0	-
+torso	torso	NCMS000	BodyPart
+desnudo	desnudo	AQ0MS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+se	se	P00CN000	-
+deja	dejar	VMIP3S0	Aux
+caer	caer	VMN0000	Motion
+pesadamente	pesadamente	RG	-
+sobre	sobre	SPS00	Location
+una	uno	DI0FS0	-
+toalla	toalla	NCFS000	Object
+extendida	extender	VMP00SF	A-PositionalAttribute
+en	en	SPS00	-
+la	el	DA0FS0	-
+arena	arena	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+james	james	NP00G00	Human
+,	,	Fc	-
+rubio	rubio	AQ0MS0	A-ColorAttribute
+y	y	CC	-
+de	de	SPS00	-
+piel	piel	NCFS000	BodyPart
+clara	claro	AQ0FS0	A-ColorAttribute
+,	,	Fc	-
+luce	lucir	VMIP3S0	possesses
+una	uno	DI0FS0	-
+barba	barba	NCFS000	BodyPart
+recortada	recortar	VMP00SF	A-SubjectiveAssessmentAttribute
+que	que	PR0CN000	-
+empieza	empezar	VMIP3S0	Aux
+a	a	SPS00	-
+poblar	poblar	VMN0000	Process
+se	se	PP3CN000	-
+de	de	SPS00	-
+canas	cana	NCFP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Extiende	extender	VMIP3S0	BodyMotion
+los	el	DA0MP0	-
+brazos	brazo	NCMP000	BodyPart
+y	y	CC	-
+acaricia	acariciar	VMIP3S0	Touching
+la	el	DA0FS0	-
+arena	arena	NCFS000	Location
+con	con	SPS00	-
+la	el	DA0FS0	-
+yema	yema	NCFS000	BodyPart
+de	de	SPS00	-
+los	el	DA0MP0	-
+dedos	dedo	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+incorpora	incorporar	VMIP3S0	BodyMotion
+de_mala_gana	de_mala_gana	RG	-
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	RG	Location
+extrañado	extrañar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+incorpora	incorporar	VMIP3S0	BodyMotion
+y	y	CC	-
+se	se	P00CN000	-
+aleja	alejar	VMIP3S0	Motion
+unos	uno	DI0MP0	-
+metros	metro	NCMP000	-
+examinando	examinar	VMG0000	IntentionalPsychologicalProcess
+los	el	DA0MP0	-
+alrededores	alrededor	NCMP000	Location
+.	.	Fp	-
+</s>
+<s>
+Viste	vestir	VMIP3S0	Dressing
+unos	uno	DI0MP0	-
+calzoncillos	calzoncillo	NCMP000	Clothing
+tipo	tipo	NCMS000	-
+bóxer	bóxer	NCMS000	Clothing
+,	,	Fc	-
+el	el	DA0MS0	-
+resto	resto	NCMS000	-
+de	de	SPS00	-
+su	su	DP3CS0	-
+ropa	ropa	NCFS000	Clothing
+está	estar	VSIP3S0	Aux
+amontonada	amontonar	VMP00SF	A-PositionalAttribute
+sobre	sobre	SPS00	Location
+la	el	DA0FS0	-
+arena	arena	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Confuso	confuso	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+decide	decidir	VMIP3S0	IntentionalPsychologicalProcess
+volver	volver	VMN0000	Motion
+sobre	sobre	SPS00	Location
+sus	su	DP3CP0	-
+pasos	paso	NCMP000	-
+Se	se	P00CN000	-
+detiene	detener	VMIP3S0	Motion
+y	y	CC	-
+vuelve	volver	VMIP3S0	Aux
+a	a	SPS00	-
+mirar	mirar	VMN0000	Seeing
+intrigado	intrigar	VMP00SM	A-StateOfMind
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Cada	cada	DI0CS0	-
+vez	vez	NCFS000	-
+más	más	RG	-
+inquieto	inquieto	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+se	se	P00CN000	-
+dirige	dirigir	VMIP3S0	Motion
+hacia	hacia	SPS00	-
+sus	su	DP3CP0	-
+pertenencias	pertenencia	NCFP000	-
+.	.	Fp	-
+</s>
+<s>
+Recoge	recoger	VMIP3S0	Touching
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+de	de	SPS00	-
+el	el	DA0MS0	-
+suelo	suelo	NCMS000	Location
+y	y	CC	-
+se	se	P00CN000	-
+la	lo	PP3FSA00	-
+pone	poner	VMIP3S0	Putting
+sin	sin	SPS00	-
+dejar	dejar	VMN0000	Aux
+de	de	SPS00	-
+escudriñar	escudriñar	VMN0000	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+entorno	entorno	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Minutos	minuto	NCMP000	Time
+después	después	RG	Time
+,	,	Fc	-
+camina	caminar	VMIP3S0	Walking
+decidido	decidir	VMP00SM	A-IntentionalPsychologicalProcess
+bajo	bajo	SPS00	Location
+unos	uno	DI0MP0	-
+árboles	árbol	NCMP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Luego	luego	RG	Time
+,	,	Fc	-
+sube	subir	VMIP3S0	Motion
+por	por	SPS00	-
+un	uno	DI0MS0	-
+escarpado	escarpar	VMP00SM	A-SubjectiveAssessmentAttribute
+sendero	sendero	NCMS000	Location
+entre	entre	SPS00	-
+la	el	DA0FS0	-
+maleza	maleza	NCFS000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+un	uno	DI0MS0	-
+banco	banco	NCMS000	Object
+de	de	SPS00	-
+un	uno	DI0MS0	-
+parque	parque	NCMS000	Location
+,	,	Fc	-
+con	con	SPS00	-
+un	uno	DI0MS0	-
+vaso	vaso	NCMS000	Object
+desechable	desechable	AQ0CS0	A-SubjectiveAssessmentAttribute
+entre	entre	SPS00	-
+las	el	DA0FP0	-
+manos	mano	NCFP000	BodyPart
+,	,	Fc	-
+un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+de	de	SPS00	-
+unos	uno	DI0MP0	-
+65	65	Z	-
+años	año	NCMP000	Time
+se	se	P00CN000	-
+agita	agitar	VMIP3S0	BodyMotion
+disgustado	disgustar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Sonríe	sonreír	VMIP3S0	Gesture
+levemente	levemente	RG	-
+alzando_la_vista	alzar_la_vista	VMG0000	Seeing
+.	.	Fp	-
+</s>
+<s>
+Niega	negar	VMIP3S0	BodyMotion
+con	con	SPS00	-
+la	el	DA0FS0	-
+cabeza	cabeza	NCFS000	BodyPart
+mientras	mientras	CS	Time
+juguetea	juguetear	VMIP3S0	Touching
+con	con	SPS00	-
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Echa_un_vistazo	echar_un_vistazo	VMIP3S0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+líquido	líquido	NCMS000	-
+oscuro	oscuro	AQ0MS0	A-ColorAttribute
+de	de	SPS00	-
+el	el	DA0MS0	-
+interior	interior	NCMS000	PositionalAttribute
+y	y	CC	-
+toma	tomar	VMIP3S0	Process
+un	uno	DI0MS0	-
+sorbo	sorbo	NCMS000	Drinking
+.	.	Fp	-
+</s>
+<s>
+Tiene	tener	VMIP3S0	possesses
+el	el	DA0MS0	-
+pelo	pelo	NCMS000	BodyPart
+descuidado	descuidar	VMP00SM	A-SubjectiveAssessmentAttribute
+y	y	CC	-
+canoso	canoso	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+barba	barba	*	BodyPart
+de	de	SPS00	-
+varios	varios	DI0MP0	-
+días	día	NCMP000	Time
+y	y	CC	-
+viste	vestir	VMIP3S0	Dressing
+camiseta	camiseta	NCFS000	Clothing
+de	de	SPS00	-
+tirantes	tirante	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+Es	ser	VSIP3S0	exists
+Rick	rick	NP00SP0	Human
+,	,	Fc	-
+el	el	DA0MS0	-
+jubilado	jubilado	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Junto_a	junto_a	SPS00	Location
+él	él	PP3MS000	Location
+hay	haber	VMIP3S0	Process
+dos	2	Z	-
+bancos	banco	NCMP000	Object
+vacíos	vacío	AQ0MP0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+,	,	Fc	-
+inquieto	inquieto	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+agita	agitar	VMIP3S0	BodyMotion
+su	su	DP3CS0	-
+pierna	pierna	NCFS000	BodyPart
+sin	sin	SPS00	-
+parar	parar	VMN0000	Motion
+.	.	Fp	-
+</s>
+<s>
+Suelta	soltar	VMIP3S0	Process
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+y	y	CC	-
+da_unas_palmadas	dar_palmadas	VMIP3S0	BodyMotion
+dejando	dejar	VMG0000	Aux
+se	se	PP3CN000	-
+caer	caer	VMN0000	Motion
+sobre	sobre	SPS00	Location
+el	el	DA0MS0	-
+respaldo	respaldo	NCMS000	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+banco	banco	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Hastiado	hastiar	VMP00SM	A-StateOfMind
+,	,	Fc	-
+saca	sacar	VMIP3S0	Putting
+un	uno	DI0MS0	-
+Smartphone	smartphone	NCMS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+bolsillo	bolsillo	NCMS000	Clothing
+,	,	Fc	-
+lo	lo	PP3CNA00	-
+abre	abrir	VMIP3S0	Process
+y	y	CC	-
+revisa	revisar	VMIP3S0	IntentionalPsychologicalProcess
+la	el	DA0FS0	-
+lista	lista	NCFS000	-
+de	de	SPS00	-
+contactos	contacto	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+detiene	detener	VMIP3S0	Motion
+en	en	SPS00	-
+Craig_Anderson	craig_anderson	NP00SP0	-
+y	y	CC	-
+pulsa	pulsar	VMIP3S0	BodyMotion
+llamada	llamada	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Alza_la_mirada	alzar_la_mirada	VMIP3S0	Seeing
+confundido	confundir	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+aleja	alejar	VMIP3S0	Motion
+entusiasmado	entusiasmar	VMP00SM	A-StateOfMind
+sin	sin	SPS00	-
+dejar	dejar	VMN0000	Aux
+de	de	SPS00	-
+buscar	buscar	VMN0000	IntentionalPsychologicalProcess
+con	con	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+alrededor_de	alrededor_de	SPS00	Location
+sí	sí	PP3CNO00	-
+.	.	Fp	-
+</s>
+<s>
+Ha	haber	VAIP3S0	Aux
+dejado	dejar	VMP00SM	Process
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+sobre	sobre	SPS00	Location
+el	el	DA0MS0	-
+banco	banco	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+una	uno	DI0FS0	-
+habitación	habitación	NCFS000	Location
+,	,	Fc	-
+una	uno	DI0FS0	-
+joven	joven	NCCS000	Human
+de	de	SPS00	-
+unos	uno	DI0MP0	-
+20	20	Z	-
+años	año	NCMP000	Time
+,	,	Fc	-
+de	de	SPS00	-
+abundante	abundante	AQ0CS0	A-SubjectiveAssessmentAttribute
+melena	melena	NCFS000	BodyPart
+pelirroja	pelirrojo	AQ0FS0	A-ColorAttribute
+,	,	Fc	-
+trata	tratar	VMIP3S0	Aux
+de	de	SPS00	-
+concentrar	concentrar	VMN0000	IntentionalPsychologicalProcess
+se	se	PP3CN000	-
+frente_a	frente_a	SPS00	Location
+un	uno	DI0MS0	-
+portátil	portátil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Es	ser	VSIP3S0	exists
+Jess	jess	NP00SP0	Human
+,	,	Fc	-
+la	el	DA0FS0	-
+estudiante	estudiante	NCCS000	Human
+.	.	Fp	-
+</s>
+<s>
+Rebusca	rebuscar	VMIP3S0	IntentionalPsychologicalProcess
+entre	entre	SPS00	-
+las	el	DA0FP0	-
+cosas	cosa	NCFP000	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+escritorio	escritorio	NCMS000	-
+A	a	SPS00	-
+el	el	DA0MS0	-
+fin	fin	NCMS000	-
+,	,	Fc	-
+encuentra	encontrar	VMIP3S0	IntentionalPsychologicalProcess
+su	su	DP3CS0	-
+teléfono	teléfono	NCMS000	Object
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+joven	joven	NCCS000	Human
+,	,	Fc	-
+que	que	PR0CN000	-
+removía	remover	VMII3S0	Motion
+nerviosa	nervioso	AQ0FS0	A-StateOfMind
+los	el	DA0MP0	-
+papeles	papel	NCMP000	-
+de	de	SPS00	-
+su	su	DP3CS0	-
+mesa	mesa	NCFS000	Object
+,	,	Fc	-
+se	se	P00CN000	-
+detiene	detener	VMIP3S0	Motion
+y	y	CC	-
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Intrigada	intrigar	VMP00SF	A-StateOfMind
+,	,	Fc	-
+se	se	P00CN000	-
+levanta	levantar	VMIP3S0	BodyMotion
+y	y	CC	-
+sale	salir	VMIP3S0	Motion
+a	a	SPS00	-
+la	el	DA0FS0	-
+calle	calle	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Lleva	llevar	VMIP3S0	Dressing
+un	uno	DI0MS0	-
+abrigo	abrigo	NCMS000	Clothing
+y	y	CC	-
+un	uno	DI0MS0	-
+pañuelo	pañuelo	NCMS000	Clothing
+en	en	SPS00	-
+el	el	DA0MS0	-
+cuello	cuello	NCMS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+decidida	decidir	VMP00SF	A-IntentionalPsychologicalProcess
+y	y	CC	-
+se	se	P00CN000	-
+adentra	adentrar	VMIP3S0	Motion
+en	en	SPS00	-
+una	uno	DI0FS0	-
+zona	zona	NCFS000	Location
+de	de	SPS00	-
+abundante	abundante	AQ0CS0	A-SubjectiveAssessmentAttribute
+vegetación	vegetación	NCFS000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+el	el	DA0MS0	-
+poco	poco	PI0MS000	Time
+,	,	Fc	-
+llega	llegar	VMIP3S0	Motion
+a	a	SPS00	-
+una	uno	DI0FS0	-
+amplia	amplio	AQ0FS0	A-SubjectiveAssessmentAttribute
+y	y	CC	-
+soleada	solear	VMP00SF	A-RadiatingLight
+explanada	explanada	NCFS000	Location
+donde	donde	PR000000	-
+están	estar	VSIP3S0	located
+james	james	NP00O00	Human
+y	y	CC	-
+Rick	rick	NP00O00	Human
+.	.	Fp	-
+</s>
+<s>
+Los	el	DA0MP0	-
+hombres	hombre	NCMP000	Human
+están	estar	VSIP3S0	located
+de_pie	de_pie	RG	-
+,	,	Fc	-
+mirando	mirar	VMG0000	Seeing
+desconcertados	desconcertar	VMP00PM	A-StateOfMind
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+chica	chico	NCFS000	Human
+se	se	P00CN000	-
+dirige	dirigir	VMIP3S0	Motion
+hacia	hacia	SPS00	-
+ellos	ellos	PP3MP000	Location
+.	.	Fp	-
+</s>
+<s>
+Extrañados	extrañar	VMP00PM	A-StateOfMind
+,	,	Fc	-
+tratan	tratar	VMIP3P0	Aux
+de	de	SPS00	-
+localizar	localizar	VMN0000	IntentionalPsychologicalProcess
+la	el	DA0FS0	-
+procedencia	procedencia	NCFS000	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+voz	voz	NCFS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+miran	mirar	VMIP3P0	Seeing
+y	y	CC	-
+niegan_con_la_cabeza	negar_con_la_cabeza	VMIP3P0	Gesture
+.	.	Fp	-
+</s>
+<s>
+Jessica	jessica	NP00SP0	-
+,	,	Fc	-
+pensativa	pensativo	AQ0FS0	A-StateOfMind
+,	,	Fc	-
+se	se	P00CN000	-
+ha	haber	VAIP3S0	Aux
+quedado	quedar	VMP00SM	Motion
+inmóvil	inmóvil	AQ0CS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Corre	correr	VMIP3S0	Walking
+tras	tras	SPS00	-
+ellos	ellos	PP3MP000	Location
+.	.	Fp	-
+</s>
+<s>
+james	james	NP00G00	Human
+echa	echar	VMIP3S0	BodyMotion
+el	el	DA0MS0	-
+brazo	brazo	NCMS000	BodyPart
+por	por	SPS00	-
+el	el	DA0MS0	-
+hombro	hombro	NCMS000	BodyPart
+de	de	SPS00	-
+la	el	DA0FS0	-
+chica	chico	NCFS000	Human
+y	y	CC	-
+los	el	DA0MP0	-
+tres	3	Z	-
+se	se	P00CN000	-
+alejan	alejar	VMIP3P0	Motion
+satisfechos	satisfacer	VMP00PM	A-StateOfMind
+de	de	SPS00	-
+el	el	DA0MS0	-
+descampado	descampado	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+una	uno	DI0FS0	-
+azotea	azotea	NCFS000	Location
+,	,	Fc	-
+una	uno	DI0FS0	-
+mujer	mujer	NCFS000	Human
+de	de	SPS00	-
+mediana	mediano	AQ0FS0	A-SubjectiveAssessmentAttribute
+edad	edad	NCFS000	-
+tiende	tender	VMIP3S0	Process
+la	el	DA0FS0	-
+colada	colada	NCFS000	-
+mientras	mientras	CS	Time
+habla	hablar	VMIP3S0	Communication
+por	por	SPS00	-
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Dice	decir	VMIP3S0	Communication
+que	que	CS	-
+tiene	tener	VMIP3S0	possesses
+que	que	CS	-
+dar_se_prisa	dar_se_prisa	VMN0000	Process
+y	y	CC	-
+que	que	CS	-
+las	el	DA0FP0	-
+maletas	maleta	NCFP000	Object
+están	estar	VSIP3S0	Aux
+a	a	SPS00	-
+punto	punto	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Confusa	confuso	AQ0FS0	A-StateOfMind
+,	,	Fc	-
+dice	decir	VMIP3S0	Communication
+que	que	CS	-
+no	no	RN	-
+puede	poder	VMIP3S0	Aux
+hablar	hablar	VMN0000	Communication
+y	y	CC	-
+corta	cortar	VMIP3S0	Process
+la	el	DA0FS0	-
+llamada	llamada	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Es	ser	VSIP3S0	exists
+Zoé	zoé	NP00SP0	Human
+,	,	Fc	-
+la	el	DA0FS0	-
+próxima	próximo	AQ0FS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+What	what	NP00SP0	-
+happens	happens	VMIP1P0	Aux
+while	while	NCMS000	-
+<text id='Kaleidoscope-ES'>
+<s>
+Audiodescripción_Kaleidoscope	audiodescripción_kaleidoscope	NCMS000	Authoring
+2016	2016	Z	-
+.	.	Fp	-
+</s>
+<s>
+Amanece	amanecer	VMIP3S0	Time
+en	en	SPS00	-
+un	uno	DI0MS0	-
+paseo	paseo	NCMS000	Location
+marítimo	marítimo	AQ0MS0	A-PositionalAttribute
+con	con	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+a	a	SPS00	-
+el	el	DA0MS0	-
+fondo	fondo	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Una	uno	DI0FS0	-
+pareja	pareja	NCFS000	Human
+pasea	pasear	VMIP3S0	Walking
+con	con	SPS00	-
+un	uno	DI0MS0	-
+perro	perro	NCMS000	Animal
+.	.	Fp	-
+</s>
+<s>
+Un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+hace_footing	hacer_footing	VMIP3S0	Walking
+.	.	Fp	-
+</s>
+<s>
+Sobre	sobre	SPS00	Location
+fondo	fondo	NCMS000	FilmLanguage
+blanco	blanco	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+trajeado	trajear	VMP00SM	A-Clothing
+y	y	CC	-
+con	con	SPS00	-
+corbata	corbata	NCFS000	Clothing
+aparca	aparcar	VMIP3S0	Motion
+un	uno	DI0MS0	-
+coche	coche	NCMS000	-
+deportivo	deportivo	AQ0MS0	A-SubjectiveAssessmentAttribute
+blanco	blanco	AQ0MS0	A-ColorAttribute
+y	y	CC	-
+sale	salir	VMIP3S0	Motion
+hablando	hablar	VMG0000	Communication
+por	por	SPS00	-
+teléfono	teléfono	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Cuelga	colgar	VMIP3S0	Process
+.	.	Fp	-
+</s>
+<s>
+Guardó	guardar	VMIS3S0	Putting
+un	uno	DI0MS0	-
+maletín	maletín	NCMS000	Object
+y	y	CC	-
+sacó	sacar	VMIS3S0	Putting
+una	uno	DI0FS0	-
+bolsa	bolsa	NCFS000	Object
+de	de	SPS00	-
+rayas	raya	NCFP000	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+maletero	maletero	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIS3S0	Seeing
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+,	,	Fc	-
+suspira	suspirar	VMIP3S0	StateOfMind
+y	y	CC	-
+se	se	P00CN000	-
+pone	poner	VMIP3S0	Putting
+unas	uno	DI0FP0	-
+gafas	gafas	NCFP000	Clothing
+de	de	SPS00	-
+sol	sol	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+james	james	NP00G00	Human
+,	,	Fc	-
+el	el	DA0MS0	-
+empresario	empresario	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIS3S0	Walking
+por	por	SPS00	-
+el	el	DA0MS0	-
+paseo	paseo	NCMS000	Location
+llamando	llamar	VMG0000	Communication
+por	por	SPS00	-
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Después	después	RG	Time
+,	,	Fc	-
+sin	sin	SPS00	-
+ropa	ropa	NCFS000	Clothing
+,	,	Fc	-
+se	se	P00CN000	-
+tumba	tumbar	VMIP3S0	BodyMotion
+sobre	sobre	SPS00	Location
+una	uno	DI0FS0	-
+toalla	toalla	NCFS000	Object
+en	en	SPS00	-
+la	el	DA0FS0	-
+arena	arena	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+frota	frotar	VMIP3S0	BodyMotion
+los	el	DA0MP0	-
+ojos	ojo	NCMP000	BodyPart
+y	y	CC	-
+extiende	extender	VMIP3S0	BodyMotion
+sus	su	DP3CP0	-
+brazos	brazo	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIS3S0	Seeing
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+Cuelga	colgar	VMIP3S0	Process
+y	y	CC	-
+se	se	P00CN000	-
+levanta	levantar	VMIP3S0	BodyMotion
+extrañado	extrañar	VMP00SM	A-StateOfMind
+por	por	SPS00	-
+el	el	DA0MS0	-
+ruido	ruido	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIS3S0	Walking
+por	por	SPS00	-
+la	el	DA0FS0	-
+orilla	orilla	NCFS000	Location
+y	y	CC	-
+la	el	DA0FS0	-
+arena	arena	NCFS000	Location
+mirando	mirar	VMG0000	Seeing
+,	,	Fc	-
+desconcertado	desconcertar	VMP00SM	A-StateOfMind
+,	,	Fc	-
+en	en	SPS00	-
+todas	todo	DI0FP0	-
+direcciones	dirección	NCFP000	Location
+.	.	Fp	-
+</s>
+<s>
+Lleva	llevar	VMIP3S0	Dressing
+un	uno	DI0MS0	-
+bóxer	bóxer	NCMS000	Clothing
+negro	negro	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+para	para	VMIP3S0	Motion
+y	y	CC	-
+anda	andar	VMIP3S0	Walking
+sobre	sobre	SPS00	Location
+sus	su	DP3CP0	-
+propios	propio	AQ0MP0	A-SubjectiveAssessmentAttribute
+pasos	paso	NCMP000	-
+preocupado	preocupar	VMP00SM	A-StateOfMind
+por	por	SPS00	-
+el	el	DA0MS0	-
+ruido	ruido	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Comienza	comenzar	VMIP3S0	Aux
+a	a	SPS00	-
+vestir	vestir	VMN0000	Dressing
+se	se	PP3CN000	-
+.	.	Fp	-
+</s>
+<s>
+Después	después	RG	Time
+,	,	Fc	-
+vestido	vestir	VMP00SM	A-Dressing
+con	con	SPS00	-
+el	el	DA0MS0	-
+traje	traje	NCMS000	Clothing
+,	,	Fc	-
+pero	pero	CC	-
+sin	sin	SPS00	-
+la	el	DA0FS0	-
+corbata	corbata	NCFS000	Clothing
+,	,	Fc	-
+camina	caminar	VMIP3S0	Walking
+por	por	SPS00	-
+una	uno	DI0FS0	-
+arboleda	arboleda	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Sube	subir	VMIS3S0	Motion
+por	por	SPS00	-
+un	uno	DI0MS0	-
+sendero	sendero	NCMS000	Location
+empinado	empinar	VMP00SM	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+de	de	SPS00	-
+pelo	pelo	NCMS000	BodyPart
+rizado	rizar	VMP00SM	A-SubjectiveAssessmentAttribute
+y	y	CC	-
+canoso	canoso	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+barba	barba	NCFS000	BodyPart
+desaliñada	desaliñar	VMP00SF	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+cadena	cadena	NCFS000	Clothing
+de	de	SPS00	-
+plata	plata	NCFS000	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+cuello	cuello	NCMS000	BodyPart
+,	,	Fc	-
+camiseta	camiseta	NCFS000	Clothing
+de	de	SPS00	-
+tirantes	tirante	NCMP000	-
+y	y	CC	-
+tatuajes	tatuaje	NCMP000	BodyPart
+tamborilea	tamborilear	VMIP3S0	BodyMotion
+sus	su	DP3CP0	-
+dedos	dedo	NCMP000	BodyPart
+en	en	SPS00	-
+un	uno	DI0MS0	-
+vaso	vaso	NCMS000	Object
+de	de	SPS00	-
+plástico	plástico	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Quita	quita	NP00SP0	Process
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+a	a	SPS00	-
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+y	y	CC	-
+bebe	beber	VMIP3S0	Drinking
+café	café	NCMS000	-
+con	con	SPS00	-
+gesto	gesto	NCMS000	Gesture
+resignado	resignar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Suspira	suspirar	VMIP3S0	StateOfMind
+inquieto	inquieto	AQ0MS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+,	,	Fc	-
+el	el	DA0MS0	-
+jubilado	jubilado	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Es	ser	VSIP3S0	exists
+de	de	SPS00	-
+día	día	NCMS000	Time
+.	.	Fp	-
+</s>
+<s>
+Está	estar	VSIP3S0	Aux
+sentado	sentar	VMP00SM	A-PositionalAttribute
+en	en	SPS00	-
+unos	uno	DI0MP0	-
+bancos	banco	NCMP000	Object
+individuales	individual	AQ0CP0	A-SubjectiveAssessmentAttribute
+en	en	SPS00	-
+un	uno	DI0MS0	-
+parque	parque	NCMS000	Location
+rodeado	rodear	VMP00SM	A-PositionalAttribute
+de	de	SPS00	-
+árboles	árbol	NCMP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Mueve	mover	VMIS3S0	BodyMotion
+una	uno	DI0FS0	-
+pierna	pierna	NCFS000	BodyPart
+intranquilo	intranquilo	AQ0MS0	A-StateOfMind
+y	y	CC	-
+bebe	beber	VMIP3S0	Drinking
+el	el	DA0MS0	-
+café	café	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Deja	dejar	VMIP3S0	Putting
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+en	en	SPS00	-
+un	uno	DI0MS0	-
+banco	banco	NCMS000	Object
+contiguo	contiguo	AQ0MS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Saca	sacar	VMIP3S0	Putting
+su	su	DP3CS0	-
+smartphone	smartphone	NCMS000	Object
+y	y	CC	-
+busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+entre	entre	SPS00	-
+los	el	DA0MP0	-
+contactos	contacto	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+Llama	llamar	VMIP3S0	Communication
+a	a	SPS00	-
+Craig_Anderson	craig_anderson	NP00SP0	-
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIS3S0	Seeing
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Extrañado	extrañar	VMP00SM	A-StateOfMind
+,	,	Fc	-
+mira	mirar	VMIS3S0	Seeing
+en	en	SPS00	-
+todas	todo	DI0FP0	-
+direcciones	dirección	NCFP000	Location
+.	.	Fp	-
+</s>
+<s>
+Cuelga	colgar	VMIP3S0	Process
+y	y	CC	-
+se	se	P00CN000	-
+aleja	alejar	VMIP3S0	Motion
+mirando	mirar	VMG0000	Seeing
+hacia	hacia	SPS00	-
+arriba	arriba	RG	Location
+y	y	CC	-
+a	a	SPS00	-
+los	el	DA0MP0	-
+lados	lado	NCMP000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+una	uno	DI0FS0	-
+habitación	habitación	NCFS000	Location
+,	,	Fc	-
+una	uno	DI0FS0	-
+chica	chico	NCFS000	Human
+de	de	SPS00	-
+pelo	pelo	NCMS000	BodyPart
+rizado	rizar	VMP00SM	A-SubjectiveAssessmentAttribute
+estudia	estudiar	VMIP3S0	IntentionalPsychologicalProcess
+frente_a	frente_a	SPS00	Location
+un	uno	DI0MS0	-
+ordenador	ordenador	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Jess	jess	NP00SP0	Human
+,	,	Fc	-
+la	el	DA0FS0	-
+estudiante	estudiante	NCCS000	Human
+.	.	Fp	-
+</s>
+<s>
+Busca	buscar	VMIS3S0	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+entre	entre	SPS00	-
+los	el	DA0MP0	-
+apuntes	apunte	NCMP000	Object
+.	.	Fp	-
+</s>
+<s>
+Descuelga	descolgar	VMIP3S0	Process
+.	.	Fp	-
+</s>
+<s>
+Cuelga	colgar	VMIP3S0	Process
+y	y	CC	-
+mira	mirar	VMIP3S0	Seeing
+extrañada	extrañar	VMP00SF	A-StateOfMind
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+levanta	levantar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Después	después	RG	Time
+anda	andar	VMIP3S0	Motion
+inquieta	inquieto	AQ0FS0	A-StateOfMind
+por	por	SPS00	-
+la	el	DA0FS0	-
+calle	calle	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Sube	subir	VMIS3S0	Motion
+una	uno	DI0FS0	-
+pendiente	pendiente	NCFS000	-
+rodeada	rodear	VMP00SF	A-PositionalAttribute
+de	de	SPS00	-
+vegetación	vegetación	NCFS000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+para	parar	VMSP1S0	Motion
+,	,	Fc	-
+mira	mirar	VMIS3S0	Seeing
+en	en	SPS00	-
+todas	todo	DI0FP0	-
+direcciones	dirección	NCFP000	Location
+y	y	CC	-
+continua	continuo	AQ0FS0	Motion
+.	.	Fp	-
+</s>
+<s>
+Llega	llegar	VMIP3S0	Motion
+a	a	SPS00	-
+un	uno	DI0MS0	-
+claro	claro	NCMS000	Location
+soleado	solear	VMP00SM	RadiatingLight
+en	en	SPS00	-
+el	el	DA0MS0	-
+que	que	PR0CN000	-
+están	estar	VSIP3P0	located
+Rick	rick	NP00O00	Human
+y	y	CC	-
+james	james	NP00O00	Human
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+acerca	acercar	VMIP3S0	Motion
+poco_a_poco	poco_a_poco	RG	Time
+a	a	SPS00	-
+ellos	ellos	PP3MP000	Location
+.	.	Fp	-
+</s>
+<s>
+Todos	todo	PI0MP000	-
+miran	mirar	VMIP3P0	Seeing
+en	en	SPS00	-
+todas	todo	DI0FP0	-
+direcciones	dirección	NCFP000	Location
+.	.	Fp	-
+</s>
+<s>
+Voz	voz	NCFS000	RadiatingSound
+en	en	SPS00	-
+off	off	NCMS000	FilmLanguage
+.	.	Fp	-
+</s>
+<s>
+Sorprendidos	sorprender	VMP00PM	A-StateOfMind
+,	,	Fc	-
+todos	todo	PI0MP000	-
+miran	mirar	VMIP3P0	Seeing
+hacia	hacia	SPS00	-
+arriba	arriba	RG	Location
+y	y	CC	-
+a	a	SPS00	-
+los	el	DA0MP0	-
+lados	lado	NCMP000	Location
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+encoje_de_hombros	encojer_de_hombros	VMIS1S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+miran	mirar	VMIP3P0	Seeing
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+y	y	CC	-
+Jessica	jessica	NP00O00	-
+niegan	negar	VMIP3P0	Communication
+.	.	Fp	-
+</s>
+<s>
+james	james	NP00G00	Human
+se	se	P00CN000	-
+va	ir	VMIP3S0	Motion
+,	,	Fc	-
+Rick	rick	NP00SP0	Human
+le	le	PP3CSD00	-
+sigue	seguir	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+Jessica	jessica	NP00O00	-
+queda	quedar	VMIP3S0	Motion
+cabizbaja	cabizbajo	AQ0FS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+une	unir	VMIP3S0	Process
+.	.	Fp	-
+</s>
+<s>
+james	james	NP00G00	Human
+le	le	PP3CSD00	-
+pasa	pasar	VMIP3S0	BodyMotion
+el	el	DA0MS0	-
+brazo	brazo	NCMS000	BodyPart
+por	por	SPS00	-
+el	el	DA0MS0	-
+hombro	hombro	NCMS000	BodyPart
+,	,	Fc	-
+Rick	rick	NP00SP0	Human
+le	le	PP3CSD00	-
+extiende	extender	VMIP3S0	BodyMotion
+su	su	DP3CS0	-
+mano	mano	NCFS000	BodyPart
+y	y	CC	-
+los	el	DA0MP0	-
+tres	3	Z	-
+caminan	caminar	VMIP3P0	Walking
+juntos	junto	AQ0MP0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+imagen	imagen	NCFS000	FilmLanguage
+funde	fundir	VMIP3S0	FilmLanguage
+a	a	SPS00	-
+negro	negro	NCMS000	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Una	uno	DI0FS0	-
+mujer	mujer	NCFS000	Human
+negra	negro	AQ0FS0	A-ColorAttribute
+tiende	tender	VMIP3S0	Process
+ropa	ropa	NCFS000	Clothing
+en	en	SPS00	-
+una	uno	DI0FS0	-
+azotea	azotea	NCFS000	Location
+mientras	mientras	CS	Time
+habla	hablar	VMIP3S0	Communication
+por	por	SPS00	-
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+no	no	RN	-
+he	haber	VAIP1S0	Aux
+terminado	terminar	VMP00SM	Aux
+de	de	SPS00	-
+tender	tender	VMN0000	Process
+la	lo	PP3FSA00	-
+.	.	Fp	-
+</s>
+<s>
+Tengo	tener	VMIP1S0	Aux
+que	que	CS	-
+dar_me_prisa	dar_se_prisa	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+¿	¿	Fia	-
+de	de	SPS00	-
+qué	qué	PT0CN000	-
+me	me	PP1CS000	-
+hablas	hablar	VMIP2S0	Communication
+?	?	Fit	-
+Sí	sí	RG	-
+,	,	Fc	-
+claro	claro	RG	-
+,	,	Fc	-
+las	el	DA0FP0	-
+maletas	maleta	NCFP000	Object
+están	estar	VSIP3P0	Aux
+a	a	SPS00	-
+punto	punto	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIS3S0	Seeing
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	RG	Location
+extrañada	extrañar	VMP00SF	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Oye	oír	VMM02S0	Hearing
+,	,	Fc	-
+ahora	ahora	RG	Time
+no	no	RN	-
+puedo	poder	VMIP1S0	Process
+hablar	hablar	VMN0000	Communication
+.	.	Fp	-
+</s>
+<s>
+Tengo	tener	VMIP1S0	Aux
+que	que	CS	-
+dejar	dejar	VMN0000	Motion
+te	te	PP2CS000	-
+.	.	Fp	-
+</s>
+<s>
+Cuelga	colgar	VMIP3S0	Process
+.	.	Fp	-
+</s>
+<s>
+Zoé	zoé	NP00SP0	Human
+,	,	Fc	-
+la	el	DA0FS0	-
+próxima	próximo	AQ0FS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+imagen	imagen	NCFS000	FilmLanguage
+funde	fundir	VMIP3S0	FilmLanguage
+a	a	SPS00	-
+negro	negro	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Sobre	sobre	SPS00	Location
+fondo	fondo	NCMS000	FilmLanguage
+blanco	blanco	AQ0MS0	A-ColorAttribute
+el	el	DA0MS0	-
+título	título	NCMS000	FilmLanguage
+Qué	qué	NP00V00	-
+pasa	pasar	VMIP3S0	Process
+mientras	mientras	RG	Time
+.	.	Fp	-
+</s>
+<s>
+<text id='NavarradeCine-ES'>
+<s>
+De	de	SPS00	-
+día	día	NCMS000	Time
+.	.	Fp	-
+</s>
+<s>
+Frente_a	frente_a	SPS00	Location
+un	uno	DI0MS0	-
+paseo	paseo	NCMS000	Location
+marítimo	marítimo	AQ0MS0	A-PositionalAttribute
+...	...	Fs	-
+El	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+,	,	Fc	-
+luminoso	luminoso	AQ0MS0	A-RadiatingLight
+,	,	Fc	-
+está	estar	VSIP3S0	Aux
+cubierto	cubrir	VMP00SM	A-PositionalAttribute
+de	de	SPS00	-
+nubes	nube	NCFP000	-
+blancas	blanco	AQ0FP0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+hace_footing	hacer_footing	VMIP3S0	Walking
+"	"	Fe	-
+.	.	Fp	-
+</s>
+<s>
+Una	uno	DI0FS0	-
+pareja	pareja	NCFS000	Human
+pasea	pasear	VMIP3S0	Walking
+con	con	SPS00	-
+un	uno	DI0MS0	-
+gran	gran	AQ0CS0	A-SubjectiveAssessmentAttribute
+perro	perro	NCMS000	Animal
+.	.	Fp	-
+</s>
+<s>
+Sobre	sobre	SPS00	Location
+fondo	fondo	NCMS000	FilmLanguage
+blanco	blanco	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Un	uno	DI0MS0	-
+coche	coche	NCMS000	-
+blanco	blanco	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+de	de	SPS00	-
+gama	gama	NCFS000	-
+alta	alto	AQ0FS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+se	se	P00CN000	-
+detiene	detener	VMIP3S0	Motion
+frente_a	frente_a	SPS00	Location
+el	el	DA0MS0	-
+paseo	paseo	NCMS000	Location
+marítimo	marítimo	AQ0MS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+conductor	conductor	NCMS000	Human
+se	se	P00CN000	-
+baja	bajar	VMIP3S0	Motion
+con	con	SPS00	-
+un	uno	DI0MS0	-
+maletín	maletín	NCMS000	Object
+,	,	Fc	-
+mientras	mientras	CS	Time
+habla	hablar	VMIP3S0	Communication
+con	con	SPS00	-
+su	su	DP3CS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Abre	abrir	VMIP3S0	Motion
+el	el	DA0MS0	-
+maletero	maletero	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Cuelga	cuelga	VMIP3S0	Process
+.	.	Fp	-
+</s>
+<s>
+Ha	haber	VAIP3S0	Aux
+dejado	dejar	VMP00SM	Process
+el	el	DA0MS0	-
+maletín	maletín	NCMS000	Object
+y	y	CC	-
+ha	haber	VAIP3S0	Aux
+cogido	coger	VMP00SM	Touching
+una	uno	DI0FS0	-
+bolsa	bolsa	NCFS000	Object
+de	de	SPS00	-
+playa	playa	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+pone	poner	VMIP3S0	Putting
+unas	uno	DI0FP0	-
+gafas	gafas	NCFP000	Clothing
+de	de	SPS00	-
+sol	sol	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Sobreimpreso	sobreimpreso	NCMS000	FilmLanguage
+:	:	Fd	-
+james	james	NP00G00	Human
+el	el	DA0MS0	-
+empresario	empresario	NCMS000	Human
+Llama	llamar	VMIP3S0	Communication
+con	con	SPS00	-
+su	su	DP3CS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+ha	haber	VAIP3S0	Aux
+quitado	quitar	VMP00SM	Putting
+el	el	DA0MS0	-
+traje	traje	NCMS000	Clothing
+y	y	CC	-
+solo	solo	RG	-
+lleva	llevar	VMIP3S0	Dressing
+un	uno	DI0MS0	-
+bañador	bañador	NCMS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+tumba	tumbar	VMIP3S0	BodyMotion
+sobre	sobre	SPS00	Location
+una	uno	DI0FS0	-
+toalla	toalla	NCFS000	Object
+en	en	SPS00	-
+la	el	DA0FS0	-
+arena	arena	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+lleva	llevar	VMIP3S0	BodyMotion
+las	el	DA0FP0	-
+manos	mano	NCFP000	BodyPart
+a	a	SPS00	-
+los	el	DA0MP0	-
+ojos	ojo	NCMP000	BodyPart
+...	...	Fs	-
+con	con	SPS00	-
+gesto	gesto	NCMS000	Gesture
+cansado	cansar	VMP00SM	A-StateOfMind
+...	...	Fs	-
+Se	se	P00CN000	-
+incorpora	incorporar	VMIP3S0	BodyMotion
+y	y	CC	-
+contesta	contestar	VMIP3S0	Communication
+00:02	00:02	Z	-
+:22	:22	Z	-
+Mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+levanta	levantar	VMIP3S0	BodyMotion
+...	...	Fs	-
+y	y	CC	-
+camina	caminar	VMIP3S0	Walking
+por	por	SPS00	-
+la	el	DA0FS0	-
+arena	arena	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Está	estar	VSIP3S0	located
+solo	solo	AQ0MS0	-
+en	en	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+james	james	NP00G00	Human
+tiene	tener	VMIP3S0	possesses
+unos	uno	DI0MP0	-
+40	40	Z	-
+años	año	NCMP000	Time
+,	,	Fc	-
+cabello	cabello	NCMS000	BodyPart
+corto	corto	AQ0MS0	A-SubjectiveAssessmentAttribute
+pelirrojo	pelirrojo	AQ0MS0	A-ColorAttribute
+y	y	CC	-
+barba	barba	NCFS000	BodyPart
+,	,	Fc	-
+también	también	RG	-
+corta	corto	AQ0FS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+mismo	mismo	AQ0MS0	A-SubjectiveAssessmentAttribute
+color	color	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Extrañado	extrañar	VMP00SM	A-StateOfMind
+,	,	Fc	-
+mira	mirar	VMIP3S0	Seeing
+en	en	SPS00	-
+todas	todo	DI0FP0	-
+direcciones	dirección	NCFP000	Location
+buscando	buscar	VMG0000	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+origen	origen	NCMS000	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+enigmático	enigmático	AQ0MS0	A-SubjectiveAssessmentAttribute
+sonido	sonido	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+aproxima	aproximar	VMIP3S0	Motion
+hacia	hacia	SPS00	-
+la	el	DA0FS0	-
+orilla	orilla	NCFS000	Location
+...	...	Fs	-
+gira	gira	NCFS000	Motion
+...	...	Fs	-
+y	y	CC	-
+regresa	regresar	VMIP3S0	Motion
+hacia	hacia	SPS00	-
+sus	su	DP3CP0	-
+pertenencias	pertenencia	NCFP000	-
+...	...	Fs	-
+Coge	coger	VMIP3S0	Touching
+su	su	DP3CS0	-
+ropa	ropa	NCFS000	Clothing
+y	y	CC	-
+vuelve	volver	VMIP3S0	Motion
+a	a	SPS00	-
+vestir	vestir	VMN0000	Dressing
+se	se	PP3CN000	-
+con	con	SPS00	-
+su	su	DP3CS0	-
+traje	traje	NCMS000	Clothing
+,	,	Fc	-
+ahora	ahora	RG	Time
+sin	sin	SPS00	-
+corbata	corbata	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+bajo	bajo	SPS00	Location
+una	uno	DI0FS0	-
+arboleda	arboleda	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Sube	subir	VMIP3S0	Motion
+por	por	SPS00	-
+un	uno	DI0MS0	-
+camino	camino	NCMS000	Location
+de	de	SPS00	-
+tierra	tierra	NCFS000	Location
+hacia	hacia	SPS00	-
+lo_alto	lo_alto	NCMS000	-
+de	de	SPS00	-
+un	uno	DI0MS0	-
+pequeño	pequeño	AQ0MS0	A-SubjectiveAssessmentAttribute
+monte	monte	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+otro	otro	DI0MS0	-
+lugar	lugar	NCMS000	Location
+,	,	Fc	-
+un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+de	de	SPS00	-
+unos	uno	DI0MP0	-
+sesenta	60	Z	-
+años	año	NCMP000	Time
+está	estar	VSIP3S0	Aux
+sentado	sentar	VMP00SM	A-PositionalAttribute
+con	con	SPS00	-
+un	uno	DI0MS0	-
+vaso	vaso	NCMS000	Object
+entre	entre	SPS00	-
+las	el	DA0FP0	-
+manos	mano	NCFP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+...	...	Fs	-
+y	y	CC	-
+esboza	esbozar	VMIP3S0	BodyMotion
+una	uno	DI0FS0	-
+sonrisa	sonrisa	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Con	con	SPS00	-
+gesto	gesto	NCMS000	Gesture
+pensativo	pensativo	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+mira	mirar	VMIP3S0	Seeing
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+,	,	Fc	-
+abre	abrir	VMIP3S0	Motion
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+que	que	PR0CN000	-
+lo	lo	PP3CNA00	-
+cubre	cubrir	VMIP3S0	PositionalAttribute
+...	...	Fs	-
+...	...	Fs	-
+y	y	CC	-
+da	dar	VMIP3S0	Process
+un	uno	DI0MS0	-
+pequeño	pequeño	AQ0MS0	A-SubjectiveAssessmentAttribute
+sorbo	sorbo	NCMS000	Drinking
+de	de	SPS00	-
+café	café	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Tiene	tener	VMIP3S0	possesses
+el	el	DA0MS0	-
+cabello	cabello	NCMS000	BodyPart
+largo	largo	AQ0MS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+canoso	canoso	AQ0MS0	A-ColorAttribute
+y	y	CC	-
+despeinado	despeinar	VMP00SM	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Luce	lucir	VMIP3S0	possesses
+barba	barba	NCFS000	BodyPart
+de	de	SPS00	-
+el	el	DA0MS0	-
+mismo	mismo	AQ0MS0	A-SubjectiveAssessmentAttribute
+color	color	NCMS000	-
+y	y	CC	-
+grandes	grande	AQ0CP0	A-SubjectiveAssessmentAttribute
+ojeras	ojera	NCFP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Su	su	DP3CS0	-
+aspecto	aspecto	NCMS000	-
+general	general	AQ0CS0	A-SubjectiveAssessmentAttribute
+es	ser	VSIP3S0	exists
+bastante	bastante	RG	Quantifier
+desaliñado	desaliñar	VMP00SM	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Viste	vestir	VMIP3S0	Dressing
+pantalones	pantalón	NCMP000	Clothing
+azules	azul	AQ0CP0	A-ColorAttribute
+y	y	CC	-
+camiseta	camiseta	NCFS000	Clothing
+de	de	SPS00	-
+tirantes	tirante	NCMP000	-
+verde	verde	AQ0CS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Está	estar	VSIP3S0	Aux
+sentado	sentar	VMP00SM	A-PositionalAttribute
+en	en	SPS00	-
+un	uno	DI0MS0	-
+parque	parque	NCMS000	Location
+público	público	AQ0MS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Saca	sacar	VMIP3S0	Putting
+su	su	DP3CS0	-
+teléfono_móvil	teléfono_móvil	NCMS000	Object
+...	...	Fs	-
+y	y	CC	-
+busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+un	uno	DI0MS0	-
+nombre	nombre	NCMS000	-
+entre	entre	SPS00	-
+los	el	DA0MP0	-
+contactos	contacto	NCMP000	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+mismo	mismo	AQ0MS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Llama	llamar	VMIP3S0	Communication
+a	a	SPS00	-
+Craig_Anderson	craig_anderson	NP00SP0	-
+.	.	Fp	-
+</s>
+<s>
+Alza_la_vista	alzar_la_vista	VMIP3S0	Seeing
+.	.	Fp	-
+</s>
+<s>
+Cuelga	colgar	VMIP3S0	Process
+...	...	Fs	-
+Se	se	PP3CN000	-
+levanta	levantar	VMIP3S0	BodyMotion
+,	,	Fc	-
+deja	dejar	VMIP3S0	Putting
+el	el	DA0MS0	-
+café	café	NCMS000	-
+sobre	sobre	SPS00	Location
+el	el	DA0MS0	-
+banco	banco	NCMS000	Object
+y	y	CC	-
+comienza	comenzar	VMIP3S0	Aux
+a	a	SPS00	-
+caminar	caminar	VMN0000	Walking
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+una	uno	DI0FS0	-
+casa	casa	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Una	uno	DI0FS0	-
+joven	joven	NCCS000	Human
+de	de	SPS00	-
+unos	uno	DI0MP0	-
+20	20	Z	-
+años	año	NCMP000	Time
+,	,	Fc	-
+luce	lucir	VMIP3S0	possesses
+melena	melena	NCFS000	BodyPart
+pelirroja	pelirrojo	AQ0FS0	A-ColorAttribute
+,	,	Fc	-
+larga	largo	AQ0FS0	A-SubjectiveAssessmentAttribute
+y	y	CC	-
+rizada	rizar	VMP00SF	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Sentada	sentar	VMP00SF	A-PositionalAttribute
+frente_a	frente_a	SPS00	Location
+un	uno	DI0MS0	-
+portátil	portátil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Sobreimpreso	sobreimprimir	VMP00SM	FilmLanguage
+:	:	Fd	-
+JESS	jess	NP00SP0	Human
+,	,	Fc	-
+LA	el	DA0FS0	-
+ESTUDIANTE	estudiante	NCCS000	Human
+.	.	Fp	-
+</s>
+<s>
+Rebusca	rebuscar	VMIP3S0	IntentionalPsychologicalProcess
+sobre	sobre	SPS00	Location
+la	el	DA0FS0	-
+mesa	mesa	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Contesta	contestar	VMIP3S0	Communication
+a	a	SPS00	-
+su	su	DP3CS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Cuelga	colgar	VMIP3S0	Process
+y	y	CC	-
+mira	mirar	VMIP3S0	Seeing
+sorprendida	sorprender	VMP00SF	A-StateOfMind
+hacia	hacia	SPS00	-
+las	el	DA0FP0	-
+paredes	pared	NCFP000	Location
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+levanta	levantar	VMIP3S0	BodyMotion
+...	...	Fs	-
+...	...	Fs	-
+y	y	CC	-
+sale	salir	VMIP3S0	Motion
+de	de	SPS00	-
+la	el	DA0FS0	-
+casa	casa	NCFS000	Location
+...	...	Fs	-
+Camina	caminar	VMIP3S0	Walking
+entre	entre	SPS00	-
+maleza	maleza	NCFS000	Vegetable
+subiendo	subir	VMG0000	Motion
+hacia	hacia	SPS00	-
+lo_alto	lo_alto	NCMS000	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+pequeño	pequeño	AQ0MS0	A-SubjectiveAssessmentAttribute
+monte	monte	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Llega	llegar	VMIP3S0	Motion
+hasta	hasta	SPS00	-
+una	uno	DI0FS0	-
+gran	gran	AQ0CS0	A-SubjectiveAssessmentAttribute
+explanada	explanada	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Los	el	DA0MP0	-
+otros	otro	DI0MP0	-
+dos	2	Z	-
+hombres	hombre	NCMP000	Human
+ya	ya	RG	-
+están	estar	VSIP3S0	Process
+allí	allí	RG	Location
+...	...	Fs	-
+Todos	todo	PI0MP000	-
+miran	mirar	VMIP3P0	Seeing
+hacia	hacia	SPS00	-
+el	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+desconcertados	desconcertar	VMP00PM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Los	el	DA0MP0	-
+tres	3	Z	-
+siguen	seguir	VMIP3P0	Aux
+mirando	mirar	VMG0000	Seeing
+extrañados	extrañar	VMP00PM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Los	el	DA0MP0	-
+tres	3	Z	-
+se	se	P00CN000	-
+miran	mirar	VMIP3P0	Seeing
+entre	entre	SPS00	-
+sí	sí	PP3CNO00	-
+,	,	Fc	-
+negando	negar	VMG0000	BodyMotion
+con	con	SPS00	-
+la	el	DA0FS0	-
+cabeza	cabeza	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+sigue	seguir	VMIP3S0	Motion
+a	a	SPS00	-
+james	james	NP00SP0	Human
+...	...	Fs	-
+Jess	jess	NP00SP0	Human
+sonríe	sonreír	VMIP3S0	Gesture
+pensativa	pensativo	AQ0FS0	A-StateOfMind
+...	...	Fs	-
+y	y	CC	-
+va	ir	VMIP3S0	Motion
+tras	tras	SPS00	-
+ellos	ellos	PP3MP000	Location
+.	.	Fp	-
+</s>
+<s>
+Los	el	DA0MP0	-
+tres	3	Z	-
+juntos	junto	AQ0MP0	A-PositionalAttribute
+caminando	caminar	VMG0000	Walking
+se	se	P00CN000	-
+alejan	alejar	VMIP3P0	Motion
+de	de	SPS00	-
+la	el	DA0FS0	-
+explanada	explanada	NCFS000	Location
+...	...	Fs	-
+La	el	DA0FS0	-
+imagen	imagen	NCFS000	FilmLanguage
+corta	cortar	VMIP3S0	FilmLanguage
+a	a	SPS00	-
+negro	negro	AQ0MS0	FilmLanguage
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+una	uno	DI0FS0	-
+terraza	terraza	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Una	uno	DI0FS0	-
+mujer	mujer	NCFS000	Human
+de	de	SPS00	-
+unos	uno	DI0MP0	-
+30	30	Z	-
+años	año	NCMP000	Time
+de	de	SPS00	-
+raza	raza	NCFS000	-
+negra	negro	AQ0FS0	A-ColorAttribute
+tiende	tender	VMIP3S0	Process
+la	el	DA0FS0	-
+ropa	ropa	NCFS000	Clothing
+mientras	mientras	CS	Time
+habla	hablar	VMIP3S0	Communication
+por	por	SPS00	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+"	"	Fe	-
+NO	no	RN	-
+,	,	Fc	-
+NO	no	RN	-
+HE	haber	VAIP1S0	Aux
+TERMINADO	terminar	VMP00SM	Aux
+DE	de	SPS00	-
+TENDER	tender	VMN0000	Process
+LA	lo	PP3FSA00	-
+.	.	Fp	-
+</s>
+<s>
+TENGO	tengo	NP00O00	-
+QUE	que	CS	-
+DAR_ME_PRISA	dar_se_prisa	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+"	"	Fe	-
+"	"	Fe	-
+NO	no	RN	-
+,	,	Fc	-
+¿	¿	Fia	-
+DE	de	SPS00	-
+QUÉ	qué	PT0CN000	-
+ME	me	PP1CS000	-
+HABLAS	hablar	VMIP2S0	Communication
+?	?	Fit	-
+SÍ	sí	RG	-
+,	,	Fc	-
+CLARO	claro	RG	-
+.	.	Fp	-
+</s>
+<s>
+LAS	el	DA0FP0	-
+MALETAS	maleta	NCFP000	Object
+ESTÁN	estar	VSIP3S0	Aux
+A	a	SPS00	-
+PUNTO	punto	NCMS000	-
+...	...	Fs	-
+"	"	Fe	-
+"	"	Fe	-
+OYE	oír	VMM02S0	Hearing
+,	,	Fc	-
+AHORA	ahora	RG	Time
+NO	no	RN	-
+PUEDO	poder	VMIP1S0	Aux
+HABLAR	hablar	VMN0000	Communication
+.	.	Fp	-
+</s>
+<s>
+TENGO	tener	VMIP1S0	Aux
+QUE	que	CS	-
+DEJAR	dejar	VMN0000	Motion
+TE	te	PP2CS000	-
+.	.	Fp	-
+</s>
+<s>
+"	"	Fe	-
+Sobreimpreso	sobreimprimir	VMP00SM	FilmLanguage
+:	:	Fd	-
+ZOÉ	zoé	NP00SP0	Human
+,	,	Fc	-
+LA	el	DA0FS0	-
+PRÓXIMA	próximo	AQ0FS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+imagen	imagen	NCFS000	FilmLanguage
+se	se	P00CN000	-
+congela	congelar	VMIP3S0	FilmLanguage
+.	.	Fp	-
+</s>
+<s>
+Sobre	sobre	SPS00	Location
+fondo	fondo	NCMS000	FilmLanguage
+blanco	blanco	AQ0MS0	A-ColorAttribute
+:	:	Fd	-
+¿	¿	Fia	-
+QUÉ	qué	PT0CN000	-
+PASA	pasar	VMIP3S0	Process
+MIENTRAS	mientras	CS	Time
+...	...	Fs	-
+?	?	Fit	-
+<text id='SDI-Media-ES'>
+<s>
+Es	ser	VSIP3S0	exists
+un	uno	DI0MS0	-
+día	día	NCMS000	Time
+nuboso	nuboso	AQ0MS0	A-RadiatingLight
+en	en	SPS00	-
+una	uno	DI0FS0	-
+playa	playa	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Una	uno	DI0FS0	-
+pareja	pareja	NCFS000	Human
+pasea	pasear	VMIP3S0	Walking
+por	por	SPS00	-
+la	el	DA0FS0	-
+arena	arena	NCFS000	Location
+con	con	SPS00	-
+su	su	DP3CS0	-
+perro	perro	NCMS000	Animal
+.	.	Fp	-
+</s>
+<s>
+Por	por	SPS00	-
+la	el	DA0FS0	-
+orilla	orilla	NCFS000	Location
+pasa	pasar	VMIP3S0	Motion
+un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+haciendo_footing	hacer_footing	VMG0000	Walking
+El	el	DA0MS0	-
+perro	perro	NCMS000	Animal
+se	se	P00CN000	-
+para	parar	VMIP3S0	Motion
+a	a	SPS00	-
+olisquear	olisquear	VMN0000	Smelling
+algo	algo	PI0CS000	-
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+animal	animal	NCMS000	-
+atiende	atender	VMIP3S0	Hearing
+a	a	SPS00	-
+el	el	DA0MS0	-
+silbido	silbido	NCMS000	RadiatingSound
+de	de	SPS00	-
+el	el	DA0MS0	-
+amo	amo	NCMS000	Human
+y	y	CC	-
+prosigue	proseguir	VMIP3S0	Motion
+su	su	DP3CS0	-
+camino	camino	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Un	uno	DI0MS0	-
+coche	coche	NCMS000	-
+blanco	blanco	AQ0MS0	A-ColorAttribute
+circula	circular	VMIP3S0	Motion
+junto_a	junto_a	SPS00	Location
+el	el	DA0MS0	-
+paseo	paseo	NCMS000	Location
+marítimo	marítimo	AQ0MS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+conductor	conductor	NCMS000	Human
+aparca	aparcar	VMIP3S0	Motion
+mientras	mientras	CS	Time
+habla	hablar	VMIP3S0	Communication
+por	por	SPS00	-
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+quita	quitar	VMIP3S0	Putting
+el	el	DA0MS0	-
+cinturón	cinturón	NCMS000	Clothing
+y	y	CC	-
+abre	abrir	VMIP3S0	Process
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+trata	tratar	VMIP3S0	Aux
+de	de	SPS00	-
+un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+de	de	SPS00	-
+unos	uno	DI0MP0	-
+cuarenta	40	Z	-
+años	año	NCMP000	Time
+con	con	SPS00	-
+barba	barba	NCFS000	BodyPart
+y	y	CC	-
+piel	piel	NCFS000	BodyPart
+clara	claro	AQ0FS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Viste	vestir	VMIP3S0	Dressing
+traje	traje	NCMS000	Clothing
+de	de	SPS00	-
+chaqueta	chaqueta	NCFS000	Clothing
+y	y	CC	-
+corbata	corbata	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Cuelga	colgar	VMIP3S0	Process
+el	el	DA0MS0	-
+teléfono	teléfono	NCMS000	Object
+y	y	CC	-
+mira	mirar	VMIP3S0	Seeing
+hacia	hacia	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Saca	sacar	VMIP3S0	Putting
+de	de	SPS00	-
+el	el	DA0MS0	-
+bolsillo	bolsillo	NCMS000	Clothing
+unas	uno	DI0FP0	-
+gafas	gafas	NCFP000	Clothing
+de	de	SPS00	-
+sol	sol	NCMS000	-
+y	y	CC	-
+se	se	P00CN000	-
+las	lo	PP3FPA00	-
+pone	poner	VMIP3S0	Putting
+.	.	Fp	-
+</s>
+<s>
+JAMES	james	NP00G00	Human
+.	.	Fp	-
+</s>
+<s>
+EL	el	NP00V00	Aux
+EMPRESARIO	empresario	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+james	james	NP00G00	Human
+camina	caminar	VMIP3S0	Walking
+con	con	SPS00	-
+una	uno	DI0FS0	-
+bolsa	bolsa	NCFS000	Object
+de	de	SPS00	-
+playa	playa	NCFS000	Location
+a	a	SPS00	-
+el	el	DA0MS0	-
+hombro	hombro	NCMS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Marca	marcar	VMIP3S0	Aux
+en	en	SPS00	-
+su	su	DP3CS0	-
+teléfono	teléfono	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Más	más	RG	-
+tarde	tarde	RG	Time
+,	,	Fc	-
+en	en	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+,	,	Fc	-
+james	james	NP00SP0	Human
+se	se	P00CN000	-
+tumba	tumbar	VMIP3S0	BodyMotion
+boca_arriba	boca_arriba	RG	PositionalAttribute
+sobre	sobre	SPS00	Location
+una	uno	DI0FS0	-
+toalla	toalla	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Tiene	tener	VMIP3S0	possesses
+el	el	DA0MS0	-
+torso	torso	NCMS000	BodyPart
+desnudo	desnudo	AQ0MS0	A-SubjectiveAssessmentAttribute
+y	y	CC	-
+los	el	DA0MP0	-
+ojos	ojo	NCMP000	BodyPart
+cerrados	cerrar	VMP00PM	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+pasa	pasar	VMIP3S0	Touching
+las	el	DA0FP0	-
+manos	mano	NCFP000	BodyPart
+por	por	SPS00	-
+la	el	DA0FS0	-
+cara	cara	NCFS000	BodyPart
+y	y	CC	-
+extiende	extender	VMIP3S0	BodyMotion
+los	el	DA0MP0	-
+brazos	brazo	NCMP000	BodyPart
+dejando	dejar	VMG0000	Aux
+los	lo	PP3MPA00	-
+caer	caer	VMIP3S0	Motion
+a	a	SPS00	-
+cada	cada	DI0CS0	-
+lado	lado	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Revuelve	revolver	VMIP3S0	Touching
+la	el	DA0FS0	-
+arena	arena	NCFS000	Location
+con	con	SPS00	-
+los	el	DA0MP0	-
+dedos	dedo	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Frunce_el_ceño	fruncir_el_ceño	VMIP3S0	Gesture
+y	y	CC	-
+mira	mirar	VMIP3S0	Seeing
+entre	entre	SPS00	-
+sus	su	DP3CP0	-
+cosas	cosa	NCFP000	Location
+.	.	Fp	-
+</s>
+<s>
+Suelta	soltar	VMIP3S0	Process
+el	el	DA0MS0	-
+teléfono	teléfono	NCMS000	Object
+y	y	CC	-
+se	se	P00CN000	-
+pone_en_pie	poner_en_pie	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+hacia	hacia	SPS00	-
+la	el	DA0FS0	-
+orilla	orilla	NCFS000	Location
+,	,	Fc	-
+está	estar	VSIP3S0	Aux
+en	en	SPS00	-
+calzoncillos	calzoncillo	NCMP000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Da_algunos_pasos	dar_pasos	VMIP3S0	Walking
+sin	sin	SPS00	-
+rumbo	rumbo	NCMS000	-
+mirando	mirar	VMG0000	Seeing
+extrañado	extrañar	VMP00SM	A-StateOfMind
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+,	,	Fc	-
+como	como	CS	-
+si	si	CS	-
+buscara	buscar	VMSI3S0	IntentionalPsychologicalProcess
+algo	algo	PI0CS000	-
+.	.	Fp	-
+</s>
+<s>
+Queda	quedar	VMIP3S0	Motion
+quieto	quieto	AQ0MS0	A-PositionalAttribute
+unos	uno	DI0MP0	-
+segundos	segundo	NCMP000	Time
+y	y	CC	-
+vuelve	volver	VMIP3S0	Walking
+hacia	hacia	SPS00	-
+su	su	DP3CS0	-
+toalla	toalla	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+para	parar	VMIP3S0	Motion
+y	y	CC	-
+da_media_vuelta	dar_media_vuelta	VMIP3S0	Motion
+alarmado	alarmar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Retoma	retomar	VMIP3S0	Process
+el	el	DA0MS0	-
+paso	paso	NCMS000	Walking
+dibujando	dibujar	VMG0000	Process
+pisadas	pisada	NCFP000	-
+inconexas	inconexo	AQ0FP0	A-SubjectiveAssessmentAttribute
+en	en	SPS00	-
+la	el	DA0FS0	-
+arena	arena	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+james	james	NP00G00	Human
+vuelve	volver	VMIP3S0	Walking
+hacia	hacia	SPS00	-
+su	su	DP3CS0	-
+toalla	toalla	NCFS000	Object
+mirando	mirar	VMG0000	Seeing
+hacia	hacia	SPS00	-
+el	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+con	con	SPS00	-
+cara	cara	NCFS000	BodyPart
+de	de	SPS00	-
+desconcierto	desconcierto	NCMS000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Coge	coger	VMIP3S0	Touching
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+y	y	CC	-
+se	se	P00CN000	-
+la	lo	PP3FSA00	-
+pone	poner	VMIP3S0	Putting
+sin	sin	SPS00	-
+relajar	relajar	VMN0000	BodyMotion
+el	el	DA0MS0	-
+ceño	ceño	NCMS000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Más	más	RG	-
+tarde	tarde	RG	Time
+,	,	Fc	-
+james	james	NP00SP0	Human
+ha	haber	VAIP3S0	Aux
+abandonado	abandonar	VMP00SM	Motion
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Lleva_puesto	llevar_puesto	VMIP3S0	Dressing
+de_nuevo	de_nuevo	RG	Time
+el	el	DA0MS0	-
+traje	traje	NCMS000	Clothing
+de	de	SPS00	-
+chaqueta	chaqueta	NCFS000	Clothing
+sin	sin	SPS00	-
+la	el	DA0FS0	-
+corbata	corbata	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+por	por	SPS00	-
+una	uno	DI0FS0	-
+arboleda	arboleda	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Llega	llegar	VMIP3S0	Motion
+hasta	hasta	SPS00	-
+una	uno	DI0FS0	-
+colina	colina	NCFS000	Location
+llena	lleno	AQ0FS0	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+arbustos	arbusto	NCMP000	Vegetable
+y	y	CC	-
+cactus	cactus	NCMN000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Comienza	comenzar	VMIP3S0	Aux
+a	a	SPS00	-
+subir	subir	VMN0000	Motion
+por	por	SPS00	-
+una	uno	DI0FS0	-
+senda	senda	NCFS000	Location
+de	de	SPS00	-
+tierra	tierra	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+otro	otro	DI0MS0	-
+lugar	lugar	NCMS000	Location
+,	,	Fc	-
+alguien	alguien	PI0CS000	-
+sostiene	sostener	VMIP3S0	Touching
+un	uno	DI0MS0	-
+vaso	vaso	NCMS000	Object
+térmico	térmico	AQ0MS0	A-SubjectiveAssessmentAttribute
+con	con	SPS00	-
+tapadera	tapadera	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+trata	tratar	VMIP3S0	Aux
+de	de	SPS00	-
+un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+de	de	SPS00	-
+unos	uno	DI0MP0	-
+sesenta	60	Z	-
+años	año	NCMP000	Time
+con	con	SPS00	-
+barbas	barba	NCFP000	BodyPart
+,	,	Fc	-
+ojos	ojo	NCMP000	BodyPart
+saltones	saltón	AQ0MP0	A-SubjectiveAssessmentAttribute
+y	y	CC	-
+pelo	pelo	NCMS000	BodyPart
+largo	largo	AQ0MP0	A-SubjectiveAssessmentAttribute
+desaliñado	desaliñar	VMP00SM	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Viste	vestir	VMIP3S0	Dressing
+camiseta	camiseta	NCFS000	Clothing
+de	de	SPS00	-
+tirantes	tirante	NCMP000	-
+y	y	CC	-
+lleva	llevar	VMIP3S0	Dressing
+una	uno	DI0FS0	-
+cadena	cadena	NCFS000	Clothing
+de	de	SPS00	-
+eslabones	eslabón	NCMP000	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+cuello	cuello	NCMS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Toquetea	toquetear	VMIP3S0	Touching
+aburrido	aburrir	VMP00SM	A-StateOfMind
+la	el	DA0FS0	-
+tapadera	tapadera	NCFS000	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+La	lo	PP3FSA00	-
+abre	abrir	VMIP3S0	Process
+,	,	Fc	-
+está	estar	VSIP3S0	Aux
+lleno	lleno	AQ0MS0	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+café	café	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+hombre	hombre	NCMS000	Human
+observa	observar	VMIP3S0	Seeing
+el	el	DA0MS0	-
+café	café	NCMS000	-
+y	y	CC	-
+bebe	beber	VMIP3S0	Drinking
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+hacia	hacia	SPS00	-
+el	el	DA0MS0	-
+frente	frente	NCFS000	Location
+con	con	SPS00	-
+desencanto	desencanto	NCMS000	StateOfMind
+en	en	SPS00	-
+sus	su	DP3CP0	-
+ojos	ojo	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+RICK	rick	NP00O00	Human
+.	.	Fp	-
+</s>
+<s>
+EL	el	DA0MS0	-
+JUBILADO	jubilado	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+está	estar	VSIP3S0	Aux
+sentado	sentar	VMP00SM	A-PositionalAttribute
+en	en	SPS00	-
+un	uno	DI0MS0	-
+banco	banco	NCMS000	Object
+individual	individual	AQ0CS0	A-SubjectiveAssessmentAttribute
+en	en	SPS00	-
+un	uno	DI0MS0	-
+parque	parque	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Bebe	beber	VMIP3S0	Drinking
+un	uno	DI0MS0	-
+trago	trago	NCMS000	-
+más	más	RG	-
+de	de	SPS00	-
+café	café	NCMS000	-
+mientras	mientras	CS	Time
+mueve	mover	VMIP3S0	BodyMotion
+nervioso	nervioso	AQ0MS0	A-StateOfMind
+una	uno	DI0FS0	-
+pierna	pierna	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Deja	dejar	VMIP3S0	Putting
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+en	en	SPS00	-
+el	el	DA0MS0	-
+banco	banco	NCMS000	Object
+de	de	SPS00	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+lado	lado	NCMS000	Location
+y	y	CC	-
+se	se	P00CN000	-
+recuesta	recostar	VMIP3S0	BodyMotion
+en	en	SPS00	-
+el	el	DA0MS0	-
+respaldo	respaldo	NCMS000	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+suyo	suyo	PX3MS0C0	-
+.	.	Fp	-
+</s>
+<s>
+Saca	sacar	VMIP3S0	Putting
+el	el	DA0MS0	-
+teléfono	teléfono	NCMS000	Object
+móvil	móvil	AQ0CS0	A
+de	de	SPS00	-
+el	el	DA0MS0	-
+bolsillo	bolsillo	NCMS000	Clothing
+trasero	trasero	AQ0MS0	A-PositionalAttribute
+de	de	SPS00	-
+el	el	DA0MS0	-
+pantalón	pantalón	NCMS000	Clothing
+y	y	CC	-
+busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+en	en	SPS00	-
+la	el	DA0FS0	-
+agenda	agenda	NCFS000	Location
+de	de	SPS00	-
+contactos	contacto	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+Marca	marcar	VMIP3S0	Process
+GRAIG_ANDERSON	GRAIG_ANDERSON	NP00O00	-
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+extrañado	extrañar	VMP00SM	A-StateOfMind
+hacia	hacia	SPS00	-
+el	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+sonríe	sonreír	VMIP3S0	Gesture
+y	y	CC	-
+cuelga	colgar	VMIP3S0	Process
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+pone_en_pie	poner_en_pie	VMIP3S0	BodyMotion
+y	y	CC	-
+se	se	P00CN000	-
+aleja	alejar	VMIP3S0	Motion
+de	de	SPS00	-
+el	el	DA0MS0	-
+banco	banco	NCMS000	Object
+dejando	dejar	VMG0000	Process
+olvidado	olvidar	VMP00SM	A-PositionalAttribute
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+de	de	SPS00	-
+café	café	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Abandona	abandonar	VMIP3S0	Motion
+el	el	DA0MS0	-
+parque	parque	NCMS000	Location
+dando_pasos	dar_pasos	VMG0000	Walking
+de_un_lado_a_otro	de_un_lado_a_otro	RG	Location
+y	y	CC	-
+mirando	mirar	VMG0000	Seeing
+hacia	hacia	SPS00	-
+el	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+otra	otro	DI0FS0	-
+parte	parte	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Una	uno	DI0FS0	-
+chica	chico	NCFS000	Human
+frente_a	frente_a	SPS00	Location
+un	uno	DI0MS0	-
+ordenador	ordenador	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+JESS	jess	NP00O00	Human
+.	.	Fp	-
+</s>
+<s>
+LA	la	NP00V00	Aux
+ESTUDIANTE	estudiante	NCCS000	Human
+.	.	Fp	-
+</s>
+<s>
+Tiene	tener	VMIP3S0	possesses
+el	el	DA0MS0	-
+pelo	pelo	NCMS000	BodyPart
+rizado	rizar	VMP00SM	A-SubjectiveAssessmentAttribute
+y	y	CC	-
+rojo	rojo	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Rebusca	rebuscar	VMIP3S0	IntentionalPsychologicalProcess
+entre	entre	SPS00	-
+unos	uno	DI0MP0	-
+papeles	papel	NCMP000	Object
+,	,	Fc	-
+encuentra	encontrar	VMIP3S0	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+rasca	rascar	VMIP3S0	Touching
+el	el	DA0MS0	-
+oído	oído	NCMS000	Hearing
+.	.	Fp	-
+</s>
+<s>
+Cuelga	cuelga	VMIP3S0	Process
+y	y	CC	-
+mira	mirar	VMIP3S0	Seeing
+de_lado_a_lado	de_lado_a_lado	RG	Location
+con	con	SPS00	-
+gesto	gesto	NCMS000	Gesture
+extrañado	extrañar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+sobresalta	sobresaltar	VMIP3S0	StateOfMind
+y	y	CC	-
+mira	mirar	VMIP3S0	Seeing
+hacia	hacia	SPS00	-
+el	el	DA0MS0	-
+techo	techo	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Jess	jess	NP00SP0	Human
+está	estar	VSIP3S0	located
+en	en	SPS00	-
+la	el	DA0FS0	-
+calle	calle	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+ha	haber	VAIP3S0	Aux
+puesto	poner	VMP00SM	A-Clothing
+el	el	DA0MS0	-
+abrigo	abrigo	NCMS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+aturdida	aturdir	VMP00SF	A-StateOfMind
+en_busca_de	en_busca_de	SPS00	-
+algo	algo	PI0CS000	-
+.	.	Fp	-
+</s>
+<s>
+Sube	subir	VMIP3S0	Motion
+por	por	SPS00	-
+un	uno	DI0MS0	-
+montículo	montículo	NCMS000	Location
+lleno	lleno	AQ0MS0	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+arbustos	arbusto	NCMP000	Vegetable
+y	y	CC	-
+maleza	maleza	NCFS000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+para	parar	VMIP3S0	Motion
+y	y	CC	-
+mira	mirar	VMIP3S0	Seeing
+desconfiada	desconfiado	NCFS000	A-StateOfMind
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Continúa	continuar	VMIP3S0	Walking
+y	y	CC	-
+se	se	P00CN000	-
+pierde	perder	VMIP3S0	Process
+entre	entre	SPS00	-
+la	el	DA0FS0	-
+vegetación	vegetación	NCFS000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Jess	jess	NP00SP0	Human
+llega	llegar	VMIP3S0	Motion
+a	a	SPS00	-
+un	uno	DI0MS0	-
+descampado	descampado	NCMS000	Location
+donde	donde	PR000000	-
+también	también	RG	-
+están	estar	VSIP3P0	located
+Rick	rick	NP00O00	Human
+y	y	CC	-
+james	james	NP00O00	Human
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+luz	luz	NCFS000	RadiatingLight
+de	de	SPS00	-
+el	el	DA0MS0	-
+sol	sol	NCMS000	-
+brilla	brillar	VMIP3S0	RadiatingLight
+con	con	SPS00	-
+fuerza	fuerza	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Los	el	DA0MP0	-
+tres	3	Z	-
+miran	mirar	VMIP3P0	Seeing
+desconcertados	desconcertar	VMP00PM	A-StateOfMind
+de_lado_a_lado	de_lado_a_lado	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Giran	girar	VMIP3P0	Motion
+sobre	sobre	SPS00	Location
+sí	sí	PP3CNO00	-
+mismos	mismo	AQ0MP0	A-SubjectiveAssessmentAttribute
+con	con	SPS00	-
+cara	cara	NCFS000	BodyPart
+de	de	SPS00	-
+asombro	asombro	NCMS000	StateOfMind
+y	y	CC	-
+mirando	mirar	VMG0000	Seeing
+hacia	hacia	SPS00	-
+el	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Él	él	PP3MS000	-
+se	se	P00CN000	-
+encoge_de_hombros	encoger_de_hombros	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+niega_con_la_cabeza	negar_con_la_cabeza	VMIP3S0	Gesture
+,	,	Fc	-
+Jess	jess	NP00SP0	Human
+también	también	RG	-
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+alza	alzar	VMIP3S0	BodyMotion
+los	el	DA0MP0	-
+brazos	brazo	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+james	james	NP00G00	Human
+camina	caminar	VMIP3S0	Walking
+hacia	hacia	SPS00	-
+los	el	DA0MP0	-
+arbustos	arbusto	NCMP000	Vegetable
+,	,	Fc	-
+Rick	rick	NP00SP0	Human
+le	le	PP3CSD00	-
+sigue	sigue	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+Jess	jess	NP00SP0	Human
+queda	quedar	VMIP3S0	Process
+pensativa	pensativo	AQ0FS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Corre	correr	VMIP3S0	Walking
+hacia	hacia	SPS00	-
+ellos	ellos	PP3MP000	Location
+y	y	CC	-
+james	james	NP00O00	Human
+le	le	PP3CSD00	-
+rodea	rodear	VMIP3S0	BodyMotion
+los	el	DA0MP0	-
+hombros	hombro	NCMP000	BodyPart
+con	con	SPS00	-
+el	el	DA0MS0	-
+brazo	brazo	NCMS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Los	el	DA0MP0	-
+tres	3	Z	-
+caminan	caminar	VMIP3P0	Walking
+hacia	hacia	SPS00	-
+el	el	DA0MS0	-
+bosque	bosque	NCMS000	Vegetable
+de	de	SPS00	-
+matorrales	matorral	NCMP000	Vegetable
+y	y	CC	-
+abandonan	abandonar	VMIP3P0	Motion
+el	el	DA0MS0	-
+descampado	descampado	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Fundido	fundir	VMP00SM	FilmLanguage
+a	a	SPS00	-
+negro	negro	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Una	uno	DI0FS0	-
+mujer	mujer	NCFS000	Human
+tiende	tender	VMIP3S0	Process
+la	el	DA0FS0	-
+ropa	ropa	NCFS000	Clothing
+mientras	mientras	CS	Time
+habla	hablar	VMIP3S0	Communication
+por	por	SPS00	-
+teléfono	teléfono	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+subtítulos	subtítulo	NCMP000	FilmLanguage
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+no	no	RN	-
+he	haber	VAIP1S0	Aux
+terminado	terminar	VMP00SM	Aux
+de	de	SPS00	-
+tender	tender	VMN0000	Process
+la	lo	PP3FSA00	-
+.	.	Fp	-
+</s>
+<s>
+Tengo	tener	VMIP1S0	Aux
+que	que	CS	-
+dar_me_prisa	dar_se_prisa	VMIP3S0	Process
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+¿	¿	Fia	-
+de	de	SPS00	-
+qué	qué	PT0CN000	-
+me	me	PP1CS000	-
+hablas	hablar	VMIP2S0	Communication
+?	?	Fit	-
+Sí	sí	RG	-
+,	,	Fc	-
+claro	claro	RG	-
+las	el	DA0FP0	-
+maletas	maleta	NCFP000	Object
+están	estar	VSIP3P0	Aux
+a	a	SPS00	-
+punto	punto	NCMS000	-
+...	...	Fs	-
+Se	se	P00CN000	-
+gira	girar	VMIP3S0	BodyMotion
+con	con	SPS00	-
+gesto	gesto	NCMS000	Gesture
+confuso	confuso	AQ0MS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Oye	oír	VMM02S0	Hearing
+,	,	Fc	-
+ahora	ahora	RG	Time
+no	no	RN	-
+puedo	poder	VMIP1S0	Aux
+hablar	hablar	VMN0000	Communication
+.	.	Fp	-
+</s>
+<s>
+Tengo	tener	VMIP1S0	Aux
+que	que	CS	-
+dejar	dejar	VMN0000	Motion
+te	te	PP2CS000	-
+.	.	Fp	-
+</s>
+<s>
+Cuelga	colgar	VMIP3S0	Process
+y	y	CC	-
+frunce_el_ceño	fruncir_el_ceño	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+ZOé	zoé	NP0000	Human
+.	.	Fp	-
+</s>
+<s>
+LA	la	DA0FS0	-
+PRÓXIMA	próximo	AQ0FS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Fundido	fundir	VMP00SM	FilmLanguage
+a	a	SPS00	-
+negro	negro	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Sobre	sobre	SPS00	Location
+un	uno	DI0MS0	-
+fondo	fondo	NCMS000	FilmLanguage
+blanco	blanco	AQ0MS0	A-ColorAttribute
+surge	surgir	VMIP3S0	Motion
+el	el	DA0MS0	-
+rótulo	rótulo	NCMS000	FilmLanguage
+:	:	Fd	-
+¿	¿	Fia	-
+QUé	qué	PT0CN000	-
+PASA	pasar	VMIP3S0	Process
+MIENTRAS	mientras	CS	Time
+?	?	Fit	-
+<text id='Sonidos-ES'>
+<s>
+En	en	SPS00	-
+una	uno	DI0FS0	-
+playa	playa	NCFS000	Location
+casi	casi	RG	-
+vacía	vacío	AQ0FS0	A-SubjectiveAssessmentAttribute
+una	uno	DI0FS0	-
+pareja	pareja	NCFS000	Human
+pasea	pasear	VMIP3S0	Walking
+un	uno	DI0MS0	-
+perro	perro	NCMS000	Animal
+y	y	CC	-
+un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+hace_footing	hacer_footing	VMIP3S0	Walking
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+pareja	pareja	NCFS000	Human
+lleva	llevar	VMIP3S0	Dressing
+ropa	ropa	NCFS000	Clothing
+de	de	SPS00	-
+abrigo	abrigo	NCMS000	-
+y	y	CC	-
+el	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+está	estar	VSIP3S0	Aux
+nublado	nublar	VMP00SM	A-RadiatingLight
+.	.	Fp	-
+</s>
+<s>
+Sobreescrito	sobreescribir	VMP00SM	A-FilmLanguage
+en	en	SPS00	-
+pantalla	pantalla	NCFS000	FilmLanguage
+.	.	Fp	-
+</s>
+<s>
+Un	uno	DI0MS0	-
+coche	coche	NCMS000	-
+de	de	SPS00	-
+alta	alto	AQ0FS0	A-SubjectiveAssessmentAttribute
+gama	gama	NCFS000	-
+aparca	aparcar	VMIP3S0	Motion
+frente_a	frente_a	SPS00	Location
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+trajeado	trajear	VMP00SM	A-Clothing
+se	se	P00CN000	-
+baja	bajar	VMIP3S0	Motion
+,	,	Fc	-
+abre	abrir	VMIP3S0	Process
+el	el	DA0MS0	-
+maletero	maletero	NCMS000	Location
+y	y	CC	-
+cambia	cambiar	VMIP3S0	Process
+su	su	DP3CS0	-
+maletín	maletín	NCMS000	Object
+por	por	SPS00	-
+una	uno	DI0FS0	-
+bolsa	bolsa	NCFS000	Object
+de	de	SPS00	-
+playa	playa	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+hombre	hombre	NCMS000	Human
+,	,	Fc	-
+de	de	SPS00	-
+unos	uno	DI0MP0	-
+cincuenta	50	Z	-
+años	año	NCMP000	Time
+y	y	CC	-
+con	con	SPS00	-
+barba	barba	NCFS000	BodyPart
+,	,	Fc	-
+saca	sacar	VMIP3S0	Putting
+unas	uno	DI0FP0	-
+gafas	gafas	NCFP000	Clothing
+de	de	SPS00	-
+sol	sol	NCMS000	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+bolsillo	bolsillo	NCMS000	Clothing
+de	de	SPS00	-
+su	su	DP3CS0	-
+chaqueta	chaqueta	NCFS000	Clothing
+y	y	CC	-
+se	se	P00CN000	-
+las	lo	PP3FPA00	-
+pone	poner	VMIP3S0	Putting
+.	.	Fp	-
+</s>
+<s>
+Sobreescrito	sobreescribir	VMP00SM	A-FilmLanguage
+en	en	SPS00	-
+pantalla	pantalla	NCFS000	FilmLanguage
+:	:	Fd	-
+JAMES	james	NP00G00	Human
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+EMPRESARIO	empresario	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+james	james	NP00G00	Human
+camina	caminar	VMIP3S0	Walking
+con	con	SPS00	-
+la	el	DA0FS0	-
+bolsa	bolsa	NCFS000	Object
+de	de	SPS00	-
+playa	playa	NCFS000	Location
+a	a	SPS00	-
+el	el	DA0MS0	-
+hombro	hombro	NCMS000	BodyPart
+y	y	CC	-
+llama	llamar	VMIP3S0	Communication
+.	.	Fp	-
+</s>
+<s>
+Sobre	sobre	SPS00	Location
+la	el	DA0FS0	-
+arena	arena	NCFS000	Location
+,	,	Fc	-
+el	el	DA0MS0	-
+traje	traje	NCMS000	Clothing
+oscuro	oscuro	AQ0MS0	A-ColorAttribute
+de	de	SPS00	-
+james	james	NP00G00	Human
+reposa	reposar	VMIP3S0	located
+hecho	hacer	VMP00SM	A-SubjectiveAssessmentAttribute
+un	uno	DI0MS0	-
+revoltillo	revoltillo	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+james	james	NP00G00	Human
+se	se	P00CN000	-
+tumba	tumbar	VMIP3S0	BodyMotion
+a	a	SPS00	-
+su	su	DP3CS0	-
+lado	lado	NCMS000	Location
+,	,	Fc	-
+boca_arriba	boca_arriba	RG	PositionalAttribute
+,	,	Fc	-
+y	y	CC	-
+se	se	P00CN000	-
+queda	quedar	VMIP3S0	Process
+tendido	tender	VMP00SM	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Después	después	RG	Time
+se	se	P00CN000	-
+frota	frotar	VMIP3S0	BodyMotion
+los	el	DA0MP0	-
+ojos	ojo	NCMP000	BodyPart
+,	,	Fc	-
+abre	abrir	VMIP3S0	BodyMotion
+los	el	DA0MP0	-
+brazos	brazo	NCMP000	BodyPart
+y	y	CC	-
+juguetea	juguetear	VMIP3S0	Touching
+con	con	SPS00	-
+la	el	DA0FS0	-
+arena	arena	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+extrañado	extrañar	VMP00SM	A-StateOfMind
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+Deja	dejar	VMIP3S0	Putting
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+,	,	Fc	-
+se	se	P00CN000	-
+levanta	levantar	VMIP3S0	BodyMotion
+y	y	CC	-
+camina	caminar	VMIP3S0	Walking
+hasta	hasta	SPS00	-
+el	el	DA0MS0	-
+agua	agua	NCCS000	-
+mirando	mirar	VMG0000	Seeing
+alrededor	alrededor	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Sólo	sólo	RG	-
+lleva	llevar	VMIP3S0	Dressing
+los	el	DA0MP0	-
+slips	slip	NCMP000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+sin	sin	SPS00	-
+rumbo	rumbo	NCMS000	-
+fijo	fijo	AQ0MS0	A-PositionalAttribute
+,	,	Fc	-
+titubeando	titubear	VMG0000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+da_la_vuelta	dar_la_vuelta	VMIP3S0	Motion
+,	,	Fc	-
+se	se	P00CN000	-
+para	para	SPS00	-
+un	uno	DI0MS0	-
+momento	momento	NCMS000	Time
+y	y	CC	-
+otea	otear	VMIP3S0	Seeing
+con	con	SPS00	-
+los	el	DA0MP0	-
+ojos	ojo	NCMP000	BodyPart
+entornados	entornar	VMP00PM	A-PositionalAttribute
+y	y	CC	-
+frunciendo_el_ceño	fruncir_el_ceño	VMG0000	Gesture
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+hacia	hacia	SPS00	-
+el	el	DA0MS0	-
+agua	agua	NCCS000	-
+mirando	mirar	VMG0000	Seeing
+alrededor	alrededor	RG	Location
+y	y	CC	-
+después	después	RG	Time
+vuelve	volver	VMIP3S0	Walking
+a	a	SPS00	-
+su	su	DP3CS0	-
+ropa	ropa	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+pone	poner	VMIP3S0	Putting
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+sin	sin	SPS00	-
+dejar	dejar	VMN0000	Aux
+de	de	SPS00	-
+mirar	mirar	VMN0000	Seeing
+alrededor	alrededor	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Por	por	SPS00	-
+una	uno	DI0FS0	-
+calle	calle	NCFS000	Location
+flanqueada	flanquear	VMP00SF	A-PositionalAttribute
+por	por	SPS00	-
+grandes	grande	AQ0CP0	A-SubjectiveAssessmentAttribute
+árboles	árbol	NCMP000	Vegetable
+,	,	Fc	-
+james	james	NP00SP0	Human
+camina	caminar	VMIP3S0	Walking
+ya	ya	RG	-
+vestido	vestir	VMP00SM	A-Dressing
+.	.	Fp	-
+</s>
+<s>
+Más	más	RG	-
+tarde	tarde	RG	Time
+asciende	ascender	VMIP3S0	Walking
+por	por	SPS00	-
+un	uno	DI0MS0	-
+sendero	sendero	NCMS000	-
+entre	entre	SPS00	-
+matorrales	matorral	NCMP000	Vegetable
+la	el	DA0FS0	-
+ladera	ladera	NCFS000	Location
+de	de	SPS00	-
+un	uno	DI0MS0	-
+monte	monte	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Unas	uno	DI0FP0	-
+manos	mano	NCFP000	BodyPart
+sostienen	sostener	VMIP3P0	Touching
+un	uno	DI0MS0	-
+vaso	vaso	NCMS000	Object
+de	de	SPS00	-
+plástico	plástico	NCMS000	-
+blanco	blanco	AQ0MS0	A-ColorAttribute
+Un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+de	de	SPS00	-
+unos	uno	DI0MP0	-
+sesenta	60	Z	-
+años	año	NCMP000	Time
+,	,	Fc	-
+con	con	SPS00	-
+pelo	pelo	NCMS000	-
+desaliñado	desaliñar	VMP00SM	A-SubjectiveAssessmentAttribute
+y	y	CC	-
+barba	barba	NCFS000	BodyPart
+canosa	canoso	AQ0FS0	A-ColorAttribute
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+desde	desde	SPS00	-
+el	el	DA0MS0	-
+banco	banco	NCMS000	Object
+de	de	SPS00	-
+un	uno	DI0MS0	-
+parque	parque	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Acaricia	acariciar	VMIP3S0	Touching
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+de	de	SPS00	-
+plástico	plástico	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Lo	lo	PP3CNA00	-
+abre	abrir	VMIP3S0	Process
+y	y	CC	-
+bebe	beber	VMIP3S0	Drinking
+un	uno	DI0MS0	-
+trago	trago	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Tiene	tener	VMIP3S0	possesses
+tatuajes	tatuaje	NCMP000	BodyPart
+,	,	Fc	-
+collar	collar	NCMS000	Clothing
+y	y	CC	-
+pulsera	pulsera	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Sobreescrito	sobreescribir	VMP00SM	A-FilmLanguage
+en	en	SPS00	-
+pantalla	panalla	NCFS000	Object
+:	:	Fd	-
+RICK	rick	NP00O00	Human
+.	.	Fp	-
+</s>
+<s>
+EL	el	DA0MS0	-
+JUBILADO	jubilado	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+deja	dejar	VMIP3S0	Putting
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+en	en	SPS00	-
+el	el	DA0MS0	-
+banco	banco	NCMS000	Object
+de	de	SPS00	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+lado	lado	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Está	estar	VSIP3S0	Aux
+sentado	sentar	VMP00SM	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Lleva	llevar	VMIP3S0	Dressing
+una	uno	DI0FS0	-
+camiseta	camiseta	NCFS000	Clothing
+verde	verde	AQ0CS0	A-ColorAttribute
+de	de	SPS00	-
+tirantes	tirante	NCMP000	-
+por	por	SPS00	-
+dentro_de	dentro_de	SPS00	Location
+el	el	DA0MS0	-
+pantalón	pantalón	NCMS000	Clothing
+y	y	CC	-
+mueve	mover	VMIP3S0	BodyMotion
+sin	sin	SPS00	-
+parar	parar	VMN0000	Motion
+la	el	DA0FS0	-
+pierna	pierna	NCFS000	BodyPart
+derecha	derecho	AQ0FS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Saca	sacar	VMIP3S0	Putting
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+bolsillo	bolsillo	NCMS000	Clothing
+trasero	trasero	AQ0MS0	A-PositionalAttribute
+de	de	SPS00	-
+su	su	DP3CS0	-
+pantalón	pantalón	NCMS000	Clothing
+y	y	CC	-
+busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+entre	entre	SPS00	-
+sus	su	DP3CP0	-
+contactos	contacto	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+Selecciona	seleccionar	VMIP3S0	BodyMotion
+a	a	SPS00	-
+Craig_Anderson	craig_anderson	NP00SP0	-
+.	.	Fp	-
+</s>
+<s>
+Llama	llamar	VMIP3S0	Communication
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+alrededor	alrededor	RG	Location
+Mira	mirar	VMIP3S0	Seeing
+hacia	hacia	SPS00	-
+arriba	arriba	RG	Location
+El	el	DA0MS0	-
+vaso	vaso	NCMS000	Object
+queda	quedar	VMIP3S0	Motion
+sobre	sobre	SPS00	Location
+el	el	DA0MS0	-
+banco	banco	NCMS000	Object
+y	y	CC	-
+Rick	rick	NP00O00	Human
+se	se	P00CN000	-
+aleja	alejar	VMIP3S0	Motion
+,	,	Fc	-
+sin	sin	SPS00	-
+dejar	dejar	VMN0000	Aux
+de	de	SPS00	-
+mirar	mirar	VMN0000	Seeing
+hacia	hacia	SPS00	-
+arriba	arriba	RG	Location
+y	y	CC	-
+a	a	SPS00	-
+los	el	DA0MP0	-
+lados	lado	NCMP000	Location
+.	.	Fp	-
+</s>
+<s>
+Una	uno	DI0FS0	-
+adolescente	adolescente	NCCS000	-
+muerde	morder	VMIP3S0	Process
+un	uno	DI0MS0	-
+lápiz	lápiz	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Sobreescrito	sobreescribir	VMP00SM	A-FilmLanguage
+en	en	SPS00	-
+pantalla	panalla	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+JESS	jess	NP00O00	Human
+.	.	Fp	-
+</s>
+<s>
+LA	el	DA0FS0	-
+ESTUDIANTE	estudiante	NCCS000	Human
+.	.	Fp	-
+</s>
+<s>
+Rebusca	rebuscar	VMIP3S0	IntentionalPsychologicalProcess
+por	por	SPS00	-
+su	su	DP3CS0	-
+mesa	mesa	NCFS000	Object
+,	,	Fc	-
+entre	entre	SPS00	-
+papeles	papel	NCMP000	Object
+y	y	CC	-
+su	su	DP3CS0	-
+ordenador	ordenador	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Jess	jess	NP00SP0	Human
+mira	mirar	VMIP3S0	Seeing
+hacia	hacia	SPS00	-
+el	el	DA0MS0	-
+techo	techo	NCMS000	Location
+y	y	CC	-
+las	el	DA0FP0	-
+paredes	pared	NCFP000	Location
+.	.	Fp	-
+</s>
+<s>
+Tiene	tener	VMIP3S0	possesses
+larga	largo	AQ0FS0	A-SubjectiveAssessmentAttribute
+melena	melena	NCFS000	BodyPart
+pelirroja	pelirrojo	AQ0FS0	A-ColorAttribute
+y	y	CC	-
+rizada	rizar	VMP00SF	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+De	de	SPS00	-
+día	día	NCMS000	Time
+,	,	Fc	-
+asciende	ascender	VMIP3S0	Walking
+por	por	SPS00	-
+una	uno	DI0FS0	-
+ladera	ladera	NCFS000	Location
+entre	entre	SPS00	-
+hierbas	hierba	NCFP000	-
+y	y	CC	-
+arbustos	arbusto	NCMP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Lleva	llevar	VMIP3S0	Dressing
+abrigo	abrigo	NCMS000	Clothing
+y	y	CC	-
+cada	cada	DI0CS0	-
+poco	poco	PI0MS000	Time
+se	se	P00CN000	-
+para	parar	VMIP3S0	Motion
+y	y	CC	-
+mira	mirar	VMIP3S0	Seeing
+alrededor	alrededor	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Luego	luego	RG	Time
+sale	salir	VMIP3S0	Motion
+corriendo	correr	VMG0000	Walking
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+una	uno	DI0FS0	-
+explanada	explanada	NCFS000	Location
+,	,	Fc	-
+james	james	NP00SP0	Human
+,	,	Fc	-
+Rick	rick	NP00O00	Human
+y	y	CC	-
+Jess	jess	NP00O00	Human
+miran	mirar	VMIP3P0	Seeing
+alrededor	alrededor	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+y	y	CC	-
+james	james	NP00O00	Human
+están	estar	VSIP3P0	located
+frente_a	frente_a	SPS00	Location
+frente	frente	NCFS000	Location
+,	,	Fc	-
+Jess	jess	NP00O00	Human
+está	estar	VSIP3S0	located
+detrás_de	detrás_de	SPS00	Location
+Rick	rick	NP00SP0	Human
+.	.	Fp	-
+</s>
+<s>
+Miran	mirar	VMIP3P0	Seeing
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+,	,	Fc	-
+james	james	NP00SP0	Human
+usa	usar	VMIP3S0	Process
+la	el	DA0FS0	-
+mano	mano	NCFS000	BodyPart
+como	como	CS	-
+visera	visera	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+miran	mirar	VMIP3P0	Seeing
+entre	entre	SPS00	-
+ellos	ellos	PP3MP000	-
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+y	y	CC	-
+Jess	jess	NP00SP0	Human
+niegan	negar	VMIP3P0	Communication
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+sigue	sigue	VMIP3S0	Motion
+a	a	SPS00	-
+james	james	NP00G00	Human
+,	,	Fc	-
+Jess	jess	NP00SP0	Human
+se	se	P00CN000	-
+queda	quedar	VMIP3S0	Motion
+parada	parada	NCFS000	A-PositionalAttribute
+y	y	CC	-
+levanta	levantar	VMIP3S0	BodyMotion
+una	uno	DI0FS0	-
+ceja	ceja	NCFS000	StateOfMind
+Corre	correr	VMIP3S0	Walking
+tras	tras	SPS00	-
+ellos	ellos	PP3MP000	Location
+,	,	Fc	-
+se	se	P00CN000	-
+sitúa	situar	VMIP3S0	Motion
+entre	entre	SPS00	-
+los	el	DA0MP0	-
+dos	2	Z	Location
+y	y	CC	-
+james	james	NP00O00	Human
+le	le	PP3CSD00	-
+pone	poner	VMIP3S0	BodyMotion
+una	uno	DI0FS0	-
+mano	mano	NCFS000	BodyPart
+en	en	SPS00	-
+el	el	DA0MS0	-
+hombro	hombro	NCMS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Los	el	DA0MP0	-
+tres	3	Z	-
+se	se	P00CN000	-
+alejan	alejar	VMIP3P0	Motion
+caminando	caminar	VMG0000	Walking
+.	.	Fp	-
+</s>
+<s>
+Una	uno	DI0FS0	-
+mujer	mujer	NCFS000	Human
+tiende	tender	VMIP3S0	Process
+la	el	DA0FS0	-
+ropa	ropa	NCFS000	Clothing
+mientras	mientras	CS	Time
+habla	hablar	VMIP3S0	Communication
+por	por	SPS00	-
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+no	no	RN	-
+he	haber	VAIP1S0	-
+terminado	terminar	VMP00SM	Aux
+de	de	SPS00	-
+tender	tender	VMN0000	Process
+la	lo	PP3FSA00	-
+.	.	Fp	-
+</s>
+<s>
+Tengo	tener	VMIP1S0	Aux
+que	que	CS	-
+dar_me_prisa	dar_se_prisa	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+¿	¿	Fia	-
+de	de	SPS00	-
+qué	qué	PT0CN000	-
+me	me	PP1CS000	-
+hablas	hablar	VMIP2S0	Communication
+?	?	Fit	-
+Si	si	CS	-
+,	,	Fc	-
+claro	claro	RG	-
+,	,	Fc	-
+las	el	DA0FP0	-
+maletas	maleta	NCFP000	Object
+están	estar	VSIP3P0	Aux
+a	a	SPS00	-
+punto	punto	NCMS000	-
+...	...	Fs	-
+Mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+Oye	oír	VMM02S0	Hearing
+no	no	RN	-
+puedo	poder	VMIP1S0	Aux
+hablar	hablar	VMN0000	Communication
+.	.	Fp	-
+</s>
+<s>
+Tengo	tener	VMIP1S0	Aux
+que	que	CS	-
+dejar	dejar	VMN0000	Motion
+te	te	PP2CS000	-
+.	.	Fp	-
+</s>
+<s>
+Sobreescrito	sobreescribir	VMP00SM	A-FilmLanguage
+en	en	SPS00	-
+pantalla	pantalla	NCFS000	FilmLanguage
+.	.	Fp	-
+</s>
+<s>
+ZOE	zoe	NP00O00	-
+.	.	Fp	-
+</s>
+<s>
+LA	el	DA0FS0	-
+PRÓXIMA	próximo	AQ0FS0	-
+.	.	Fp	-
+</s>
+<s>
+Sobreescrito	sobreescribir	VMP00SM	A-FilmLanguage
+en	en	SPS00	-
+pantalla	pantalla	NCFS000	FilmLanguage
+.	.	Fp	-
+</s>
+<s>
+Qué	qué	PT0CN000	-
+pasa	pasar	VMIP3S0	Motion
+mientras	mientras	CS	Time
+....	....	Fz	-
+<text id='Tragora-ES'>
+<s>
+Por	por	SPS00	-
+la	el	DA0FS0	-
+mañana	mañana	NCFS000	Time
+,	,	Fc	-
+en	en	SPS00	-
+una	uno	DI0FS0	-
+playa	playa	NCFS000	Location
+,	,	Fc	-
+una	uno	DI0FS0	-
+pareja	pareja	NCFS000	Human
+pasea	pasear	VMIP3S0	Walking
+con	con	SPS00	-
+su	su	DP3CS0	-
+perro	perro	NCMS000	Animal
+,	,	Fc	-
+mientras	mientras	CS	Time
+un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+que	que	PR0CN000	-
+corre	correr	VMIP3S0	Walking
+se	se	P00CN000	-
+cruza	cruzar	VMIP3S0	Motion
+con	con	SPS00	-
+ellos	ellos	PP3MP000	-
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+perro	perro	NCMS000	Animal
+,	,	Fc	-
+un	uno	DI0MS0	-
+gran	gran	AQ0CS0	A-SubjectiveAssessmentAttribute
+danés	danés	NCMS000	-
+,	,	Fc	-
+se	se	P00CN000	-
+entretiene	entretener	VMIP3S0	Process
+en	en	SPS00	-
+unos	uno	DI0MP0	-
+hierbajos	hierbajos	NCMP000	Vegetable
+y	y	CC	-
+olfatea	olfatear	VMIP3S0	Smelling
+la	el	DA0FS0	-
+zona	zona	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Su	su	DP3CS0	-
+dueño	dueño	NCMS000	-
+,	,	Fc	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+darse_cuenta	darse_cuenta	VMN0000	IntentionalPsychologicalProcess
+de	de	SPS00	-
+que	que	PR0CN000	-
+se	se	P00CN000	-
+queda	quedar	VMIP3S0	Process
+atrás	atrás	RG	Location
+,	,	Fc	-
+lo	lo	PP3CNA00	-
+llama	llamar	VMIP3S0	Communication
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+perro	perro	NCMS000	Animal
+obedece	obedecer	VMIP3S0	IntentionalPsychologicalProcess
+y	y	CC	-
+se	se	P00CN000	-
+va	ir	VMIP3S0	Motion
+con	con	SPS00	-
+ellos	ellos	PP3MP000	Location
+.	.	Fp	-
+</s>
+<s>
+Sobreimpreso	Sobreimpreso	VMP00SM	A-FilmLanguage
+en	en	SPS00	-
+pantalla	pantalla	NCFS000	FilmLanguage
+Un	uno	DI0MS0	-
+deportivo	deportivo	NCMS000	-
+blanco	blanco	AQ0MS0	A-ColorAttribute
+de	de	SPS00	-
+alta	alto	AQ0FS0	A-SubjectiveAssessmentAttribute
+gama	gama	NCFS000	-
+se	se	P00CN000	-
+detiene	detener	VMIP3S0	Motion
+junto_a	junto_a	SPS00	Location
+la	el	DA0FS0	-
+avenida	avenida	NCFS000	Location
+de	de	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+su	su	DP3CS0	-
+interior	interior	NCMS000	PositionalAttribute
+,	,	Fc	-
+un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+de	de	SPS00	-
+unos	uno	DI0MP0	-
+50	50	Z	-
+años	año	NCMP000	Time
+habla	hablar	VMIP3S0	Communication
+por	por	SPS00	-
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+y	y	CC	-
+sale	salir	VMIP3S0	Motion
+de	de	SPS00	-
+el	el	DA0MS0	-
+vehículo	vehículo	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Enfadado	enfadar	VMP00SM	A-StateOfMind
+,	,	Fc	-
+cuelga	colgar	VMIP3S0	Process
+y	y	CC	-
+suspira	suspirar	VMIP3S0	IntentionalPsychologicalProcess
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+hombre	hombre	NCMS000	Human
+,	,	Fc	-
+alto	alto	AQ0MS0	A-SubjectiveAssessmentAttribute
+y	y	CC	-
+apuesto	apuesto	AQ0MS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+con	con	SPS00	-
+barba	barba	NCFS000	BodyPart
+,	,	Fc	-
+lleva	llevar	VMIP3S0	possesses
+traje	traje	NCMS000	Clothing
+y	y	CC	-
+corbata	corbata	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Introduce	introducir	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+mano	mano	NCFS000	BodyPart
+en	en	SPS00	-
+el	el	DA0MS0	-
+bolsillo	bolsillo	NCMS000	Clothing
+izquierdo	izquierdo	AQ0MS0	A-PositionalAttribute
+de	de	SPS00	-
+la	el	DA0FS0	-
+chaqueta	chaqueta	NCFS000	Clothing
+,	,	Fc	-
+saca	sacar	VMIP3S0	Putting
+unas	uno	DI0FP0	-
+gafas	gafas	NCFP000	Clothing
+de	de	SPS00	-
+sol	sol	NCMS000	-
+de	de	SPS00	-
+estilo	estilo	NCMS000	-
+aviador	aviador	NCMS000	-
+y	y	CC	-
+se	se	P00CN000	-
+las	lo	PP3FPA00	-
+pone	poner	VMIP3S0	Putting
+.	.	Fp	-
+</s>
+<s>
+Sobreimpreso	sobreimprimir	VMP00SM	A-FilmLanguage
+en	en	SPS00	-
+pantalla	pantalla	NCFS000	FilmLanguage
+:	:	Fd	-
+james	james	NP00SP0	Human
+,	,	Fc	-
+el	el	DA0MS0	-
+empresario	empresario	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Poco	poco	RG	-
+después	después	RG	Time
+,	,	Fc	-
+pasea	pasear	VMIP3S0	Walking
+con	con	SPS00	-
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+en	en	SPS00	-
+la	el	DA0FS0	-
+oreja	oreja	NCFS000	BodyPart
+y	y	CC	-
+un	uno	DI0MS0	-
+bolso	bolso	NCMS000	-
+de	de	SPS00	-
+rayas	raya	NCFP000	-
+en	en	SPS00	-
+el	el	DA0MS0	-
+hombro	hombro	NCMS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Minutos	minuto	NCMP000	Time
+más	más	RG	-
+tarde	tarde	RG	Time
+,	,	Fc	-
+algo	algo	PI0CS000	-
+cansado	cansar	VMP00SM	A-StateOfMind
+,	,	Fc	-
+se	se	P00CN000	-
+tumba	tumbar	VMIP3S0	BodyMotion
+en	en	SPS00	-
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+sobre	sobre	SPS00	Location
+una	uno	DI0FS0	-
+toalla	toalla	NCFS000	Object
+y	y	CC	-
+toma	tomar	VMIP3S0	Process
+el	el	DA0MS0	-
+sol	sol	NCMS000	RadiatingLight
+tranquilamente	tranquilamente	RG	-
+.	.	Fp	-
+</s>
+<s>
+james	james	NP00G00	Human
+se	se	P00CN000	-
+lleva	llevar	VMIP3S0	BodyMotion
+las	el	DA0FP0	-
+manos	mano	NCFP000	BodyPart
+a	a	SPS00	-
+la	el	DA0FS0	-
+cara	cara	NCFS000	BodyPart
+y	y	CC	-
+se	se	P00CN000	-
+restriega	restregar	VMIP3S0	BodyMotion
+un	uno	DI0MS0	-
+poco	poco	PI0MS000	-
+los	el	DA0MP0	-
+ojos	ojo	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+continuación	continuación	NCFS000	Time
+,	,	Fc	-
+deja	dejar	VMIP3S0	Aux
+caer	caer	VMN0000	Motion
+las	el	DA0FP0	-
+manos	mano	NCFP000	BodyPart
+sobre	sobre	SPS00	Location
+la	el	DA0FS0	-
+arena	arena	NCFS000	Location
+y	y	CC	-
+juguetea	juguetear	VMIP3S0	Touching
+con	con	SPS00	-
+ella	él	PP3FS000	-
+cogiendo	coger	VMG0000	Touching
+un	uno	DI0MS0	-
+puñado	puñado	NCMS000	-
+y	y	CC	-
+soltando	soltar	VMG0000	Process
+lo	lo	PP3CNA00	-
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+incorpora	incorporar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Cuelga	colgar	VMIP3S0	Process
+el	el	DA0MS0	-
+teléfono	teléfono	NCMS000	Object
+y	y	CC	-
+lo	lo	PP3CNA00	-
+lanza	lanzar	VMIP3S0	Process
+a	a	SPS00	-
+un	uno	DI0MS0	-
+lado	lado	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Extrañado	extrañar	VMP00SM	A-StateOfMind
+por	por	SPS00	-
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+,	,	Fc	-
+se	se	P00CN000	-
+levanta	levantar	VMIP3S0	BodyMotion
+y	y	CC	-
+empieza	empezar	VMIP3S0	Aux
+a	a	SPS00	-
+caminar	caminar	VMN0000	Walking
+junto_a	junto_a	SPS00	Location
+la	el	DA0FS0	-
+orilla	orilla	NCFS000	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+mar.	mar	NCMS000	Location
+Lleva	llevar	VMIP3S0	possesses
+un	uno	DI0MS0	-
+bañador	bañador	NCMS000	Clothing
+de	de	SPS00	-
+tipo	tipo	NCMS000	-
+bóxer	bóxer	NCMS000	Clothing
+negro	negro	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+ruido	ruido	NCMS000	RadiatingSound
+le	le	PP3CSD00	-
+llama_la_atención	llamar_la_atención	VMIP3S0	StateOfMind
+e	y	CC	-
+intenta	intentar	VMIP3S0	Aux
+averiguar	averiguar	VMN0000	IntentionalPsychologicalProcess
+de	de	SPS00	-
+dónde	dónde	PT000000	Location
+procede	proceder	VMIP3S0	Process
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+alrededor	alrededor	RG	Location
+y	y	CC	-
+centra_la_mirada	centrar_la_mirada	VMIP3S0	Seeing
+en	en	SPS00	-
+varios	varios	DI0MP0	-
+puntos	punto	NCMP000	Location
+distintos	distinto	AQ0MP0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Da	dar	VMIP3S0	Aux
+unos	uno	DI0MP0	-
+pequeños	pequeño	AQ0MP0	A-SubjectiveAssessmentAttribute
+pasos	paso	NCMP000	Walking
+hacia	hacia	SPS00	-
+atrás	atrás	RG	Location
+y	y	CC	-
+de_repente	de_repente	RG	Time
+De_nuevo	de_nuevo	RG	Time
+,	,	Fc	-
+da_unos_pasos	dar_pasos	VMIP3S0	Walking
+más	más	RG	-
+alrededor	alrededor	RG	Location
+mientras	mientras	CS	Time
+intenta	intentar	VMIP3S0	Aux
+descubrir	descubrir	VMN0000	IntentionalPsychologicalProcess
+de	de	SPS00	-
+dónde	dónde	PT000000	Location
+proviene	provenir	VMIP3S0	Process
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+continuación	continuación	NCFS000	Time
+,	,	Fc	-
+sigue	seguir	VMIP3S0	Aux
+caminando	caminar	VMG0000	Walking
+y	y	CC	-
+,	,	Fc	-
+ahora	ahora	RG	Time
+,	,	Fc	-
+fija_su_mirada	fijar_la_mirada	VMIP3S0	Seeing
+en	en	SPS00	-
+un	uno	DI0MS0	-
+punto	punto	NCMS000	Location
+superior	superior	AQ0CS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+acerca	acercar	VMIP3S0	Motion
+a	a	SPS00	-
+el	el	DA0MS0	-
+lugar	lugar	NCMS000	Location
+donde	donde	PR000000	-
+había	haber	VAII1S0	Aux
+dejado	dejar	VMP00SM	Process
+la	el	DA0FS0	-
+ropa	ropa	NCFS000	Clothing
+y	y	CC	-
+se	se	P00CN000	-
+pone	poner	VMIP3S0	Putting
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Mientras	mientras	CS	Time
+se	se	P00CN000	-
+va	ir	VMIP3S0	Aux
+vistiendo	vestir	VMG0000	Dressing
+,	,	Fc	-
+continúa	continuar	VMIP3S0	Aux
+mirando	mirar	VMG0000	Seeing
+un	uno	DI0MS0	-
+punto	punto	NCMS000	Location
+en	en	SPS00	-
+lo_alto	lo_alto	RG	-
+.	.	Fp	-
+</s>
+<s>
+Se	se	P00CN000	-
+agacha	agachar	VMIP3S0	BodyMotion
+para	para	SPS00	-
+recoger	recoger	VMN0000	Touching
+el	el	DA0MS0	-
+resto	resto	NCMS000	-
+de	de	SPS00	-
+sus	su	DP3CP0	-
+cosas	cosa	NCFP000	-
+y	y	CC	-
+se	se	P00CN000	-
+va	ir	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+Poco	poco	PI0MS000	-
+más	más	RG	-
+tarde	tarde	RG	Time
+,	,	Fc	-
+vestido	vestir	VMP00SM	A-Dressing
+ya	ya	RG	-
+con	con	SPS00	-
+el	el	DA0MS0	-
+traje	traje	NCMS000	Clothing
+pero	pero	CC	-
+sin	sin	SPS00	-
+corbata	corbata	NCFS000	Clothing
+,	,	Fc	-
+sigue	seguir	VMIP3S0	Aux
+caminando	caminar	VMG0000	Walking
+absorto	absorto	AQ0MS0	A-StateOfMind
+en	en	SPS00	-
+el	el	DA0MS0	-
+ruido	ruido	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Abandona	abandonar	VMIP3S0	Motion
+la	el	DA0FS0	-
+playa	playa	NCFS000	Location
+,	,	Fc	-
+llega	llegar	VMIP3S0	Motion
+a	a	SPS00	-
+la	el	DA0FS0	-
+avenida	avenida	NCFS000	Location
+y	y	CC	-
+sube	subir	VMIP3S0	Motion
+por	por	SPS00	-
+una	uno	DI0FS0	-
+montaña	montaña	NCFS000	Location
+siguiendo	seguir	VMG0000	Process
+un	uno	DI0MS0	-
+camino	camino	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Decisivo	decisivo	AQ0MS0	A-IntentionalPsychologicalProcess
+y	y	CC	-
+con	con	SPS00	-
+cuidado	cuidado	NCMS000	A-StateOfMind
+,	,	Fc	-
+consigue	conseguir	VMIP3S0	Aux
+subir	subir	VMN0000	Motion
+el	el	DA0MS0	-
+empinado	empinar	VMP00SM	A-SubjectiveAssessmentAttribute
+sendero	sendero	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Mientras	mientras	CS	Time
+tanto	tanto	RG	-
+,	,	Fc	-
+sentado	sentar	VMP00SM	A-PositionalAttribute
+en	en	SPS00	-
+el	el	DA0MS0	-
+banco	banco	NCMS000	Object
+de	de	SPS00	-
+un	uno	DI0MS0	-
+parque	parque	NCMS000	Location
+,	,	Fc	-
+un	uno	DI0MS0	-
+hombre	hombre	NCMS000	Human
+de	de	SPS00	-
+unos	uno	DI0MP0	-
+60	60	Z	-
+años	año	NCMP000	Time
+sostiene	sostener	VMIP3S0	Touching
+un	uno	DI0MS0	-
+café	café	NCMS000	-
+en	en	SPS00	Location
+un	uno	DI0MS0	-
+vaso	vaso	NCMS000	Object
+de	de	SPS00	-
+plástico	plástico	NCMS000	-
+cerrado	cerrar	VMP00SM	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Tiene	tener	VMIP3S0	possesses
+barba	barba	NCFS000	BodyPart
+y	y	CC	-
+el	el	DA0MS0	-
+pelo	pelo	NCMS000	BodyPart
+largo	largo	AQ0MS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+con	con	SPS00	-
+un	uno	DI0MS0	-
+aspecto	aspecto	NCMS000	-
+desaliñado	desaliñar	VMP00SM	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Pensativo	pensativo	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+niega_con_la_cabeza	negar_con_la_cabeza	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+Indeciso	indeciso	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+hace	hacer	VMIP3S0	BodyMotion
+un	uno	DI0MS0	-
+círculo	círculo	NCMS000	-
+con	con	SPS00	-
+el	el	DA0MS0	-
+dedo	dedo	NCMS000	BodyPart
+en	en	SPS00	-
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+café	café	NCMS000	-
+y	y	CC	-
+la	lo	PP3FSA00	-
+retira	retirar	VMIP3S0	Putting
+.	.	Fp	-
+</s>
+<s>
+Cuando	cuando	CS	-
+se	se	P00CN000	-
+lo	lo	PP3CNA00	-
+lleva	llevar	VMIP3S0	BodyMotion
+a	a	SPS00	-
+la	el	DA0FS0	-
+boca	boca	NCFS000	BodyPart
+,	,	Fc	-
+se	se	P00CN000	-
+detiene	detener	VMIP3S0	Motion
+y	y	CC	-
+mira	mirar	VMIP3S0	Seeing
+el	el	DA0MS0	-
+contenido	contenido	NCMS000	-
+fijamente	fijamente	RG	-
+.	.	Fp	-
+</s>
+<s>
+Segundos	segundo	NCMP000	Time
+más	más	RG	-
+tarde	tarde	RG	Time
+,	,	Fc	-
+toma	tomar	VMIP3S0	Aux
+un	uno	DI0MS0	-
+sorbo	sorbo	NCMS000	Driking
+y	y	CC	-
+lo	lo	PP3CNA00	-
+saborea	saborear	VMIP3S0	IntentionalPsychologicalProcess
+.	.	Fp	-
+</s>
+<s>
+Sobreimpreso	sobreimprimir	VMP00SM	A-FilmLanguage
+en	en	SPS00	-
+pantalla	pantalla	NCFS000	FilmLanguage
+:	:	Fd	-
+Rick	rick	NP00SP0	Human
+,	,	Fc	-
+el	el	DA0MS0	-
+jubilado	jubilado	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Va	ir	VMIP3S0	Aux
+vestido	vestido	NCMS000	Clothing
+con	con	SPS00	-
+una	uno	DI0FS0	-
+camiseta	camiseta	NCFS000	Clothing
+de	de	SPS00	-
+tirantes	tirante	NCMP000	-
+,	,	Fc	-
+un	uno	DI0MS0	-
+pantalón	pantalón	NCMS000	Clothing
+vaquero	vaquero	AQ0MS0	A-SubjectiveAssessmentAttribute
+y	y	CC	-
+unas	uno	DI0FP0	-
+zapatillas	zapatilla	NCFP000	Clothing
+deportivas	deportivo	AQ0FP0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Sentado	sentar	VMP00SM	A-PositionalAttribute
+a	a	SPS00	-
+la	el	DA0FS0	-
+sombra	sombra	NCFS000	-
+de	de	SPS00	-
+unos	uno	DI0MP0	-
+árboles	árbol	NCMP000	Vegetable
+,	,	Fc	-
+toma	tomar	VMIP3S0	Drinking
+el	el	DA0MS0	-
+café	café	NCMS000	-
+a_el_tiempo_que	al_tiempo_que	CS	Time
+mueve	mover	VMIP3S0	BodyMotion
+incesantemente	incesantemente	RG	-
+la	lo	PP3FSA00	-
+pierna	pierna	NCFS000	BodyPart
+derecha	derecha	AQ0FS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+continuación	continuación	NCFS000	Time
+,	,	Fc	-
+lo	lo	PP3CNA00	-
+deposita	depositar	VMIP3S0	Putting
+en	en	SPS00	-
+un	uno	DI0MS0	-
+banco	banco	NCMS000	Object
+que	que	PR0CN000	-
+tiene	tener	VMIP3S0	possesses
+a	a	SPS00	-
+el	el	DA0MS0	-
+lado	lado	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Nervioso	nervioso	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+da_unas_palmadas	dar_palmadas	VMIP3S0	BodyMotion
+,	,	Fc	-
+se	se	P00CN000	-
+frota	frotar	VMIP3S0	BodyMotion
+las	el	DA0FP0	-
+manos	mano	NCFP000	BodyPart
+e	y	CC	-
+,	,	Fc	-
+inclinando	inclinar	VMG0000	BodyMotion
+se	se	PP3CN000	-
+,	,	Fc	-
+saca	sacar	VMIP3S0	Putting
+el	el	DA0MS0	-
+teléfono	teléfono	NCMS000	Object
+móvil	móvil	AQ0CS0	A
+que	que	PR0CN000	-
+tiene	tener	VMIP3S0	possesses
+en	en	SPS00	-
+el	el	DA0MS0	-
+bolsillo	bolsillo	NCMS000	Clothing
+trasero	trasero	AQ0MS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Levanta	levantar	VMIP3S0	Putting
+la	el	DA0FS0	-
+funda	funda	NCFS000	Object
+y	y	CC	-
+empieza	empezar	VMIP3S0	Aux
+a	a	SPS00	-
+mirar	mirar	VMN0000	Seeing
+entre	entre	SPS00	-
+su	su	DP3CS0	-
+lista	lista	NCFS000	-
+de	de	SPS00	-
+contactos	contacto	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+el	el	DA0MS0	-
+llegar	llegar	VMN0000	Motion
+a	a	SPS00	-
+el	el	DA0MS0	-
+nombre	nombre	NCMS000	-
+de	de	SPS00	-
+Craig_Anderson	craig_anderson	NP00V00	Human
+,	,	Fc	-
+pulsa	pulsar	VMIP3S0	BodyMotion
+el	el	DA0MS0	-
+botón	botón	NCMS000	-
+de	de	SPS00	-
+llamada	llamada	NCFS000	-
+y	y	CC	-
+se	se	P00CN000	-
+lleva	llevar	VMIP3S0	BodyMotion
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+a	a	SPS00	-
+la	el	DA0FS0	-
+oreja	oreja	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Con	con	SPS00	-
+semblante	semblante	NCMS000	BodyPart
+serio	serio	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+espera	esperar	VMIP3S0	Process
+respuesta	respuesta	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Extrañado	extrañar	VMP00SM	A-StateOfMind
+por	por	SPS00	-
+el	el	DA0MS0	-
+ruido	ruido	NCMS000	RadiatingSound
+,	,	Fc	-
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+ruido	ruido	NCMS000	RadiatingSound
+le	le	PP3CSD00	-
+llama_la_atención	llamar_la_atención	VMIP3S0	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+se	se	P00CN000	-
+levanta	levantar	VMIP3S0	BodyMotion
+de	de	SPS00	-
+el	el	DA0MS0	-
+banco	banco	NCMS000	Object
+,	,	Fc	-
+cuelga	colgar	VMIP3S0	Process
+y	y	CC	-
+vuelve	volver	VMIP3S0	Aux
+a	a	SPS00	-
+poner	poner	VMN0000	Putting
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+en	en	SPS00	-
+el	el	DA0MS0	-
+bolsillo	bolsillo	NCMS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Sorprendido	sorprender	VMP00SM	A-StateOfMind
+por	por	SPS00	-
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+,	,	Fc	-
+empieza	empezar	VMIP3S0	Aux
+a	a	SPS00	-
+caminar	caminar	VMN0000	Walking
+mirando	mirar	VMG0000	Seeing
+de_un_lado_para_otro	de_un_lado_para_otro	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Deja	dejar	VMIP3S0	Aux
+olvidado	olvidar	VMP00SM	Process
+el	el	DA0MS0	-
+café	café	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Mientras	mientras	CS	Time
+tanto	tanto	RG	-
+,	,	Fc	-
+una	uno	DI0FS0	-
+chica	chico	NCFS000	Human
+pelirroja	pelirrojo	AQ0FS0	A-ColorAttribute
+de	de	SPS00	-
+unos	uno	DI0MP0	-
+20	20	Z	-
+años	año	NCMP000	Time
+estudia	estudiar	VMIP3S0	IntentionalPsychologicalProcess
+en	en	SPS00	-
+su	su	DP3CS0	-
+casa	casa	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Parece	parecer	VSIP3S0	Process
+agobiada	agobiar	VMP00SF	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Sobreimpreso	sobreimprimir	VMP00SM	A-FilmLanguage
+en	en	SPS00	-
+pantalla	pantalla	NCFS000	FilmLanguage
+:	:	Fd	-
+Jess	jess	NP00SP0	Human
+,	,	Fc	-
+la	el	DA0FS0	-
+estudiante	estudiante	NCCS000	Human
+.	.	Fp	-
+</s>
+<s>
+Jess	jess	NP00O00	Human
+busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+móvil	móvil	NCMS000	Object
+en	en	SPS00	-
+el	el	DA0MS0	-
+escritorio	escritorio	NCMS000	Object
+,	,	Fc	-
+hasta	hasta	SPS00	Time
+que	que	CS	-
+lo	lo	PP3CNA00	-
+encuentra	encontrar	VMIP3S0	IntentionalPsychologicalProcess
+debajo_de	debajo_de	SPS00	Location
+unos	uno	DI0MP0	-
+apuntes	apunte	NCMP000	Object
+.	.	Fp	-
+</s>
+<s>
+Muy	muy	RG	Quantifier
+extrañada	extrañar	VMP00SF	A-StateOfMind
+,	,	Fc	-
+cuelga	colgar	VMIP3S0	Process
+la	el	DA0FS0	-
+llamada	llamada	NCFS000	-
+y	y	CC	-
+mira	mirar	VMIP3S0	Seeing
+alrededor_de	alrededor_de	SPS00	Location
+su	su	DP3CS0	-
+habitación	habitación	NCFS000	Location
+intentando	intentar	VMG0000	Aux
+averiguar	averiguar	VMN0000	IntentionalPsychologicalProcess
+de	de	SPS00	-
+dónde	dónde	PT000000	Location
+procede	proceder	VMIP3S0	Process
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Cuando	cuando	CS	-
+se	se	P00CN000	-
+dispone	disponer	VMIP3S0	Aux
+a	a	SPS00	-
+mirar	mirar	VMN0000	Seeing
+sus	su	DP3CP0	-
+apuntes	apunte	NCMP000	Object
+De_repente	de_repente	RG	Time
+,	,	Fc	-
+se	se	P00CN000	-
+levanta	levantar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Jess	jess	NP00SP0	Human
+sale	salir	VMIP3S0	Motion
+de	de	SPS00	-
+su	su	DP3CS0	-
+casa	casa	NCFS000	Location
+y	y	CC	-
+comienza	comenzar	VMIP3S0	Aux
+a	a	SPS00	-
+caminar	caminar	VMN0000	Walking
+atraída	atraer	VMP00SF	A-StateOfMind
+por	por	SPS00	-
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Lleva	llevar	VMIP3S0	possesses
+una	uno	DI0FS0	-
+cazadora	cazador	NCFS000	Clothing
+y	y	CC	-
+un	uno	DI0MS0	-
+pañuelo	pañuelo	NCMS000	Clothing
+alrededor_de	alrededor_de	SPS00	Location
+el	el	DA0MS0	-
+cuello	cuello	NCMS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Con	con	SPS00	-
+decisión	decisión	NCFS000	StateOfMind
+,	,	Fc	-
+empieza	empezar	VMIP3S0	Aux
+a	a	SPS00	-
+subir	subir	VMN0000	Motion
+por	por	SPS00	-
+una	uno	DI0FS0	-
+montaña	montaña	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+De_repente	de_repente	RG	Time
+,	,	Fc	-
+se	se	P00CN000	-
+detiene	detener	VMIP3S0	Motion
+,	,	Fc	-
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+un	uno	DI0MS0	-
+lado	lado	NCMS000	Location
+y	y	CC	-
+a	a	SPS00	-
+otro	otro	PI0MS000	-
+e	y	CC	-
+identifica	identificar	VMIP3S0	IntentionalPsychologicalProcess
+finalmente	finalmente	RG	Time
+desde	desde	SPS00	-
+dónde	dónde	PT000000	Location
+viene	venir	VMIP3S0	Motion
+el	el	DA0MS0	-
+sonido	sonido	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+continuación	continuación	NCFS000	Time
+,	,	Fc	-
+avanza	avanzar	VMIP3S0	BodyMotion
+rápidamente	rápidamente	RG	Time
+hacia	hacia	SPS00	-
+este	este	DD0MS0	Location
+.	.	Fp	-
+</s>
+<s>
+Jess	jess	NP00O00	Human
+ha	haber	VAIP3S0	Aux
+llegado	llegar	VMP00SM	Motion
+a	a	SPS00	-
+una	uno	DI0FS0	-
+explanada	explanada	NCFS000	Location
+donde	donde	PR000000	-
+también	también	RG	-
+se	se	P00CN000	-
+encuentran	encontrar	VSIP3P0	Process
+james	james	NP00O00	Human
+y	y	CC	-
+Rick	rick	NP00O00	Human
+.	.	Fp	-
+</s>
+<s>
+Estos	este	DD0MP0	-
+,	,	Fc	-
+mediante	mediante	SPS00	-
+señas	seña	NCFP000	BodyMotion
+,	,	Fc	-
+se	se	P00CN000	-
+preguntan	preguntar	VMIP3P0	Communication
+si	si	CS	-
+también	también	RG	-
+escuchan	escuchar	VMIP3P0	Hearing
+el	el	DA0MS0	-
+mismo	mismo	AQ0MS0	A-SubjectiveAssessmentAttribute
+sonido	sonido	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+james	james	NP00G00	Human
+,	,	Fc	-
+Rick	rick	NP00SP0	Human
+y	y	CC	-
+Jess	jess	NP00O00	Human
+,	,	Fc	-
+sorprendidos	sorprender	VMP00PM	A-StateOfMind
+por	por	SPS00	-
+la	el	DA0FS0	-
+voz	voz	NCFS000	RadiatingSound
+que	que	PR0CN000	-
+escuchan	escuchar	VMIP3P0	Hearing
+,	,	Fc	-
+miran	mirar	VMIP3P0	Seeing
+en	en	SPS00	-
+todas	todo	DI0FP0	-
+direcciones	dirección	NCFP000	Location
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+se	se	P00CN000	-
+emociona	emocionar	VMIP3S0	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+se	se	P00CN000	-
+ríe	reír	VMIP3S0	BodyMotion
+tímidamente	tímidamente	RG	-
+.	.	Fp	-
+</s>
+<s>
+Los	el	DA0MP0	-
+tres	3	Z	-
+se	se	P00CN000	-
+cruzan_las_miradas	cruzar_las_miradas	VMIP3P0	Seeing
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+,	,	Fc	-
+dubitativo	dubitativo	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+niega_con_la_cabeza	negar_con_la_cabeza	VMIP3S0	Gesture
+,	,	Fc	-
+a_el_igual_que	al_igual_que	CS	-
+Jess	jess	NP00G00	Human
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+cielo	cielo	NCMS000	Location
+,	,	Fc	-
+con	con	SPS00	-
+los	el	DA0MP0	-
+brazos	brazo	NCMP000	BodyPart
+abiertos	abrir	VMP00PM	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+james	james	NP00G00	Human
+empieza	empezar	VMIP3S0	Aux
+a	a	SPS00	-
+caminar	caminar	VMN0000	Walking
+y	y	CC	-
+,	,	Fc	-
+tranquilo	tranquilo	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+mete	meter	VMIP3S0	BodyMotion
+las	el	DA0FP0	-
+manos	mano	NCFP000	BodyPart
+en	en	SPS00	-
+los	el	DA0MP0	-
+bolsillos	bolsillo	NCMP000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00SP0	Human
+le	le	PP3CSD00	-
+sigue	sigue	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+Jess	jess	NP00SP0	Human
+se	se	P00CN000	-
+ha	haber	VAIP3S0	Aux
+quedado	quedar	VMP00SM	Process
+pensativa	pensativo	AQ0FS0	A-StateOfMind
+,	,	Fc	-
+pero	pero	CC	-
+Jess	jess	NP00SP0	Human
+da	dar	VMIP3S0	BodyMotion
+unas	uno	DI0FP0	-
+pocas	poco	DI0FP0	-
+zancadas	zancada	NCFP000	Walking
+y	y	CC	-
+los	lo	PP3MPA00	-
+alcanza	alcanzar	VMIP3S0	BodyMotion
+enseguida	enseguida	RG	Time
+.	.	Fp	-
+</s>
+<s>
+Ellos	ellos	PP3MP000	-
+miran	mirar	VMIP3P0	Seeing
+atrás	atrás	RG	Location
+y	y	CC	-
+,	,	Fc	-
+cariñosamente	cariñosamente	RG	-
+,	,	Fc	-
+james	james	NP00SP0	Human
+le	le	PP3CSD00	-
+pone	poner	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+mano	mano	NCFS000	BodyPart
+por	por	SPS00	-
+encima	encima	RG	Location
+y	y	CC	-
+Rick	rick	NP00SP0	Human
+hace	hacer	VMIP3S0	Process
+lo	el	DA0NS0	-
+mismo	mismo	AQ0MS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Poco_a_poco	poco_a_poco	RG	Time
+se	se	P00CN000	-
+van	ir	VMIP3P0	Aux
+alejando	alejar	VMG0000	Motion
+de	de	SPS00	-
+la	el	DA0FS0	-
+explanada	explanada	NCFS000	Location
+y	y	CC	-
+vuelven	volver	VMIP3P0	Walking
+a	a	SPS00	-
+el	el	DA0MS0	-
+mismo	mismo	AQ0MS0	A-SubjectiveAssessmentAttribute
+lugar	lugar	NCMS000	Location
+por	por	SPS00	-
+el	el	DA0MS0	-
+que	que	PR0CN000	-
+subieron	subir	VMIS3P0	Motion
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+otro	otro	DI0MS0	-
+lugar	lugar	NCMS000	Location
+,	,	Fc	-
+una	uno	DI0FS0	-
+mujer	mujer	NCFS000	Human
+habla	hablar	VMIP3S0	Communication
+por	por	SPS00	-
+teléfono	teléfono	NCMS000	Object
+mientras	mientras	CS	Time
+tiende	tender	VMIP3S0	Process
+la	el	DA0FS0	-
+ropa	ropa	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Sorprendida	sorprender	VMP00SF	A-StateOfMind
+,	,	Fc	-
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+su	su	DP3CS0	-
+alrededor	alrededor	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Cuelga	colgar	VMIP3S0	Process
+el	el	DA0MS0	-
+teléfono	teléfono	NCMS000	Object
+,	,	Fc	-
+extrañada	extrañar	VMP00SF	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Sobreimpreso	sobreimprimir	VMP00SM	A-FilmLanguage
+en	en	SPS00	-
+pantalla	pantalla	NCFS000	FilmLanguage
+:	:	Fd	-
+Zoé	zoé	NP00SP0	Human
+,	,	Fc	-
+la	el	DA0FS0	-
+próxima	próximo	AQ0FS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Fundido	fundir	VMP00SM	A-FilmLanguage
+en	en	SPS00	-
+negro	negro	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Sobre	sobre	SPS00	Location
+un	uno	DI0MS0	-
+fondo	fondo	NCMS000	FilmLanguage
+blanco	blanco	AQ0MS0	A-ColorAttribute
+con	con	SPS00	-
+letras	letra	NCFP000	FilmLanguage
+negras	negro	AQ0FP0	A-ColorAttribute
+:	:	Fd	-
+"	"	Fe	-
+Qué	qué	PT0CN000	-
+pasa	pasar	VMIP3S0	Process
+mientras	mientras	CS	Time
+"	"	Fe	-

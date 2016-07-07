@@ -1,0 +1,9833 @@
+<text id='AccessFriendly-CA'>
+<s>
+Dia	dia	NCMS000	TimeInterval
+gris	gris	AQ0MS0	A-ColorAttribute
+i	i	CC	-
+ennuvolat	ennuvolar	VMP00SM	A-RadiatingLight
+.	.	Fp	-
+</s>
+<s>
+davant	davant	SPS00	Location
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+.	.	Fp	-
+</s>
+<s>
+des_de	des_de	SPS00	-
+la	el	DA0FS0	-
+carretera	carretera	NCFS000	Location
+,	,	Fc	-
+un	un	DI0MS0	-
+passeig	passeig	NCMS000	Location
+sense	sense	SPS00	-
+arbres	arbre	NCMP000	-
+i	i	CC	-
+,	,	Fc	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+fons	fons	NCMN000	Location
+,	,	Fc	-
+la	el	DA0FS0	-
+línia	línia	NCFS000	-
+de	de	SPS00	-
+l'	el	DA0CS0	-
+horitzó	horitzó	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+parella	parella	NCFS000	Human
+passeja	passejar	VMIP3S0	Walking
+amb	amb	SPS00	-
+un	un	DI0MS0	-
+gos	gos	NCMS000	Animal
+,	,	Fc	-
+i	i	CC	-
+una	un	DI0FS0	-
+altre	altre	PI0MS000	-
+persona	persona	NCFS000	Human
+corre	córrer	VMIP3S0	Walking
+.	.	Fp	-
+</s>
+<s>
+Apareix	aparèixer	VMIP3S0	Process
+el	el	DA0MS0	-
+títol	títol	NCMS000	FilmLanguage
+en	en	SPS00	-
+anglès	anglès	NCMS000	-
+:	:	Fd	-
+what	what	NCFS000	-
+happens	happens	NCMP000	-
+while	while	NCMS000	-
+...	...	Fs	-
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+un	un	DI0MS0	-
+cotxe	cotxe	NCMS000	-
+esportiu	esportiu	AQ0MS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+blanc	blanc	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+conductor	conductor	NCMS000	Human
+parla	parlar	VMIP3S0	Communication
+per	per	SPS00	-
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Mentre	mentre	CS	TimeInterval
+parlava	parlar	VMII3S0	Communication
+,	,	Fc	-
+l'	el	DA0CS0	-
+home	home	NCMS000	Human
+ha	haver	VAIP3S0	Aux
+sortit	sortir	VMP00SM	Motion
+de	de	SPS00	-
+el	el	DA0MS0	-
+cotxe	cotxe	NCMS000	Object
+amb	amb	SPS00	-
+una	un	DI0FS0	-
+cartera	cartera	NCFS000	Clothing
+a	a	SPS00	-
+la	el	DA0FS0	-
+mà	mà	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+l'	el	DA0CS0	-
+ha	haver	VAIP3S0	Aux
+ficat	ficar	VMP00SM	Putting
+a	a	SPS00	-
+el	el	DA0MS0	-
+maleter	maleter	NCMS000	Location
+,	,	Fc	-
+i	i	CC	-
+ha	haver	VAIP3S0	Aux
+tret	treure	VMP00SM	Putting
+una	un	DI0FS0	-
+bossa	bossa	NCFS000	Object
+de	de	SPS00	-
+ratlles	ratlla	NCFP000	-
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+guarda	guardar	VMIP3S0	Putting
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+a	a	SPS00	-
+la	el	DA0FS0	-
+butxaca	butxaca	NCFS000	Clothing
+i	i	CC	-
+es	es	P0300000	-
+posa	posar	VMIP3S0	Putting
+les	el	DA0FP0	-
+ulleres_de_sol	ulleres_de_sol	NCFP000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+,	,	Fc	-
+a	a	SPS00	-
+la	el	DA0FS0	-
+imatge	imatge	NCFS000	FilmLanguage
+congelada	congelar	VMP00SF	FilmLanguage
+,	,	Fc	-
+es	es	P0300000	-
+llegeix	llegir	VMIP3S0	Seeing
+:	:	Fd	-
+James	james	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+empresari	empresari	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+s'	es	P0300000	-
+estira	estirar	VMIP3S0	BodyMotion
+,	,	Fc	-
+de_panxa_enlaire	de_panxa_enlaire	RG	PositionalAttribute
+,	,	Fc	-
+damunt	damunt	SPS00	Location
+la	el	DA0FS0	-
+tovallola	tovallola	NCFS000	Object
+,	,	Fc	-
+a	a	SPS00	-
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+ara	ara	RG	TimeInterval
+va	anar	VMIP3S0	Motion
+amb	amb	SPS00	-
+el	el	DA0MS0	-
+tors	tors	NCMS000	BodyPart
+despullat	despullar	VMP00SM	A-Clothing
+.	.	Fp	-
+</s>
+<s>
+abans	abans	RG	TimeInterval
+anava	anar	VAII3S0	Aux
+vestit	vestir	VMP00SM	A-Clothing
+amb	amb	SPS00	-
+americana	americana	NCFS000	Clothing
+i	i	CC	-
+corbata	corbata	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+posa	posar	VMIP3S0	BodyMotion
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+a	a	SPS00	-
+la	el	DA0FS0	-
+cara	cara	NCFS000	BodyPart
+,	,	Fc	-
+i	i	CC	-
+després	després	RG	TimeInterval
+toca	tocar	VMIP3S0	Touching
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	-
+amb	amb	SPS00	-
+els	el	DA0MP0	-
+dits	dit	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Porta	portar	VMIP3S0	Dressing
+banyador	banyador	NCMS000	Clothing
+i	i	CC	-
+va	anar	VAIP3S0	Aux
+descalç	descalç	AQ0MS0	A-Clothing
+.	.	Fp	-
+</s>
+<s>
+s'	es	P0300000	-
+acosta	acostar	VMIP3S0	Motion
+a_la_vora_de	a_la_vora_de	SPS00	Location
+l'	el	DA0CS0	-
+aigua	aigua	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+es	es	P0300000	-
+gira	girar	VMIP3S0	BodyMotion
+i	i	CC	-
+torna	tornar	VMIP3S0	Motion
+enrere	enrere	RG	Location
+,	,	Fc	-
+tot	tot	RG	-
+mirant	mirar	VMG0000	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+fa_unes_passes	fer_passes	VMIP3S0	Walking
+titubejants	titubejant	AQ0CP0	A-StateOfMind
+,	,	Fc	-
+cap_a	cap_a	SPS00	-
+una	un	DI0FS0	-
+banda	banda	NCFS000	Location
+i	i	CC	-
+l'	el	DA0CS0	-
+altra	altre	PI0FS000	-
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+fa_unes_passes	fer_passes	VMIP3S0	Walking
+titubejants	titubejant	AQ0CP0	A-StateOfMind
+,	,	Fc	-
+cap_a	cap_a	SPS00	-
+una	un	DI0FS0	-
+banda	banda	NCFS000	Location
+i	i	CC	-
+l'	el	DA0CS0	-
+altra	altre	PI0FS000	-
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+la	el	DA0FS0	-
+dreta	dreta	NCFS000	Location
+de	de	SPS00	-
+la	el	DA0FS0	-
+pantalla	pantalla	NCFS000	FilmsLanguage
+,	,	Fc	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+fons	fons	NCMN000	Location
+,	,	Fc	-
+s'	es	P0300000	-
+albira	albirar	VMIP3S0	Seeing
+el	el	DA0MS0	-
+perfil	perfil	NCMS000	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+ciutat	ciutat	NCFS000	Location
+entre	entre	SPS00	-
+la	el	DA0FS0	-
+broma	broma	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+james	james	NP00000	-
+té	tenir	VMIP3S0	possesses
+uns	un	DI0MP0	-
+40	40	Z	-
+anys	any	NCMP000	-
+,	,	Fc	-
+potser	potser	RG	-
+a_prop	a_prop	RG	Quantifier
+de	de	SPS00	-
+els	el	DA0MP0	-
+50	50	Z	-
+.	.	Fp	-
+</s>
+<s>
+és	ser	VSIP3S0	Aux
+ben_plantat	ben_plantat	AQ0MS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+pèl_roig	pèl_roig	AQ0MS0	A-ColorAttribute
+i	i	CC	-
+amb	amb	SPS00	-
+barba	barba	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Amb	amb	SPS00	-
+cara	cara	NCFS000	BodyPart
+d'	de	SPS00	-
+amoïnat	amoïnar	VMP00SM	A-StateOfMind
+,	,	Fc	-
+torna	tornar	VMIP3S0	Motion
+cap_a	cap_a	SPS00	-
+la	el	DA0FS0	-
+tovallola	tovallola	NCFS000	Object
+i	i	CC	-
+es	es	P0300000	-
+posa	posar	VMIP3S0	Putting
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+intrigat	intrigar	VMP00SM	A-StateOfMind
+,	,	Fc	-
+no	no	RN	-
+para	parar	VAIP3S0	Aux
+de	de	SPS00	-
+mirar	mirar	VMN0000	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+En	en	SPS00	-
+james	james	NP00000	-
+camina	caminar	VMIP3S0	Walking
+per	per	SPS00	-
+una	un	DI0FS0	-
+zona	zona	NCFS000	Location
+d'	de	SPS00	-
+arbres	arbre	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+porta	portar	VMIP3S0	Dressing
+el	el	DA0MS0	-
+vestit	vestit	NCMS000	Clothing
+però	però	CC	-
+sense	sense	SPS00	-
+la	el	DA0FS0	-
+corbata	corbata	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Puja	pujar	VMIP3S0	Walking
+per	per	SPS00	-
+un	un	DI0MS0	-
+corriol	corriol	NCMS000	Location
+costerut	costerut	AQ0MS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+entre	entre	SPS00	-
+matolls	matoll	NCMP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+got	got	NCMS000	Object
+de	de	SPS00	-
+plàstic	plàstic	NCMS000	-
+,	,	Fc	-
+amb	amb	SPS00	-
+tapa	tapa	NCFS000	Object
+,	,	Fc	-
+subjectat	subjectar	VMP00SM	A-SubjectiveAssessmentAttribute
+per	per	SPS00	-
+unes	un	DI0FP0	-
+mans	mà	NCFP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Rostre	rostre	NCMS000	BodyPart
+pensarós	pensarós	AQ0MS0	A-StateOfMind
+d'	de	SPS00	-
+un	un	DI0MS0	-
+home	home	NCMS000	Human
+,	,	Fc	-
+d'	de	SPS00	-
+uns	un	DI0MP0	-
+seixanta	60	Z	-
+anys	any	NCMP000	-
+,	,	Fc	-
+amb	amb	SPS00	-
+cabell	cabell	NCMS000	BodyPart
+arrissat	arrissar	VMP00SM	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+barba	barba	NCFS000	BodyPart
+canosa	canós	AQ0FS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Voreja	vorejar	VMIP3S0	BodyMotion
+amb	amb	SPS00	-
+els	el	DA0MP0	-
+dits	dit	NCMP000	BodyPart
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+i	i	CC	-
+finalment	finalment	RG	TimeInterval
+l'	ell	PP3CSA00	-
+obre	obrir	VMIP3S0	Process
+.	.	Fp	-
+</s>
+<s>
+hi	hi	PP3CN000	-
+ha	haver	VMIP3S0	exists
+cafè	cafè	NCMS000	-
+aigualit	aigualir	VMP00SM	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Indecís	indecís	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+acaba	acabar	VAIP3S0	Aux
+fent	fer	VMG0000	BodyMotion
+un	un	DI0MS0	-
+glop	glop	NCMS000	Drinking
+.	.	Fp	-
+</s>
+<s>
+Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+,	,	Fc	-
+a	a	SPS00	-
+la	el	DA0FS0	-
+imatge	imatge	NCFS000	FilmLanguage
+congelada	congelar	VMP00SF	FilmLanguage
+,	,	Fc	-
+es	es	P0300000	-
+llegeix	llegir	VMIP3S0	Seeing
+:	:	Fd	-
+Rick	rick	NP00000	-
+,	,	Fc	-
+el	el	DA0MS0	-
+jubilat	jubilat	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+està	estar	VSIP3S0	Aux
+assegut	asseure	VMP00SM	A-PositionalAttribute
+en	en	SPS00	-
+un	un	DI0MS0	-
+banc	banc	NCMS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+parc	parc	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+amb	amb	SPS00	-
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+a	a	SPS00	-
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+i	i	CC	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+perduda	perdre	VMP00SF	A-StateOfMind
+,	,	Fc	-
+mou	moure	VMIP3S0	BodyMotion
+nerviosament	nerviosament	RG	-
+una	un	DI0FS0	-
+cama	cama	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+vesteix	vestir	VMIP3S0	Dressing
+samarreta	samarreta	NCFS000	Clothing
+de	de	SPS00	-
+tirants	tirant	NCMP000	-
+,	,	Fc	-
+pantalons	pantaló	NCMP000	Clothing
+texans	texà	AQ0MP0	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+calçat	calçat	NCMS000	Clothing
+esportiu	esportiu	AQ0MS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+porta	portar	VMIP3S0	Dressing
+una	un	DI0FS0	-
+cadena	cadena	NCFS000	Clothing
+platejada	platejar	VMP00SF	A-ColorAttribute
+a	a	SPS00	-
+el	el	DA0MS0	-
+voltant	voltant	NCMS000	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+coll	coll	NCMS000	BodyPart
+i	i	CC	-
+una	un	DI0FS0	-
+polsera	polsera	NCFS000	Clothing
+a	a	SPS00	-
+el	el	DA0MS0	-
+canell	canell	NCMS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Té	tenir	VMIP3S0	possesses
+alguns	algun	DI0MP0	-
+tatuatges	tatuatge	NCMP000	BodyPart
+a	a	SPS00	-
+els	el	DA0MP0	-
+braços	braç	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+damunt	damunt	SPS00	Location
+el	el	DA0MS0	-
+banc	banc	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+es	es	P0300000	-
+treu	treure	VMIP3S0	Putting
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+de	de	SPS00	-
+la	el	DA0FS0	-
+butxaca	butxaca	NCFS000	Clothing
+de	de	SPS00	-
+el	el	DA0MS0	-
+darrere	darrere	RG	Location
+.	.	Fp	-
+</s>
+<s>
+l'	el	DA0CS0	-
+activa	activar	VMIP3S0	Process
+i	i	CC	-
+obre	obrir	VMIP3S0	Process
+la	el	DA0FS0	-
+llista	llista	NCFS000	-
+de	de	SPS00	-
+contactes	contacte	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+en	en	SPS00	-
+selecciona	seleccionar	VMIP3S0	BodyMotion
+un	un	DI0MS0	-
+:	:	Fd	-
+craig	craig	NCMS000	-
+anderson	anderson	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+i	i	CC	-
+es	es	P0300000	-
+guarda	guardar	VMIP3S0	Putting
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+a	a	SPS00	-
+la	el	DA0FS0	-
+butxaca	butxaca	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+got	got	NCMS000	Object
+ha	haver	VAIP3S0	Aux
+quedat	quedar	VMP00SM	Motion
+sol	sol	NCMS000	A-SubjectiveAssessmentAttribute
+damunt	damunt	SPS00	Location
+el	el	DA0MS0	-
+banc	banc	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+s'	es	P0300000	-
+allunya	allunyar	VMIP3S0	Motion
+i	i	CC	-
+comença	començar	VAIP3S0	Aux
+a	a	SPS00	-
+caminar	caminar	VMN0000	Walking
+,	,	Fc	-
+tot	tot	RG	-
+mirant	mirar	VMG0000	Seeing
+cap	cap	SPS00	-
+amunt	amunt	RG	Location
+i	i	CC	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+,	,	Fc	-
+encuriosit	encuriosir	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Noia	noi	NCFS000	HumanHuman
+jove	jove	AQ0FS0	A-SubjectiveAssessmentAttribute
+davant	davant	SPS00	Location
+l'	el	DA0CS0	-
+ordinador	ordinador	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+posa	posar	VMIP3S0	Putting
+un	un	DI0MS0	-
+llapis	llapis	NCMN000	Object
+dins	dins	SPS00	-
+la	el	DA0FS0	-
+boca	boca	NCFS000	BodyPart
+i	i	CC	-
+el	el	DA0MS0	-
+mossega	mossegar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+,	,	Fc	-
+a	a	SPS00	-
+la	el	DA0FS0	-
+imatge	imatge	NCFS000	FilmLanguage
+congelada	congelar	VMP00SF	FilmLanguage
+,	,	Fc	-
+es	es	P0300000	-
+llegeix	llegir	VMIP3S0	Seeing
+:	:	Fd	-
+jess	jess	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+estudiant	estudiant	NCCS000	Human
+La	el	DA0FS0	-
+jess	jess	NP00000	-
+té	tenir	VMIP3S0	possesses
+una	un	DI0FS0	-
+llarga	llarg	AQ0FS0	A-SubjectiveAssessmentAttribute
+melena	melena	NCFS000	BodyPart
+arrissada	arrissar	VMP00SF	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+d'	de	SPS00	-
+un	un	DI0MS0	-
+castany	castany	AQ0MS0	A-ColorAttribute
+vermellós	vermellós	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Porta	portar	VMIP3S0	Dressing
+les	el	DA0FP0	-
+ungles	ungla	NCFP000	BodyPart
+pintades	pintar	VMP00SM	A-ColorAttribute
+de	de	SPS00	-
+blau	blau	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+cap	cap	SPS00	-
+amunt	amunt	RG	Location
+i	i	CC	-
+darrere	darrere	RG	Location
+seu	seu	PX3MS0C0	-
+,	,	Fc	-
+temorosa	temorós	AQ0FS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+l'	el	DA0CS0	-
+exterior	exterior	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+la	el	DA0CS0	-
+Jess	Jess	NP	-
+,	,	Fc	-
+abrigada	abrigar	VMP00SF	A-Clothing
+amb	amb	SPS00	-
+parca	parca	NCFS000	Clothing
+i	i	CC	-
+bufanda	bufanda	NCFS000	Clothing
+,	,	Fc	-
+camina	caminar	VMIP3S0	Walking
+per	per	SPS00	-
+una	un	DI0FS0	-
+zona	zona	NCFS000	Location
+de	de	SPS00	-
+matolls	matoll	NCMP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Tot	tot	PI0MS000	-
+d'	de	SPS00	-
+una	un	DI0FS0	-
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+i	i	CC	-
+mira	mirar	VMIP3S0	Seeing
+cap_a	cap_a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+darrere	darrere	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+tomba	tombar	VMIP3S0	BodyMotion
+i	i	CC	-
+segueix	seguir	VAIP3S0	Aux
+caminant	caminar	VMG0000	Walking
+a	a	SPS00	-
+pas	pas	NCMS000	-
+lleuger	lleuger	AQ0MS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+una	un	DI0FS0	-
+clariana	clariana	NCFS000	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+bosc	bosc	NCMS000	Location
+,	,	Fc	-
+sota	sota	SPS00	Location
+un	un	DI0MS0	-
+cel	cel	NCMS000	Location
+blau	blau	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+coincideixen	coincidir	VMIP3P0	Process
+els	el	DA0MP0	-
+tres	3	Z	-
+personatges	personatge	NCMP000	FilmLanguage
+.	.	Fp	-
+</s>
+<s>
+Desconcertats	desconcertar	VMP00PM	A-StateOfMind
+,	,	Fc	-
+mouen	moure	VMIP3P0	BodyMotion
+el	el	DA0MS0	-
+cap	cap	NCMS000	BodyPart
+,	,	Fc	-
+fan_passes	fer_passes	VMIP3P0	Walking
+indecises	indecís	AQ0FP0	A-StateOfMind
+i	i	CC	-
+miren	mirar	VMIP3P0	Seeing
+a	a	SPS00	-
+totes	tot	DI0FP0	-
+bandes	banda	NCFP000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+es	es	P0300000	-
+tomba	tombar	VMIP3S0	BodyMotion
+d'	de	SPS00	-
+esquena	esquena	NCFS000	BodyPart
+i	i	CC	-
+comença	començar	VAIP3S0	Aux
+a	a	SPS00	-
+caminar	caminar	VMN0000	Walking
+.	.	Fp	-
+</s>
+<s>
+en	en	SPS00	-
+Rick	rick	NP00000	-
+el	el	DA0MS0	-
+segueix	seguir	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+la	el	DA0FS0	-
+Jess	jess	NP00000	-
+s'	es	P0300000	-
+ho	ho	PP3NN000	-
+pensa	pensar	VMIP3S0	IntentionalPsychologicalProcess
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+el	el	DA0MS0	-
+rostre	rostre	NCMS000	BodyPart
+de	de	SPS00	-
+els	el	DA0MP0	-
+tres	3	Z	-
+personatges	personatge	NCMP000	FilmLanguage
+,	,	Fc	-
+s'	es	P0300000	-
+hi	hi	PP3CN000	-
+ha	haver	VAIP3S0	Aux
+dibuixat_un_somriure	dibuixar_un_somriure	VMP00SM	Gesture
+.	.	Fp	-
+</s>
+<s>
+la	el	DA0MS0	-
+Jess	jess	NP00000	-
+,	,	Fc	-
+que	que	PR0CN000	-
+s'	es	P0300000	-
+havia	haver	VAII1S0	Aux
+quedat	quedar	VMP00SM	Process
+palplantada	palplantar	VMP00SF	A-StateOfMind
+,	,	Fc	-
+es	es	P0300000	-
+gira	girar	VMIP3S0	BodyMotion
+i	i	CC	-
+comença	començar	VAIP3S0	Aux
+a	a	SPS00	-
+córrer	córrer	VMN0000	Walking
+cap_a	cap_a	SPS00	-
+ells	ell	PP3MP000	-
+.	.	Fp	-
+</s>
+<s>
+junts	junt	AQ0MP0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+tots	tot	DI0MP0	-
+tres	3	Z	-
+s'	es	P0300000	-
+endinsen	endinsar	VMIP3P0	Motion
+en	en	SPS00	-
+el	el	DA0MS0	-
+bosc	bosc	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Pantalla	pantalla	NP00000	FilmsLanguage
+negre	negre	NCMS000	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+,	,	Fc	-
+a	a	SPS00	-
+la	el	DA0FS0	-
+imatge	imatge	NCFS000	FilmLanguage
+congelada	congelar	VMP00SF	FilmLanguage
+,	,	Fc	-
+es	es	P0300000	-
+llegeix	llegir	VMIP3S0	Seeing
+:	:	Fd	-
+Zoé	zoé	NP00000	-
+,	,	Fc	-
+la	el	DA0FS0	-
+següent	següent	AQ0CS0	A-PositionalAttribute
+<text id='Aptent-CA'>
+<s>
+A	a	SPS00	-
+una	un	DI0FS0	-
+platja	platja	NCFS000	Location
+,	,	Fc	-
+i	i	CC	-
+sota	sota	SPS00	Location
+un	un	DI0MS0	-
+cel	cel	NCMS000	Location
+parcialment	parcialment	RG	Mode
+ennuvolat	ennuvolar	VMP00SM	A-RadiatingLight
+,	,	Fc	-
+es	es	P0300000	-
+creuen	creuar	VMIP3P0	Motion
+per	per	SPS00	-
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+una	un	DI0FS0	-
+parella	parella	NCFS000	Human
+que	que	PR0CN000	-
+passeja	passejar	VMIP3S0	Walking
+un	un	DI0MS0	-
+gos	gos	NCMS000	Animal
+de	de	SPS00	-
+mida	mida	NCFS000	-
+gran	gran	AQ0CS0	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+un	un	DI0MS0	-
+home	home	NCMS000	Human
+que	que	PR0CN000	-
+fa_fúting	fer_fúting	VMIP3S0	Walking
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+gos	gos	NCMS000	Animal
+ensuma	ensumar	VMIP3S0	Smelling
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+sentir	sentir	VMN0000	Hearing
+el	el	DA0MS0	-
+xiulet	xiulet	NCMS000	RadiatingSound
+corre	córrer	VMIP3S0	Walking
+amb	amb	SPS00	-
+els	el	DA0MP0	-
+seus	seu	PX3MP0C0	-
+amos	amo	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+amb	amb	SPS00	-
+fons	fons	NCMN000	FilmLanguage
+blanc	blanc	AQ0MS0	A-ColorAttribute
+:	:	Fd	-
+Què	què	PT0CS000	-
+passa	passar	VMIP3S0	Process
+mentre	mentre	CS	TimeInterval
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+el	el	DA0MS0	-
+costat	costat	NCMS000	Location
+de	de	SPS00	-
+la	el	DA0FS0	-
+platja	platja	NCFS000	Location
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+un	un	DI0MS0	-
+cotxe	cotxe	NCMS000	-
+blanc	blanc	AQ0MS0	A-ColorAttribute
+de	de	SPS00	-
+gamma	gamma	NCFS000	-
+alta	alt	AQ0FS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Sortirà	sortir	VMIF3S0	Motion
+el	el	DA0MS0	-
+conductor	conductor	NCMS000	Human
+parlant	parlar	VMG0000	Communication
+amb	amb	SPS00	-
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+,	,	Fc	-
+desarà	desar	VMIF3S0	Putting
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+maletí	maletí	NCMS000	Object
+a	a	SPS00	-
+el	el	DA0MS0	-
+maleter	maleter	NCMS000	Location
+i	i	CC	-
+agafarà	agafar	VMIF3S0	Touching
+una	un	DI0FS0	-
+bossa	bossa	NCFS000	Object
+de	de	SPS00	-
+platja	platja	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Penja	penjar	VMIP3S0	Process
+i	i	CC	-
+desa	desar	VMIP3S0	Putting
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+enduu	endur	VMIP3S0	Motion
+la	el	DA0FS0	-
+mà	mà	NCFS000	BodyPart
+a	a	SPS00	-
+la	el	DA0FS0	-
+butxaca	butxaca	NCFS000	Clothing
+interior	interior	AQ0CS0	A-PositionalAttribute
+de	de	SPS00	-
+el	el	DA0MS0	-
+vestit	vestit	NCMS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+posa	posar	VMIP3S0	Putting
+unes	un	DI0FP0	-
+ulleres_de_sol	ulleres_de_sol	NCFP000	Clothing
+d'	de	SPS00	-
+aviador	aviador	NCMS000	-
+daurades	daurat	AQ0FP0	A-ColorAttribute
+i	i	CC	-
+mira	mirar	VMIP3S0	Seeing
+endavant	endavant	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+:	:	Fd	-
+James	james	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+empresari	empresari	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Caminant	caminar	VMG0000	Walking
+per	per	SPS00	-
+la	el	DA0FS0	-
+platja	platja	NCFS000	Location
+s'	es	P0300000	-
+enduu	endur	VMIP3S0	Motion
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+a	a	SPS00	-
+l'	el	DA0CS0	-
+orella	orella	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+estén	estendre	VMIP3S0	BodyMotion
+de_panxa_enlaire	de_panxa_enlaire	RG	PositionalAttribute
+i	i	CC	-
+en	en	SPS00	-
+banyador	banyador	NCMS000	Clothing
+sobre	sobre	SPS00	Location
+una	un	DI0FS0	-
+tovallola	tovallola	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+amb	amb	SPS00	-
+les	el	DA0FP0	-
+seves	seu	PX3FP0C0	-
+coses	cosa	NCFP000	-
+.	.	Fp	-
+</s>
+<s>
+Roman	romandre	VMIP3S0	Motion
+uns	un	DI0MP0	-
+segons	segon	NCMP000	TimeInterval
+amb	amb	SPS00	-
+els	el	DA0MP0	-
+ulls	ull	NCMP000	BodyPart
+tancats	tancar	VMP00PM	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+emporta	emportar	VMIP3S0	Motion
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+a	a	SPS00	-
+la	el	DA0FS0	-
+cara	cara	NCFS000	BodyPart
+i	i	CC	-
+estén	estendre	VMIP3S0	BodyMotion
+els	el	DA0MP0	-
+braços	braç	NCMP000	BodyPart
+sobre	sobre	SPS00	Location
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Amb	amb	SPS00	-
+una	un	DI0FS0	-
+mà	mà	NCFS000	BodyPart
+n'	en	PP3CN000	-
+agafa	agafar	VMIP3S0	Touching
+una	un	DI0FS0	-
+mica	mica	NCFS000	-
+i	i	CC	-
+la	ell	PP3FSA00	-
+deixa	deixar	VAIP3S0	Aux
+caure	caure	VMN0000	Motion
+lentament	lentament	RG	Mode
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+incorpora	incorporar	VMIP3S0	BodyMotion
+i	i	CC	-
+l'	el	DA0CS0	-
+agafa	agafar	VMIP3S0	Touching
+.	.	Fp	-
+</s>
+<s>
+Busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+quelcom	quelcom	PI0CS000	-
+entre	entre	SPS00	-
+les	el	DA0FP0	-
+seves	seu	PX3FP0C0	-
+coses	cosa	NCFP000	-
+.	.	Fp	-
+</s>
+<s>
+Deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+a	a	SPS00	-
+un	un	DI0MS0	-
+costat	costat	NCMS000	Location
+i	i	CC	-
+s'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+allunya	allunyar	VMIP3S0	Motion
+uns	un	DI0MP0	-
+metres	metre	NCMP000	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+tovallola	tovallola	NCFS000	Object
+mirant	mirar	VMG0000	Seeing
+a_la_llunyania	a_la_llunyania	RG	Location
+,	,	Fc	-
+en_direcció_a	en_direcció_a	SPS00	Location
+el	el	DA0MS0	-
+passeig	passeig	NCMS000	Location
+marítim	marítim	AQ0MS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+i	i	CC	-
+centra	centrar	VMIP3S0	IntentionalPsychologicalProcess
+la	el	DA0FS0	-
+seva	seu	PX3FS0C0	-
+atenció	atenció	NCFS000	-
+en	en	SPS00	-
+un	un	DI0MS0	-
+punt	punt	NCMS000	Location
+fix	fix	AQ0MS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+gavina	gavina	NCFS000	Animal
+vola	volar	VMIP3S0	Motion
+a	a	SPS00	-
+uns	un	DI0MP0	-
+metres	metre	NCMP000	Location
+d'	de	SPS00	-
+ell	ell	PP3MS000	-
+movent	moure	VMG0000	BodyMotion
+les	el	DA0FP0	-
+ales	ala	NCFP000	BodyPart
+amb	amb	SPS00	-
+ímpetu	ímpetu	NCMS000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Dirigeix_la_mirada	dirigir_la_mirada	VMIP3S0	Seeing
+d'	de	SPS00	-
+una	un	DI0FS0	-
+banda	banda	NCFS000	Location
+a	a	SPS00	-
+l'	el	DA0CS0	-
+altra	altre	PI0FS000	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+platja	platja	NCFS000	Location
+com	com	CS	-
+desorientat	desorientar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Fa_mitja_volta	fer_mitja_volta	VMIP3S0	BodyMotion
+i	i	CC	-
+sense	sense	SPS00	-
+deixar	deixar	VAN0000	Aux
+de	de	SPS00	-
+mirar	mirar	VMN0000	Seeing
+en	en	SPS00	-
+totes	tot	DI0FP0	-
+direccions	direcció	NCFP000	Location
+s'	es	P0300000	-
+apropa	apropar	VMIP3S0	Motion
+a_la_vora_de	a_la_vora_de	SPS00	Location
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+rostre	rostre	NCMS000	BodyPart
+denota	denotar	VMIP3S0	Process
+certa	CERT	DI0FS0	-
+inquietud	inquietud	NCFS000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Torna	tornar	VMIP3S0	Motion
+cap_a	cap_a	SPS00	-
+la	el	DA0FS0	-
+tovallola	tovallola	NCFS000	Object
+sense	sense	SPS00	-
+posar	posar	VMN0000	Putting
+atenció	atenció	NCFS000	-
+a	a	SPS00	-
+els	el	DA0MP0	-
+seus	seu	PX3MP0C0	-
+passos	pas	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+Dos	2	Z	-
+iots	iot	NCMP000	-
+solquen	solcar	VMM03P0	Motion
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+inclina	inclinar	VMIP3S0	BodyMotion
+lleugerament	lleugerament	RG	Mode
+per	per	SPS00	-
+agafar	agafar	VMN0000	Touching
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+i	i	CC	-
+torna	tornar	VMIP3S0	Aux
+a	a	SPS00	-
+alçar_la_mirada	alçar_la_mirada	VMN0000	Seeing
+mentre	mentre	CS	TimeInterval
+se	es	P0300000	-
+la	ell	PP3FSA00	-
+posa	posar	VMIP3S0	Putting
+.	.	Fp	-
+</s>
+<s>
+Després	després	RG	TimeInterval
+s'	es	P0300000	-
+ajup	ajupir	VMIP3S0	BodyMotion
+per	per	SPS00	-
+recollir	recollir	VMN0000	Process
+la	el	DA0FS0	-
+resta	resta	NCFS000	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+roba	roba	NCFS000	Clothing
+i	i	CC	-
+continua	continuar	VAIP3S0	Aux
+vestint-se	vestir	VMG0000	Putting
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+per	per	SPS00	-
+un	un	DI0MS0	-
+llarg	llarg	AQ0MS0	A-SubjectiveAssessmentAttribute
+passeig	passeig	NCMS000	Location
+envoltat	envoltar	VMP00SM	A-PositionalAttribute
+d'	de	SPS00	-
+arbres	arbre	NCMP000	-
+d'	de	SPS00	-
+abundant	abundant	AQ0CS0	A-SubjectiveAssessmentAttribute
+fullatge	fullatge	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Té	tenir	VMIP3S0	possesses
+el	el	DA0MS0	-
+coll	coll	NCMS000	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+descordat	descordar	VMP00SM	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+ja	ja	RG	TimeInterval
+no	no	RN	-
+porta	portar	VMIP3S0	Dressing
+corbata	corbata	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Puja	pujar	VMIP3S0	Walking
+per	per	SPS00	-
+una	un	DI0FS0	-
+muntanya	muntanya	NCFS000	Location
+a	a	SPS00	-
+través	través	NCMS000	-
+d'	de	SPS00	-
+una	un	DI0FS0	-
+estreta	estret	AQ0FS0	A-SubjectiveAssessmentAttribute
+sendera	sendera	NCFS000	Location
+pedregosa	pedregós	AQ0FS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+home	home	NCMS000	Human
+de	de	SPS00	-
+mitjana	mitjà	AQ0FS0	A-SubjectiveAssessmentAttribute
+edat	edat	NCFS000	-
+amb	amb	SPS00	-
+barba	barba	NCFS000	BodyPart
+canosa	canós	AQ0FS0	A-ColorAttribute
+i	i	CC	-
+lleugerament	lleugerament	RG	Mode
+descuidada	descuidar	VMP00SF	A-SubjectiveAssessmentAttribute
+està	estar	VSIP3S0	Aux
+assegut	asseure	VMP00SM	A-PositionalAttribute
+a	a	SPS00	-
+un	un	DI0MS0	-
+banc	banc	NCMS000	Object
+individual	individual	AQ0CS0	A-SubjectiveAssessmentAttribute
+envoltat	envoltar	VMP00SM	A-PositionalAttribute
+de	de	SPS00	-
+vegetació	vegetació	NCFS000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Sosté	sostenir	VMIP3S0	Touching
+un	un	DI0MS0	-
+got	got	NCMS000	Object
+de	de	SPS00	-
+plàstic	plàstic	NCMS000	-
+amb	amb	SPS00	-
+tapa	tapa	NCFS000	Object
+i	i	CC	-
+tamborina	tamborinar	VMIP3S0	BodyMotion
+sobre	sobre	SPS00	Location
+ell	ell	PP3MS000	-
+amb	amb	SPS00	-
+l'	el	DA0CS0	-
+índex	índex	NCMS000	BodyPart
+de	de	SPS00	-
+la	el	DA0FS0	-
+mà	mà	NCFS000	BodyPart
+esquerra	esquer	AQ0FS0	A-PositionalSttribute
+.	.	Fp	-
+</s>
+<s>
+Somriu	somriure	VMIP3S0	Gesture
+i	i	CC	-
+fa_que_no_amb_el_cap	fer_que_no_amb_el_cap	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+Continua	continuar	VAIP3S0	Aux
+tocant	tocar	VMG0000	Touching
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+nerviós	nerviós	AQ0MS0	A-StateOfMind
+i	i	CC	-
+finalment	finalment	RG	TimeInterval
+treu	treure	VMIP3S0	Putting
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Conté	contenir	VMIP3S0	Possesses
+cafè	cafè	NCMS000	-
+sol	sol	AQ0MS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+l'	el	DA0CS0	-
+interior	interior	NCMS000	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+,	,	Fc	-
+beu	beure	VMIP3S0	Drinking
+un	un	DI0MS0	-
+glop	glop	NCMS000	-
+i	i	CC	-
+l'	el	DA0CS0	-
+assaboreix	assaborir	VMIP3S0	IntentionalPsychologicalProcess
+.	.	Fp	-
+</s>
+<s>
+Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+:	:	Fd	-
+Rick	rick	NP00000	-
+,	,	Fc	-
+el	el	DA0MS0	-
+jubilat	jubilat	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Deixa	deixar	VMIP3S0	Putting
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+a	a	SPS00	-
+un	un	DI0MS0	-
+de	de	SPS00	-
+els	el	DA0MP0	-
+dos	2	Z	-
+bancs	banc	NCMP000	Object
+individuals	individual	AQ0CP0	A-SubjectiveAssessmentAttribute
+que	que	PR0CN000	-
+té	tenir	VMIP3S0	possesses
+a	a	SPS00	-
+cada	cada	DI0CS0	-
+costat	costat	NCMS000	Location
+i	i	CC	-
+beu	beure	VMIP3S0	Drinking
+un	un	DI0MS0	-
+altre	altre	PI0MS000	-
+glop	glop	NCMS000	-
+de	de	SPS00	-
+cafè	cafè	NCMS000	-
+sense	sense	SPS00	-
+deixar	deixar	VAN0000	Aux
+de	de	SPS00	-
+moure	moure	VMN0000	BodyMotion
+la	el	DA0FS0	-
+cama	cama	NCFS000	BodyPart
+dreta	dret	AQ0FS0	A-PositionalAttribute
+nerviós	nerviós	AQ0MS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+a	a	SPS00	-
+el	el	DA0MS0	-
+costat	costat	NCMS000	Location
+de	de	SPS00	-
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+i	i	CC	-
+pica_de_mans	picar_de_mans	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Treu	treure	VMIP3S0	Putting
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+de	de	SPS00	-
+la	el	DA0FS0	-
+butxaca	butxaca	NCFS000	Clothing
+posterior	posterior	AQ0CS0	A-PositionalSttribute
+de	de	SPS00	-
+els	el	DA0MP0	-
+pantalons	pantaló	NCMP000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Accedeix	accedir	VMIP3S0	Process
+a	a	SPS00	-
+la	el	DA0FS0	-
+secció	secció	NCFS000	-
+"	"	Fe	-
+contactes	contacte	NCMP000	-
+"	"	Fe	-
+i	i	CC	-
+fa	fer	VAIP3S0	Aux
+lliscar	lliscar	VMN0000	BodyMotion
+el	el	DA0MS0	-
+dit	dit	NCMS000	BodyPart
+per	per	SPS00	-
+la	el	DA0FS0	-
+pantalla	pantalla	NCFS000	Object
+fins	fins	SPS00	-
+a	a	SPS00	-
+aturar-se	aturar	VMN0000	Motion
+a	a	SPS00	-
+Craig_Anderson	craig_anderson	NP00000	-
+.	.	Fp	-
+</s>
+<s>
+Prem	prémer	VMIP3S0	Touching
+trucar	trucar	VMN0000	Communication
+amb	amb	SPS00	-
+gest	gest	NCMS000	Gesture
+d'	de	SPS00	-
+enuig	enuig	NCMS000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Gest	gest	NCMS000	Gesture
+d'	de	SPS00	-
+impotència	impotència	NCFS000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+De_sobte	de_sobte	RG	TimeInterval
+arrufa_les_celles	arrufar_les_celles	VMIP3S0	Gesture
+i	i	CC	-
+alça_la_mirada	alçar_la_mirada	VMIP3S0	Seeing
+.	.	Fp	-
+</s>
+<s>
+Estranyat	estranyar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Mou	moure	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+mà	mà	NCFS000	BodyPart
+intentant	intentar	VAG0000	Aux
+explicar	explicar	VMN0000	Communication
+.	.	Fp	-
+</s>
+<s>
+Torna	tornar	VMIP3S0	Aux
+a	a	SPS00	-
+alçar_la_mirada	alçar_la_mirada	VMN0000	Seeing
+estranyat	estranyar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Apunta_un_petit_somriure	apuntar_un_somriure	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+got	got	NCMS000	Object
+de	de	SPS00	-
+plàstic	plàstic	NCMS000	-
+reposa	reposar	VMIP3S0	Motion
+sobre	sobre	SPS00	Location
+el	el	DA0MS0	-
+banc	banc	NCMS000	Object
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+posada	posar	VMP00SF	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Ell	ell	PP3MS000	-
+s'	es	P0300000	-
+allunya	allunyar	VMIP3S0	Motion
+mirant	mirar	VMG0000	Seeing
+inquiet	inquiet	AQ0MS0	A-StateOfMind
+en	en	SPS00	-
+totes	tot	DI0FP0	-
+direccions	direcció	NCFP000	Location
+i	i	CC	-
+s'	es	P0300000	-
+endinsa	endinsar	VMIP3S0	Motion
+en	en	SPS00	-
+una	un	DI0FS0	-
+sendera	sendera	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+jove	jove	NCCS000	-
+pèl-roja	pèl-roig	AQ0FS0	A-ColorAttribute
+amb	amb	SPS00	-
+rínxols	rínxol	NCMP000	BodyPart
+està	estar	VSIP3S0	Aux
+asseguda	asseure	VMP00SF	A-PositionalAttribute
+davant	davant	RG	Location
+d'	de	SPS00	-
+un	un	DI0MS0	-
+ordinador	ordinador	NCMS000	Object
+portàtil	portàtil	AQ0CS0	Object
+envoltada	envoltar	VMP00SF	A-PositionalAttribute
+d'	de	SPS00	-
+apunts	apunt	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+Mossega	mossegar	VMIP3S0	BodyMotion
+el	el	DA0MS0	-
+llapis	llapis	NCMN000	Object
+amb	amb	SPS00	-
+fastig	fastig	NCMS000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+:	:	Fd	-
+Jess	jess	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+estudiant	estudiant	NCCS000	Human
+.	.	Fp	-
+</s>
+<s>
+Busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Finalment	finalment	RG	TimeInterval
+el	ell	PP3MSA00	-
+troba	trobar	VMIP3S0	Process
+entre	entre	SPS00	-
+els	el	DA0MP0	-
+papers	paper	NCMP000	Object
+.	.	Fp	-
+</s>
+<s>
+Despenja	despenjar	VMIP3S0	Process
+i	i	CC	-
+se	es	P0300000	-
+l'	ell	PP3CSA00	-
+emporta	emportar	VMIP3S0	Motion
+a	a	SPS00	-
+l'	el	DA0CS0	-
+orella	orella	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Arqueja_les_celles	arquejar_les_celles	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+Mou	moure	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+mà	mà	NCFS000	BodyPart
+alterada	alterar	VMP00SF	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+a_banda_i_banda	a_banda_i_banda	RG	Location
+,	,	Fc	-
+amb	amb	SPS00	-
+gest	gest	NCMS000	Gesture
+d'	de	SPS00	-
+estranyesa	estranyesa	NCFS000	StateOfMind
+i	i	CC	-
+temor	temor	NCMS000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Alleujada	alleujar	VMP00SF	A-StateOfMind
+per	per	SPS00	-
+el	el	DA0MS0	-
+cessament	cessament	NCMS000	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+soroll	soroll	NCMS000	RadiatingSound
+,	,	Fc	-
+abaixa_la_mirada	abaixar_la_mirada	VMIP3S0	Seeing
+per	per	SPS00	-
+seguir	seguir	VAN0000	Aux
+estudiant	estudiar	VMG0000	IntentionalPsychologicalProcess
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+de	de	SPS00	-
+la	el	DA0FS0	-
+cadira	cadira	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Ha	haver	VAIP3S0	Aux
+sortit	sortir	VMP00SM	Motion
+a	a	SPS00	-
+el	el	DA0MS0	-
+carrer	carrer	NCMS000	Location
+amb	amb	SPS00	-
+un	un	DI0MS0	-
+abric	abric	NCMS000	Clothing
+marró	marró	AQ0CS0	A-ColorAttribute
+i	i	CC	-
+un	un	DI0MS0	-
+fulard	fulard	NCMS000	Clothing
+negre	negre	AQ0MS0	A-ColorAttribute
+amb	amb	SPS00	-
+estampat	estampat	NCMS000	-
+blanc	blanc	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Puja	pujar	VMIP3S0	Walking
+un	un	DI0MS0	-
+pendent	pendent	NCMS000	Location
+ple	ple	AQ0CS0	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+vegetació	vegetació	NCFS000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+De_sobte	de_sobte	RG	TimeInterval
+gira	girar	VMIP3S0	BodyMotion
+el	el	DA0MS0	-
+cap	cap	NCMS000	BodyPart
+com	com	CS	-
+intentant	intentar	VAG0000	Aux
+esbrinar	esbrinar	VMN0000	IntentionalPsychologicalProcess
+d'	de	SPS00	-
+on	on	PR000000	-
+ve	venir	VMIP3S0	Motion
+el	el	DA0MS0	-
+soroll	soroll	NCMS000	RadiatingSound
+i	i	CC	-
+continua	continuar	VMIP3S0	Process
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+camí	camí	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Arriba	arribar	VMIP3S0	Motion
+a	a	SPS00	-
+una	un	DI0FS0	-
+esplanada	esplanada	NCFS000	Location
+i	i	CC	-
+camina	caminar	VMIP3S0	Walking
+lentament	lentament	RG	Mode
+cap_a	cap_a	SPS00	-
+el	el	DA0MS0	-
+James	james	NP00000	-
+i	i	CC	-
+el	el	DA0MS0	-
+Rick	rick	NP00000	-
+,	,	Fc	-
+que	que	PR0CN000	-
+també	també	RG	-
+hi	hi	PP3CN000	-
+són	ser	VSIP3P0	Aux
+.	.	Fp	-
+</s>
+<s>
+Els	el	DA0MP0	-
+tres	3	Z	-
+fan_voltes	fer_voltes	VMIP3P0	BodyMotion
+sobre	sobre	SPS00	Location
+si	si	CS	-
+mateixos	mateix	PI0MP000	-
+movent	moure	VMG0000	BodyMotion
+el	el	DA0MS0	-
+cap	cap	NCMS000	BodyPart
+desconcertats	desconcertar	VMP00PM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+veu	veu	NCFS000	RadiatingSound
+els	el	DA0MP0	-
+sorprèn	sorprendre	VMIP3S0	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+James	james	NP00000	-
+mira	mirar	VMIP3S0	Seeing
+a_la_llunyania	a_la_llunyania	RG	Location
+protegint-se	protegir	VMG0000	Process
+de	de	SPS00	-
+el	el	DA0MS0	-
+sol	sol	NCMS000	RadiatingLight
+intens	intens	AQ0MS0	A-SubjectiveAssessmentAttribute
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+mà	mà	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Fent_un_pas	fer_un_pas	VMG0000	Walking
+endavant	endavant	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Busquen	buscar	VMIP3P0	IntentionalPsychologicalProcess
+.	.	Fp	-
+</s>
+<s>
+Gest	gest	NCMS000	Gesture
+anguniós	anguniós	AQ0MS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Els	el	DA0MP0	-
+mira	mirar	VMIP3S0	Seeing
+fixament	fixament	RG	Mode
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+escolta	escoltar	VMIP3S0	Hearing
+atenta	atent	AQ0FS0	A-IntentionalPsychologicalProcess
+.	.	Fp	-
+</s>
+<s>
+Seriós	seriós	AQ0MS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+James	james	NP00000	-
+reflexiu	reflexiu	AQ0MS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Gestos	gestos	NCMP000	Gesture
+d'	de	SPS00	-
+inquietud	inquietud	NCFS000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+James	james	NP00000	-
+mira	mirar	VMIP3S0	Seeing
+el	el	DA0MS0	-
+Rick	rick	NP00000	-
+que	que	PR0CN000	-
+sembla	semblar	VAIP3S0	Aux
+dubtar	dubtar	VMN0000	IntentionalPsychologicalProcess
+i	i	CC	-
+la	el	DA0FS0	-
+Jess	jess	NP00000	-
+fa_que_no_amb_el_cap	fer_que_no_amb_el_cap	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+manté	mantenir	VMIP3S0	Process
+expectant	expectant	AQ0MS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+De_sobte	de_sobte	RG	TimeInterval
+el	el	DA0MS0	-
+Rick	rick	NP00000	-
+obre	obrir	VMIP3S0	Process
+els	el	DA0MP0	-
+braços	braç	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Somriu	somriure	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+Mirant	mirar	VMG0000	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+James	james	NP00000	-
+es	es	P0300000	-
+fa_enrere	fer_se_enrere	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+James	james	NP00000	-
+se'n	se'n	P0300000	-
+va	anar	VMIP3S0	Motion
+amb	amb	SPS00	-
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+a	a	SPS00	-
+les	el	DA0FP0	-
+butxaques	butxaca	NCFP000	Clothing
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+Rick	rick	NP00000	-
+cuita	cuitar	VMIP3S0	Walking
+a	a	SPS00	-
+atrapar	atrapar	VMN0000	Process
+lo	ell	PP3MSA00	-
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+corre	córrer	VMIP3S0	Walking
+cap_a	cap_a	SPS00	-
+ells	ell	PP3MP000	-
+.	.	Fp	-
+</s>
+<s>
+Quan	quan	CS	-
+els	ell	PP3CP000	-
+atrapa	atrapar	VMIP3S0	Process
+,	,	Fc	-
+el	el	DA0MS0	-
+James	james	NP00000	-
+li	ell	PP3CSD00	-
+passa	passar	VMIP3S0	Process
+una	un	DI0FS0	-
+mà	mà	NCFS000	BodyPart
+per	per	SPS00	-
+l'	el	DA0CS0	-
+esquena	esquena	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Mentre	mentre	CS	TimeInterval
+parlen	parlar	VMIP3P0	Communication
+es	es	P0300000	-
+van	van	VAIP1S0	-
+allunyant	allunyar	VMG0000	Motion
+en_direcció_a	en_direcció_a	SPS00	Location
+la	el	DA0FS0	-
+vegetació	vegetació	NCFS000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+dona	dona	NCFS000	Human
+negra	negre	AQ0FS0	A-ColorAttribute
+estén	estendre	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+roba	roba	NCFS000	Clothing
+amb	amb	SPS00	-
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+subjectat	subjectar	VMP00SM	A-SubjectiveAssessmentAttribute
+entre	entre	SPS00	-
+la	el	DA0FS0	-
+galta	galta	NCFS000	BodyPart
+i	i	CC	-
+l'	el	DA0CS0	-
+espatlla	espatlla	NCFS000	BodyPart
+esquerra	esquer	AQ0FS0	A-PositionalSttribute
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+encara	encara	RG	TimeInterval
+no	no	RN	-
+l'	ell	PP3CSA00	-
+he	haver	VAIP1S0	Aux
+estès	estendre	VMP00SM	Process
+tota	tot	DI0FS0	-
+.	.	Fp	-
+</s>
+<s>
+M'	jo	PP1CS000	-
+he	haver	VAIP1S0	Aux
+d'	de	SPS00	-
+afanyar	afanyar	VMN0000	Process
+a	a	SPS00	-
+acabar	acabar	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+però	però	CC	-
+de	de	SPS00	-
+què	què	PT0CS000	-
+em	jo	PP1CS000	-
+parles	parlar	VMSP2S0	Communication
+?	?	Fit	-
+Sí	sí	RG	-
+,	,	Fc	-
+esclar	esclar	RG	-
+,	,	Fc	-
+ja	ja	RG	TimeInterval
+he	haver	VAIP1S0	Aux
+fet	fer	VMP00SM	Process
+les	el	DA0FP0	-
+maletes	maleta	NCFP000	Object
+...	...	Fs	-
+Mira	mirar	VMIP3S0	Seeing
+estranyada	estranyar	VMP00SF	A-StateOfMind
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Escolta	escoltar	VMIP2S0	Hearing
+,	,	Fc	-
+ara	ara	RG	TimeInterval
+no	no	RN	-
+puc	poder	VMIP1S0	Aux
+parlar	parlar	VMN0000	Communication
+.	.	Fp	-
+</s>
+<s>
+T'	tu	PP2CS000	-
+he	haver	VAIP1S0	Aux
+de	de	SPS00	-
+deixar	deixar	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+Espantada	espantar	VMP00SF	A-StateOfMind
+i	i	CC	-
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+perduda	perdre	VMP00SF	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+:	:	Fd	-
+Zoé	zoé	NP00000	-
+,	,	Fc	-
+la	el	DA0FS0	-
+pròxima	pròxim	AQ0FS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+negre	negre	NCMS000	A-ColorAttribute
+i	i	CC	-
+sobre	sobre	SPS00	Location
+fons	fons	NCMN000	FilmLanguage
+blanc	blanc	AQ0MS0	A-ColorAttribute
+:	:	Fd	-
+què	què	PR0CN000	-
+passa	passar	VMIP3S0	Process
+mentre	mentre	CS	TimeInterval
+...	...	Fs	-
+?	?	Fit	-
+<text id='Descriptik-CA'>
+<s>
+A	a	SPS00	-
+l'	el	DA0CS0	-
+alba	alba	NCFS000	TimeInterval
+,	,	Fc	-
+vista	vista	NCCS000	-
+d'	de	SPS00	-
+un	un	DI0MS0	-
+passeig	passeig	NCMS000	Location
+terrós	terrós	AQ0MS0	A-ColorAttribute
+vora	vora	SPS00	-
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+home	home	NCMS000	Human
+hi	hi	PP3CN000	-
+passa	passar	VMIP3S0	Motion
+corrent	córrer	VMG0000	Walking
+i	i	CC	-
+una	un	DI0FS0	-
+parella	parella	NCFS000	Human
+hi	hi	PP3CN000	-
+passeja	passejar	VMIP3S0	Walking
+un	un	DI0MS0	-
+gos	gos	NCMS000	Animal
+.	.	Fp	-
+</s>
+<s>
+Sobre	sobre	SPS00	Location
+fons	fons	NCMN000	FilmLanguage
+blanc	blanc	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+les	el	DA0FP0	-
+lletres	lletra	NCFP000	FilmLanguage
+de	de	SPS00	-
+el	el	DA0MS0	-
+títol	títol	NCMS000	FilmLanguage
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+esportiu	esportiu	NCMS000	-
+luxós	luxós	AQ0MS0	A-SubjectiveAssessmentAttribute
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+davant	davant	RG	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+passeig	passeig	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+home	home	NCMS000	Human
+elegant	elegant	AQ0CS0	A-SubjectiveAssessmentAttribute
+en	en	SPS00	-
+baixa	baixar	VMIP3S0	Motion
+parlant	parlar	VMG0000	Communication
+per	per	SPS00	-
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+i	i	CC	-
+desa	desar	VMIP3S0	Putting
+un	un	DI0MS0	-
+maletí	maletí	NCMS000	Object
+a	a	SPS00	-
+el	el	DA0MS0	-
+maleter	maleter	NCMS000	Location
+,	,	Fc	-
+d'	de	SPS00	-
+on	on	PR000000	-
+en	en	SPS00	-
+treu	treure	VMIP3S0	Putting
+una	un	DI0FS0	-
+bossa	bossa	NCFS000	Object
+de	de	SPS00	-
+mà	mà	NCFS000	BodyPart
+grossa	gros	AQ0FS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Llança_una_mirada	llançar_una_mirada	VMIP3S0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+i	i	CC	-
+es	es	P0300000	-
+posa	posar	VMIP3S0	Putting
+unes	un	DI0FP0	-
+ulleres_de_sol	ulleres_de_sol	NCFP000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Esbufega	esbufegar	VMIP3S0	Gesture
+i	i	CC	-
+arronsa_les_espatlles	arronsar_les_espatlles	VMIP3S0	Gesture
+amb	amb	SPS00	-
+expressió	expressió	NCFS000	Gesture
+exhausta	exhaust	AQ0FS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+:	:	Fd	-
+"	"	Fe	-
+James	james	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+empresari	empresari	NCMS000	Human
+"	"	Fe	-
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+per	per	SPS00	-
+el	el	DA0MS0	-
+passeig	passeig	NCMS000	Location
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+bossa	bossa	NCFS000	Object
+de	de	SPS00	-
+mà	mà	NCFS000	BodyPart
+penjada	penjar	VMP00SF	A-PositionalAttribute
+d'	de	SPS00	-
+una	un	DI0FS0	-
+espatlla	espatlla	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+la	el	DA0FS0	-
+platja	platja	NCFS000	Location
+,	,	Fc	-
+s'	es	P0300000	-
+estira	estirar	VMIP3S0	BodyMotion
+en	en	SPS00	-
+una	un	DI0FS0	-
+tovallola	tovallola	NCFS000	Object
+sense	sense	SPS00	-
+la	el	DA0FS0	-
+part	part	NCFS000	-
+de	de	SPS00	-
+dalt	dalt	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+frega	fregar	VMIP3S0	BodyMotion
+els	el	DA0MP0	-
+ulls	ull	NCMP000	BodyPart
+i	i	CC	-
+estira	estirar	VMIP3S0	BodyMotion
+una	un	DI0FS0	-
+mà	mà	NCFS000	BodyPart
+sobre	sobre	SPS00	Location
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+L'	el	DA0CS0	-
+acarona	acaronar	VMIP3S0	Touching
+i	i	CC	-
+n'	en	PP3CN000	-
+agafa	agafar	VMIP3S0	Touching
+un	un	DI0MS0	-
+polsim	polsim	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+a_banda_i_banda	a_banda_i_banda	RG	Location
+buscant	buscar	VMG0000	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+soroll	soroll	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Remena	remenar	VMIP3S0	Touching
+les	el	DA0FP0	-
+seves	seu	PX3FP0C0	-
+coses	cosa	NCFP000	-
+.	.	Fp	-
+</s>
+<s>
+Tira	tirar	VMIP3S0	Process
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+i	i	CC	-
+s'	es	P0300000	-
+alça	alçar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+allunya	allunyar	VMIP3S0	Motion
+unes	un	DI0FP0	-
+passes	passa	NCFP000	Walking
+buscant	buscar	VMG0000	IntentionalPsychologicalProcess
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+el	el	DA0MS0	-
+fons	fons	NCMN000	Location
+,	,	Fc	-
+la	el	DA0FS0	-
+silueta	silueta	NCFS000	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+Fòrum_de_Barcelona	fòrum_de_barcelona	NP00000	Location
+i	i	CC	-
+les	el	DA0FP0	-
+torres	torre	NCFP000	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+central	central	AQ0CS0	-
+tèrmica	tèrmic	AQ0FS0	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+el	el	DA0MS0	-
+Besòs	besòs	NP00000	Location
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+,	,	Fc	-
+seriós	seriós	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+i	i	CC	-
+fa_mitja_volta	fer_mitja_volta	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+un	un	DI0MS0	-
+instant	instant	NCMS000	TimeInterval
+,	,	Fc	-
+però	però	CC	-
+torna	tornar	VMIP3S0	Aux
+a	a	SPS00	-
+passejar	passejar	VMN0000	Walking
+per	per	SPS00	-
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+buscant	buscar	VMG0000	IntentionalPsychologicalProcess
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+.	.	Fp	-
+</s>
+<s>
+Està	estar	VSIP3S0	Aux
+tot_sol	tot_sol	RG	Mode
+.	.	Fp	-
+</s>
+<s>
+És	ser	VSIP3S0	Aux
+un	un	DI0MS0	-
+home	home	NCMS000	Human
+de	de	SPS00	-
+mitjana	mitjà	AQ0FS0	A-SubjectiveAssessmentAttribute
+edat	edat	NCFS000	-
+,	,	Fc	-
+porta	portar	VMIP3S0	Dressing
+els	el	DA0MP0	-
+cabells	cabell	NCMP000	BodyPart
+curts	curt	AQ0MP0	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+una	un	DI0FS0	-
+barba	barba	NCFS000	BodyPart
+espessa	espès	AQ0FS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+i	i	CC	-
+és	ser	VSIP3S0	Aux
+de	de	SPS00	-
+pell	pell	NCFS000	BodyPart
+clara	clar	AQ0FS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Va	anar	VMIP3S0	Motion
+en	en	SPS00	-
+calçotets	calçotets	NCMP000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Se'n	se'n	P0300000	-
+torna	tornar	VMIP3S0	Motion
+vora	vora	SPS00	Location
+les	el	DA0FP0	-
+seves	seu	PX3FP0C0	-
+coses	cosa	NCFP000	-
+i	i	CC	-
+es	es	P0300000	-
+posa	posar	VMIP3S0	Putting
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+sense	sense	SPS00	-
+deixar	deixar	VAN0000	Aux
+de	de	SPS00	-
+guaitar	guaitar	VMN0000	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Vestit	vestir	VMP00SM	A-Clothing
+,	,	Fc	-
+recorre	recórrer	VMIP3S0	Walking
+un	un	DI0MS0	-
+pont	pont	NCMS000	Location
+arbrat	arbrat	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+enfila	enfilar	VMIP3S0	Motion
+per	per	SPS00	-
+un	un	DI0MS0	-
+camí	camí	NCMS000	Location
+a	a	SPS00	-
+el	el	DA0MS0	-
+pendent	pendent	NCMS000	Location
+d'	de	SPS00	-
+un	un	DI0MS0	-
+descampat	descampat	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+home	home	NCMS000	Human
+de	de	SPS00	-
+cabells	cabell	NCMP000	BodyPart
+llargs	llarg	AQ0MP0	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+despentinats	despentinar	VMP00PM	A-SubjectiveAssessmentAttribute
+tamborina	tamborinar	VMIP3S0	BodyMotion
+els	el	DA0MP0	-
+dits	dit	NCMP000	BodyPart
+contra	contra	SPS00	-
+l'	el	DA0CS0	-
+envàs	envàs	NCMS000	Location
+de	de	SPS00	-
+plàstic	plàstic	NCMS000	-
+d'	de	SPS00	-
+una	un	DI0FS0	-
+beguda	beguda	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Té	tenir	VMIP3S0	possesses
+uns	un	DI0MP0	-
+60	60	Z	-
+anys	any	NCMP000	-
+i	i	CC	-
+porta	portar	VMIP3S0	Dressing
+una	un	DI0FS0	-
+barba	barba	NCFS000	BodyPart
+canosa	canós	AQ0FS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Sacseja_el_cap	sacsejar_el_cap	VMIP3S0	Gesture
+,	,	Fc	-
+nostàlgic	nostàlgic	AQ0MS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Destapa	destapar	VMIP3S0	Process
+l'	el	DA0CS0	-
+envàs	envàs	NCMS000	-
+amb	amb	SPS00	-
+compte	compte	NCMS000	-
+,	,	Fc	-
+es	es	P0300000	-
+mira	mirar	VMIP3S0	Seeing
+la	el	DA0FS0	-
+beguda	beguda	NCFS000	-
+,	,	Fc	-
+cavil·lós	cavil·lós	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+i	i	CC	-
+en	en	SPS00	-
+fa	fer	VMIP3S0	Process
+un	un	DI0MS0	-
+glop	glop	NCMS000	Drinking
+.	.	Fp	-
+</s>
+<s>
+Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+:	:	Fd	-
+"	"	Fe	-
+Rick	rick	NP00000	-
+,	,	Fc	-
+el	el	DA0MS0	-
+jubilat	jubilat	NCMS000	Human
+"	"	Fe	-
+.	.	Fp	-
+</s>
+<s>
+Assegut	asseure	VMP00SM	A-PositionalAttribute
+en	en	SPS00	-
+uns	un	DI0MP0	-
+bancs	banc	NCMP000	Object
+sota	sota	SPS00	Location
+una	un	DI0FS0	-
+zona	zona	NCFS000	Location
+arbrada	arbrar	VMP00SF	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+en	en	SPS00	-
+Rick	rick	NP00000	-
+es	es	P0300000	-
+torna	tornar	VAIP3S0	Aux
+a	a	SPS00	-
+mirar	mirar	VMN0000	Seeing
+la	el	DA0FS0	-
+beguda	beguda	NCFS000	-
+mentre	mentre	CS	TimeInterval
+belluga	bellugar	VMIP3S0	BodyMotion
+una	un	DI0FS0	-
+cama	cama	NCFS000	BodyPart
+,	,	Fc	-
+inquiet	inquiet	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+i	i	CC	-
+en	en	SPS00	-
+fa	fer	VMIP3S0	Process
+un	un	DI0MS0	-
+glop	glop	NCMS000	Drinking
+.	.	Fp	-
+</s>
+<s>
+Fa_que_no_amb_el_cap	fer_que_no_amb_el_cap	VMIP3S0	Gesture
+i	i	CC	-
+deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+a	a	SPS00	-
+el	el	DA0MS0	-
+banc	banc	NCMS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+costat	costat	NCMS000	Location
+,	,	Fc	-
+vora	vora	SPS00	-
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+recolza	recolzar	VMIP3S0	BodyMotion
+a	a	SPS00	-
+el	el	DA0MS0	-
+banc	banc	NCMS000	Object
+,	,	Fc	-
+pica_de_mans	picar_de_mans	VMIP3S0	BodyMotion
+sense	sense	SPS00	-
+deixar	deixar	VAN0000	Aux
+de	de	SPS00	-
+camejar	camejar	VMN0000	Walking
+,	,	Fc	-
+i	i	CC	-
+es	es	P0300000	-
+treu	treure	VMIP3S0	Putting
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+de	de	SPS00	-
+la	el	DA0FS0	-
+butxaca	butxaca	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Fa	fer	VAIP3S0	Aux
+anar	anar	VMN0000	Process
+l'	el	DA0CS0	-
+agenda	agenda	NCFS000	-
+i	i	CC	-
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+a	a	SPS00	-
+la	el	DA0FS0	-
+ce	ce	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Selecciona	seleccionar	VMIP3S0	BodyMotion
+un	un	DI0MS0	-
+contacte	contacte	NCMS000	-
+i	i	CC	-
+hi	hi	PP3CN000	-
+truca	trucar	VMIP3S0	Communication
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+incòmode	incòmode	AQ0MS0	A-StateOfMind
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+alça	alçar	VMIP3S0	BodyMotion
+de	de	SPS00	-
+el	el	DA0MS0	-
+banc	banc	NCMS000	Object
+i	i	CC	-
+s'	es	P0300000	-
+allunya	allunyar	VMIP3S0	Motion
+per	per	SPS00	-
+un	un	DI0MS0	-
+caminet	camí	NCMS000	Location
+buscant	buscar	VMG0000	IntentionalPsychologicalProcess
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+de	de	SPS00	-
+plàstic	plàstic	NCMS000	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+banc	banc	NCMS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+costat	costat	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+noia	noi	NCFS000	Human
+pèl-roja	pèl-roig	AQ0FS0	A-ColorAttribute
+feineja	feinejar	VMIP3S0	Process
+en	en	SPS00	-
+un	un	DI0MS0	-
+escriptori	escriptori	NCMS000	Object
+,	,	Fc	-
+davant	davant	RG	Location
+d'	de	SPS00	-
+un	un	DI0MS0	-
+portàtil	portàtil	NCMS000	Location
+i	i	CC	-
+d'	de	SPS00	-
+un	un	DI0MS0	-
+llibre	llibre	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+:	:	Fd	-
+"	"	Fe	-
+Jess	jess	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+estudiant	estudiant	NCCS000	Human
+"	"	Fe	-
+.	.	Fp	-
+</s>
+<s>
+Busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+rere	rere	RG	Location
+el	el	DA0MS0	-
+portàtil	portàtil	NCMS000	Object
+i	i	CC	-
+entre	entre	SPS00	-
+la	el	DA0FS0	-
+paperassa	paperassa	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+desconcertada	desconcertar	VMP00SF	A-StateOfMind
+a	a	SPS00	-
+les	el	DA0FP0	-
+parets	paret	NCFP000	Location
+de	de	SPS00	-
+l'	el	DA0CS0	-
+habitació	habitació	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Surt	sortir	VMIP3S0	Motion
+a	a	SPS00	-
+el	el	DA0MS0	-
+carrer	carrer	NCMS000	Location
+i	i	CC	-
+segueix	seguir	VMIP3S0	Motion
+el	el	DA0MS0	-
+soroll	soroll	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Puja	pujar	VMIP3S0	Walking
+per	per	SPS00	-
+un	un	DI0MS0	-
+caminet	camí	NCMS000	Location
+entre	entre	SPS00	-
+canyes	canya	NCFP000	-
+verdes	verd	AQ0FP0	A-ColorAttribute
+i	i	CC	-
+matolls	matoll	NCMP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+un	un	DI0MS0	-
+moment	moment	NCMS000	TimeInterval
+per	per	SPS00	-
+parar_la_orella	parar_la_orella	VMN0000	Hearing
+i	i	CC	-
+continua	continuar	VMIP3S0	Process
+cap_a	cap_a	SPS00	-
+un	un	DI0MS0	-
+flanc	flanc	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+,	,	Fc	-
+en	en	SPS00	-
+Rick	rick	NP00000	-
+i	i	CC	-
+la	el	DA0FS0	-
+Jess	jess	NP00000	-
+es	es	P0300000	-
+troben	trobar	VMIP3P0	Process
+en	en	SPS00	-
+un	un	DI0MS0	-
+descampat	descampat	NCMS000	Location
+terrós	terrós	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+enmig	enmig	SPS00	Location
+d'	de	SPS00	-
+un	un	DI0MS0	-
+paratge	paratge	NCMS000	Location
+de	de	SPS00	-
+turons	turó	NCMP000	Location
+coberts	cobrir	VMP00PM	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+vegetació	vegetació	NCFS000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Miren	mirar	VMIP3P0	Seeing
+enlaire	enlaire	RG	Location
+i	i	CC	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+,	,	Fc	-
+desconcertats	desconcertar	VMP00PM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Tots	tot	DI0MP0	-
+tres	3	Z	-
+es	es	P0300000	-
+miren	mirar	VMIP3P0	Seeing
+:	:	Fd	-
+en	en	SPS00	-
+Rick	rick	NP00000	-
+fa_que_no	fer_que_no	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+comença	començar	VAIP3S0	Aux
+a	a	SPS00	-
+passar	passar	VMN0000	Motion
+i	i	CC	-
+en	en	SPS00	-
+Rick	rick	NP00000	-
+el	el	DA0MS0	-
+segueix	seguir	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jessica	jessica	NP00000	-
+mig	mig	AQ0MS0	A-SubjectiveAssessmentAttribute
+somriu	somriure	VMIP3S0	Gesture
+i	i	CC	-
+assenteix	assentir	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+Els	el	DA0MP0	-
+atrapa	atrapar	VMIP3S0	Process
+d'	de	SPS00	-
+una	un	DI0FS0	-
+corredissa	corredissa	NCFS000	-
+i	i	CC	-
+es	es	P0300000	-
+posa	posar	VMIP3S0	Putting
+entre	entre	SPS00	-
+tots	tot	DI0MP0	-
+dos	dos.	Z	Location
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+allunyen	allunyar	VMIP3P0	Motion
+de	de	SPS00	-
+el	el	DA0MS0	-
+descampat	descampat	NCMS000	Location
+en_direcció_a	en_direcció_a	SPS00	Location
+una	un	DI0FS0	-
+línia	línia	NCFS000	-
+d'	de	SPS00	-
+arbres	arbre	NCMP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Fosa	fosa	NP00000	FilmLanguage
+a	a	SPS00	-
+negre	negre	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+el	el	DA0MS0	-
+terrat	terrat	NCMS000	Location
+d'	de	SPS00	-
+un	un	DI0MS0	-
+edifici	edifici	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+"	"	Fe	-
+No	no	RN	-
+,	,	Fc	-
+encara	encara	RG	TimeInterval
+no	no	RN	-
+l'	ell	PP3CSA00	-
+he	haver	VAIP1S0	Aux
+estès	estendre	VMP00SM	Process
+tota	tot	DI0FS0	-
+.	.	Fp	-
+</s>
+<s>
+M'	jo	PP1CS000	-
+he	haver	VAIP1S0	Aux
+d'	de	SPS00	-
+afanyar	afanyar	VMN0000	Process
+a	a	SPS00	-
+acabar	acabar	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+"	"	Fe	-
+"	"	Fe	-
+No	no	RN	-
+,	,	Fc	-
+però	però	CC	-
+de	de	SPS00	-
+què	què	PT0CS000	-
+em	jo	PP1CS000	-
+parles	parlar	VMSP2S0	Communication
+?	?	Fit	-
+Sí	sí	RG	-
+,	,	Fc	-
+esclar	esclar	RG	-
+,	,	Fc	-
+ja	ja	RG	TimeInterval
+he	haver	VAIP1S0	Aux
+fet	fer	VMP00SM	Process
+les	el	DA0FP0	-
+maletes	maleta	NCFP000	Object
+...	...	Fs	-
+"	"	Fe	-
+La	el	DA0FS0	-
+dona	dona	NCFS000	Human
+busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+soroll	soroll	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+"	"	Fe	-
+Escolta	escoltar	VMIP2S0	Hearing
+,	,	Fc	-
+ara	ara	RG	TimeInterval
+no	no	RN	-
+puc	poder	VMIP1S0	Aux
+parlar	parlar	VMN0000	Communication
+.	.	Fp	-
+</s>
+<s>
+T'	tu	PP2CS000	-
+he	haver	VAIP1S0	Aux
+de	de	SPS00	-
+deixar	deixar	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+"	"	Fe	-
+Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+:	:	Fd	-
+"	"	Fe	-
+Zoé	zoé	NP00000	-
+,	,	Fc	-
+la	el	DA0FS0	-
+següent	següent	AQ0CS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+"	"	Fe	-
+Fosa	fosa	NCFS000	FilmLanguage
+a	a	SPS00	-
+negre	negre	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Sobre	sobre	SPS00	Location
+fons	fons	NCMN000	Location
+blanc	blanc	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+les	el	DA0FP0	-
+lletres	lletra	NCFP000	FilmLanguage
+de	de	SPS00	-
+el	el	DA0MS0	-
+títol	títol	NCMS000	FilmsLanguage
+,	,	Fc	-
+seguides	seguir	VMP00PM	A-PositionalAttribute
+d'	de	SPS00	-
+una	un	DI0FS0	-
+línia	línia	NCFS000	-
+contínua	continu	AQ0FS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+<text id='LB-CA'>
+<s>
+Un	un	DI0MS0	-
+matí	matí	NCMS000	TimeInterval
+de	de	SPS00	-
+cel	cel	NCMS000	Location
+gris	gris	AQ0MS0	A-ColorAttribute
+cendra	cendra	NCFS000	-
+amb	amb	SPS00	-
+núvols	núvol	NCMP000	-
+baixos	baix	AQ0MP0	A-SubjectiveAssessmentAttribute
+plana	planar	VMSI3S0	Process
+sobre	sobre	SPS00	Location
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+i	i	CC	-
+el	el	DA0MS0	-
+passeig	passeig	NCMS000	Location
+marítim	marítim	AQ0MS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+parella	parella	NCFS000	Human
+que	que	PR0CN000	-
+passeja	passejar	VMIP3S0	Walking
+un	un	DI0MS0	-
+gran	gran	AQ0CS0	A-SubjectiveAssessmentAttribute
+danès	danès	NCMS000	-
+per	per	SPS00	-
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+es	es	P0300000	-
+creua	creuar	VMIP3S0	Motion
+amb	amb	SPS00	-
+un	un	DI0MS0	-
+home	home	NCMS000	Human
+que	que	PR0CN000	-
+practica_running	practicar_running	VMIP3S0	Walking
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+gos	gos	NCMS000	Animal
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+a	a	SPS00	-
+ensumar	ensumar	VMN0000	Smelling
+el	el	DA0MS0	-
+terra	terra	NCFS000	Location
+i	i	CC	-
+la	el	DA0FS0	-
+parella	parella	NCFS000	Human
+el	el	DA0MS0	-
+crida	crida	VMIP3S0	Communication
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+lletres	lletra	NCFP000	FilmLanguage
+negres	negre	AQ0CP0	A-ColorAttribute
+sobre	sobre	SPS00	Location
+fons	fons	NCMN000	FilmLanguage
+blanc	blanc	AQ0MS0	A-ColorAttribute
+...	...	Fs	-
+Què	què	PR0CN000	-
+passa	passar	VMIP3S0	Process
+mentre	mentre	CS	TimeInterval
+...	...	Fs	-
+Un	un	DI0MS0	-
+cotxe	cotxe	NCMS000	-
+esportiu	esportiu	AQ0MS0	A-SubjectiveAssessmentAttribute
+blanc	blanc	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+a	a	SPS00	-
+la	el	DA0FS0	-
+calçada	calçada	NCFS000	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+passeig	passeig	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+conductor	conductor	NCMS000	Human
+parla	parlar	VMIP3S0	Communication
+per	per	SPS00	-
+telèfon	telèfon	NCMS000	Object
+fent	fer	VMG0000	Process
+gestos	gest	NCMP000	Gesture
+enèrgics	enèrgic	AQ0MP0	A-SubjectiveAssessmentAttribute
+amb	amb	SPS00	-
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Baixa	baixar	VMIP3S0	Motion
+de	de	SPS00	-
+el	el	DA0MS0	-
+cotxe	cotxe	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+maletí	maletí	NCMS000	Object
+a	a	SPS00	-
+terra	terra	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Obre	obrir	VMIP3S0	Process
+el	el	DA0MS0	-
+maleter	maleter	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+L'	el	DA0CS0	-
+home	home	NCMS000	Human
+penja	penjar	VMIP3S0	Process
+el	el	DA0MS0	-
+telèfon	telèfon	NCMS000	Object
+,	,	Fc	-
+contrariat	contrariar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Amb	amb	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+perduda	perdre	VMP00SF	A-StateOfMind
+a	a	SPS00	-
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+es	es	P0300000	-
+treu	treure	VMIP3S0	Putting
+de	de	SPS00	-
+la	el	DA0FS0	-
+butxaca	butxaca	NCFS000	Clothing
+interior	interior	AQ0CS0	A-PositionalAttribute
+de	de	SPS00	-
+l'	el	DA0CS0	-
+americana	americana	NCFS000	Clothing
+unes	un	DI0FP0	-
+ulleres_de_sol	ulleres_de_sol	NCFP000	Clothing
+de	de	SPS00	-
+muntura	muntura	NCFS000	-
+daurada	daurada	AQ0MS0	A-ColorAttribute
+i	i	CC	-
+vidres	vidre	NCMP000	-
+amb	amb	SPS00	-
+forma	forma	NCFS000	-
+d'	de	SPS00	-
+ametlla	ametlla	NCFS000	-
+...	...	Fs	-
+Se	es	P0300000	-
+les	ell	PP3FPA00	-
+col·loca	col·locar	VMIP3S0	Process
+...	...	Fs	-
+i	i	CC	-
+sospira	sospirar	VMIP3S0	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+lletres	lletra	NCFP000	FilmLanguage
+blanques	blanc	AQ0FP0	A-ColorAttribute
+sobreimpreses	sobreimprimir	VMP00PF	FilmLanguage
+:	:	Fd	-
+James	james	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+empresari	empresari	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Duu	dur	VMIP3S0	Dressing
+una	un	DI0FS0	-
+bossa	bossa	NCFS000	Object
+de	de	SPS00	-
+platja	platja	NCFS000	Location
+penjada	penjar	VMP00SF	A-PositionalAttribute
+a	a	SPS00	-
+l'	el	DA0CS0	-
+espatlla	espatlla	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+per	per	SPS00	-
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+James	james	NP00000	-
+és	ser	VSIP3S0	Aux
+un	un	DI0MS0	-
+home	home	NCMS000	Human
+ros	ros	AQ0MS0	A-ColorAttribute
+de	de	SPS00	-
+mitjana	mitjà	AQ0FS0	A-SubjectiveAssessmentAttribute
+edat	edat	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Duu	dur	VMIP3S0	Dressing
+bigoti	bigoti	NCMS000	BodyPart
+i	i	CC	-
+una	un	DI0FS0	-
+barba	barba	NCFS000	BodyPart
+curta	curt	AQ0FS0	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+ben	ben	RG	Quantifier
+cuidada	cuidar	VMP00SF	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+vestit_de_bany	vestit_de_bany	NCMS000	Clothing
+,	,	Fc	-
+s'	es	P0300000	-
+ajau	ajeure	VMIP3S0	BodyMotion
+de_panxa_enlaire	de_panxa_enlaire	RG	PositionalAttribute
+en	en	SPS00	-
+una	un	DI0FS0	-
+tovallola	tovallola	NCFS000	Object
+,	,	Fc	-
+damunt	damunt	SPS00	Location
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Sospira	sospirar	VMIP3S0	StateOfMind
+,	,	Fc	-
+tanca	tancar	VMIP3S0	BodyMotion
+el	el	DA0MS0	-
+ulls	ull	NCMP000	BodyPart
+i	i	CC	-
+se'ls	se'ls	P0300000	-
+frega	frega	VMIP3S0	BodyMotion
+amb	amb	SPS00	-
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Estirat	estirar	VMP00SM	A-PositionalAttribute
+,	,	Fc	-
+obre	obrir	VMIP3S0	BodyMotion
+els	el	DA0MP0	-
+braços	braç	NCMP000	BodyPart
+abandonant-se	abandonar	VMG0000	Process
+a	a	SPS00	-
+la	el	DA0FS0	-
+carícia	carícia	NCFS000	Touching
+d'	de	SPS00	-
+un	1	Z	-
+sol	sol	NCMS000	RadiatingLight
+pàl·lid	pàl·lid	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Amb	amb	SPS00	-
+el	el	DA0MS0	-
+dits	dit	NCMP000	BodyPart
+juga	jugar	VMIP3S0	Process
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+trucada	trucada	NCFS000	-
+el	ell	PP3MSA00	-
+fa	fer	VAIP3S0	Aux
+aixecar	aixecar_el_cap	VMN0000	Gesture
+el	el	DA0MS0	-
+cap	cap	NCMS000	BodyPart
+i	i	CC	-
+s'	es	P0300000	-
+incorpora	incorporar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+dringar	dringar	VMN0000	RadiatingSound
+metàl·lic	metàl·lic	AQ0MS0	A-RadiatingSound
+el	ell	PP3MSA00	-
+distreu	distreure	VMIP3S0	Process
+i	i	CC	-
+mira	mirar	VMIP3S0	Seeing
+inquiet	inquiet	AQ0MS0	A-StateOfMind
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Mentre	mentre	CS	TimeInterval
+parla	parlar	VMIP3S0	Communication
+,	,	Fc	-
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+dreta	dreta	NCFS000	Location
+i	i	CC	-
+esquerra	esquerra	NCFS000	Location
+intentant	intentar	VAG0000	Aux
+localitzar	localitzar	VMN0000	IntentionalPsychologicalProcess
+d'	de	SPS00	-
+on	on	PR000000	-
+ve	venir	VMIP3S0	Motion
+el	el	DA0MS0	-
+soroll	soroll	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+telèfon	telèfon	NCMS000	Object
+i	i	CC	-
+s'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+ple	ple	AQ0MS0	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+curiositat	curiositat	NCFS000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+vestit_de_bany	vestit_de_bany	NCMS000	Clothing
+dóna_tombs	donar_tombs	VMIP3S0	Motion
+per	per	SPS00	-
+la	el	DA0FS0	-
+platja	platja	NCFS000	Location
+tot	tot	RG	-
+cercant	cercar	VMG0000	IntentionalPsychologicalProcess
+l'	el	DA0CS0	-
+origen	origen	NCMS000	-
+d'	de	SPS00	-
+aquell	aquell	DD0MS0	-
+dring	dring	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Va	anar	VMIP3S0	Motion
+cap_a	cap_a	SPS00	Location
+on	on	PT000000	-
+trenquen	trencar	VMIP3P0	Process
+les	el	DA0FP0	-
+onades	onada	NCFP000	Location
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+l'	el	DA0CS0	-
+altre	altre	PI0MS000	-
+cantó	cantó	NCMS000	Location
+de	de	SPS00	-
+la	el	DA0FS0	-
+badia	badia	NCFS000	Location
+,	,	Fc	-
+la	el	DA0FS0	-
+fosca	fosc	AQ0FS0	A-ColorAttribute
+silueta	silueta	NCFS000	-
+de	de	SPS00	-
+els	el	DA0MP0	-
+edificis	edifici	NCMP000	-
+alts	alt	AQ0MP0	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+la	el	DA0FS0	-
+ciutat	ciutat	NCFS000	Location
+es	es	P0300000	-
+retalla	retallar	VMIP3S0	Process
+en	en	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+enteranyinat	enteranyinar	VMP00SM	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+James	james	NP00000	-
+torna	tornar	VMIP3S0	Motion
+cap_a	cap_a	SPS00	-
+la	el	DA0FS0	-
+tovallola	tovallola	NCFS000	Object
+però	però	CC	-
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+Resta	restar	VMIP3S0	Motion
+dret	dret	AQ0MS0	A-PositionalAttribute
+i	i	CC	-
+després	després	RG	TimeInterval
+es	es	P0300000	-
+gira	girar	VMM02S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+gavina	gavina	NCFS000	Animal
+passa	passar	VMIP3S0	Process
+volant	volar	VMG0000	Motion
+.	.	Fp	-
+</s>
+<s>
+Les	el	DA0FP0	-
+passes	passa	NCFP000	Walking
+de	de	SPS00	-
+l'	el	DA0CS0	-
+home	home	NCMS000	Human
+són	ser	VSIP3P0	Aux
+vacil·lants	vacil·lant	AQ0CP0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+a	a	SPS00	-
+dreta	dreta	NCFS000	Location
+i	i	CC	-
+esquerra	esquerra	NCFS000	Location
+,	,	Fc	-
+confús	confús	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+mentre	mentre	CS	TimeInterval
+va	anar	VMIP3S0	Motion
+cap	cap	SPS00	-
+a_la_vora_de	a_la_vora_de	SPS00	Location
+l'	el	DA0CS0	-
+aigua	aigua	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+allunya	allunyar	VMIP3S0	Motion
+de	de	SPS00	-
+l'	el	DA0CS0	-
+aigua	aigua	NCFS000	-
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+posada	posar	VMP00SF	A-SubjectiveAssessmentAttribute
+a	a	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+,	,	Fc	-
+no	no	RN	-
+massa	massa	RG	Quantifier
+lluny	lluny	RG	Location
+de	de	SPS00	-
+la	el	DA0FS0	-
+costa	costa	NCFS000	Location
+,	,	Fc	-
+dues	2	Z	-
+barques	barca	NCFP000	Object
+es	es	P0300000	-
+gronxen	gronxar	VMIP3P0	Motion
+damunt	damunt	SPS00	Location
+les	el	DA0FP0	-
+onades	onada	NCFP000	Location
+.	.	Fp	-
+</s>
+<s>
+Decidit	decidir	VMP00SM	A-IntentionalPsychologicalProcess
+,	,	Fc	-
+arriba	arribar	VMIP3S0	Motion
+on	on	PT000000	-
+hi	hi	PP3CN000	-
+ha	haver	VMIP3S0	exists
+la	el	DA0FS0	-
+tovallola	tovallola	NCFS000	Object
+,	,	Fc	-
+agafa	agafar	VMIP3S0	Touching
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+i	i	CC	-
+se	es	P0300000	-
+la	ell	PP3FSA00	-
+posa	posar	VMIP3S0	Putting
+sense	sense	SPS00	-
+deixar	deixar	VAN0000	Aux
+de	de	SPS00	-
+mirar	mirar	VMN0000	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Ja	ja	RG	TimeInterval
+vestit	vestir	VMP00SM	A-Clothing
+,	,	Fc	-
+camina	caminar	VMIP3S0	Walking
+sota	sota	SPS00	Location
+els	el	DA0MP0	-
+arbres	arbre	NCMP000	Vegetable
+de	de	SPS00	-
+el	el	DA0MS0	-
+passeig	passeig	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+L'	el	DA0CS0	-
+americana	americana	NCFS004	Clothing
+oberta	obrir	VMP00SM	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+amb	amb	SPS00	-
+el	el	DA0MS0	-
+coll	coll	NCMS000	-
+descordat	descordar	VMP00SM	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+sense	sense	SPS00	-
+corbata	corbata	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Desapareix	desaparèixer	VMIP3S0	Process
+enfilant	enfilar	VMG0000	Motion
+per	per	SPS00	-
+un	un	DI0MS0	-
+coster	coster	NCMS000	Location
+cap_a	cap_a	SPS00	-
+el	el	DA0MS0	-
+cim	cim	NCMS000	Location
+d'	de	SPS00	-
+un	un	DI0MS0	-
+turó	turó	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Uns	un	DI0MP0	-
+dits	dit	NCMP000	BodyPart
+nerviosos	nerviós	AQ0MP0	A-StateOfMind
+colpegen	colpejar	VMIP3P0	Process
+un	un	DI0MS0	-
+got	got	NCMS000	Object
+de	de	SPS00	-
+cartró	cartró	NCMS000	-
+amb	amb	SPS00	-
+tapa	tapa	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+home	home	NCMS000	Human
+barba-serrat	barba-serrat	AQ0MS0	A-BodyPart
+amb	amb	SPS00	-
+cabells	cabell	NCMP000	BodyPart
+llargs	llarg	AQ0MP0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+arrissats	arrissar	VMP00PM	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+despentinats	despentinar	VMP00PM	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+sosté	sostenir	VMIP3S0	Touching
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+entre	entre	SPS00	-
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Duu	dur	VMIP3S0	Dressing
+una	un	DI0FS0	-
+samarreta	samarreta	NCFS000	Clothing
+imperi	imperi	AQ0MS0	A-SubjectiveAssessmentAttribute
+que	que	PR0CN000	-
+deixa	deixar	VMIP3S0	Process
+a	a	SPS00	-
+el	el	DA0MS0	-
+descobert	descobert	NCMS000	PositionalAttribute
+el	el	DA0MS0	-
+tatuatge	tatuatge	NCMS000	BodyPart
+de	de	SPS00	-
+l'	el	DA0CS0	-
+espatlla	espatlla	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Somriu	somriure	VMIP3S0	Gesture
+,	,	Fc	-
+fa_que_no_amb_el_cap	fer_que_no_amb_el_cap	VMIP3S0	Gesture
+i	i	CC	-
+para	parar	VMIP3S0	Motion
+atenció	atenció	NCFS000	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Repassa	repassar	VMIP3S0	Process
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+amb	amb	SPS00	-
+l'	el	DA0CS0	-
+índex	índex	NCMS000	BodyPart
+,	,	Fc	-
+li	ell	PP3CSD00	-
+dóna	donar	VMIP3S0	Process
+un	un	DI0MS0	-
+copet	cop	NCMS000	-
+amb	amb	SPS00	-
+el	el	DA0MS0	-
+polze	polze	NCMS000	BodyPart
+i	i	CC	-
+la	el	DA0FS0	-
+treu	treure	VMIP3S0	Putting
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+got	got	NCMS000	Object
+és	ser	VSIP3S0	Aux
+ple	ple	AQ0MS0	A-SubjectiveAssessmentAttribute
+d'	de	SPS00	-
+un	un	DI0MS0	-
+líquid	líquid	NCMS000	-
+negre	negre	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+cadena	cadena	NCFS000	Clothing
+de	de	SPS00	-
+baules	baula	NCFP000	-
+gruixudes	gruixut	AQ0FP0	A-SubjectiveAssessmentAttribute
+a	a	SPS00	-
+joc	joc	NCMS000	-
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+canell	canell	NCMS000	BodyPart
+li	ell	PP3CSD00	-
+voreja	vorejar	VMIP3S0	PositionalAttribute
+el	el	DA0MS0	-
+coll	coll	NCMS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+pensatiu	pensatiu	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+fa	fer	VMIP3S0	Process
+un	un	DI0MS0	-
+glop	glop	NCMS000	Drinking
+i	i	CC	-
+sospira	sospirar	VMIP3S0	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Sobreimpressionat	sobreimpressionar	VMP00SM	FilmLanguage
+amb	amb	SPS00	-
+lletres	lletra	NCFP000	FilmLanguage
+blanques	blanc	AQ0FP0	A-ColorAttribute
+:	:	Fd	-
+Rick	rick	NP00000	-
+,	,	Fc	-
+el	el	DA0MS0	-
+jubilat	jubilat	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+és	ser	VSIP3S0	Aux
+assegut	asseure	VMP00SM	A-PositionalAttribute
+en	en	SPS00	-
+un	un	DI0MS0	-
+banc	banc	NCMS000	Object
+d'	de	SPS00	-
+una	un	DI0FS0	-
+placeta	placeta	NCFS000	Location
+pública	públic	AQ0FS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Fa	fer	VMIP3S0	Process
+un	un	DI0MS0	-
+altre	altre	PI0MS000	-
+glop	glop	NCMS000	Drinking
+sota	sota	SPS00	Location
+l'	el	DA0CS0	-
+ombra	ombra	NCFS000	-
+d'	de	SPS00	-
+uns	un	DI0MP0	-
+arbres	arbre	NCMP000	-
+de	de	SPS00	-
+troncs	tronc	NCMP000	-
+recargolats	recargolar	VMP00PM	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Belluga	bellugar	VSIP3S0	BodyMotion
+la	el	DA0FS0	-
+cama	cama	NCFS000	BodyPart
+dreta	dret	AQ0FS0	A-PositionalAttribute
+de	de	SPS00	-
+manera	manera	NCFS000	-
+nerviosa	nerviós	AQ0FS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Tot_d'una	tot_de_una	RG	Location
+deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+a	a	SPS00	-
+el	el	DA0MS0	-
+banc	banc	NCMS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+costat	costat	NCMS000	Location
+i	i	CC	-
+pica	pica	NCFS000	RadiatingSound
+de	de	SPS00	-
+mans	mà	NCFP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+De	de	SPS00	-
+la	el	DA0FS0	-
+butxaca	butxaca	NCFS000	Clothing
+de	de	SPS00	-
+darrere	darrere	RG	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+pantaló	pantaló	NCMS000	Clothing
+treu	treure	VMIP3S0	Putting
+el	el	DA0MS0	-
+telèfon	telèfon	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Amb	amb	SPS00	-
+el	el	DA0MS0	-
+dit	dir	VMP00SM	Communication
+fa	fer	VMIP3S0	Aux
+passar	passar	VMN0000	Process
+ràpid	ràpid	AQ0MS0	A-SubjectiveAssessmentAttribute
+la	el	DA0FS0	-
+llista	llista	NCFS000	-
+de	de	SPS00	-
+contactes	contacte	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+selecciona	seleccionar	VMIP3S0	BodyMotion
+un	un	DI0MS0	-
+.	.	Fp	-
+</s>
+<s>
+Toca	tocar	VMIP3S0	Touching
+la	el	DA0FS0	-
+pantalla	pantalla	NCFS000	FilmsLanguage
+i	i	CC	-
+es	es	P0300000	-
+posa	posar	VMIP3S0	Putting
+el	el	DA0MS0	-
+telèfon	telèfon	NCMS000	Object
+a	a	SPS00	-
+l'	el	DA0CS0	-
+orella	orella	NCFS000	BodyPart
+esperant	esperar	VMG0000	Process
+resposta	resposta	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Estranyat	estranyar	VMP00SM	A-StateOfMind
+,	,	Fc	-
+cerca	cercar	VMIP3S0	IntentionalPsychologicalProcess
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+d'	de	SPS00	-
+on	on	PR000000	-
+ve	venir	VMIP3S0	Motion
+el	el	DA0MS0	-
+soroll	soroll	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+mentre	mentre	CS	TimeInterval
+parla	parlar	VMIP3S0	Communication
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+soroll	soroll	NCMS000	RadiatingSound
+el	el	DA0MS0	-
+torna	tornar	VMIP3S0	Aux
+a	a	SPS00	-
+interrompre	interrompre	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+Explora	explorar	VMIP3S0	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+s'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+somrient	somrient	AQ0CS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Apressat	apressar	VMP00SM	A-IntentionalPsychologicalProcess
+,	,	Fc	-
+comença	començar	VAIP3S0	Aux
+a	a	SPS00	-
+caminar	caminar	VMN0000	Walking
+i	i	CC	-
+s'	es	P0300000	-
+allunya	allunyar	VMIP3S0	Motion
+de	de	SPS00	-
+la	el	DA0FS0	-
+placeta	placeta	NCFS000	Location
+,	,	Fc	-
+deixant	deixar	VMG0000	Putting
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+abandonat	abandonar	VMP00SM	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+mig	mig	RG	Mode
+ple	ple	AQ0MS0	A-SubjectiveAssessmentAttribute
+a	a	SPS00	-
+el	el	DA0MS0	-
+damunt	damunt	RG	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+banc	banc	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+tot	tot	DI0MS0	-
+mirant	mirar	VMG0000	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+,	,	Fc	-
+com	com	CS	-
+cercant	cercar	VMG0000	IntentionalPsychologicalProcess
+alguna	algun	DI0FS0	-
+cosa	cosa	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+noia	noi	NCFS000	Human
+jove	jove	AQ0SP0	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+cabells	cabell	NCMP000	BodyPart
+rinxolats	rinxolar	VMP00PM	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+llargs	llarg	AQ0MP0	A-SubjectiveAssessmentAttribute
+fins	fins	SPS00	Location
+a	a	SPS00	-
+les	el	DA0FP0	-
+espatlles	espatlla	NCFP000	BodyPart
+treballa	treballar	VMIP3S0	Process
+davant	davant	RG	Location
+de	de	SPS00	-
+l'	el	DA0CS0	-
+ordinador	ordinador	NCMS000	Object
+portàtil	portàtil	AQ0CS0	Object
+.	.	Fp	-
+</s>
+<s>
+Sobreimpressionat	sobreimpressionar	VMP00PM	FilmLanguage
+en	en	SPS00	-
+lletres	lletra	NCFP000	FilmLanguage
+blanques	blanc	AQ0FP0	A-ColorAttribute
+:	:	Fd	-
+Jess	jess	NP00000	-
+l'	el	DA0CS0	-
+estudiant	estudiant	NCCS000	Human
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+treu	treure	VMIP3S0	Putting
+el	el	DA0MS0	-
+llapis	llapis	NCMN000	Object
+de	de	SPS00	-
+la	el	DA0FS0	-
+boca	boca	NCFS000	BodyPart
+i	i	CC	-
+cerca	cercar	VMIP3S0	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+telèfon	telèfon	NCMS000	Object
+enmig_de	enmig_de	SPS00	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+desordre	desordre	NCMS000	Location
+de	de	SPS00	-
+papers	paper	NCMP000	Object
+de	de	SPS00	-
+la	el	DA0FS0	-
+seva	seu	PX3FS0C0	-
+taula	taula	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Quan	quan	CS	-
+el	el	DA0MS0	-
+troba	trobar	VMIP3S0	Process
+,	,	Fc	-
+respon	respondre	VMIP3S0	Communication
+a	a	SPS00	-
+la	el	DA0FS0	-
+trucada	trucada	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Penja	penjar	VMIP3S0	Process
+.	.	Fp	-
+</s>
+<s>
+Amb	amb	SPS00	-
+estranyesa	estranyesa	NCFS000	StateOfMind
+,	,	Fc	-
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+un	un	DI0MS0	-
+costat	costat	NCMS000	Location
+i	i	CC	-
+a	a	SPS00	-
+un	un	DI0MS0	-
+altre	altre	PI0MS000	-
+.	.	Fp	-
+</s>
+<s>
+Fa	fer	VMIP3S0	Process
+per	per	SPS00	-
+tornar	tornar	VMN0000	Motion
+a	a	SPS00	-
+la	el	DA0FS0	-
+feina	feina	NCFS000	-
+però	però	CC	-
+...	...	Fs	-
+Alça	alçar	VMIP3S0	BodyMotion
+el	el	DA0MS0	-
+cap	cap	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+s'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+de	de	SPS00	-
+la	el	DA0FS0	-
+cadira	cadira	NCFS000	Object
+,	,	Fc	-
+deixa	deixar	VMIP3S0	Motion
+l'	el	DA0CS0	-
+estudi	estudi	NCMS000	-
+i	i	CC	-
+,	,	Fc	-
+abrigada	abrigar	VMP00SF	A-Clothing
+,	,	Fc	-
+surt	sortir	VMIP3S0	Motion
+a	a	SPS00	-
+el	el	DA0MS0	-
+carrer	carrer	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Puja	pujar	VMIP3S0	Walking
+per	per	SPS00	-
+un	un	DI0MS0	-
+pendent	pendent	NCMS000	Location
+enmig_de	enmig_de	SPS00	Location
+de	de	SPS00	-
+canyes	canya	NCFP000	-
+,	,	Fc	-
+herbes	herba	NCFP000	Vegetable
+altes	alt	AQ0FP0	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+matolls	matoll	NCMP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+un	un	DI0MS0	-
+moment	moment	NCMS000	TimeInterval
+,	,	Fc	-
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+i	i	CC	-
+accelera	accelerar	VMIP3S0	Walking
+el	el	DA0MS0	-
+pas	pas	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Arriba	arribar	VMIP3S0	Motion
+a	a	SPS00	-
+una	un	DI0FS0	-
+esplanada	esplanada	NCFS000	Location
+de	de	SPS00	-
+terra	terra	NCFS000	Location
+nua	nu	AQ0FS0	A-Clothing
+,	,	Fc	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+peu	peu	NCMS000	BodyPart
+de	de	SPS00	-
+dos	2	Z	-
+turons	turó	NCMP000	Location
+,	,	Fc	-
+vorejada	vorejar	VMP00SF	PositionalAttribute
+de	de	SPS00	-
+matolls	matoll	NCMP000	Vegetable
+secs	sec	AQ0MP0	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+d'	de	SPS00	-
+arbres	arbre	NCMP000	-
+sense	sense	SPS00	-
+fulles	fulla	NCFP000	-
+.	.	Fp	-
+</s>
+<s>
+També	també	RG	-
+hi	hi	PP3CN000	-
+ha	haver	VAIP3S0	Aux
+en	en	SPS00	-
+Rick	rick	NP00000	-
+i	i	CC	-
+en	en	SPS00	-
+James	james	NP00000	-
+,	,	Fc	-
+que	que	PR0CN000	-
+escodrinyen	escodrinyar	VMIP3P0	Seeing
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+entorn	entorn	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Tots	tot	DI0MP0	-
+tres	3	Z	-
+miren	mirar	VMIP3P0	Seeing
+en	en	SPS00	-
+totes	tot	DI0FP0	-
+direccions	direcció	NCFP000	-
+sense	sense	SPS00	-
+veure	veure	VMN0000	Seeing
+hi	hi	PP3CN000	-
+ningú	ningú	PI0CS000	-
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+sorprèn	sorprendre	VMIP3S0	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+es	es	P0300000	-
+posa	posar	VMIP3S0	Putting
+la	el	DA0FS0	-
+mà	mà	NCFS000	BodyPart
+a	a	SPS00	-
+el	el	DA0MS0	-
+cap	cap	NCMS000	-
+...	...	Fs	-
+Amb	amb	SPS00	-
+la	el	DA0FS0	-
+mà	mà	NCFS000	BodyPart
+,	,	Fc	-
+imita	imitar	VMIP3S0	IntentionalPsychologicalProcess
+un	un	DI0MS0	-
+metrònom	metrònom	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+i	i	CC	-
+la	el	DA0FS0	-
+Jess	jess	NP00000	-
+l'	ell	PP3CSA00	-
+escolten	escoltar	VMIP3P0	Hearing
+,	,	Fc	-
+reflexius	reflexiu	AQ0MP0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+i	i	CC	-
+en	en	SPS00	-
+Rick	rick	NP00000	-
+s'	es	P0300000	-
+intercanvien	intercanviar	VMIP3P0	Process
+una	un	DI0FS0	-
+mirada	mirada	NCFS000	Seeing
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+i	i	CC	-
+la	el	DA0FS0	-
+Jess	jess	NP00000	-
+neguen_amb_el_cap	negar_amb_el_cap	VMIP3P0	Gesture
+.	.	Fp	-
+</s>
+<s>
+Tots	tot	DI0MP0	-
+tres	3	Z	-
+són	ser	VSIP3P0	Aux
+a	a	SPS00	-
+el	el	DA0MS0	-
+mig	mig	NCMS000	-
+de	de	SPS00	-
+l'	el	DA0CS0	-
+esplanada	esplanada	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+obre	obrir	VMIP3S0	Process
+els	el	DA0MP0	-
+braços	braç	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+,	,	Fc	-
+sorprès	sorprendre	VMP00SM	A-StateOfMind
+,	,	Fc	-
+somriu	somriure	VMIP3S0	Gesture
+i	i	CC	-
+aixeca_les_espatlles	aixecar_les_espatlles	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+segueix	seguir	VMIP3S0	Motion
+en	en	SPS00	-
+James	james	NP00000	-
+,	,	Fc	-
+que	que	PR0CN000	-
+també	també	RG	-
+somriu	somriure	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+resta	resta	NCFS000	-
+pensativa	pensatiu	AQ0FS0	A-StateOfMind
+,	,	Fc	-
+aixeca_les_celles	aixecar_les_celles	VMIP3S0	Gesture
+,	,	Fc	-
+dibuixa_un_somriure	dibuixar_un_somriure	VMIP3S0	Gesture
+...	...	Fs	-
+...	...	Fs	-
+i	i	CC	-
+els	ell	PP3CP000	-
+atrapa	atrapar	VMIP3S0	Process
+amb_quatre_gambades	amb_quatre_gambades	RG	Mode
+.	.	Fp	-
+</s>
+<s>
+Tots	tot	DI0MP0	-
+tres	3	Z	-
+,	,	Fc	-
+parlant	parlar	VMG0000	Communication
+animadament	animadament	RG	Mode
+,	,	Fc	-
+abandonen	abandonar	VMIP3P0	Motion
+l'	el	DA0CS0	-
+esplanada	esplanada	NCFS000	Location
+i	i	CC	-
+fan	fer	VMIP3P0	Motion
+cap_a	cap_a	SPS00	-
+la	el	DA0FS0	-
+platja	platja	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+pantalla	pantalla	NCFS000	FilmsLanguage
+s'	es	P0300000	-
+enfosqueix	enfosquir	VMIP3S0	RadiatingLight
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+dona	dona	NCFS000	Human
+jove	jove	AQ0FS0	A-SubjectiveAssessmentAttribute
+negra	negre	AQ0FS0	A-ColorAttribute
+,	,	Fc	-
+amb	amb	SPS00	-
+el	el	DA0MS0	-
+cabells	cabell	NCMP000	BodyPart
+pentinats	pentinar	VMP00SM	A-SubjectiveAssessmentAttribute
+amb	amb	SPS00	-
+trenes	trena	NCFP000	BodyPart
+a	a	SPS00	-
+l'	el	DA0CS0	-
+estil	estil	NCMS000	-
+africà	africà	AQ0MS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+estén	estendre	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+roba	roba	NCFS000	Clothing
+en	en	SPS00	-
+un	un	DI0MS0	-
+terrat	terrat	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+encara	encara	RG	TimeInterval
+no	no	RN	-
+l'	ell	PP3CSA00	-
+he	haver	VAIP1S0	Aux
+estesa	estendre	VMP00SF	A-PositionalAttribute
+tota	tot	DI0FS0	-
+.	.	Fp	-
+</s>
+<s>
+M'	jo	PP1CS000	-
+he	haver	VAIP1S0	Aux
+d'	de	SPS00	-
+afanyar	afanyar	VMN0000	Process
+a	a	SPS00	-
+acabar	acabar	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+però	però	CC	-
+de	de	SPS00	-
+què	què	PT0CS000	-
+em	jo	PP1CS000	-
+parles	parlar	VMSP2S0	Communication
+?	?	Fit	-
+Si	si	CS	-
+,	,	Fc	-
+esclar	esclar	RG	null
+,	,	Fc	-
+ja	ja	RG	TimeInterval
+he	haver	VAIP1S0	Aux
+fet	fer	VMP00SM	Process
+les	el	DA0FP0	-
+maletes	maleta	NCFP000	Object
+...	...	Fs	-
+La	el	DA0FS0	-
+dona	dona	NCFS000	Human
+mira	mirar	VMIP3S0	Seeing
+d'	de	SPS00	-
+on	on	PT000000	-
+ve	venir	VMIP3S0	Motion
+el	el	DA0MS0	-
+soroll	soroll	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Escolta	escoltar	VMIP2S0	Hearing
+,	,	Fc	-
+ara	ara	RG	TimeInterval
+no	no	RN	-
+puc	poder	VMIP1S0	Aux
+parlar	parlar	VMN0000	Communication
+.	.	Fp	-
+</s>
+<s>
+T'	tu	PP2CS000	-
+he	haver	VAIP1S0	Aux
+de	de	SPS00	-
+deixar	deixar	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+dona	dona	NCFS000	Human
+penja	penjar	VMIP3S0	Process
+el	el	DA0MS0	-
+telèfon	telèfon	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Sobreimpressionat	sobreimpressionar	VMP00SM	FilmLanguage
+amb	amb	SPS00	-
+lletres	lletres	NCMP000	FilmLanguage
+blanques	blanc	AQ0FP0	A-ColorAttribute
+:	:	Fd	-
+Zoé	zoé	NP00000	-
+la	el	DA0FS0	-
+següent	següent	AQ0CS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Amb	amb	SPS00	-
+lletres	lletra	NCFP000	FilmLanguage
+negres	negre	AQ0CP0	A-ColorAttribute
+sobre	sobre	SPS00	Location
+fons	fons	NCMN000	Location
+blanc	blanc	AQ0MS0	A-ColorAttribute
+es	es	P0300000	-
+pot	poder	VMIP3S0	Aux
+llegir	llegir	VMN0000	IntentionalPsychologicalProcess
+:	:	Fd	-
+"	"	Fe	-
+What	what	NP00000	-
+happens	happens	NCMP000	-
+While	while	NP00000	-
+?	?	Fit	-
+"	"	Fe	-
+.	.	Fp	-
+</s>
+<s>
+Què	què	PT0CS000	-
+passa	passar	VMIP3S0	Process
+mentre	mentre	CS	TimeInterval
+<text id='MultiSignes-CA'>
+<s>
+Un	un	DI0MS0	-
+matí	matí	NCMS000	TimeInterval
+ennuvolat	ennuvolar	VMP00SM	A-RadiatingLight
+,	,	Fc	-
+prop	prop	RG	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+,	,	Fc	-
+per	per	SPS00	-
+un	un	DI0MS0	-
+passeig	passeig	NCMS000	Location
+marítim	marítim	AQ0MS0	A-PositionalAttribute
+urbà	urbà	AQ0MS0	A-PositionalAttribute
+sense	sense	SPS00	-
+asfaltar	asfaltar	VMN0000	Process
+,	,	Fc	-
+un	un	DI0MS0	-
+noi	noi	NCMS000	Human
+i	i	CC	-
+una	un	DI0FS0	-
+noia	noi	NCFS000	Human
+passegen	passejar	VMIP3P0	Walking
+un	un	DI0MS0	-
+gos	gos	NCMS000	Animal
+i	i	CC	-
+un	un	DI0MS0	-
+home	home	NCMS000	Human
+amb	amb	SPS00	-
+xandall	xandall	NCMS000	Clothing
+corre	córrer	VMIP3S0	Walking
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+gos	gos	NCMS000	Animal
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+un	un	DI0MS0	-
+instant	instant	NCMS000	TimeInterval
+,	,	Fc	-
+ensuma	ensumar	VMIP3S0	Smelling
+en	en	SPS00	-
+un	un	DI0MS0	-
+petit	petit	AQ0MS0	A-SubjectiveAssessmentAttribute
+clot	clot	NCMS000	Location
+i	i	CC	-
+després	després	RG	TimeInterval
+segueix	seguir	VMIP3S0	Motion
+la	el	DA0FS0	-
+parella	parella	NCFS000	Human
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+lletres	lletra	NCFP000	FilmLanguage
+negres	negre	AQ0CP0	A-ColorAttribute
+,	,	Fc	-
+sobre	sobre	SPS00	Location
+fons	fons	NCMN000	FilmLanguage
+blanc	blanc	AQ0MS0	A-ColorAttribute
+...	...	Fs	-
+Un	un	DI0MS0	-
+cotxe	cotxe	NCMS000	-
+esportiu	esportiu	AQ0MS0	A-SubjectiveAssessmentAttribute
+blanc	blanc	AQ0MS0	A-ColorAttribute
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+davant	davant	RG	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+passeig	passeig	NCMS000	Location
+marítim	marítim	AQ0MS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+conductor	conductor	NCMS000	Human
+parla	parlar	VMIP3S0	Communication
+per	per	SPS00	-
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+,	,	Fc	-
+dóna	donar	VMIP3S0	Process
+un	un	DI0MS0	-
+cop	cop	NCMS000	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+volant	volant	NCMS000	Location
+i	i	CC	-
+gesticula	gesticular	VMIP3S0	BodyMotion
+amb	amb	SPS00	-
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+L'	el	DA0CS0	-
+home	home	NCMS000	Human
+porta	portar	VMIP3S0	Dressing
+un	un	DI0MS0	-
+maletí	maletí	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+desa	desar	VMIP3S0	Putting
+a	a	SPS00	-
+el	el	DA0MS0	-
+maleter	maleter	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+L'	el	DA0CS0	-
+home	home	NCMS000	Human
+nega_amb_el_cap	negar_amb_el_cap	VMIP3S0	Gesture
+,	,	Fc	-
+serra_els_llavis	serrar_els_llavis	VMM02S0	Gesture
+i	i	CC	-
+mira	mirar	VMIP3S0	Seeing
+cap_a	cap_a	SPS00	-
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+treu	treure	VMIP3S0	Putting
+unes	un	DI0FP0	-
+ulleres_de_sol	ulleres_de_sol	NCFP000	Clothing
+d'	de	SPS00	-
+estil	estil	NCMS000	-
+aviador	aviador	NCMS000	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+butxaca	butxaca	NCFS000	Clothing
+interior	interior	AQ0CS0	A-PositionalAttribute
+de	de	SPS00	-
+l'	el	DA0CS0	-
+americana	americana	NCFS000	Clothing
+i	i	CC	-
+se	es	P0300000	-
+les	ell	PP3FPA00	-
+posa	posar	VMIP3S0	Putting
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+imatge	imatge	NCFS000	FilmLanguage
+es	es	P0300000	-
+congela	congelar	VMIP3S0	FilmLanguage
+i	i	CC	-
+sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+a	a	SPS00	-
+la	el	DA0FS0	-
+pantalla	pantalla	NCFS000	FilmsLanguage
+es	es	P0300000	-
+llegeix	llegir	VMIP3S0	Seeing
+:	:	Fd	-
+"	"	Fe	-
+James	james	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+empresari	empresari	NCMS000	Human
+"	"	Fe	-
+.	.	Fp	-
+</s>
+<s>
+Amb	amb	SPS00	-
+la	el	DA0FS0	-
+silueta	silueta	NCFS000	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+ciutat	ciutat	NCFS000	Location
+de	de	SPS00	-
+fons	fons	NCMN000	Location
+,	,	Fc	-
+en	en	SPS00	-
+James	james	NP00000	-
+camina	caminar	VMIP3S0	Walking
+amb	amb	SPS00	-
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+a	a	SPS00	-
+la	el	DA0FS0	-
+mà	mà	NCFS000	BodyPart
+i	i	CC	-
+una	un	DI0FS0	-
+bossa	bossa	NCFS000	Object
+de	de	SPS00	-
+platja	platja	NCFS000	Location
+a	a	SPS00	-
+l'	el	DA0CS0	-
+espatlla	espatlla	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+A	A	Z	-
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+de	de	SPS00	-
+la	el	DA0FS0	-
+platja	platja	NCFS000	Location
+,	,	Fc	-
+un	un	DI0MS0	-
+vestit	vestit	NCMS000	Clothing
+d'	de	SPS00	-
+home	home	NCMS000	Human
+rebregat	rebregar	VMP00SM	A-SubjectiveAssessmentAttribute
+a	a	SPS00	-
+el	el	DA0MS0	-
+costat	costat	NCMS000	Location
+d'	de	SPS00	-
+una	un	DI0FS0	-
+tovallola	tovallola	NCFS000	Object
+groga	groc	AQ0FS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+s'	es	P0300000	-
+hi	hi	PP3CN000	-
+estira	estirar	VMIP3S0	BodyMotion
+,	,	Fc	-
+tot	tot	DI0MS0	-
+deixant	deixar	VAG0000	Aux
+caure	caure	VMN0000	BodyMotion
+el	el	DA0MS0	-
+cap	cap	NCMS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Tanca	tanca	NCFS000	BodyMotion
+els	el	DA0MP0	-
+ulls	ull	NCMP000	BodyPart
+,	,	Fc	-
+es	es	P0300000	-
+frega	fregar	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+cara	cara	NCFS000	BodyPart
+amb	amb	SPS00	-
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+i	i	CC	-
+després	després	RG	TimeInterval
+posa	posar	VMIP3S0	BodyMotion
+els	el	DA0MP0	-
+braços	braç	NCMP000	BodyPart
+en_creu	en_creu	RG	Mode
+.	.	Fp	-
+</s>
+<s>
+Amb	amb	SPS00	-
+la	el	DA0FS0	-
+mà	mà	NCFS000	BodyPart
+esquerra	esquer	AQ0FS0	A-PositionalSttribute
+acarona	acaronar	VMIP3S0	Touching
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	-
+,	,	Fc	-
+n'	en	PP3CN000	-
+agafa	agafar	VMIP3S0	Touching
+un	un	DI0MS0	-
+grapat	grapat	NCMS000	-
+i	i	CC	-
+la	ell	PP3FSA00	-
+deixa	deixar	VAIP3S0	Aux
+lliscar	lliscar	VMN0000	Motion
+entre	entre	SPS00	-
+els	el	DA0MP0	-
+dits	dit	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Obre	obrir	VMIP3S0	BodyMotion
+els	el	DA0MP0	-
+ulls	ull	NCMP000	BodyPart
+i	i	CC	-
+s'	es	P0300000	-
+incorpora	incorporar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+a_banda_i_banda	a_banda_i_banda	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+damunt	damunt	RG	Location
+de	de	SPS00	-
+la	el	DA0FS0	-
+roba	roba	NCFS000	Clothing
+i	i	CC	-
+s'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+camina	caminar	VMIP3S0	Walking
+cap_a	cap_a	SPS00	-
+l'	el	DA0CS0	-
+aigua	aigua	NCFS000	-
+en	en	SPS00	-
+banyador	banyador	NCMS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Té	tenir	VMIP3S0	possesses
+uns	un	DI0MP0	-
+quaranta	40	Z	-
+anys	any	NCMP000	-
+,	,	Fc	-
+els	el	DA0MP0	-
+cabells	cabell	NCMP000	BodyPart
+foscos	fosc	AQ0MP0	A-ColorAttribute
+i	i	CC	-
+curts	curt	AQ0MP0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+porta	portar	VMIP3S0	Dressing
+una	un	DI0FS0	-
+barba	barba	NCFS000	BodyPart
+ben	ben	RG	Quantifier
+arreglada	arreglar	VMP00SF	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+està	estar	VSIP3S0	Aux
+en	en	SPS00	-
+forma	forma	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Quan	quan	CS	TimeInterval
+és	ser	VSIP3S0	Aux
+a_prop	a_prop	RG	Location
+de	de	SPS00	-
+l'	el	DA0CS0	-
+aigua	aigua	NCFS000	-
+,	,	Fc	-
+alça_la_vista	alçar_la_vista	VMIP3S0	Seeing
+com	com	CS	-
+si	si	CS	-
+seguís	seguir	VMSI3S0	BodyMotion
+alguna	algun	DI0FS0	-
+cosa	cosa	NCFS000	-
+amb	amb	SPS00	-
+els	el	DA0MP0	-
+ulls	ull	NCMP000	BodyPart
+i	i	CC	-
+torna	tornar	VMIP3S0	Motion
+cap_a	cap_a	SPS00	-
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+,	,	Fc	-
+mira	mirar	VMIP3S0	Seeing
+cap_a	cap_a	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+un	un	DI0MS0	-
+instant	instant	NCMS000	TimeInterval
+i	i	CC	-
+torna	tornar	VMIP3S0	Motion
+cap_a	cap_a	SPS00	-
+l'	el	DA0CS0	-
+aigua	aigua	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+torna	tornar	VAIP3S0	Aux
+a	a	SPS00	-
+aturar	aturar	VMN0000	Motion
+i	i	CC	-
+mira	mirar	VMIP3S0	Seeing
+cap_a	cap_a	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+,	,	Fc	-
+a_banda_i_banda	a_banda_i_banda	RG	Location
+,	,	Fc	-
+com	com	CS	-
+si	si	CS	-
+hi	hi	PP3CN000	-
+hagués	haver	VASI1S0	exists
+alguna	algun	PI0FS000	-
+cosa	cosa	NCFS000	-
+volant	volar	VMG0000	Motion
+a_prop	a_prop	RG	Location
+seu	seu	PX3MS0C0	-
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+per	per	SPS00	-
+la	el	DA0FS0	-
+platja	platja	NCFS000	Location
+,	,	Fc	-
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+vista	vista	NCCS000	Seeing
+fixa	fix	AQ0FS0	A-SubjectiveAssessmentAttribute
+a	a	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+,	,	Fc	-
+com	com	CS	-
+si	si	CS	-
+busqués	buscar	VMSI3S0	IntentionalPsychologicalProcess
+l'	el	DA0CS0	-
+origen	origen	NCMS000	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+so	so	NCMS000	RadiatingSound
+enigmàtic	enigmàtic	AQ0MS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+per	per	SPS00	-
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+a_poc_a_poc	a_poc_a_poc	RG	Mode
+,	,	Fc	-
+mirant	mirar	VMG0000	Seeing
+cap_a	cap_a	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+enteranyinat	enteranyinar	VMP00SM	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+blanquinós	blanquinós	AQ0MS0	A-ColorAttribute
+amb	amb	SPS00	-
+el	el	DA0MS0	-
+rostre	rostre	NCMS000	BodyPart
+tens	tens	AQ0MS0	A-StateOfMind
+i	i	CC	-
+els	el	DA0MP0	-
+ulls	ull	NCMP000	BodyPart
+empetitits	empetitir	VMP00PM	A-SubjectiveAssessmentAttribute
+per	per	SPS00	-
+la	el	DA0FS0	-
+intensitat	intensitat	NCFS000	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+llum	llum	NCFS000	RadiatingLight
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+ajup	ajupir	VMIP3S0	BodyMotion
+per	per	SPS00	-
+agafar	agafar	VMN0000	Touching
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+grisa	gris	AQ0FS0	A-ColorAttribute
+de	de	SPS00	-
+màniga	màniga	NCFS000	Clothing
+llarga	llarg	AQ0FS0	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+terra	terra	NCFS000	Location
+i	i	CC	-
+se	es	P0300000	-
+la	ell	PP3FSA00	-
+posa	posar	VMIP3S0	Putting
+sense	sense	SPS00	-
+apartar_la_vista	apartar_la_vista	VMN0000	Seeing
+de	de	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+en	en	SPS00	-
+cap	cap	DI0CS0	-
+moment	moment	NCMS000	TimeInterval
+.	.	Fp	-
+</s>
+<s>
+Per	per	SPS00	-
+un	un	DI0MS0	-
+carrer	carrer	NCMS000	Location
+d'	de	SPS00	-
+una	un	DI0FS0	-
+ciutat	ciutat	NCFS000	Location
+amb	amb	SPS00	-
+plataners	plataner	NCMP000	Vegetable
+arrenglerats	arrenglerar	VMP00PM	A-PositionalAttribute
+,	,	Fc	-
+en	en	SPS00	-
+James	james	NP00000	-
+camina	caminar	VMIP3S0	Walking
+amb	amb	SPS00	-
+l'	el	DA0CS0	-
+americana	americana	NCFS000	Clothing
+descordada	descordar	VMP00SF	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+el	el	DA0MS0	-
+coll	coll	NCMS000	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+obert	obrir	VMP00SM	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+sense	sense	SPS00	-
+corbata	corbata	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Arriba	arribar	VMIP3S0	Motion
+a	a	SPS00	-
+un	un	DI0MS0	-
+petit	petit	AQ0MS0	A-SubjectiveAssessmentAttribute
+turó	turó	NCMS000	Location
+i	i	CC	-
+comença	començar	VAIP3S0	Aux
+a	a	SPS00	-
+pujar	pujar	VMN0000	Walking
+per	per	SPS00	-
+un	un	DI0MS0	-
+corriol	corriol	NCMS000	Location
+costerut	costerut	AQ0MS0	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+pedregós	pedregós	AQ0MS0	A-SubjectiveAssessmentAttribute
+que	que	PR0CN000	-
+s'	es	P0300000	-
+obre	obrir	VMIP3S0	Process
+pas	pas	NCMS000	-
+entre	entre	SPS00	-
+arbustos	arbust	NCMP000	Vegetable
+i	i	CC	-
+matolls	matoll	NCMP000	Vegetable
+secs	sec	AQ0MP0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+una	un	DI0FS0	-
+cadira	cadira	NCFS000	Object
+d'	de	SPS00	-
+un	un	DI0MS0	-
+parc	parc	NCMS000	Location
+hi	hi	PP3CN000	-
+seu	seure	VMIP3S0	BodyMotion
+un	un	DI0MS0	-
+home	home	NCMS000	Human
+d'	de	SPS00	-
+uns	un	DI0MP0	-
+seixanta	60	Z	-
+anys	any	NCMP000	-
+,	,	Fc	-
+de	de	SPS00	-
+cabells	cabell	NCMP000	BodyPart
+blancs	blanc	AQ0MP0	A-ColorAttribute
+i	i	CC	-
+despentinats	despentinar	VMP00PM	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+barba	barba	NCFS000	BodyPart
+espessa	espès	AQ0FS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Té	tenir	VMIP3S0	possesses
+un	un	DI0MS0	-
+got	got	NCMS000	Object
+de	de	SPS00	-
+plàstic	plàstic	NCMS000	-
+amb	amb	SPS00	-
+tapa	tapa	NCFS000	Object
+a	a	SPS00	-
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+i	i	CC	-
+somriu	somriure	VMIP3S0	Gesture
+amb	amb	SPS00	-
+amargor	amargor	NCFS000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Amb	amb	SPS00	-
+el	el	DA0MS0	-
+dit_índex	dit_índex	NCMS000	BodyPart
+ressegueix	resseguir	VMIP3S0	BodyMotion
+el	el	DA0MS0	-
+contorn	contorn	NCMS000	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+i	i	CC	-
+després	després	RG	TimeInterval
+l'	ell	PP3CSA00	-
+aixeca	aixecar	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+mira	mirar	VMIP3S0	Seeing
+el	el	DA0MS0	-
+cafè	cafè	NCMS000	-
+,	,	Fc	-
+s'	es	P0300000	-
+apropa	apropar	VMIP3S0	Motion
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+a	a	SPS00	-
+la	el	DA0FS0	-
+boca	boca	NCFS000	BodyPart
+i	i	CC	-
+l'	el	DA0CS0	-
+ensuma	ensumar	VMIP3S0	Smelling
+.	.	Fp	-
+</s>
+<s>
+Després	després	RG	TimeInterval
+fa	fer	VMIP3S0	Process
+un	un	DI0MS0	-
+glop	glop	NCMS000	Drinking
+i	i	CC	-
+es	es	P0300000	-
+llepa	llepar	VMIP3S0	BodyMotion
+els	el	DA0MP0	-
+llavis	llavi	NCMP000	BodyPart
+,	,	Fc	-
+mantenint	mantenir	VMG0000	Process
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+fixa	fixar	VMIP3S0	A-PositionalAttribute
+en	en	SPS00	-
+un	un	DI0MS0	-
+punt	punt	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+imatge	imatge	NCFS000	FilmLanguage
+es	es	P0300000	-
+congela	congelar	VMIP3S0	FilmLanguage
+i	i	CC	-
+sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+a	a	SPS00	-
+la	el	DA0FS0	-
+pantalla	pantalla	NCFS000	FilmsLanguage
+es	es	P0300000	-
+llegeix	llegir	VMIP3S0	Seeing
+:	:	Fd	-
+"	"	Fe	-
+Rick	rick	NP00000	-
+,	,	Fc	-
+el	el	DA0MS0	-
+jubilat	jubilat	NCMS000	Human
+"	"	Fe	-
+.	.	Fp	-
+</s>
+<s>
+Sota	sota	SPS00	Location
+uns	un	DI0MP0	-
+arbres	arbre	NCMP000	Vegetable
+hi	hi	PP3CN000	-
+ha	haver	VAIP3S0	exists
+tres	3	Z	-
+cadires	cadira	NCFP000	Object
+de	de	SPS00	-
+fusta	fusta	NCFS000	-
+individuals	individual	AQ0CP0	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+en	en	SPS00	-
+Rick	rick	NP00000	-
+seu	seu	PX3MS0C0	-
+a	a	SPS00	-
+la	el	DA0FS0	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+mig	mig	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Du	dur	VMIP3S0	Dressing
+una	un	DI0FS0	-
+samarreta	samarreta	NCFS000	Clothing
+sense	sense	SPS00	-
+mànigues	màniga	NCFP000	Clothing
+,	,	Fc	-
+té	tenir	VMIP3S0	possesses
+un	un	DI0MS0	-
+tatuatge	tatuatge	NCMS000	BodyPart
+a	a	SPS00	-
+el	el	DA0MS0	-
+braç	braç	NCMS000	BodyPart
+dret	dret	AQ0MS0	A-PositionalAttribute
+i	i	CC	-
+mou	moure	VMIP3S0	BodyMotion
+nerviosament	nerviosament	RG	Mode
+la	el	DA0FS0	-
+cama	cama	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Fa	fer	VMIP3S0	BodyMotion
+un	un	DI0MS0	-
+altre	altre	PI0MS000	-
+glop	glop	NCMS000	Drinking
+de	de	SPS00	-
+cafè	cafè	NCMS000	-
+,	,	Fc	-
+deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+a	a	SPS00	-
+una	un	DI0FS0	-
+cadira	cadira	NCFS000	Object
+buida	buit	AQ0FS0	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+pica_de_mans	picar_de_mans	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+treu	treure	VMIP3S0	Putting
+un	un	DI0MS0	-
+mòbil	mòbil	NCMS000	Object
+de	de	SPS00	-
+pantalla	pantalla	NCFS000	Object
+tàctil	tàctil	AQ0CS0	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+la	el	DA0FS0	-
+butxaca	butxaca	NCFS000	Clothing
+de	de	SPS00	-
+el	el	DA0MS0	-
+darrere_de	darrere_de	SPS00	Location
+els	el	DA0MP0	-
+texans	texans	NCMP000	Clothing
+i	i	CC	-
+amb	amb	SPS00	-
+el	el	DA0MS0	-
+dit_índex	dit_índex	NCMS000	BodyPart
+va	anar	VAIP3S0	Aux
+passant	passar	VMG0000	BodyMotion
+els	el	DA0MP0	-
+contactes	contacte	NCMP000	-
+de	de	SPS00	-
+l'	el	DA0CS0	-
+agenda	agenda	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+en	en	SPS00	-
+un	un	DI0MS0	-
+de	de	SPS00	-
+els	el	DA0MP0	-
+contactes	contacte	NCMP000	-
+,	,	Fc	-
+en	en	SPS00	-
+Craig_Anderson	craig_anderson	NP00000	-
+,	,	Fc	-
+i	i	CC	-
+prem	prémer	VMIP3S0	Touching
+el	el	DA0MS0	-
+botó	botó	NCMS000	-
+verd	verd	AQ0MS0	A-ColorAttribute
+de	de	SPS00	-
+trucada	trucada	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+alça_la_mirada	alçar_la_mirada	VMIP3S0	Seeing
+cap_a	cap_a	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+mira	mirar	VMIP3S0	Seeing
+cap_a	cap_a	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+sorprès	sorprendre	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+got	got	NCMS000	Object
+de	de	SPS00	-
+cafè	cafè	NCMS000	-
+és	ser	VSIP3S0	Aux
+a	a	SPS00	-
+una	un	DI0FS0	-
+de	de	SPS00	-
+les	el	DA0FP0	-
+cadires	cadira	NCFP000	Object
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+s'	es	P0300000	-
+allunya	allunyar	VMIP3S0	Motion
+caminant	caminar	VMG0000	Walking
+i	i	CC	-
+es	es	P0300000	-
+guarda	guardar	VMIP3S0	Putting
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+a	a	SPS00	-
+la	el	DA0FS0	-
+butxaca	butxaca	NCFS000	Clothing
+de	de	SPS00	-
+el	el	DA0MS0	-
+darrere_de	darrere_de	SPS00	Location
+els	el	DA0MP0	-
+texans	texans	NCMP000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Mentre	mentre	CS	TimeInterval
+camina	caminar	VMIP3S0	Walking
+per	per	SPS00	-
+el	el	DA0MS0	-
+parc	parc	NCMS000	Location
+,	,	Fc	-
+mira	mirar	VMIP3S0	Seeing
+cap_a	cap_a	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+com	com	CS	-
+si	si	CS	-
+seguís	seguir	VMSI3S0	Seeing
+el	el	DA0MS0	-
+rastre	rastre	NCMS000	-
+d'	de	SPS00	-
+alguna	algun	DI0FS0	-
+cosa	cosa	NCFS000	-
+que	que	PR0CN000	-
+hi	hi	PP3CN000	-
+hagués	haver	VASI1S0	exists
+a	a	SPS00	-
+l'	el	DA0CS0	-
+aire	aire	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+una	un	DI0FS0	-
+habitació	habitació	NCFS000	Location
+,	,	Fc	-
+una	un	DI0FS0	-
+noia	noi	NCFS000	Human
+estudia	estudiar	VMIP3S0	IntentionalPsychologicalProcess
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+fica	ficar	VMIP3S0	Putting
+un	un	DI0MS0	-
+llapis	llapis	NCMN000	Object
+a	a	SPS00	-
+la	el	DA0FS0	-
+boca	boca	NCFS000	BodyPart
+i	i	CC	-
+el	el	DA0MS0	-
+mossega	mossegar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+imatge	imatge	NCFS000	FilmLanguage
+es	es	P0300000	-
+congela	congelar	VMIP3S0	FilmLanguage
+i	i	CC	-
+sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+es	es	P0300000	-
+llegeix	llegir	VMIP3S0	Seeing
+:	:	Fd	-
+"	"	Fe	-
+Jess	jess	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+estudiant	estudiant	NCCS000	Human
+"	"	Fe	-
+.	.	Fp	-
+</s>
+<s>
+Busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+damunt	damunt	SPS00	Location
+un	un	DI0MS0	-
+escriptori	escriptori	NCMS000	Object
+on	on	PR000000	-
+hi	hi	PP3CN000	-
+ha	haver	VAIP3S0	Aux
+un	un	DI0MS0	-
+portàtil	portàtil	AQ0CS0	Object
+engegat	engegar	VMP00SM	Process
+i	i	CC	-
+un	un	DI0MS0	-
+munt	munt	NCMS000	-
+de	de	SPS00	-
+papers	paper	NCMP000	Object
+desendreçats	desendreçar	VMP00PM	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+penja	penjar	VMIP3S0	Process
+i	i	CC	-
+alça_la_mirada	alçar_la_mirada	VMIP3S0	Seeing
+.	.	Fp	-
+</s>
+<s>
+Amb	amb	SPS00	-
+la	el	DA0FS0	-
+mà	mà	NCFS000	BodyPart
+dreta	dret	AQ0FS0	A-PositionalAttribute
+es	es	P0300000	-
+col·loca	col·locar	VMIP3S0	Process
+els	el	DA0MP0	-
+cabells	cabell	NCMP000	BodyPart
+llargs	llarg	AQ0MP0	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+rinxolats	rinxolat	AQ0MP0	A-SubjectiveAssessmentAttribute
+rere	rere	RG	Location
+l'	el	DA0CS0	-
+orella	orella	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Dóna	donar	VMIP3S0	Process
+un	un	DI0MS0	-
+cop_d'ull	cop_d'ull	NCMS000	Seeing
+ràpid	ràpid	AQ0MS0	A-SubjectiveAssessmentAttribute
+a_banda_i_banda	a_banda_i_banda	RG	Location
+,	,	Fc	-
+abaixa_la_mirada	abaixar_la_mirada	VMIP3S0	Seeing
+cap_a	cap_a	SPS00	-
+l'	el	DA0CS0	-
+ordinador	ordinador	NCMS000	Object
+i	i	CC	-
+torna	tornar	VMIP3S0	Aux
+a	a	SPS00	-
+alçar_els_ulls	alçar_els_ulls	VMN0000	Seeing
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+de	de	SPS00	-
+la	el	DA0FS0	-
+cadira	cadira	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Ben	ben	RG	Quantifier
+abrigada	abrigar	VMP00SF	A-Clothing
+,	,	Fc	-
+amb	amb	SPS00	-
+una	un	DI0FS0	-
+jaqueta	jaqueta	NCFS000	Clothing
+i	i	CC	-
+un	un	DI0MS0	-
+mocador	mocador	NCMS000	Clothing
+,	,	Fc	-
+la	el	DA0FS0	-
+Jess	jess	NP00000	-
+va	anar	VAIP3S0	Motion
+per	per	SPS00	-
+un	un	DI0MS0	-
+camí	camí	NCMS000	Location
+que	que	PR0CN000	-
+s'	es	P0300000	-
+obre	obrir	VMIP3S0	Process
+pas	pas	NCMS000	-
+entre	entre	SPS00	-
+arbustos	arbust	NCMP000	Vegetable
+i	i	CC	-
+canyes	canya	NCFP000	-
+.	.	Fp	-
+</s>
+<s>
+Té	tenir	VMIP3S0	possesses
+uns	un	DI0MP0	-
+divuit	18	Z	-
+anys	any	NCMP000	-
+i	i	CC	-
+és	ser	VSIP3S0	Aux
+pèl-roja	pèl-roig	AQ0FS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+un	un	DI0MS0	-
+instant	instant	NCMS000	TimeInterval
+,	,	Fc	-
+mira	mirar	VMIP3S0	Seeing
+enrere	enrere	RG	Location
+,	,	Fc	-
+com	com	CS	-
+si	si	CS	-
+busqués	buscar	VMSI3S0	IntentionalPsychologicalProcess
+alguna	algun	DI0FS0	-
+cosa	cosa	NCFS000	-
+,	,	Fc	-
+i	i	CC	-
+després	després	RG	TimeInterval
+continua	continuar	VAIP3S0	Aux
+caminant	caminar	VMG0000	Walking
+fins	fins	RG	-
+a	a	SPS00	-
+una	un	DI0FS0	-
+clariana	clariana	NCFS000	Location
+envoltada	envoltar	VMP00SF	A-PositionalAttribute
+de	de	SPS00	-
+turons	turó	NCMP000	Location
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+el	el	DA0MS0	-
+bell	bell	AQ0MS0	A-SubjectiveAssessmentAttribute
+mig	mig	NCMS000	-
+de	de	SPS00	-
+l'	el	DA0CS0	-
+esplanada	esplanada	NCFS000	Location
+hi	hi	PP3CN000	-
+ha	haver	VAIP3S0	exists
+en	en	SPS00	-
+James	james	NP00000	-
+i	i	CC	-
+en	en	SPS00	-
+Rick	rick	NP00000	-
+.	.	Fp	-
+</s>
+<s>
+Tots	tot	DI0MP0	-
+dos	2	Z	-
+miren	mirar	VMIP3P0	Seeing
+cap_a	cap_a	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+s'	es	P0300000	-
+hi	hi	PP3CN000	-
+apropa	apropar	VMIP3S0	Motion
+a_poc_a_poc	a_poc_a_poc	RG	Mode
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+fa_visera	fer_visera	VMIP3S0	BodyMotion
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+mà	mà	NCFS000	BodyPart
+,	,	Fc	-
+perquè	perquè	CS	-
+el	el	DA0MS0	-
+sol	sol	NCMS000	RadiatingLight
+no	no	RN	-
+l'	ell	PP3CSA00	-
+enlluerni	enlluernar	VMSP3S0	RadiatingLight
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+es	es	P0300000	-
+posa	posar	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+mà	mà	NCFS000	BodyPart
+a	a	SPS00	-
+el	el	DA0MS0	-
+front	front	NCMS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+assenteix	assentir	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+James	james	NP00000	-
+es	es	P0300000	-
+fica	ficar	VMIP3S0	BodyMotion
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+a	a	SPS00	-
+les	el	DA0FP0	-
+butxaques	butxaca	NCFP000	Clothing
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+mira	mirar	VMIP3S0	Seeing
+en	en	SPS00	-
+Rick	rick	NP00000	-
+,	,	Fc	-
+que	que	PR0CN000	-
+s'	es	P0300000	-
+arronsa_d'espatlles	arronsar_d'espatlles	VMIP3S0	Gesture
+,	,	Fc	-
+mou	moure	VMIP3S0	BodyMotion
+el	el	DA0MS0	-
+cap	cap	NCMS000	BodyPart
+a_banda_i_banda	a_banda_i_banda	RG	Location
+i	i	CC	-
+mira	mirar	VMIP3S0	Seeing
+la	el	DA0FS0	-
+Jess	jess	NP00000	-
+.	.	Fp	-
+</s>
+<s>
+Miren	mirar	VMIP3P0	Seeing
+cap_a	cap_a	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+alça	alçar	VMIP3S0	BodyMotion
+els	el	DA0MP0	-
+braços	braç	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+segueix	seguir	VMIP3S0	Motion
+en	en	SPS00	-
+James	james	NP00000	-
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+es	es	P0300000	-
+queda	quedar	VSIP3S0	Process
+parada	parar	VMP00SF	A-PositionalAttribute
+,	,	Fc	-
+arqueja_les_celles	arquejar_les_celles	VMIP3S0	Gesture
+i	i	CC	-
+arronsa_els_llavis	arronsar_els_llavis	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+corre	córrer	VMIP3S0	Walking
+i	i	CC	-
+els	ell	PP3CP000	-
+empaita	empaitar	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+l'	ell	PP3CSA00	-
+abraça	abraçar	VMIP3S0	BodyMotion
+per	per	SPS00	-
+les	el	DA0FP0	-
+espatlles	espatlla	NCFP000	BodyPart
+i	i	CC	-
+tots	tot	DI0MP0	-
+tres	3	Z	-
+marxen	marxar	VMIP3P0	Motion
+caminant	caminar	VMG0000	Walking
+i	i	CC	-
+xerrant	xerrar	VMG0000	Communication
+cap_a	cap_a	SPS00	-
+el	el	DA0MS0	-
+bosc	bosc	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Dalt	dalt	RG	Location
+d'	de	SPS00	-
+un	un	DI0MS0	-
+terrat	terrat	NCMS000	Location
+,	,	Fc	-
+una	un	DI0FS0	-
+dona	dona	NCFS000	Human
+negra	negre	AQ0FS0	A-ColorAttribute
+parla	parlar	VMIP3S0	Communication
+per	per	SPS00	-
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+mentre	mentre	CS	TimeInterval
+estén	estendre	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+bugada	bugada	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Diu	dir	VMIP3S0	Communication
+:	:	Fd	-
+"	"	Fe	-
+Encara	encara	RG	TimeInterval
+no	no	RN	-
+l'	ell	PP3CSA00	-
+he	haver	VAIP1S0	Aux
+estès	estendre	VMP00SM	BodyMotion
+tota	tot	DI0FS0	-
+i	i	CC	-
+m'	jo	PP1CS000	-
+he	haver	VAIP1S0	Aux
+d'	de	SPS00	-
+afanyar	afanyar	VMN0000	Process
+"	"	Fe	-
+.	.	Fp	-
+</s>
+<s>
+Diu	dir	VMIP3S0	Communication
+:	:	Fd	-
+"	"	Fe	-
+Ja	ja	RG	TimeInterval
+he	haver	VAIP1S0	Aux
+fet	fer	VMP00SM	Process
+les	el	DA0FP0	-
+maletes	maleta	NCFP000	Object
+"	"	Fe	-
+.	.	Fp	-
+</s>
+<s>
+Alça_la_mirada	alçar_la_mirada	VMIP3S0	Seeing
+cap_a	cap_a	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+cap_a	cap_a	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+sorpresa	sorprendre	VMP00FS	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+imatge	imatge	NCFS000	FilmLanguage
+es	es	P0300000	-
+congela	congelar	VMIP3S0	FilmLanguage
+i	i	CC	-
+sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+es	es	P0300000	-
+llegeix	llegir	VMIP3S0	Seeing
+:	:	Fd	-
+"	"	Fe	-
+Zoé	zoé	NP00000	-
+,	,	Fc	-
+la	el	DA0FS0	-
+següent	següent	AQ0CS0	A-PositionalAttribute
+"	"	Fe	-
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+imatge	imatge	NCFS000	FilmLanguage
+talla	talla	VMIP3S0	Process
+a	a	SPS00	-
+negre	negre	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Sobre	sobre	SPS00	Location
+fons	fons	NCMN000	FilmLanguage
+blanc	blanc	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+en	en	SPS00	-
+lletres	lletra	NCFP000	FilmLanguage
+minúscules	minúscul	AQ0FP0	A-SubjectiveAssessmentAttribute
+:	:	Fd	-
+"	"	Fe	-
+Què	què	PR0CN000	-
+passa	passar	VMIP3S0	Process
+mentre	mentre	CS	TimeInterval
+...	...	Fs	-
+"	"	Fe	-
+<text id='Plurals-CA'>
+<s>
+Un	un	DI0MS0	-
+pla	pla	NCMS000	FilmLanguage
+fix	fix	AQ0MS0	A-SubjectiveAssessmentAttribute
+d'	de	SPS00	-
+una	un	DI0FS0	-
+platja	platja	NCFS000	Location
+a	a	SPS00	-
+peu	peu	NCMS000	-
+de	de	SPS00	-
+carretera	carretera	NCFS000	Location
+,	,	Fc	-
+amb	amb	SPS00	-
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+a	a	SPS00	-
+el	el	DA0MS0	-
+fons	fons	NCMN000	Location
+.	.	Fp	-
+</s>
+<s>
+Darrere	darrere	RG	Location
+els	el	DA0MP0	-
+núvols	núvol	NCMP000	-
+s'	es	P0300000	-
+entreveu	entreveure	VMIP3S0	Seeing
+la	el	DA0FS0	-
+llum	llum	NCFS000	RadiatingLight
+tènue	tènue	AQ0CS0	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+els	el	DA0MP0	-
+primers	primer	AO0MP0	A-PositionalAttribute
+rajos	raig	NCMP000	RadiatingLight
+de	de	SPS00	-
+sol	sol	NCMS000	RadiatingLight
+de	de	SPS00	-
+el	el	DA0MS0	-
+matí	matí	NCMS000	TimeInterval
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+home	home	NCMS000	Human
+i	i	CC	-
+una	un	DI0FS0	-
+dona	dona	NCFS000	Human
+,	,	Fc	-
+abrigats	abrigar	VMP00PM	A-Clothing
+,	,	Fc	-
+passegen	passejar	VMIP3P0	Walking
+per	per	SPS00	-
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+amb	amb	SPS00	-
+un	un	DI0MS0	-
+gos	gos	NCMS000	Animal
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+creuen	creuar	VMIP3P0	Motion
+amb	amb	SPS00	-
+un	un	DI0MS0	-
+home	home	NCMS000	Human
+que	que	PR0CN000	-
+fa_fúting	fer_fúting	VMIP3S0	Walking
+.	.	Fp	-
+</s>
+<s>
+Lletres	lletra	NCFP000	FilmLanguage
+negres	negre	AQ0CP0	A-ColorAttribute
+sobre	sobre	SPS00	Location
+fons	fons	NCMN000	FilmLanguage
+blanc	blanc	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+mateixa	mateix	AQ0FS0	-
+platja	platja	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+home	home	NCMS000	Human
+condueix	conduir	VMIP3S0	Process
+un	un	DI0MS0	-
+cotxe	cotxe	NCMS000	-
+blanc	blanc	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+de	de	SPS00	-
+gamma	gamma	NCFS000	-
+alta	alt	AQ0FS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Parla	parlar	VMIP3S0	Communication
+per	per	SPS00	-
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+mentre	mentre	CS	TimeInterval
+aparca	aparcar	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+Duu	dur	VMIP3S0	Dressing
+un	un	DI0MS0	-
+maletí	maletí	NCMS000	Object
+negre	negre	AQ0MS0	A-ColorAttribute
+que	que	PR0CN000	-
+guarda	guardar	VMIP3S0	Putting
+a	a	SPS00	-
+el	el	DA0MS0	-
+portaequipatge	portaequipatge	NCMS000	Location
+,	,	Fc	-
+d'	de	SPS00	-
+on	on	PR000000	-
+treu	treure	VMIP3S0	Putting
+una	un	DI0FS0	-
+bossa	bossa	NCFS000	Object
+de	de	SPS00	-
+platja	platja	NCFS000	Location
+amb	amb	SPS00	-
+ratlles	ratlla	NCFP000	-
+marineres	mariner	AQ0FP0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Contempla	contemplar	VMIP3S0	Seeing
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+,	,	Fc	-
+es	es	P0300000	-
+posa	posar	VMIP3S0	Putting
+unes	un	DI0FP0	-
+ulleres_de_sol	ulleres_de_sol	NCFP000	Clothing
+i	i	CC	-
+sospira	sospirar	VMIP3S0	StateOfMind
+profundament	profundament	RG	Mode
+.	.	Fp	-
+</s>
+<s>
+James	james	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+empresari	empresari	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+per	per	SPS00	-
+la	el	DA0FS0	-
+platja	platja	NCFS000	Location
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+bossa	bossa	NCFS000	Object
+penjada	penjar	VMP00SF	A-PositionalAttribute
+a	a	SPS00	-
+l'	el	DA0CS0	-
+espatlla	espatlla	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+És	ser	VSIP3S0	Aux
+un	un	DI0MS0	-
+home	home	NCMS000	Human
+de	de	SPS00	-
+mitjana	mitjà	AQ0FS0	A-SubjectiveAssessmentAttribute
+edat	edat	NCFS000	-
+,	,	Fc	-
+pèl-roig	pèl-roig	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+alt	alt	AQ0MS0	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+de	de	SPS00	-
+constitució	constitució	NCFS000	BodyPart
+atlètica	atlètic	AQ0FS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+vesteix	vestir	VMIP3S0	Dressing
+pantalons	pantaló	NCMP000	Clothing
+i	i	CC	-
+americana	americana	NCFS000	Clothing
+negres	negre	AQ0CP0	A-ColorAttribute
+,	,	Fc	-
+camisa	camisa	NCFS000	Clothing
+grisa	gris	AQ0FS0	A-ColorAttribute
+i	i	CC	-
+corbata	corbata	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+estira	estirar	VMIP3S0	BodyMotion
+a	a	SPS00	-
+la	el	DA0FS0	-
+tovallola	tovallola	NCFS000	Object
+sobre	sobre	SPS00	Location
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+,	,	Fc	-
+amb	amb	SPS00	-
+el	el	DA0MS0	-
+tors	tors	NCMS000	BodyPart
+nu	nu	AQ0MS0	A-Clothing
+,	,	Fc	-
+panxa_enlaire	panxa_enlaire	RG	PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+frega	fregar	VMIP3S0	BodyMotion
+els	el	DA0MP0	-
+ulls	ull	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Deixa	deixar	VAIP3S0	Aux
+caure	caure	VMN0000	BodyMotion
+els	el	DA0MP0	-
+braços	braç	NCMP000	BodyPart
+,	,	Fc	-
+relaxat	relaxat	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+i	i	CC	-
+pessiga	pessigar	VMIP3S0	Touching
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	-
+,	,	Fc	-
+que	que	PR0CN000	-
+se	es	P0300000	-
+li	ell	PP3CSD00	-
+esmuny	esmunyir	VMIP3S0	Touching
+entre	entre	SPS00	Location
+els	el	DA0MP0	-
+dits	dit	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+a_banda_i_banda	a_banda_i_banda	RG	Location
+,	,	Fc	-
+desconcertat	desconcertar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Porta	portar	VMIP3S0	Dressing
+els	el	DA0MP0	-
+cabells	cabell	NCMP000	BodyPart
+curts	curt	AQ0MP0	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+la	el	DA0FS0	-
+barba	barba	NCFS000	BodyPart
+retallada	retallar	VMP00SF	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+de	de	SPS00	-
+la	el	DA0FS0	-
+tovallola	tovallola	NCFS000	Object
+i	i	CC	-
+camina	caminar	VMIP3S0	Walking
+uns	un	DI0MP0	-
+quants	quant	DI0MP0	-
+metres	metre	NCMP000	-
+amb	amb	SPS00	-
+gest	gest	NCMS000	Gesture
+confús	confús	AQ0MS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Ha	haver	VAIP3S0	Aux
+deixat	deixar	VMP00SM	Process
+la	el	DA0FS0	-
+roba	roba	NCFS000	Clothing
+apilonada	apilonar	VMP00SF	A-PositionalAttribute
+sobre	sobre	SPS00	Location
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+i	i	CC	-
+va	anar	VAIP3S0	Motion
+en_calçotets	en_calçotets	RG	Clothing
+.	.	Fp	-
+</s>
+<s>
+Escolta	escoltar	VMIP3S0	Hearing
+atentament	atentament	RG	Mode
+i	i	CC	-
+canvia	canviar	VMIP3S0	Process
+de	de	SPS00	-
+direcció	direcció	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+i	i	CC	-
+relaxa	relaxar	VMIP3S0	BodyMotion
+el	el	DA0MS0	-
+gest	gest	NCMS000	Gesture
+,	,	Fc	-
+alleujat	alleujar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+no	no	RN	-
+hi	hi	PP3CN000	-
+ha	haver	VAIP3S0	exists
+ningú	ningú	PI0CS000	-
+.	.	Fp	-
+</s>
+<s>
+Perplex	perplex	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+mira	mirar	VMIP3S0	Seeing
+cap_a	cap_a	SPS00	-
+totes	tot	DI0FP0	-
+direccions	direcció	NCFP000	Location
+,	,	Fc	-
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+barbeta	barbeta	NCFS000	BodyPart
+elevada	elevar	VMP00SF	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+els	el	DA0MP0	-
+ulls	ull	NCMP000	BodyPart
+entretancats	entretancar	VMP00PM	A-PositionalAttribute
+,	,	Fc	-
+intrigat	intrigar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Observa	observar	VMIP3S0	Seeing
+i	i	CC	-
+escolta	escoltar	VMIP3S0	Hearing
+amb	amb	SPS00	-
+atenció	atenció	NCFS000	StateOfMind
+fins	fins	SPS00	TimeInterval
+que	que	PR0CN000	-
+,	,	Fc	-
+resolut	resolut	AQ0MS0	A-StateOfMind
+i	i	CC	-
+seriós	seriós	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+es	es	P0300000	-
+vesteix	vestir	VMIP3S0	Dressing
+,	,	Fc	-
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+clavada	clavar	VMP00SF	A-PositionalAttribute
+en	en	SPS00	-
+un	un	DI0MS0	-
+punt	punt	NCMS000	Location
+llunyà	llunyà	AQ0MS0	A-PositionalAttribute
+,	,	Fc	-
+d'	de	SPS00	-
+esquena	esquena	NCFS000	BodyPart
+a	a	SPS00	-
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+per	per	SPS00	-
+un	un	DI0MS0	-
+carrer	carrer	NCMS000	Location
+envoltat	envoltar	VMP00SM	A-PositionalAttribute
+d'	de	SPS00	-
+arbres	arbre	NCMP000	-
+,	,	Fc	-
+decidit	decidir	VMP00SM	A-IntentionalPsychologicalProcess
+.	.	Fp	-
+</s>
+<s>
+Amb	amb	SPS00	-
+pas	pas	NCMS000	-
+ferm	ferm	AQ0MS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+s'	es	P0300000	-
+enfila	enfilar	VMIP3S0	Walking
+per	per	SPS00	-
+un	un	DI0MS0	-
+camí	camí	NCMS000	Location
+de	de	SPS00	-
+sorra	sorra	NCFS000	-
+estret	estret	AQ0MS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+rodejat	rodejar	VMP00SM	A-PositionalAttribute
+de	de	SPS00	-
+plantes	planta	NCFP000	Vegetable
+i	i	CC	-
+matolls	matoll	NCMP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Uns	un	DI0MP0	-
+dits	dit	NCMP000	BodyPart
+inquiets	inquiet	AQ0MP0	A-StateOfMind
+repiquen	repicar	VMIP3P0	Touching
+un	un	DI0MS0	-
+got	got	NCMS000	Object
+de	de	SPS00	-
+cartró	cartró	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+home	home	NCMS000	Human
+d'	de	SPS00	-
+uns	un	DI0MP0	-
+seixanta	60	Z	-
+anys	any	NCMP000	-
+,	,	Fc	-
+canós	canós	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+despentinat	despentinar	VMP00SM	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+amb	amb	SPS00	-
+barba	barba	NCFS000	BodyPart
+,	,	Fc	-
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+,	,	Fc	-
+somriu	somriure	VMIP3S0	Gesture
+i	i	CC	-
+sacseja_el_cap	sacsejar_el_cap	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+Té	tenir	VMIP3S0	possesses
+un	un	DI0MS0	-
+got	got	NCMS000	Object
+de	de	SPS00	-
+cafè	cafè	NCMS000	-
+entre	entre	SPS00	Location
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+N'	en	PP3CN000	-
+acarona	acaronar	VMIP3S0	Touching
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+de	de	SPS00	-
+plàstic	plàstic	NCMS000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+obre	obrir	VMIP3S0	Process
+,	,	Fc	-
+en	en	SPS00	-
+mira	mirar	VMIP3S0	Seeing
+l'	el	DA0CS0	-
+interior	interior	NCMS000	Location
+i	i	CC	-
+en	en	SPS00	-
+fa	fer	VMIP3S0	BodyMotion
+un	un	DI0MS0	-
+glop	glop	NCMS000	Drinking
+,	,	Fc	-
+resignat	resignar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00000	-
+,	,	Fc	-
+el	el	DA0MS0	-
+jubilat	jubilat	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+un	un	DI0MS0	-
+parc	parc	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+,	,	Fc	-
+assegut	asseure	VMP00SM	A-PositionalAttribute
+en	en	SPS00	-
+una	un	DI0FS0	-
+cadira	cadira	NCFS000	Object
+,	,	Fc	-
+es	es	P0300000	-
+beu	beure	VMIP3S0	Drinking
+el	el	DA0MS0	-
+cafè	cafè	NCMS000	-
+mentre	mentre	CS	TimeInterval
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+buit	buit	NCMS000	Location
+i	i	CC	-
+fa	fer	VAIP3S0	Aux
+tremolar	tremolar	VMN0000	StateOfMind
+la	el	DA0FS0	-
+cama	cama	NCFS000	BodyPart
+dreta	dret	AQ0FS0	A-PositionalAttribute
+,	,	Fc	-
+neguitós	neguitós	AQ0MS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Porta	portar	VMIP3S0	Dressing
+calçat	calçat	NCMS000	Clothing
+esportiu	esportiu	AQ0MS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+texans	texans	NCMP000	Clothing
+foscos	fosc	AQ0MP0	A-ColorAttribute
+i	i	CC	-
+samarreta	samarreta	NCFS000	Clothing
+de	de	SPS00	-
+tirants	tirant	NCMP000	-
+marró	marró	AQ0CS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Té	tenir	VMIP3S0	possesses
+un	un	DI0MS0	-
+tatuatge	tatuatge	NCMS000	BodyPart
+a	a	SPS00	-
+el	el	DA0MS0	-
+braç	braç	NCMS000	BodyPart
+dret	dret	AQ0MS0	A-PositionalAttribute
+i	i	CC	-
+duu	dur	VMIP3S0	Dressing
+una	un	DI0FS0	-
+cadena	cadena	NCFS000	Clothing
+i	i	CC	-
+una	un	DI0FS0	-
+polsera	polsera	NCFS000	Clothing
+de	de	SPS00	-
+plata	plata	NCFS000	A-ColorAttribute
+,	,	Fc	-
+gruixudes	gruixut	AQ0FP0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+a	a	SPS00	-
+un	un	DI0MS0	-
+costat	costat	NCMS000	Location
+i	i	CC	-
+es	es	P0300000	-
+frega	fregar	VMIP3S0	BodyMotion
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+treu	treure	VMIP3S0	Putting
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+de	de	SPS00	-
+la	el	DA0FS0	-
+butxaca	butxaca	NCFS000	Clothing
+i	i	CC	-
+obre	obrir	VMIP3S0	Motion
+la	el	DA0FS0	-
+llista	llista	NCFS000	-
+de	de	SPS00	-
+contactes	contacte	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+selecciona	seleccionar	VMIP3S0	Touching
+un	un	DI0MS0	-
+:	:	Fd	-
+Craig_Anderson	craig_anderson	NP00000	-
+.	.	Fp	-
+</s>
+<s>
+Li	ell	PP3CSD00	-
+truca	trucar	VMIP3S0	Communication
+.	.	Fp	-
+</s>
+<s>
+Arrufa_les_celles	arrufar_les_celles	VMIP3S0	Gesture
+i	i	CC	-
+mira	mirar	VMIP3S0	Seeing
+enlaire	enlaire	RG	Location
+,	,	Fc	-
+estranyat	estranyar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+de	de	SPS00	-
+el	el	DA0MS0	-
+banc	banc	NCMS000	Object
+i	i	CC	-
+se'n	se'n	P0300000	-
+va	anar	VAIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+noia	noi	NCFS000	Human
+jove	jove	AQ0CS0	A-SubjectiveAssessmentAttribute
+seu	seure	VMIP3S0	BodyMotion
+davant	davant	SPS00	Location
+de	de	SPS00	-
+l'	el	DA0CS0	-
+ordinador	ordinador	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Jess	jess	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+estudiant	estudiant	NCCS000	Human
+.	.	Fp	-
+</s>
+<s>
+Mossega	mossegar	VMIP3S0	BodyMotion
+un	un	DI0MS0	-
+llapis	llapis	NCMN000	Object
+,	,	Fc	-
+que	que	PR0CN000	-
+deixa	deixar	VAIP3S0	Aux
+anar	anar	VMN0000	Motion
+per	per	SPS00	-
+buscar	buscar	VMN0000	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+troba	trobar	VMIP3S0	Process
+sota	sota	SPS00	Location
+una	un	DI0FS0	-
+pila	pila	NCFS000	-
+de	de	SPS00	-
+papers	paper	NCMP000	Object
+que	que	PR0CN000	-
+té	tenir	VMIP3S0	possesses
+sobre	sobre	SPS00	Location
+la	el	DA0FS0	-
+taula	taula	NCFS000	Object
+,	,	Fc	-
+desendreçats	desendreçar	VMP00PM	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+entre	entre	SPS00	-
+els	el	DA0MP0	-
+papers	paper	NCMP000	Object
+,	,	Fc	-
+desconcertada	desconcertar	VMP00SF	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Amb	amb	SPS00	-
+gest	gest	NCMS000	Gesture
+confús	confús	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+dreta	dreta	NCFS000	Location
+i	i	CC	-
+esquerra	esquerra	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Se	es	P0300000	-
+sobresalta	sobresaltar	VMIP3S0	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+el	el	DA0MS0	-
+carrer	carrer	NCMS000	Location
+,	,	Fc	-
+abrigada	abrigar	VMP00SF	A-Clothing
+.	.	Fp	-
+</s>
+<s>
+Escolta	escoltar	VMIP3S0	Hearing
+atenta	atent	AQ0FS0	A-IntentionalPsychologicalProcess
+,	,	Fc	-
+amb	amb	SPS00	-
+actitud	actitud	NCFS000	-
+vigilant	vigilant	AQ0CS0	A-StateOfMind
+,	,	Fc	-
+i	i	CC	-
+camina	caminar	VMIP3S0	Walking
+instintivament	instintivament	RG	Mode
+,	,	Fc	-
+com	com	CS	-
+posseïda	posseir	VMP00SF	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Creua	creuar	VMIP3S0	Motion
+un	un	DI0MS0	-
+terreny	terreny	NCMS000	Location
+boscós	boscós	AQ0MS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+envoltat	envoltar	VMP00SM	A-PositionalAttribute
+d'	de	SPS00	-
+herbes	herba	NCFP000	Vegetable
+altes	alt	AQ0FP0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+,	,	Fc	-
+escolta	escoltar	VMIP3S0	Hearing
+,	,	Fc	-
+i	i	CC	-
+arrenca	arrencar	VAIP3S0	Aux
+a	a	SPS00	-
+córrer	córrer	VMN0000	Walking
+convençuda	convèncer	VMP00SF	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Arriba	arribar	VMIP3S0	Motion
+a	a	SPS00	-
+una	un	DI0FS0	-
+esplanada	esplanada	NCFS000	Location
+de	de	SPS00	-
+sorra	sorra	NCFS000	-
+extensa	extens	AQ0FS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+envoltada	envoltar	VMP00SF	A-PositionalAttribute
+de	de	SPS00	-
+petits	petit	AQ0MP0	A-SubjectiveAssessmentAttribute
+turons	turó	NCMP000	Location
+,	,	Fc	-
+on	on	PR000000	-
+hi	hi	PP3CN000	-
+ha	haver	VAIP3S0	exists
+en	en	SPS00	-
+James	james	NP00000	-
+i	i	CC	-
+en	en	SPS00	-
+Rick	rick	NP00000	-
+que	que	PR0CN000	-
+deambulen	deambular	VMIP3P0	Walking
+desorientats	desorientar	VMP00PM	A-StateOfMind
+,	,	Fc	-
+mirant	mirar	VMG0000	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Tots	tot	DI0MP0	-
+tres	3	Z	-
+,	,	Fc	-
+drets	dret	AQ0MP0	A-PositionalAttribute
+enmig_de	enmig_de	SPS00	Location
+el	el	DA0MS0	-
+pla	pla	NCMS000	Location
+,	,	Fc	-
+busquen	buscar	VMIP3P0	IntentionalPsychologicalProcess
+arreu	arreu	RG	Location
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+posa	posar	VMIP3S0	BodyMotion
+una	un	DI0FS0	-
+mà	mà	NCFS000	BodyPart
+a	a	SPS00	-
+el	el	DA0MS0	-
+front	front	NCMS000	BodyPart
+,	,	Fc	-
+torbat	torbar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+miren	mirar	VMIP3P0	Seeing
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+i	i	CC	-
+la	el	DA0FS0	-
+Jess	jess	NP00000	-
+fan_que_no	fer_que_no	VMIP3P0	Gesture
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+somriu	somriure	VMIP3S0	Gesture
+incrèdul	incrèdul	AQ0MS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+L'	el	DA0CS0	-
+home	home	NCMS000	Human
+assenteix	assentir	VMIP3S0	Gesture
+,	,	Fc	-
+somrient	somrient	AQ0CS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Marxen	marxar	VMIP3P0	Motion
+junts	junt	AQ0MP0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+abraçant-se	abraçar	VMG0000	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+encara	encara	RG	TimeInterval
+no	no	RN	-
+l'	ell	PP3CSA00	-
+he	haver	VAIP1S0	Aux
+estès	estendre	VMP00SM	BodyMotion
+tota	tot	DI0FS0	-
+.	.	Fp	-
+</s>
+<s>
+M'	jo	PP1CS000	-
+he	haver	VAIP1S0	Aux
+d'	de	SPS00	-
+afanyar	afanyar	VMN0000	Process
+a	a	SPS00	-
+acabar	acabar	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+però	però	CC	-
+de	de	SPS00	-
+què	què	PT0CS000	-
+em	jo	PP1CS000	-
+parles	parlar	VMSP2S0	Communication
+?	?	Fit	-
+Sí	sí	RG	-
+,	,	Fc	-
+esclar	esclar	RG	-
+,	,	Fc	-
+ja	ja	RG	TimeInterval
+he	haver	VAIP1S0	Aux
+fet	fer	VMP00SM	Process
+les	el	DA0FP0	-
+maletes	maleta	NCFP000	Object
+...	...	Fs	-
+Escolta	escoltar	VMIP2S0	Hearing
+,	,	Fc	-
+ara	ara	RG	TimeInterval
+no	no	RN	-
+puc	poder	VMIP1S0	Aux
+parlar	parlar	VMN0000	Communication
+.	.	Fp	-
+</s>
+<s>
+T'	tu	PP2CS000	-
+he	haver	VAIP1S0	Aux
+de	de	SPS00	-
+deixar	deixar	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+dona	dona	NCFS000	Human
+estén	estendre	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+roba	roba	NCFS000	Clothing
+mentre	mentre	CS	TimeInterval
+parla	parlar	VMIP3S0	Communication
+per	per	SPS00	-
+telèfon	telèfon	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Zoé	zoé	NP00000	-
+,	,	Fc	-
+la	el	DA0FS0	-
+següent	següent	AQ0CS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Amb	amb	SPS00	-
+lletres	lletra	NCFP000	FilmLanguage
+negres	negre	AQ0CP0	A-ColorAttribute
+sobre	sobre	SPS00	Location
+fons	fons	NCMN000	Location
+blanc	blanc	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+el	el	DA0MS0	-
+títol	títol	NCMS000	-
+:	:	Fd	-
+"	"	Fe	-
+El	el	DA0MS0	-
+que	que	PR0CN000	-
+passa	passar	VMIP3S0	Process
+mentre	mentre	CS	TimeInterval
+...	...	Fs	-
+"	"	Fe	-
+<text id='SBT-Carme-CA'>
+<s>
+En	en	SPS00	-
+un	un	DI0MS0	-
+pla	pla	NCMS000	FilmLanguage
+estàtic	estàtic	AQ0MS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+de	de	SPS00	-
+cara	cara	NCFS000	BodyPart
+a	a	SPS00	-
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+,	,	Fc	-
+mig	mig	AQ0MS0	A-SubjectiveAssessmentAttribute
+carrer	carrer	NCMS000	Location
+,	,	Fc	-
+la	el	DA0FS0	-
+vorera	vorera	NCFS000	Location
+,	,	Fc	-
+un	un	DI0MS0	-
+passeig	passeig	NCMS000	Location
+ampli	ampli	AQ0MS0	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+terra	terra	NCFS000	Location
+,	,	Fc	-
+una	un	DI0FS0	-
+tanca	tanca	NCFS000	-
+i	i	CC	-
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+,	,	Fc	-
+sota	sota	SPS00	Location
+un	un	DI0MS0	-
+cel	cel	NCMS000	Location
+de	de	SPS00	-
+color	color	NCMS000	-
+perla	perla	NCFS000	A-ColorAttribute
+,	,	Fc	-
+mig	mig	AQ0MS0	A-SubjectiveAssessmentAttribute
+ennuvolat	ennuvolar	VMP00SM	A-RadiatingLight
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+home	home	NCMS000	Human
+passa	passar	VMIP3S0	Process
+corrent	córrer	VMG0000	Walking
+de	de	SPS00	-
+dreta	dreta	NCFS000	Location
+a	a	SPS00	-
+esquerra	esquerra	NCFS000	Location
+,	,	Fc	-
+i	i	CC	-
+es	es	P0300000	-
+creua	creuar	VMIP3S0	Motion
+amb	amb	SPS00	-
+una	un	DI0FS0	-
+parella	parella	NCFS000	Human
+que	que	PR0CN000	-
+passeja	passejar	VMIP3S0	Walking
+un	un	DI0MS0	-
+gos	gos	NCMS000	Animal
+,	,	Fc	-
+un	un	DI0MS0	-
+gran	gran	AQ0CS0	A-SubjectiveAssessmentAttribute
+danès	danès	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+cotxe	cotxe	NCMS000	-
+esportiu	esportiu	AQ0MS0	A-SubjectiveAssessmentAttribute
+blanc	blanc	AQ0MS0	A-ColorAttribute
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+arran_de	arran_de	SPS00	Location
+vorera	vorera	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+conductor	conductor	NCMS000	Human
+parla	parlar	VMIP3S0	Communication
+per	per	SPS00	-
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Amb	amb	SPS00	-
+un	un	DI0MS0	-
+maletí	maletí	NCMS000	Object
+,	,	Fc	-
+va	anar	VAIP3S0	Motion
+cap_a	cap_a	SPS00	-
+el	el	DA0MS0	-
+maleter	maleter	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+maletí	maletí	NCMS000	Object
+a	a	SPS00	-
+el	el	DA0MS0	-
+maleter	maleter	NCMS000	Location
+i	i	CC	-
+n'	en	PP3CN000	-
+agafa	agafar	VMIP3S0	Touching
+una	un	DI0FS0	-
+bossa	bossa	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Dret	dret	AQ0MS0	A-PositionalAttribute
+darrere_de	darrere_de	SPS00	Location
+el	el	DA0MS0	-
+vehicle	vehicle	NCMS000	Object
+,	,	Fc	-
+es	es	P0300000	-
+desa	desar	VMIP3S0	Putting
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+,	,	Fc	-
+es	es	P0300000	-
+treu	treure	VMIP3S0	Putting
+unes	un	DI0FP0	-
+ulleres_de_sol	ulleres_de_sol	NCFP000	Clothing
+de	de	SPS00	-
+la	el	DA0FS0	-
+butxaca	butxaca	NCFS000	Clothing
+interior	interior	AQ0CS0	A-PositionalAttribute
+de	de	SPS00	-
+l'	el	DA0CS0	-
+americana	americana	NCFS000	Clothing
+i	i	CC	-
+se	es	P0300000	-
+les	ell	PP3FPA00	-
+posa	posar	VMIP3S0	Putting
+.	.	Fp	-
+</s>
+<s>
+James	james	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+empresari	empresari	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+L'	el	DA0CS0	-
+home	home	NCMS000	Human
+camina	caminar	VMIP3S0	Walking
+per	per	SPS00	-
+el	el	DA0MS0	-
+descampat	descampat	NCMS000	Location
+amb	amb	SPS00	-
+una	un	DI0FS0	-
+bossa	bossa	NCFS000	Object
+de	de	SPS00	-
+ratlles	ratlla	NCFP000	-
+penjada	penjar	VMP00SF	A-PositionalAttribute
+de	de	SPS00	-
+l'	el	DA0CS0	-
+espatlla	espatlla	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Sobre	sobre	SPS00	Location
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+,	,	Fc	-
+una	un	DI0FS0	-
+pila	pila	NCFS000	-
+de	de	SPS00	-
+roba	roba	NCFS000	Clothing
+rebregada	rebregar	VMP00SF	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+una	un	DI0FS0	-
+tovallola	tovallola	NCFS000	Object
+estesa	estendre	VMP00SF	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+s'	es	P0300000	-
+hi	hi	PP3CN000	Location
+estira	estirar	VMIP3S0	BodyMotion
+panxa_amunt	panxa_amunt	NCFS000	PositionalAttribute
+a	a	SPS00	-
+prendre	prendre	VMN0000	Process
+el	el	DA0MS0	-
+sol	sol	NCMS000	RadiatingLight
+.	.	Fp	-
+</s>
+<s>
+L'	el	DA0CS0	-
+home	home	NCMS000	Human
+,	,	Fc	-
+de	de	SPS00	-
+pell	pell	NCFS000	BodyPart
+clara	clar	AQ0FS0	A-ColorAttribute
+,	,	Fc	-
+té	tenir	VMIP3S0	possesses
+els	el	DA0MP0	-
+cabells	cabell	NCMP000	BodyPart
+pèl-rojos	pèl-roig	AQ0MP0	A-ColorAttribute
+,	,	Fc	-
+tallats	tallar	VMP00PM	A-SubjectiveAssessmentAttribute
+curts	curt	AQ0MP0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+i	i	CC	-
+porta	portar	VMIP3S0	Dressing
+barba	barba	NCFS000	BodyPart
+ben	ben	RG	Quantifier
+arreglada	arreglar	VMP00SF	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+frega	fregar	VMIP3S0	BodyMotion
+els	el	DA0MP0	-
+ulls	ull	NCMP000	BodyPart
+,	,	Fc	-
+estén	estendre	VMIP3S0	BodyMotion
+els	el	DA0MP0	-
+braços	braç	NCMP000	BodyPart
+a_banda_i_banda	a_banda_i_banda	RG	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+cos	cos	NCMS000	BodyPart
+i	i	CC	-
+agafa	agafar	VMIP3S0	Touching
+granets	granet	NCMP000	-
+de	de	SPS00	-
+sorra	sorra	NCFS000	Location
+amb	amb	SPS00	-
+els	el	DA0MP0	-
+dits	dit	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+incorpora	incorporar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+gira	girar	VMIP3S0	BodyMotion
+a_banda_i_banda	a_banda_i_banda	RG	Location
+,	,	Fc	-
+estranyat	estranyar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+entre	entre	SPS00	Location
+la	el	DA0FS0	-
+roba	roba	NCFS000	Clothing
+,	,	Fc	-
+i	i	CC	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+voltant	voltant	NCMS000	Location
+,	,	Fc	-
+neguitós	neguitós	AQ0MS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+i	i	CC	-
+camina	caminar	VMIP3S0	Walking
+cap_a	cap_a	SPS00	-
+l'	el	DA0CS0	-
+aigua	aigua	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Alça_la_mirada	alçar_la_mirada	VMIP3S0	Seeing
+,	,	Fc	-
+com	com	CS	-
+buscant	buscar	VMG0000	IntentionalPsychologicalProcess
+alguna	algun	DI0FS0	-
+cosa	cosa	NCFS000	-
+,	,	Fc	-
+i	i	CC	-
+s'	es	P0300000	-
+allunya	allunyar	VMIP3S0	Motion
+de	de	SPS00	-
+el	el	DA0MS0	-
+trenc	trenc	NCMS000	Location
+de	de	SPS00	-
+les	el	DA0FP0	-
+onades	onada	NCFP000	-
+.	.	Fp	-
+</s>
+<s>
+Torna	tornar	VMIP3S0	Motion
+cap_a	cap_a	SPS00	-
+l'	el	DA0CS0	-
+aigua	aigua	NCFS000	-
+i	i	CC	-
+es	es	P0300000	-
+gira	girar	VMIP3S0	BodyMotion
+de_cop	de_cop	RG	Mode
+,	,	Fc	-
+cercant	cercar	VMG0000	IntentionalPsychologicalProcess
+l'	el	DA0CS0	-
+origen	origen	NCMS000	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+xiulet	xiulet	NCMS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+pertot	pertot	RG	Location
+,	,	Fc	-
+estranyat	estranyar	VMP00SM	A-StateOfMind
+,	,	Fc	-
+i	i	CC	-
+desisteix	desistir	VMIP3S0	IntentionalPsychologicalProcess
+de	de	SPS00	-
+el	el	DA0MS0	-
+bany	bany	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Torna	tornar	VMIP3S0	Motion
+cap_a	cap_a	SPS00	-
+la	el	DA0FS0	-
+tovallola	tovallola	NCFS000	Object
+,	,	Fc	-
+mirant	mirar	VMG0000	Seeing
+enlaire	enlaire	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Agafa	agafar	VMIP3S0	Touching
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+,	,	Fc	-
+de	de	SPS00	-
+color	color	NCMS000	-
+gris	gris	AQ0MS0	A-ColorAttribute
+clar	clar	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+i	i	CC	-
+se	es	P0300000	-
+la	ell	PP3FSA00	-
+posa	posar	VMIP3S0	Putting
+.	.	Fp	-
+</s>
+<s>
+Ja	ja	RG	TimeInterval
+vestit	vestir	VMP00SM	A-Clothing
+,	,	Fc	-
+amb	amb	SPS00	-
+americana	americana	NCFS000	Clothing
+i	i	CC	-
+pantalons	pantaló	NCMP000	Clothing
+foscos	fosc	AQ0MP0	A-ColorAttribute
+,	,	Fc	-
+camina	caminar	VMIP3S0	Walking
+arran_de	arran_de	SPS00	Location
+carrer	carrer	NCMS000	Location
+,	,	Fc	-
+per	per	SPS00	-
+sota	sota	SPS00	Location
+d'	de	SPS00	-
+unes	un	DI0FP0	-
+oliveres	olivera	NCFP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+enfila	enfilar	VMIP3S0	Walking
+per	per	SPS00	-
+un	un	DI0MS0	-
+corriol	corriol	NCMS000	Location
+entre	entre	SPS00	-
+matolls	matoll	NCMP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Primer	primer	AO0MS0	A-PositionalAttribute
+pla	pla	NCMS000	FilmLanguage
+d'	de	SPS00	-
+un	un	DI0MS0	-
+got	got	NCMS000	Object
+de	de	SPS00	-
+cafè	cafè	NCMS000	-
+amb	amb	SPS00	-
+tapa	tapa	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+home	home	NCMS000	Human
+d'	de	SPS00	-
+uns	un	DI0MP0	-
+60	60	Z	-
+anys	any	NCMP000	-
+,	,	Fc	-
+de	de	SPS00	-
+cabells	cabell	NCMP000	BodyPart
+grisos	gris	AQ0MP0	A-ColorAttribute
+desendreçats	desendreçar	VMP00PM	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+barba	barba	NCFS000	BodyPart
+i	i	CC	-
+celles	cella	NCFP000	BodyPart
+poblades	poblar	VMP00PF	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+samarreta	samarreta	NCFS000	Clothing
+de	de	SPS00	-
+tirants	tirant	NCMP000	-
+caqui	caqui	AQ0CN0	A-ColorAttribute
+i	i	CC	-
+una	un	DI0FS0	-
+cadena	cadena	NCFS000	Clothing
+gruixuda	gruixut	AQ0FS0	A-SubjectiveAssessmentAttribute
+penjada	penjar	VMP00FS	A-PositionalAttribute
+de	de	SPS00	-
+el	el	DA0MS0	-
+coll	coll	NCMS000	BodyPart
+,	,	Fc	-
+el	el	DA0MS0	-
+sosté	sostenir	VMIP3S0	Touching
+entre	entre	SPS00	-
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+enlaire	enlaire	RG	Location
+somrient	somrient	AQ0CS0	A-StateOfMind
+,	,	Fc	-
+sacseja_el_cap	sacsejar_el_cap	VMIP3S0	Gesture
+i	i	CC	-
+l'	el	DA0CS0	-
+abaixa	abaixar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Repassa	repassar	VMIP3S0	Touching
+amb	amb	SPS00	-
+el	el	DA0MS0	-
+dit	dit	VMP00SM	BodyPart
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+,	,	Fc	-
+i	i	CC	-
+l'	el	DA0CS0	-
+obre	obrir	VMIP3S0	Process
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+sacseja	sacsejar	VMIP3S0	Motion
+lleugerament	lleugerament	RG	Mode
+,	,	Fc	-
+se'n	se'n	P0300000	-
+mira	mirar	VMIP3S0	Seeing
+el	el	DA0MS0	-
+líquid	líquid	NCMS000	-
+uns	un	DI0MP0	-
+instants	instant	NCMP000	TimeInterval
+i	i	CC	-
+en	en	SPS00	-
+fa	fer	VMIP3S0	BodyMotion
+un	un	DI0MS0	-
+glop	glop	NCMS000	Drinking
+.	.	Fp	-
+</s>
+<s>
+Rick	rick	NP00000	-
+,	,	Fc	-
+el	el	DA0MS0	-
+jubilat	jubilat	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+Deixa	deixar	VMIP3S0	Putting
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+en	en	SPS00	-
+un	un	DI0MS0	-
+banc	banc	NCMS000	Object
+individual	individual	AQ0CS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+costat	costat	NCMS000	Location
+d'	de	SPS00	-
+on	on	PR000000	-
+seu	seure	VMIP3S0	BodyMotion
+ell	ell	PP3MS000	-
+,	,	Fc	-
+i	i	CC	-
+s'	es	P0300000	-
+acaba	acabar	VMIP3S0	Drinking
+el	el	DA0MS0	-
+cafè	cafè	NCMS000	-
+mentre	mentre	CS	TimeInterval
+fa	fer	VAIP3S0	Aux
+tremolar	tremolar	VMN0000	BodyMotion
+la	el	DA0FS0	-
+cama	cama	NCFS000	BodyPart
+dreta	dret	AQ0FS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Sacseja_el_cap	sacsejar_el_cap	VMIP3S0	Gesture
+fent_que_no	fer_que_no	VMG0000	Gesture
+,	,	Fc	-
+deixa	deixar	VMIP3S0	Process
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+a	a	SPS00	-
+el	el	DA0MS0	-
+costat	costat	NCMS000	Location
+de	de	SPS00	-
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+i	i	CC	-
+es	es	P0300000	-
+deixa	deixar	VAIP3S0	Aux
+caure	caure	VMN0000	BodyMotion
+sobre	sobre	SPS00	Location
+el	el	DA0MS0	-
+respatller	respatller	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+treu	treure	VMIP3S0	Putting
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+de	de	SPS00	-
+la	el	DA0FS0	-
+butxaca	butxaca	NCFS000	Clothing
+de	de	SPS00	-
+darrere_de	darrere_de	SPS00	Location
+els	el	DA0MP0	-
+texans	texans	NCMP000	Clothing
+,	,	Fc	-
+en	en	SPS00	-
+plega	plegar	VMIP3S0	Process
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+enrere	enrere	RG	Location
+i	i	CC	-
+busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+un	un	DI0MS0	-
+contacte	contacte	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Craig_Anderson	craig_anderson	NP00000	-
+.	.	Fp	-
+</s>
+<s>
+Li	ell	PP3CSD00	-
+truca	trucar	VMIP3S0	Communication
+.	.	Fp	-
+</s>
+<s>
+Arrufa_les_celles	arrufar_les_celles	VMIP3S0	Gesture
+i	i	CC	-
+mira	mirar	VMIP3S0	Seeing
+enlaire	enlaire	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Torna	tornar	VAIP3S0	Aux
+a	a	SPS00	-
+mirar	mirar	VMN0000	Seeing
+amunt	amunt	RG	Location
+,	,	Fc	-
+estranyat	estranyar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Pla	pla	NCMS000	FilmLanguage
+estàtic	estàtic	AQ0MS0	A-SubjectiveAssessmentAttribute
+des_de	des_de	SPS00	-
+el	el	DA0MS0	-
+banc	banc	NCMS000	Object
+,	,	Fc	-
+amb	amb	SPS00	-
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+de	de	SPS00	-
+cafè	cafè	NCMS000	-
+en	en	SPS00	-
+primer	primer	AO0MS0	A-PositionalAttribute
+pla	pla	NCMS000	FilmLanguage
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+s'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+,	,	Fc	-
+somrient	somrient	AQ0CS0	A-StateOfMind
+,	,	Fc	-
+es	es	P0300000	-
+desa	desar	VMIP3S0	Putting
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+a	a	SPS00	-
+la	el	DA0FS0	-
+butxaca	butxaca	NCFS000	Clothing
+de	de	SPS00	-
+el	el	DA0MS0	-
+darrere_de	darrere_de	SPS00	Location
+els	el	DA0MP0	-
+texans	texans	NCMP000	Clothing
+i	i	CC	-
+camina	caminar	VMIP3S0	Walking
+fent	fer	VMG0000	BodyMotion
+voltes	volta	NCFP000	-
+sobre	sobre	SPS00	Location
+si	si	CS	-
+mateix	mateix	PI0MS000	Location
+mirant	mirar	VMG0000	Seeing
+enlaire	enlaire	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+noia	noi	NCFS000	Human
+adolescent	adolescent	AQ0CS0	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+de	de	SPS00	-
+cabellera	cabellera	NCFS000	BodyPart
+arrissada	arrissar	VMP00SF	A-SubjectiveAssessmentAttribute
+vermellosa	vermellós	AQ0FS0	A-ColorAttribute
+i	i	CC	-
+ulls	ull	NCMP000	BodyPart
+clars	clar	AQ0MP0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Jess	jess	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+estudiant	estudiant	NCCS000	Human
+.	.	Fp	-
+</s>
+<s>
+Deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+llapis	llapis	NCMN000	Object
+que	que	PR0CN000	-
+tenia	tenir	VMII3S0	possesses
+entre	entre	SPS00	-
+les	el	DA0FP0	-
+dents	dent	NCFP000	BodyPart
+,	,	Fc	-
+i	i	CC	-
+busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+entre	entre	SPS00	-
+llibres	llibre	NCMP000	Object
+i	i	CC	-
+papers	paper	NCMP000	Object
+,	,	Fc	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+voltant	voltant	NCMS000	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+portàtil	portàtil	AQ0CS0	Object
+.	.	Fp	-
+</s>
+<s>
+Estranyada	estranyar	VMP00SF	A-StateOfMind
+,	,	Fc	-
+busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+entre	entre	SPS00	-
+els	el	DA0MP0	-
+papers	paper	NCMP000	Object
+,	,	Fc	-
+i	i	CC	-
+mira	mirar	VMIP3S0	Seeing
+enlaire	enlaire	RG	Location
+,	,	Fc	-
+a_banda_i_banda	a_banda_i_banda	RG	Location
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+incorpora	incorporar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+el	el	DA0MS0	-
+carrer	carrer	NCMS000	Location
+,	,	Fc	-
+amb	amb	SPS00	-
+jaqueta	jaqueta	NCFS000	Clothing
+cordada	cordar	VMP00SF	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+mocador	mocador	NCMS000	Clothing
+de	de	SPS00	-
+coll	coll	NCMS000	BodyPart
+,	,	Fc	-
+va	anar	VAIP3S0	Aux
+mirant	mirar	VMG0000	Seeing
+pertot	pertot	RG	Location
+,	,	Fc	-
+encuriosida	encuriosir	VMP00SF	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+endinsa	endinsar	VMIP3S0	Motion
+per	per	SPS00	-
+un	un	DI0MS0	-
+canyissar	canyissar	NCMS000	Location
+,	,	Fc	-
+i	i	CC	-
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+per	per	SPS00	-
+fer	fer	VMN0000	Process
+un	un	DI0MS0	-
+cop_d'ull	cop_d'ull	NCMS000	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+voltant	voltant	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Corre	córrer	VMIP3S0	Walking
+amunt	amunt	RG	Location
+entre	entre	SPS00	-
+les	el	DA0FP0	-
+herbes	herba	NCFP000	Vegetable
+cap_a	cap_a	SPS00	-
+un	un	DI0MS0	-
+camp	camp	NCMS000	Location
+d'	de	SPS00	-
+oliveres	olivera	NCFP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+un	un	DI0MS0	-
+gran	gran	AQ0CS0	A-SubjectiveAssessmentAttribute
+descampat	descampat	NCMS000	Location
+de	de	SPS00	-
+terra	terra	NCFS000	Location
+,	,	Fc	-
+envoltat	envoltar	VMP00SM	A-PositionalAttribute
+de	de	SPS00	-
+vegetació	vegetació	NCFS000	Vegetable
+,	,	Fc	-
+en	en	SPS00	-
+James	james	NP00000	-
+,	,	Fc	-
+en	en	SPS00	-
+Rick	rick	NP00000	-
+i	i	CC	-
+la	el	DA0FS0	-
+Jess	jess	NP00000	-
+,	,	Fc	-
+que	que	PR0CN000	-
+van	vanar	VAIP1S0	Aux
+mirant	mirar	VMG0000	Seeing
+enlaire	enlaire	RG	Location
+desconcertats	desconcertar	VMP00PM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Tots	tot	DI0MP0	-
+tres	3	Z	-
+,	,	Fc	-
+a	a	SPS00	-
+pocs	poc	DI0MP0	-
+metres	metre	NCMP000	Location
+,	,	Fc	-
+cerquen	cercar	VMIP3P0	IntentionalPsychologicalProcess
+pertot	pertot	RG	Location
+,	,	Fc	-
+encara	encara	RG	TimeInterval
+més	més	RG	Mode
+sorpresos	sorprendre	VMP00PM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+posa	posar	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+mà	mà	NCFS000	BodyPart
+a	a	SPS00	-
+el	el	DA0MS0	-
+front	front	NCMS000	BodyPart
+,	,	Fc	-
+desesperat	desesperar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+s'	es	P0300000	-
+arronsa_d'espatlles	arronsar_d'espatlles	VMIP3S0	Gesture
+i	i	CC	-
+se'ls	se'ls	P0300000	-
+mira	mirar	VMIP3S0	Seeing
+tots	tot	DI0MP0	-
+dos	2	Z	-
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+rumia	rumiar	VMIP3S0	IntentionalPsychologicalProcess
+,	,	Fc	-
+sorpresa	sorprendre	VMP00SM	A-StateOfMind
+,	,	Fc	-
+i	i	CC	-
+somriu	somriure	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+Corre	córrer	VMIP3S0	Walking
+fins	fins	RG	TimeInterval
+a	a	SPS00	-
+trobar	trobar	VMN0000	Process
+los	ell	PP3CP000	-
+,	,	Fc	-
+i	i	CC	-
+camina	caminar	VMIP3S0	Walking
+entre	entre	SPS00	-
+els	el	DA0MP0	-
+dos	2	Z	-
+homes	home	NCMP000	Human
+en_direcció_a	en_direcció_a	SPS00	Location
+la	el	DA0FS0	-
+vegetació	vegetació	NCFS000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Fosa	fosa	NCFS000	FilmLanguage
+a	a	SPS00	-
+negre	negre	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+dona	dona	NCFS000	Human
+amb	amb	SPS00	-
+els	el	DA0MP0	-
+cabells	cabell	NCMP000	BodyPart
+trenats	trenar	VMP00PM	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+curts	curt	AQ0MP0	A-SubjectiveAssessmentAttribute
+estén	estendre	VMIP3S0	BodyMotion
+roba	roba	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+"	"	Fe	-
+No	no	RN	-
+,	,	Fc	-
+encara	encara	RG	TimeInterval
+no	no	RN	-
+l'	ell	PP3CSA00	-
+he	haver	VAIP1S0	Aux
+estès	estendre	VMP00SM	BodyMotion
+tota	tot	DI0FS0	-
+.	.	Fp	-
+</s>
+<s>
+M'	jo	PP1CS000	-
+he	haver	VAIP1S0	Aux
+d'	de	SPS00	-
+afanyar	afanyar	VMN0000	Process
+a	a	SPS00	-
+acabar	acabar	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+"	"	Fe	-
+"	"	Fe	-
+No	no	RN	-
+,	,	Fc	-
+però	però	CC	-
+de	de	SPS00	-
+què	què	PT0CS000	-
+em	jo	PP1CS000	-
+parles	parlar	VMSP2S0	Communication
+?	?	Fit	-
+Sí	sí	RG	-
+,	,	Fc	-
+esclar	esclar	RG	-
+,	,	Fc	-
+ja	ja	RG	TimeInterval
+he	haver	VAIP1S0	Aux
+fet	fer	VMP00SM	Process
+les	el	DA0FP0	-
+maletes	maleta	NCFP000	Object
+...	...	Fs	-
+"	"	Fe	-
+"	"	Fe	-
+Escolta	escoltar	VMIP2S0	Hearing
+,	,	Fc	-
+ara	ara	RG	TimeInterval
+no	no	RN	-
+puc	poder	VMIP1S0	Aux
+parlar	parlar	VMN0000	Communication
+.	.	Fp	-
+</s>
+<s>
+T'	tu	PP2CS000	-
+he	haver	VAIP1S0	Aux
+de	de	SPS00	-
+deixar	deixar	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+"	"	Fe	-
+Zoé	zoé	NP00000	-
+,	,	Fc	-
+la	el	DA0FS0	-
+següent	següent	AQ0CS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Fosa	fosa	NP00000	FilmLanguage
+a	a	SPS00	-
+negre	negre	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+"	"	Fe	-
+QUÈ_PASSA_MENTRE	què_passa_mentre	NP00000	-
+...	...	Fs	-
+"	"	Fe	-
+Sobre	sobre	SPS00	Location
+fons	fons	NCMN000	FilmLanguage
+blanc	blanc	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+els	el	DA0MP0	-
+crèdits	crèdit	NCMP000	FilmLanguage
+.	.	Fp	-
+</s>
+<s>
+<text id='SDI-Media-CA'>
+<s>
+Un	un	DI0MS0	-
+noi	noi	NCMS000	Human
+i	i	CC	-
+una	un	DI0FS0	-
+noia	noi	NCFS000	Human
+passegen	passejar	VMIP3P0	Walking
+amb	amb	SPS00	-
+un	un	DI0MS0	-
+gos	gos	NCMS000	Animal
+per	per	SPS00	-
+un	un	DI0MS0	-
+descampat	descampat	NCMS000	Location
+a_la_vora_de	a_la_vora_de	SPS00	Location
+la	el	DA0FS0	-
+platja	platja	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+creuen	creuar	VMIP3P0	Motion
+amb	amb	SPS00	-
+un	un	DI0MS0	-
+noi	noi	NCMS000	Human
+que	que	PR0CN000	-
+corre	córrer	VMIP3S0	Walking
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+cotxe	cotxe	NCMS000	-
+blanc	blanc	AQ0MS0	A-ColorAttribute
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+a	a	SPS00	-
+la	el	DA0FS0	-
+calçada	calçada	NCFS000	Location
+,	,	Fc	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+costat	costat	NCMS000	Location
+de	de	SPS00	-
+el	el	DA0MS0	-
+descampat	descampat	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+baixa	baixar	VMIP3S0	Motion
+un	un	DI0MS0	-
+home	home	NCMS000	Human
+que	que	PR0CN000	-
+parla	parlar	VMIP3S0	Communication
+per	per	SPS00	-
+telèfon	telèfon	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+L'	el	DA0CS0	-
+home	home	NCMS000	Human
+ha	haver	VAIP3S0	Aux
+ficat	ficar	VMP00SM	Putting
+un	un	DI0MS0	-
+maletí	maletí	NCMS000	Object
+a	a	SPS00	-
+el	el	DA0MS0	-
+maleter	maleter	NCMS000	Location
+i	i	CC	-
+n'	en	PP3CN000	-
+ha	haver	VAIP3S0	Aux
+tret	treure	VMP00SM	Putting
+una	un	DI0FS0	-
+bossa	bossa	NCFS000	Object
+informal	informal	AQ0CS0	A-SubjectiveAssessmentAttribute
+Es	es	P0300000	-
+posa	posar	VMIP3S0	Putting
+les	el	DA0FP0	-
+ulleres_de_sol	ulleres_de_sol	NCFP000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+rètol	rètol	NCMS000	FilmLanguage
+ens	jo	PP1CP000	-
+indica	indicar	VMIP3S0	Communication
+que	que	CS	-
+és	ser	VSIP3S0	Aux
+en	en	SPS00	-
+James	james	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+empresari	empresari	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+va	anar	VAIP3S0	Motion
+cap_a	cap_a	SPS00	-
+la	el	DA0FS0	-
+platja	platja	NCFS000	Location
+caminant	caminar	VMG0000	Walking
+i	i	CC	-
+parlant	parlar	VMG0000	Communication
+per	per	SPS00	-
+telèfon	telèfon	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+s'	es	P0300000	-
+ajeu	ajeure	VMIP3S0	BodyMotion
+a	a	SPS00	-
+la	el	DA0FS0	-
+tovallola	tovallola	NCFS000	Object
+Es	es	P0300000	-
+frega	fregar	VMIP3S0	BodyMotion
+els	el	DA0MP0	-
+ulls	ull	NCMP000	BodyPart
+,	,	Fc	-
+cansat	cansar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+fa	fer	VMIP3S0	Process
+cara	cara	NCFS000	BodyPart
+d	d	AQ0CN0	-
+'	'	Fe	-
+amoïnat	amoïnar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+i	i	CC	-
+va	anar	VAIP3S0	Motion
+en	en	SPS00	-
+banyador	banyador	NCMS000	Clothing
+cap_a	cap_a	SPS00	-
+l'	el	DA0CS0	-
+aigua	aigua	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+el	el	DA0MS0	-
+fons	fons	NCMN000	Location
+hi	hi	PP3CN000	-
+ha	haver	VAIP3S0	exists
+la	el	DA0FS0	-
+silueta	silueta	NCFS000	-
+d'	de	SPS00	-
+una	un	DI0FS0	-
+ciutat	ciutat	NCFS000	Location
+industrial	industrial	AQ0CS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Sense	sense	SPS00	-
+mullar-se	mullar	VMN0000	Process
+,	,	Fc	-
+torna	tornar	VMIP3S0	Walking
+cap_a	cap_a	SPS00	-
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+seca	sec	AQ0FS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+totes	tot	DI0FP0	-
+bandes	banda	NCFP000	Location
+,	,	Fc	-
+busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+d'	de	SPS00	-
+on	on	PT000000	-
+ve	venir	VMIP3S0	Motion
+el	el	DA0MS0	-
+soroll	soroll	NCMS000	RadiatingSound
+que	que	PR0CN000	-
+se	es	P0300000	-
+sent	sentir	VMM02S0	Hearing
+.	.	Fp	-
+</s>
+<s>
+Continua	continuar	VAIP3S0	Aux
+caminant	caminar	VMG0000	Walking
+per	per	SPS00	-
+la	el	DA0FS0	-
+platja	platja	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+es	es	P0300000	-
+posa	posar	VMIP3S0	Putting
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+James	james	NP00000	-
+camina	caminar	VMIP3S0	Walking
+,	,	Fc	-
+vestit	vestir	VMP00SM	A-Clothing
+amb	amb	SPS00	-
+pantalons	pantaló	NCMP000	Clothing
+i	i	CC	-
+americana	americana	NCFS003	Clothing
+,	,	Fc	-
+per	per	SPS00	-
+un	un	DI0MS0	-
+carrer	carrer	NCMS000	Location
+amb	amb	SPS00	-
+arbres	arbre	NCMP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Ara	ara	RG	TimeInterval
+puja	pujar	VMIP3S0	Walking
+per	per	SPS00	-
+un	un	DI0MS0	-
+camí	camí	NCMS000	Location
+que	que	PR0CN000	-
+hi	hi	PP3CN000	-
+ha	haver	VAIP3S0	exists
+entremig	entremig	RG	Location
+d'	de	SPS00	-
+uns	un	DI0MP0	-
+matolls	matoll	NCMP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+home	home	NCMS000	Human
+amb	amb	SPS00	-
+barba	barba	NCFS000	BodyPart
+de	de	SPS00	-
+quatre	4	Z	-
+dies	dia	NCMP000	TimeInterval
+i	i	CC	-
+cabells	cabell	NCMP000	BodyPart
+embullats	embullar	VMP00PM	A-SubjectiveAssessmentAttribute
+té	tenir	VMIP3S0	possesses
+un	un	DI0MS0	-
+got	got	NCMS000	Object
+de	de	SPS00	-
+plàstic	plàstic	NCMS000	-
+a	a	SPS00	-
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Fa	fer	VMIP3S0	Process
+gestos	gest	NCMP000	Gesture
+d'	de	SPS00	-
+impaciència	impaciència	NCFS000	StateOfMind
+amb	amb	SPS00	-
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Obre	obrir	VMIP3S0	Process
+la	el	DA0FS0	-
+tapa	tapa	NCFS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+i	i	CC	-
+en	en	SPS00	-
+beu	beure	VMIP3S0	Drinking
+el	el	DA0MS0	-
+contingut	contingut	NCMS000	-
+,	,	Fc	-
+te	te	NCFS000	-
+o	o	CC	-
+cafè	cafè	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+rètol	rètol	NCMS000	FilmLanguage
+ens	jo	PP1CP000	-
+indica	indicar	VMIP3S0	Communication
+que	que	CS	-
+és	ser	VSIP3S0	Aux
+en	en	SPS00	-
+Rick	rick	NP00000	-
+,	,	Fc	-
+el	el	DA0MS0	-
+jubilat	jubilat	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+continua	continuar	VAIP3S0	Aux
+assegut	asseure	VMP00SM	A-PositionalAttribute
+en	en	SPS00	-
+un	un	DI0MS0	-
+banc	banc	NCMS000	Object
+,	,	Fc	-
+a	a	SPS00	-
+sota	sota	SPS00	Location
+d'	de	SPS00	-
+uns	un	DI0MP0	-
+arbres	arbre	NCMP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Fa	fer	VMIP3S0	Process
+més	més	RG	Mode
+gestos	gest	NCMP000	Gesture
+d'	de	SPS00	-
+impaciència	impaciència	NCFS000	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Agafa	agafar	VMIP3S0	Touching
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+i	i	CC	-
+busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+per	per	SPS00	-
+l'	el	DA0CS0	-
+agenda	agenda	NCFS000	Object
+de	de	SPS00	-
+contactes	contacte	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+Truca	trucar	VMIP3S0	Communication
+a	a	SPS00	-
+un	un	DI0MS0	-
+tal	tal	PD0CS000	-
+Craig_Anderson	craig_anderson	NP00000	-
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+s'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+de	de	SPS00	-
+el	el	DA0MS0	-
+banc	banc	NCMS000	Object
+i	i	CC	-
+se'n	se'n	P0300000	-
+va	anar	VMIP3S0	Motion
+mirant	mirar	VMG0000	Seeing
+per	per	SPS00	-
+tot	tot	DI0MS0	-
+arreu	arreu	RG	Location
+buscant	buscar	VMG0000	IntentionalPsychologicalProcess
+alguna	algun	DI0FS0	-
+cosa	cosa	NCFS000	-
+.	.	Fp	-
+</s>
+<s>
+Deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+a	a	SPS00	-
+el	el	DA0MS0	-
+banc	banc	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Veiem	veure	VMIP1P0	Seeing
+una	un	DI0FS0	-
+noia	noi	NCFS000	Human
+amb	amb	SPS00	-
+els	el	DA0MP0	-
+cabells	cabell	NCMP000	BodyPart
+arrissats	arrissar	VMP00PM	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+un	un	DI0MS0	-
+llapis	llapis	NCMN000	Object
+a	a	SPS00	-
+la	el	DA0FS0	-
+boca	boca	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+rètol	rètol	NCMS000	FilmLanguage
+ens	jo	PP1CP000	-
+indica	indicar	VMIP3S0	Communication
+que	que	CS	-
+és	ser	VSIP3S0	Aux
+la	el	DA0FS0	-
+Jess	jess	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+estudiant	estudiant	NCCS000	Human
+.	.	Fp	-
+</s>
+<s>
+Busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+per	per	SPS00	-
+l'	el	DA0CS0	-
+escriptori	escriptori	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Ara	ara	RG	TimeInterval
+és	ser	VSIP3S0	Aux
+a	a	SPS00	-
+l'	el	DA0CS0	-
+exterior	exterior	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Puja	pujar	VMIP3S0	Walking
+per	per	SPS00	-
+el	el	DA0MS0	-
+mateix	mateix	AQ0MS0	-
+camí	camí	NCMS000	Location
+que	que	PR0CN000	-
+en	en	SPS00	-
+James	james	NP00000	-
+.	.	Fp	-
+</s>
+<s>
+Veiem	veure	VMIP1P0	Seeing
+una	un	DI0FS0	-
+esplanada	esplanada	NCFS000	Location
+a	a	SPS00	-
+l'	el	DA0CS0	-
+aire	aire	NCMS000	Location
+lliure	lliure	AQ0CS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Hi	hi	PP3CN000	-
+ha	haver	VAIP3S0	exists
+en	en	SPS00	-
+James	james	NP00000	-
+,	,	Fc	-
+en	en	SPS00	-
+Rick	rick	NP00000	-
+i	i	CC	-
+la	el	DA0FS0	-
+Jess	jess	NP00000	-
+.	.	Fp	-
+</s>
+<s>
+Se	es	P0300000	-
+sent	sentir	VMIP1S0	Hearing
+una	un	DI0FS0	-
+veu	veu	NCFS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+Els	el	DA0MP0	-
+tres	3	Z	-
+busquen	buscar	VMIP3P0	IntentionalPsychologicalProcess
+d'	de	SPS00	-
+on	on	PT000000	-
+ve	venir	VMIP3S0	Process
+la	el	DA0FS0	-
+veu	veu	NCFS000	RadiatingSound
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+i	i	CC	-
+la	el	DA0FS0	-
+Jessica	jessica	NP00000	-
+fan_que_no_amb_el_cap	fer_que_no_amb_el_cap	VMIP3P0	Gesture
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+i	i	CC	-
+en	en	SPS00	-
+James	james	NP00000	-
+se'n	se'n	P0300000	-
+van	anar	VMIP3P0	Motion
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+pensa	pensar	VMIP3S0	IntentionalPsychologicalProcess
+i	i	CC	-
+somriu	somriure	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+Se'n	se'n	P0300000	-
+van	vanar	VMIP1S0	Motion
+tots	tot	DI0MP0	-
+tres	3	Z	-
+de	de	SPS00	-
+l'	el	DA0CS0	-
+esplanada	esplanada	NCFS000	Location
+Fosa	fosa	NP00000	FilmLanguage
+en	en	SPS00	-
+negre	negre	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+noia	noi	NCFS000	Human
+parla	parlar	VMIP3S0	Communication
+per	per	SPS00	-
+telèfon	telèfon	NCMS000	Object
+de	de	SPS00	-
+la	el	DA0FS0	-
+bugada	bugada	NCFS000	Clothing
+i	i	CC	-
+unes	un	DI0FP0	-
+maletes	maleta	NCFP000	Object
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+rètol	rètol	NCMS000	FilmLanguage
+ens	jo	PP1CP000	-
+indica	indicar	VMIP3S0	Communication
+que	que	CS	-
+és	ser	VSIP3S0	Aux
+la	el	DA0FS0	-
+Zoé	zoé	NP00000	-
+,	,	Fc	-
+la	el	DA0FS0	-
+següent	següent	AQ0CS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+<text id='Sonidos-CA'>
+<s>
+De	de	SPS00	-
+dia	dia	NCMS000	TimeInterval
+,	,	Fc	-
+en	en	SPS00	-
+una	un	DI0FS0	-
+platja	platja	NCFS000	Location
+,	,	Fc	-
+un	un	DI0MS0	-
+home	home	NCMS000	Human
+corre	córrer	VMIP3S0	Walking
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+sentit	sentit	NCMS000	Mode
+contrari	contrari	AQ0MS0	A-PositionalAttribute
+,	,	Fc	-
+una	un	DI0FS0	-
+parella	parella	NCFS000	Human
+,	,	Fc	-
+ben	ben	RG	Quantifier
+abrigada	abrigar	VMP00SF	A-Clothing
+,	,	Fc	-
+passeja	passejar	VMIP3S0	Walking
+un	un	DI0MS0	-
+gos	gos	NCMS000	Animal
+gran	gran	AQ0CS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+gos	gos	NCMS000	Animal
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+per	per	SPS00	-
+olorar	olorar	VMN0000	Smelling
+alguna	algun	DI0FS0	-
+cosa	cosa	NCFS000	-
+sota	sota	SPS00	Location
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Ara	ara	RG	TimeInterval
+,	,	Fc	-
+segueix	seguir	VMIP3S0	Motion
+els	el	DA0MP0	-
+seus	seu	PX3MP0C0	-
+amos	amo	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+cotxe	cotxe	NCMS000	-
+d'	de	SPS00	-
+alta	alt	AQ0FS0	A-SubjectiveAssessmentAttribute
+gamma	gamma	NCFS000	-
+arriba	arribar	VMIP3S0	Motion
+a	a	SPS00	-
+la	el	DA0FS0	-
+platja	platja	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Dins	dins	RG	Location
+hi	hi	PP3CN000	-
+ha	haver	VAIP3S0	exists
+un	un	DI0MS0	-
+home	home	NCMS000	Human
+d'	de	SPS00	-
+uns	un	DI0MP0	-
+40	40	Z	-
+anys	any	NCMP000	-
+,	,	Fc	-
+ros	ros	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+alt	alt	AQ0MS0	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+amb	amb	SPS00	-
+barba	barba	NCFS000	BodyPart
+,	,	Fc	-
+que	que	PR0CN000	-
+parla	parlar	VMIP3S0	Communication
+per	per	SPS00	-
+telèfon	telèfon	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+L'	el	DA0CS0	-
+home	home	NCMS000	Human
+penja	penjar	VMIP3S0	Process
+i	i	CC	-
+mira	mirar	VMIP3S0	Seeing
+cap_a	cap_a	SPS00	-
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+.	.	Fp	-
+</s>
+<s>
+Treu	treure	VMIP3S0	Putting
+unes	un	DI0FP0	-
+ulleres_de_sol	ulleres_de_sol	NCFP000	Clothing
+de	de	SPS00	-
+la	el	DA0FS0	-
+butxaca	butxaca	NCFS000	Clothing
+interior	interior	AQ0CS0	A-PositionalAttribute
+de	de	SPS00	-
+la	el	DA0FS0	-
+jaqueta	jaqueta	NCFS000	Clothing
+i	i	CC	-
+se	es	P0300000	-
+les	ell	PP3FPA00	-
+posa	posar	VMIP3S0	Putting
+.	.	Fp	-
+</s>
+<s>
+Sobreescrit	sobreescriure	VMP00SM	FilmLanguage
+en	en	SPS00	-
+pantalla	pantalla	NCFS000	FilmsLanguage
+:	:	Fd	-
+James	james	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+empresari	empresari	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+la	el	DA0FS0	-
+platja	platja	NCFS000	Location
+,	,	Fc	-
+el	el	DA0MS0	-
+James	james	NP00000	-
+truca	trucar	VMIP3S0	Communication
+per	per	SPS00	-
+telèfon	telèfon	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Sobre	sobre	SPS00	Location
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+,	,	Fc	-
+el	el	DA0MS0	-
+James	james	NP00000	-
+,	,	Fc	-
+en	en	SPS00	-
+roba	roba	NCFS000	Clothing
+interior	interior	AQ0CS0	A-PositionalAttribute
+,	,	Fc	-
+es	es	P0300000	-
+gita	gitar	VMIP3S0	BodyMotion
+a	a	SPS00	-
+la	el	DA0FS0	-
+tovallola	tovallola	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+James	james	NP00000	-
+,	,	Fc	-
+interpretat	interpretar	VMP00SM	FilmLanguage
+per	per	SPS00	-
+James_Humber	james_humber	NP00000	-
+,	,	Fc	-
+es	es	P0300000	-
+passa	passar	VMIP3S0	BodyMotion
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+per	per	SPS00	-
+els	el	DA0MP0	-
+ulls	ull	NCMP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Ara	ara	RG	TimeInterval
+,	,	Fc	-
+deixa	deixar	VAIP3S0	Aux
+caure	caure	VMN0000	BodyMotion
+els	el	DA0MP0	-
+braços	braç	NCMP000	BodyPart
+a	a	SPS00	-
+els	el	DA0MP0	-
+costats	costat	NCMP000	Location
+i	i	CC	-
+toca	tocar	VMIP3S0	Touching
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+amb	amb	SPS00	-
+les	el	DA0FP0	-
+mans	mà	NCFP000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+James	james	NP00000	-
+s'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+James	james	NP00000	-
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+James	james	NP00000	-
+penja	penjar	VMIP3S0	Process
+i	i	CC	-
+s'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+de	de	SPS00	-
+el	el	DA0MS0	-
+tot	tot	PI0MS000	-
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+acosta	acostar	VMIP3S0	Motion
+a_la_vora_de	a_la_vora_de	SPS00	Location
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+i	i	CC	-
+camina	caminar	VMIP3S0	Walking
+.	.	Fp	-
+</s>
+<s>
+Ara	ara	RG	TimeInterval
+se	es	P0300000	-
+n'	en	PP3CN000	-
+allunya	allunyar	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+lleugerament	lleugerament	RG	Mode
+cap_a	cap_a	SPS00	-
+dalt	dalt	RG	Location
+,	,	Fc	-
+estranyat	estranyar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+James	james	NP00000	-
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+gira	girar	VMM02S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+i	i	CC	-
+es	es	P0300000	-
+torna	tornar	VAIP3S0	Aux
+a	a	SPS00	-
+girar	girar	VMN0000	BodyMotion
+,	,	Fc	-
+confús	confús	AQ0MS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+,	,	Fc	-
+estranyat	estranyar	VMP00SM	A-StateOfMind
+,	,	Fc	-
+i	i	CC	-
+s'	es	P0300000	-
+acosta	acostar	VMIP3S0	Motion
+a	a	SPS00	-
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+.	.	Fp	-
+</s>
+<s>
+Ara	ara	RG	TimeInterval
+,	,	Fc	-
+es	es	P0300000	-
+torna	tornar	VAIP3S0	Aux
+a	a	SPS00	-
+allunyar	allunyar	VMN0000	Motion
+de	de	SPS00	-
+la	el	DA0FS0	-
+vora_de	vora_de	SPS00	Location
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+lleugerament	lleugerament	RG	Mode
+cap_a	cap_a	SPS00	-
+dalt	dalt	RG	Location
+,	,	Fc	-
+arrufant_les_celles	arrufar_les_celles	VMG0000	Gesture
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+apropa	apropar	VMIP3S0	Motion
+a	a	SPS00	-
+la	el	DA0FS0	-
+seva	seu	PX3FS0C0	-
+tovallola	tovallola	NCFS000	Object
+i	i	CC	-
+s'	es	P0300000	-
+ajup	ajupir	VMIP3S0	BodyMotion
+per	per	SPS00	-
+agafar	agafar	VMN0000	Touching
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Se	es	P0300000	-
+la	ell	PP3FSA00	-
+posa	posar	VMIP3S0	Putting
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+un	un	DI0MS0	-
+parc	parc	NCMS000	Location
+,	,	Fc	-
+el	el	DA0MS0	-
+James	james	NP00000	-
+,	,	Fc	-
+ja	ja	RG	TimeInterval
+vestit	vestir	VMP00SM	A-Clothing
+,	,	Fc	-
+camina	caminar	VMIP3S0	Walking
+entre	entre	SPS00	-
+els	el	DA0MP0	-
+arbres	arbre	NCMP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Arriba	arribar	VMIP3S0	Motion
+a	a	SPS00	-
+un	un	DI0MS0	-
+turó	turó	NCMS000	Location
+i	i	CC	-
+puja	pujar	VMIP3S0	Walking
+per	per	SPS00	-
+un	un	DI0MS0	-
+camí	camí	NCMS000	Location
+petit	petit	AQ0MS0	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+terra	terra	NCFS000	Location
+,	,	Fc	-
+envoltat	envoltar	VMP00SM	A-PositionalAttribute
+de	de	SPS00	-
+vegetació	vegetació	NCFS000	Vegetable
+baixa	baix	AQ0FS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+el	el	DA0MS0	-
+parc	parc	NCMS000	Location
+,	,	Fc	-
+un	un	DI0MS0	-
+home	home	NCMS000	Human
+d'	de	SPS00	-
+uns	un	DI0MP0	-
+65	65	Z	-
+anys	any	NCMP000	-
+,	,	Fc	-
+de	de	SPS00	-
+cabells	cabell	NCMP000	BodyPart
+i	i	CC	-
+barba	barba	NCFS000	BodyPart
+canosos	canós	AQ0MP0	A-ColorAttribute
+i	i	CC	-
+desendreçats	desendreçar	VMP00PM	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+sosté	sostenir	VMIP3S0	Touching
+un	un	DI0MS0	-
+got	got	NCMS000	Object
+de	de	SPS00	-
+cafè	cafè	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Somriu	somriure	VMIP3S0	Gesture
+,	,	Fc	-
+resignat	resignar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Diu_que_no_amb_el_cap	dir_que_no_amb_el_cap	VMIP3S0	Gesture
+i	i	CC	-
+treu	treure	VMIP3S0	Putting
+el	el	DA0MS0	-
+tap	tap	NCMS000	Object
+de	de	SPS00	-
+plàstic	plàstic	NCMS000	-
+de	de	SPS00	-
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+de	de	SPS00	-
+cafè	cafè	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+mira	mirar	VMIP3S0	Seeing
+el	el	DA0MS0	-
+cafè	cafè	NCMS000	-
+una	un	DI0FS0	-
+estona	estona	NCFS000	TimeInterval
+i	i	CC	-
+,	,	Fc	-
+finalment	finalment	RG	TimeInterval
+,	,	Fc	-
+beu	beure	VMIP3S0	Drinking
+.	.	Fp	-
+</s>
+<s>
+Sobreescrit	sobreescriure	VMP00SM	FilmLanguage
+en	en	SPS00	-
+pantalla	pantalla	NCFS000	FilmsLanguage
+:	:	Fd	-
+Rick	rick	NP00000	-
+,	,	Fc	-
+el	el	DA0MS0	-
+jubilat	jubilat	NCMS000	Human
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+Rick	rick	NP00000	-
+,	,	Fc	-
+interpretat	interpretar	VMP00SM	FilmLanguage
+per	per	SPS00	-
+Rick_Zingale	rick_zingale	NP00000	-
+,	,	Fc	-
+deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+tap	tap	NCMS000	Object
+de	de	SPS00	-
+plàstic	plàstic	NCMS000	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+banc	banc	NCMS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+costat	costat	NCMS000	Location
+i	i	CC	-
+continua	continuar	VAIP3S0	Aux
+bevent	beure	VMG0000	Drinking
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+Rick	rick	NP00000	-
+deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+i	i	CC	-
+fa_palmes	fer_palmes	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Treu	treure	VMIP3S0	Putting
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+de	de	SPS00	-
+la	el	DA0FS0	-
+butxaca	butxaca	NCFS000	Clothing
+de	de	SPS00	-
+darrere_de	darrere_de	SPS00	Location
+els	el	DA0MP0	-
+pantalons	pantaló	NCMP000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+a	a	SPS00	-
+els	el	DA0MP0	-
+contactes	contacte	NCMP000	-
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+a	a	SPS00	-
+la	el	DA0FS0	-
+"	"	Fe	-
+C	c	NP00000	-
+"	"	Fe	-
+i	i	CC	-
+truca	trucar	VMIP3S0	Communication
+el	el	DA0MS0	-
+Craig_Anderson	craig_anderson	NP00000	-
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+Rick	rick	NP00000	-
+s'	es	P0300000	-
+estranya	estranyar	VMIP3S0	StateOfMind
+i	i	CC	-
+mira	mirar	VMIP3S0	Seeing
+cap_a	cap_a	SPS00	-
+dalt	dalt	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Arrufa_les_celles	arrufar_les_celles	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+Rick	rick	NP00000	-
+guarda	guardar	VMIP3S0	Putting
+el	el	DA0MS0	-
+telèfon	telèfon	NCMS000	Object
+i	i	CC	-
+camina	caminar	VMIP3S0	Walking
+per	per	SPS00	-
+el	el	DA0MS0	-
+parc	parc	NCMS000	Location
+sense	sense	SPS00	-
+deixar	deixar	VAN0000	Aux
+de	de	SPS00	-
+mirar	mirar	VMN0000	Seeing
+cap_a	cap_a	SPS00	-
+dalt	dalt	RG	Location
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+got	got	NCMS000	Object
+continua	continuar	VMIP3S0	Process
+a	a	SPS00	-
+el	el	DA0MS0	-
+banc	banc	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+Rick	rick	NP00000	-
+marxa	marxar	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+Asseguda	asseure	VMP00SF	A-PositionalAttribute
+a	a	SPS00	-
+un	un	DI0MS0	-
+escriptori	escriptori	NCMS000	Object
+,	,	Fc	-
+una	un	DI0FS0	-
+noia	noi	NCFS000	Human
+d'	de	SPS00	-
+uns	un	DI0MP0	-
+18	18	Z	-
+anys	any	NCMP000	-
+i	i	CC	-
+cabells	cabell	NCMP000	BodyPart
+arrissats	arrissar	VMP00PM	A-SubjectiveAssessmentAttribute
+treballa	treballar	VMIP3S0	Process
+amb	amb	SPS00	-
+l'	el	DA0CS0	-
+ordinador	ordinador	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Sobreescrit	sobreescriure	VMP00SM	FilmLanguage
+en	en	SPS00	-
+pantalla	pantalla	NCFS000	FilmsLanguage
+:	:	Fd	-
+Jess	jess	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+estudiant	estudiant	NCCS000	Human
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+sota	sota	SPS00	Location
+uns	un	DI0MP0	-
+papers	paper	NCMP000	Object
+.	.	Fp	-
+</s>
+<s>
+Agafa	agafar	VMIP3S0	Touching
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+penja	penjar	VMIP3S0	Process
+i	i	CC	-
+mira	mirar	VMIP3S0	Seeing
+cap_a	cap_a	SPS00	-
+dalt	dalt	RG	Location
+,	,	Fc	-
+estranyada	estranyar	VMP00SF	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+toca	tocar	VMIP3S0	Touching
+els	el	DA0MP0	-
+cabells	cabell	NCMP000	BodyPart
+i	i	CC	-
+mira	mirar	VMIP3S0	Seeing
+cap_a	cap_a	SPS00	-
+l'	el	DA0CS0	-
+altre	altre	AQ0MS0	-
+costat	costat	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Ara	ara	RG	TimeInterval
+,	,	Fc	-
+abaixa_la_mirada	abaixar_la_mirada	VMIP3S0	Seeing
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+s'	es	P0300000	-
+esglaia	esglaiar	VMIP3S0	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+aixeca	aixecar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Agafa	agafar	VMIP3S0	Touching
+l'	el	DA0CS0	-
+abric	abric	NCMS000	Clothing
+i	i	CC	-
+marxa	marxar	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+A	a	SPS00	-
+l'	el	DA0CS0	-
+exterior	exterior	NCMS000	Location
+,	,	Fc	-
+la	el	DA0FS0	-
+Jess	jess	NP00000	-
+,	,	Fc	-
+interpretada	interpretar	VMP00SF	FilmLanguage
+per	per	SPS00	-
+Jessica_Álvarez	jessica_álvarez	NP00000	-
+,	,	Fc	-
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+totes	tot	DI0FP0	-
+bandes	banda	NCFP000	Location
+.	.	Fp	-
+</s>
+<s>
+Ara	ara	RG	TimeInterval
+puja	pujar	VMIP3S0	Walking
+per	per	SPS00	-
+un	un	DI0MS0	-
+camí	camí	NCMS000	Location
+ple	ple	AQ0MS0	A-SubjectiveAssessmentAttribute
+de	de	SPS00	-
+vegetació	vegetació	NCFS000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+es	es	P0300000	-
+gira	girar	VMIP3S0	BodyMotion
+de_cop	de_cop	SPS00	Mode
+i	i	CC	-
+marxa	marxar	VMIP3S0	Motion
+entre	entre	SPS00	-
+la	el	DA0FS0	-
+vegetació	vegetació	NCFS000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+una	un	DI0FS0	-
+gran	gran	AQ0CS0	A-SubjectiveAssessmentAttribute
+esplanada	esplanada	NCFS000	Location
+,	,	Fc	-
+el	el	DA0MS0	-
+James	james	NP00000	-
+,	,	Fc	-
+el	el	DA0MS0	-
+Rick	rick	NP00000	-
+i	i	CC	-
+la	el	DA0FS0	-
+Jess	jess	NP00000	-
+miren	mirar	VMIP3P0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+s'	es	P0300000	-
+acosta	acostar	VMIP3S0	Motion
+a	a	SPS00	-
+el	el	DA0MS0	-
+Rick	rick	NP00000	-
+i	i	CC	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+James	james	NP00000	-
+.	.	Fp	-
+</s>
+<s>
+Els	el	DA0MP0	-
+tres	3	Z	-
+miren	mirar	VMIP3P0	Seeing
+cap_a	cap_a	SPS00	-
+dalt	dalt	RG	Location
+i	i	CC	-
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+,	,	Fc	-
+confusos	confús	AQ0MP0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+arronsa_d'espatlles	arronsar_d'espatlles	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+Rick	rick	NP00000	-
+se'ls	se'ls	P0300000	-
+mira	mirar	VMIP3S0	Seeing
+.	.	Fp	-
+</s>
+<s>
+Els	el	DA0MP0	-
+mira	mirar	VMIP3S0	Seeing
+fixament	fixament	RG	Mode
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+James	james	NP00000	-
+aixeca_la_mirada	aixecar_la_mirada	VMIP3S0	Seeing
+.	.	Fp	-
+</s>
+<s>
+Els	el	DA0MP0	-
+tres	3	Z	-
+es	es	P0300000	-
+miren	mirar	VMIP3P0	Seeing
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+James	james	NP00000	-
+mira	mirar	VMIP3S0	Seeing
+el	el	DA0MS0	-
+Rick	rick	NP00000	-
+,	,	Fc	-
+ell	ell	PP3MS000	-
+mira	mirar	VMIP3S0	Seeing
+la	el	DA0FS0	-
+Jess	jess	NP00000	-
+i	i	CC	-
+fa_que_no_amb_el_cap	fer_que_no_amb_el_cap	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+Miren	mirar	VMIP3P0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+Rick	rick	NP00000	-
+mira	mirar	VMIP3S0	Seeing
+a	a	SPS00	-
+el	el	DA0MS0	-
+cel	cel	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+James	james	NP00000	-
+fa	fer	VMIP3S0	Process
+un	un	DI0MS0	-
+gest	gest	NCMS000	Gesture
+amb	amb	SPS00	-
+el	el	DA0MS0	-
+cap	cap	NCMS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+Rick	rick	NP00000	-
+el	ell	PP3MSA00	-
+segueix	seguir	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+aixeca_les_celles	aixecar_les_celles	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+corre	córrer	VMIP3S0	Walking
+cap_a	cap_a	SPS00	-
+ells	ell	PP3MP000	Location
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+James	james	NP00000	-
+li	ell	PP3CSD00	-
+passa	passar	VMIP3S0	BodMotion
+el	el	DA0MS0	-
+braç	braç	NCMS000	BodyPart
+per	per	SPS00	-
+l'	el	DA0CS0	-
+espatlla	espatlla	NCFS000	BodyPart
+.	.	Fp	-
+</s>
+<s>
+Tots	tot	DI0MP0	-
+tres	3	Z	-
+caminen	caminar	VMIP3P0	Walking
+cap_a	cap_a	SPS00	-
+la	el	DA0FS0	-
+vegetació	vegetació	NCFS000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+De	de	SPS00	-
+nit	nit	NCFS000	TimeInterval
+,	,	Fc	-
+en	en	SPS00	-
+una	un	DI0FS0	-
+terrassa	terrassa	NCFS000	Location
+,	,	Fc	-
+una	un	DI0FS0	-
+dona	dona	NCFS000	Human
+estén	estendre	VMIP3S0	BodyMotion
+la	el	DA0FS0	-
+roba	roba	NCFS000	Clothing
+mentre	mentre	CS	TimeInterval
+parla	parlar	VMIP3S0	Communication
+per	per	SPS00	-
+telèfon	telèfon	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Sobreescrit	sobreescriure	VMP00SM	FilmLanguage
+en	en	SPS00	-
+pantalla	pantalla	NCFS000	FilmsLanguage
+:	:	Fd	-
+"	"	Fe	-
+No	no	RN	-
+,	,	Fc	-
+encara	encara	RG	TimeInterval
+no	no	RN	-
+l'	ell	PP3CSA00	-
+he	haver	VAIP1S0	Aux
+estès	estendre	VMP00SM	BodyMotion
+tota	tot	DI0FS0	-
+.	.	Fp	-
+</s>
+<s>
+M'	jo	PP1CS000	-
+he	haver	VAIP1S0	Aux
+d'	de	SPS00	-
+afanyar	afanyar	VMN0000	Process
+a	a	SPS00	-
+acabar	acabar	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+No	no	RN	-
+,	,	Fc	-
+però	però	CC	-
+de	de	SPS00	-
+què	què	PT0CS000	-
+em	jo	PP1CS000	-
+parles	parlar	VMSP2S0	Communication
+?	?	Fit	-
+Sí	sí	RG	-
+,	,	Fc	-
+esclar	esclar	RG	-
+,	,	Fc	-
+ja	ja	RG	TimeInterval
+he	haver	VAIP1S0	Aux
+fet	fer	VMP00SM	Process
+les	el	DA0FP0	-
+maletes	maleta	NCFP000	Object
+...	...	Fs	-
+"	"	Fe	-
+Mira	mirar	VMIP3S0	Seeing
+el	el	DA0MS0	-
+seu	seu	PX3MS0C0	-
+voltant	voltant	NCMS000	Location
+,	,	Fc	-
+estranyada	estranyar	VMP00SF	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Sobreescrit	sobreescriure	VMP00SM	FilmLanguage
+en	en	SPS00	-
+pantalla	pantalla	NCFS000	FilmsLanguage
+:	:	Fd	-
+"	"	Fe	-
+Escolta	escoltar	VMIP2S0	Hearing
+,	,	Fc	-
+ara	ara	RG	TimeInterval
+no	no	RN	-
+puc	poder	VMIP1S0	Aux
+parlar	parlar	VMN0000	Communication
+.	.	Fp	-
+</s>
+<s>
+T'	tu	PP2CS000	-
+he	haver	VAIP1S0	Aux
+de	de	SPS00	-
+deixar	deixar	VMN0000	Process
+"	"	Fe	-
+.	.	Fp	-
+</s>
+<s>
+Sobreescrit	sobreescriure	VMP00SM	FilmLanguage
+en	en	SPS00	-
+pantalla	pantalla	NCFS000	FilmsLanguage
+:	:	Fd	-
+Zoé	zoé	NP00000	-
+,	,	Fc	-
+la	el	DA0FS0	-
+següent	següent	AQ0CS0	A-PositionalAttribute
+.	.	Fp	-
+</s>
+<s>
+Sobre	sobre	SPS00	Location
+fons	fons	NCMN000	FilmLanguage
+blanc	blanc	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+el	el	DA0MS0	-
+títol	títol	NCMS000	FilmLanguage
+seguit	seguir	VMP00SM	A-PositionalAttribute
+d'	de	SPS00	-
+una	un	DI0FS0	-
+ratlla	ratlla	NCFS000	-
+:	:	Fd	-
+Què	què	PR0CN000	-
+passa	passar	VMIP3S0	Process
+mentre	mentre	CS	TimeInterval
+...	...	Fs	-
+<text id='Subtil-CA'>
+<s>
+Sota	sota	SPS00	Location
+un	un	DI0MS0	-
+cel	cel	NCMS000	Location
+enteranyinat	enteranyinar	VMP00SM	A-SubjectiveAssessmentAttribute
+,	,	Fc	-
+un	un	DI0MS0	-
+home	home	NCMS000	Human
+fa_fúting	fer_fúting	VMIP3S0	Walking
+per	per	SPS00	-
+un	un	DI0MS0	-
+passeig	passeig	NCMS000	Location
+de	de	SPS00	-
+terra	terra	NCFS000	Location
+vora	vora	SPS00	-
+el	el	DA0MS0	-
+mar	mar	NCCS000	Location
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+creua	creuar	VMIP3S0	Motion
+amb	amb	SPS00	-
+una	un	DI0FS0	-
+parella	parella	NCFS000	Human
+que	que	PR0CN000	-
+passeja	passejar	VMIP3S0	Walking
+un	un	DI0MS0	-
+gran	gran	AQ0CS0	A-SubjectiveAssessmentAttribute
+danès	danès	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+gos	gos	NCMS000	Animal
+es	es	P0300000	-
+ressaga	ressagar	VMIP3S0	Process
+ensumant	ensumar	VMG0000	Smelling
+i	i	CC	-
+els	el	DA0MP0	-
+segueix	seguir	VMIP3S0	Motion
+.	.	Fp	-
+</s>
+<s>
+Sobre	sobre	SPS00	Location
+fons	fons	NCMN000	FilmLanguage
+blanc	blanc	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+les	el	DA0FP0	-
+lletres	lletra	NCFP000	FilmLanguage
+:	:	Fd	-
+Què	què	PR0CN000	-
+passa	passar	VMIP3S0	Process
+mentre	mentre	CS	TimeInterval
+Un	un	DI0MS0	-
+cotxe	cotxe	NCMS000	-
+de	de	SPS00	-
+luxe	luxe	NCMS000	-
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+arran_de	arran_de	SPS00	Location
+passeig	passeig	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+El	el	DA0MS0	-
+conductor	conductor	NCMS000	Human
+,	,	Fc	-
+que	que	PR0CN000	-
+discuteix	discutir	VMIP3S0	Communication
+per	per	SPS00	-
+telèfon	telèfon	NCMS000	Object
+,	,	Fc	-
+en	en	SPS00	-
+baixa	baixar	VMIP3S0	Motion
+amb	amb	SPS00	-
+un	un	DI0MS0	-
+maletí	maletí	NCMS000	Object
+,	,	Fc	-
+el	el	DA0MS0	-
+guarda	guardar	VMIP3S0	Putting
+a	a	SPS00	-
+el	el	DA0MS0	-
+maleter	maleter	NCMS000	Location
+i	i	CC	-
+en	en	SPS00	-
+treu	treure	VMIP3S0	Putting
+una	un	DI0FS0	-
+bossa	bossa	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+posa	posar	VMIP3S0	Putting
+unes	un	DI0FP0	-
+ulleres_de_sol	ulleres_de_sol	NCFP000	Clothing
+d'	de	SPS00	-
+aviador	aviador	NCMS000	-
+i	i	CC	-
+sospira	sospirar	VMIP3S0	StateOfMind
+amb	amb	SPS00	-
+expressió	expressió	NCFS000	Gesture
+cansada	cansar	VMP00SF	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Té	tenir	VMIP3S0	possesses
+uns	un	DI0MP0	-
+cinquanta	50	Z	-
+anys	any	NCMP000	-
+i	i	CC	-
+porta	portar	VMIP3S0	Dressing
+vestit	vestit	NCMS000	Clothing
+i	i	CC	-
+corbata	corbata	NCFS000	Clothing
+.	.	Fp	-
+</s>
+<s>
+Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+en	en	SPS00	-
+un	un	DI0MS0	-
+extrem	extrem	NCMS000	Location
+:	:	Fd	-
+"	"	Fe	-
+James	james	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+empresari	empresari	NCMS000	Human
+"	"	Fe	-
+.	.	Fp	-
+</s>
+<s>
+Amb	amb	SPS00	-
+la	el	DA0FS0	-
+bossa	bossa	NCFS000	Object
+a	a	SPS00	-
+l'	el	DA0CS0	-
+espatlla	espatlla	NCFS000	BodyPart
+,	,	Fc	-
+camina	caminar	VMIP3S0	Walking
+per	per	SPS00	-
+el	el	DA0MS0	-
+passeig	passeig	NCMS000	Location
+entre	entre	SPS00	-
+gent	gent	NCFS000	Human
+que	que	PR0CN000	-
+passeja	passejar	VMIP3S0	Walking
+i	i	CC	-
+fa	fer	VMIP3S0	Process
+exercici	exercici	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+En_calçotets	en_calçotets	RG	Clothing
+,	,	Fc	-
+s'	es	P0300000	-
+estira	estirar	VMIP3S0	BodyMotion
+panxa_enlaire	panxa_enlaire	RG	PositionalAttribute
+a	a	SPS00	-
+la	el	DA0FS0	-
+platja	platja	NCFS000	Location
+sobre	sobre	SPS00	Location
+una	un	DI0FS0	-
+tovallola	tovallola	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Es	es	P0300000	-
+frega	fregar	VMIP3S0	BodyMotion
+els	el	DA0MP0	-
+ulls	ull	NCMP000	BodyPart
+,	,	Fc	-
+estén	estendre	VMIP3S0	BodyMotion
+els	el	DA0MP0	-
+braços	braç	NCMP000	BodyPart
+i	i	CC	-
+joguineja	joguinejar	VMIP3S0	Process
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Agafa	agafar	VMIP3S0	Touching
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+i	i	CC	-
+s'	es	P0300000	-
+asseu	asseure	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+estranyat	estranyar	VMP00SM	A-StateOfMind
+a_banda_i_banda	a_banda_i_banda	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+sobre	sobre	SPS00	Location
+la	el	DA0FS0	-
+roba	roba	NCFS000	Clothing
+i	i	CC	-
+s'	es	P0300000	-
+alça	alçar	VMIP3S0	BodyMotion
+.	.	Fp	-
+</s>
+<s>
+Avança	avançar	VMIP3S0	Motion
+fins	fins	RG	-
+a	a	SPS00	-
+la	el	DA0FS0	-
+riba	riba	NCFS000	Location
+i	i	CC	-
+busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+.	.	Fp	-
+</s>
+<s>
+Torna	tornar	VAIP3S0	Aux
+a	a	SPS00	-
+endinsar-se	endinsar	VMN0000	Motion
+a	a	SPS00	-
+la	el	DA0FS0	-
+sorra	sorra	NCFS000	Location
+i	i	CC	-
+passeja_la_vista	passejar_la_vista	VMIP3S0	Seeing
+,	,	Fc	-
+descol·locat	descol·locar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Va	anar	VAIP3S0	Motion
+per	per	SPS00	-
+recular	recular	VMN0000	Walking
+,	,	Fc	-
+però	però	CC	-
+s'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+i	i	CC	-
+guaita	guaitar	VMIP3S0	Seeing
+enrere	enrere	RG	Location
+i	i	CC	-
+pertot	pertot	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Torna	tornar	VMIP3S0	Motion
+fins	fins	RG	-
+a	a	SPS00	-
+la	el	DA0FS0	-
+riba	riba	NCFS000	Location
+i	i	CC	-
+camina	caminar	VMIP3S0	Walking
+mirant	mirar	VMG0000	Seeing
+enlaire	enlaire	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Agafa	agafar	VMIP3S0	Touching
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+i	i	CC	-
+se	es	P0300000	-
+la	ell	PP3FSA00	-
+posa	posar	VMIP3S0	Putting
+,	,	Fc	-
+desconcertat	desconcertar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Vestit	vestir	VMP00SM	A-Clothing
+,	,	Fc	-
+però	però	CC	-
+amb	amb	SPS00	-
+el	el	DA0MS0	-
+coll	coll	NCMS000	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+camisa	camisa	NCFS000	Clothing
+obert	obrir	VMP00SM	A-SubjectiveAssessmentAttribute
+i	i	CC	-
+sense	sense	SPS00	-
+corbata	corbata	NCFS000	Clothing
+,	,	Fc	-
+camina	caminar	VMIP3S0	Walking
+sota	sota	SPS00	Location
+uns	un	DI0MP0	-
+arbres	arbre	NCMP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Enfila	enfilar	VMIP3S0	Walking
+un	un	DI0MS0	-
+caminet	camí	NCMS000	Location
+de	de	SPS00	-
+terra	terra	NCFS000	Location
+que	que	PR0CN000	-
+fa	fer	VMIP3S0	Process
+pujada	pujada	NCFS000	Location
+entre	entre	SPS00	-
+cactus	cactus	NCMN000	Vegetable
+i	i	CC	-
+matolls	matoll	NCMP000	Vegetable
+.	.	Fp	-
+</s>
+<s>
+Un	un	DI0MS0	-
+home	home	NCMS000	Human
+de	de	SPS00	-
+mitjana	mitjà	AQ0FS0	A-SubjectiveAssessmentAttribute
+edat	edat	NCFS000	-
+d'	de	SPS00	-
+aspecte	aspecte	NCMS000	-
+deixat	deixar	VMP00SM	A-SubjectiveAssessmentAttribute
+tamborina	tamborinar	VMIP3S0	BodyMotion
+els	el	DA0MP0	-
+dits	dit	NCMP000	BodyPart
+en	en	SPS00	-
+un	un	DI0MS0	-
+got	got	NCMS000	Object
+de	de	SPS00	-
+cartró	cartró	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Passeja_la_mirada	passejar_la_mirada	VMIP3S0	Seeing
+i	i	CC	-
+els	el	DA0MP0	-
+ulls	ull	NCMP000	BodyPart
+se	es	P0300000	-
+li	ell	PP3CSD00	-
+entelen	entelar	VMIP3P0	StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Mig	mig	RG	Mode
+somriu	somriure	VMIP3S0	Gesture
+i	i	CC	-
+fa_que_no	fer_que_no	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+Acaricia	acariciar	VMIP3S0	Touching
+la	el	DA0FS0	-
+tapadora	tapadora	NCFS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+i	i	CC	-
+l'	el	DA0CS0	-
+enretira	enretirar	VMIP3S0	Process
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+acosta	acostar	VMIP3S0	Motion
+el	el	DA0MS0	-
+recipient	recipient	NCMS000	-
+i	i	CC	-
+fa	fer	VMIP3S0	BodyMotion
+un	un	DI0MS0	-
+glop	glop	NCMS000	Drinking
+de	de	SPS00	-
+cafè	cafè	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+en	en	SPS00	-
+un	un	DI0MS0	-
+extrem	extrem	NCMS000	Location
+:	:	Fd	-
+"	"	Fe	-
+Rick	rick	NP00000	-
+,	,	Fc	-
+el	el	DA0MS0	-
+jubilat	jubilat	NCMS000	Human
+"	"	Fe	-
+.	.	Fp	-
+</s>
+<s>
+Porta	portar	VMIP3S0	Dressing
+vambes	vamba	NCFP000	Clothing
+,	,	Fc	-
+pantalons	pantaló	NCMP000	Clothing
+d'	de	SPS00	-
+esport	esport	NCMS000	-
+i	i	CC	-
+samarreta	samarreta	NCFS000	Clothing
+imperi	imperi	AQ0MS0	A-SubjectiveAssessmentAttribute
+.	.	Fp	-
+</s>
+<s>
+Assegut	asseure	VMP00SM	A-PositionalAttribute
+en	en	SPS00	-
+un	un	DI0MS0	-
+banc	banc	NCMS000	Object
+sota	sota	SPS00	Location
+uns	un	DI0MP0	-
+arbres	arbre	NCMP000	Vegetable
+,	,	Fc	-
+belluga	bellugar	VMIP3S0	BodyMotion
+una	un	DI0FS0	-
+cama	cama	NCFS000	BodyPart
+,	,	Fc	-
+inquiet	inquiet	AQ0MS0	A-StateOfMind
+,	,	Fc	-
+i	i	CC	-
+fa	fer	VMIP3S0	BodyMotion
+un	un	DI0MS0	-
+altre	altre	PI0MS000	-
+glop	glop	NCMS000	Drinking
+de	de	SPS00	-
+cafè	cafè	NCMS000	-
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+enlaire	enlaire	RG	Location
+,	,	Fc	-
+sacseja_el_cap	sacsejar_el_cap	VMIP3S0	Gesture
+i	i	CC	-
+deixa	deixar	VMIP3S0	Process
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+a	a	SPS00	-
+el	el	DA0MS0	-
+banc	banc	NCMS000	Object
+de	de	SPS00	-
+el	el	DA0MS0	-
+costat	costat	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+Pica_de_mans	picar_de_mans	VMIP3S0	BodyMotion
+,	,	Fc	-
+se	es	P0300000	-
+les	el	DA0FP0	-
+frega	fregar	VMIP3S0	BodyMotion
+i	i	CC	-
+agafa	agafar	VMIP3S0	Touching
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+.	.	Fp	-
+</s>
+<s>
+Navega	navegar	VMIP3S0	Process
+per	per	SPS00	-
+l'	el	DA0CS0	-
+agenda	agenda	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Selecciona	seleccionar	VMIP3S0	Touching
+el	el	DA0MS0	-
+nom	nom	NCMS000	-
+"	"	Fe	-
+Craig_Anderson	craig_anderson	NP00000	-
+"	"	Fe	-
+i	i	CC	-
+clica	clicar	VMIP3S0	Touching
+trucar	trucar	VMN0000	Communication
+.	.	Fp	-
+</s>
+<s>
+Escodrinya	escodrinyar	VMIP3S0	Seeing
+els	el	DA0MP0	-
+voltants	voltant	NCMP000	Location
+,	,	Fc	-
+descol·locat	descol·locar	VMP00SM	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Mira	mirar	VMIP3S0	Seeing
+estranyat	estranyar	VMP00SM	A-StateOfMind
+enlaire	enlaire	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Deixa	deixar	VMIP3S0	Putting
+el	el	DA0MS0	-
+got	got	NCMS000	Object
+a	a	SPS00	-
+el	el	DA0MS0	-
+banc	banc	NCMS000	Object
+i	i	CC	-
+s'	es	P0300000	-
+allunya	allunyar	VMIP3S0	Motion
+sense	sense	SPS00	-
+deixar	deixar	VAN0000	Aux
+de	de	SPS00	-
+mirar	mirar	VMN0000	Seeing
+enrere	enrere	RG	Location
+i	i	CC	-
+enlaire	enlaire	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+noia	noi	NCFS000	Human
+pèl-roja	pèl-roig	AQ0FS0	A-ColorAttribute
+estudia	estudiar	VMIP3S0	IntentionalPsychologicalProcess
+.	.	Fp	-
+</s>
+<s>
+Mossega	mossegar	VMIP3S0	BodyMotion
+un	un	DI0MS0	-
+llapis	llapis	NCMN000	Object
+i	i	CC	-
+fa_que_no_amb_el_cap	fer_que_no_amb_el_cap	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+en	en	SPS00	-
+un	un	DI0MS0	-
+extrem	extrem	NCMS000	Location
+:	:	Fd	-
+"	"	Fe	-
+Jess	jess	NP00000	-
+,	,	Fc	-
+l'	el	DA0CS0	-
+estudiant	estudiant	NCCS000	Human
+"	"	Fe	-
+.	.	Fp	-
+</s>
+<s>
+Busca	buscar	VMIP3S0	IntentionalPsychologicalProcess
+entre	entre	SPS00	-
+un	un	DI0MS0	-
+portàtil	portàtil	AQ0CS0	Location
+i	i	CC	-
+tot	tot	RG	-
+de	de	SPS00	-
+paperassa	paperassa	NCFS000	Object
+.	.	Fp	-
+</s>
+<s>
+Recorre	recórrer	VMIP3S0	IntentionalPsychologicalProcess
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+el	el	DA0MS0	-
+sostre	sostre	NCMS000	Location
+de	de	SPS00	-
+l'	el	DA0CS0	-
+habitació	habitació	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Camina	caminar	VMIP3S0	Walking
+per	per	SPS00	-
+el	el	DA0MS0	-
+carrer	carrer	NCMS000	Location
+mirant	mirar	VMG0000	Seeing
+confosa	confondre	VMP00SF	A-StateOfMind
+a_banda_i_banda	a_banda_i_banda	RG	Location
+.	.	Fp	-
+</s>
+<s>
+Avança	avançar	VMIP3S0	Walking
+entre	entre	SPS00	-
+herbes	herba	NCFP000	Vegetable
+per	per	SPS00	-
+un	un	DI0MS0	-
+terreny	terreny	NCMS000	Location
+que	que	PR0CN000	-
+fa	fer	VMIP3S0	Process
+pujada	pujada	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+S'	es	P0300000	-
+atura	aturar	VMIP3S0	Motion
+per	per	SPS00	-
+guaitar	guaitar	VMN0000	Seeing
+enrere	enrere	RG	Location
+i	i	CC	-
+continua	continuar	VMIP3S0	Walking
+endavant	endavant	RG	Location
+a_corre-cuita	a_corre-cuita	RG	Mode
+.	.	Fp	-
+</s>
+<s>
+Arriba	arribar	VMIP3S0	Motion
+a	a	SPS00	-
+una	un	DI0FS0	-
+clariana	clariana	NCFS000	Location
+on	on	PR000000	-
+hi	hi	PP3CN000	-
+ha	haver	VMIP3S0	exists
+en	en	SPS00	-
+James	james	NP00000	-
+i	i	CC	-
+en	en	SPS00	-
+Rick	rick	NP00000	-
+.	.	Fp	-
+</s>
+<s>
+Tots	tot	DI0MP0	-
+tres	3	Z	-
+miren	mirar	VMIP3P0	Seeing
+enlaire	enlaire	RG	Location
+estranyats	estranyar	VMP00PM	A-StateOfMind
+,	,	Fc	-
+sota	sota	SPS00	Location
+una	un	DI0FS0	-
+claror	claror	NCFS000	RadiatingLight
+enlluernadora	enlluernador	AQ0FS0	A-RadiatingLight
+.	.	Fp	-
+</s>
+<s>
+Ells	ell	PP3MP000	-
+busquen	buscar	VMIP3P0	IntentionalPsychologicalProcess
+amb	amb	SPS00	-
+la	el	DA0FS0	-
+mirada	mirada	NCFS000	Seeing
+,	,	Fc	-
+atònits	atònit	AQ0MP0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+arronsa_les_espatlles	arronsar_les_espatlles	VMIP3S0	Gesture
+i	i	CC	-
+fa_que_no	fer_que_no	VMIP3S0	Gesture
+.	.	Fp	-
+</s>
+<s>
+La	el	DA0FS0	-
+Jess	jess	NP00000	-
+l'	ell	PP3CSA00	-
+imita	imitar	VMIP3S0	IntentionalPsychologicalProcess
+.	.	Fp	-
+</s>
+<s>
+En	en	SPS00	-
+Rick	rick	NP00000	-
+segueix	seguir	VMIP3S0	Motion
+en	en	SPS00	-
+James	james	NP00000	-
+i	i	CC	-
+la	el	DA0FS0	-
+Jess	jess	NP00000	-
+arqueja_les_celles	arquejar_les_celles	VMIP3S0	Gesture
+pensativa	pensatiu	AQ0FS0	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Els	el	DA0MP0	-
+atrapa	atrapar	VMIP3S0	Process
+d'	de	SPS00	-
+una	un	DI0FS0	-
+corredissa	corredissa	NCFS000	Walking
+i	i	CC	-
+s'	es	P0300000	-
+encaminen	encaminar	VMIP3P0	Walking
+plegats	plegat	VMP00PM	A-SubjectiveAssessmentAttribute
+cap_a	cap_a	SPS00	-
+els	el	DA0MP0	-
+arbres	arbre	NCMP000	Vegetable
+d'	de	SPS00	-
+un	un	DI0MS0	-
+extrem	extrem	NCMS000	-
+de	de	SPS00	-
+la	el	DA0FS0	-
+clariana	clariana	NCFS000	Location
+.	.	Fp	-
+</s>
+<s>
+Fosa	fosa	NP00000	FilmLanguage
+a	a	SPS00	-
+negre	negre	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Una	un	DI0FS0	-
+dona	dona	NCFS000	Human
+afroamericana	afroamericà	AQ0FS0	A-SubjectiveAssessmentAttribute
+parla	parlar	VMIP3S0	Communication
+per	per	SPS00	-
+el	el	DA0MS0	-
+mòbil	mòbil	NCMS000	Object
+mentre	mentre	CS	TimeInterval
+estén	estendre	VMIP3S0	BodyMotion
+roba	roba	NCFS000	Clothing
+en	en	SPS00	-
+un	un	DI0MS0	-
+terrat	terrat	NCMS000	Location
+.	.	Fp	-
+</s>
+<s>
+"	"	Fe	-
+No	no	RN	-
+,	,	Fc	-
+encara	encara	RG	TimeInterval
+no	no	RN	-
+l'	ell	PP3CSA00	-
+he	haver	VAIP1S0	Aux
+estès	estendre	VMP00SM	BodyMotion
+tota	tot	DI0FS0	-
+.	.	Fp	-
+</s>
+<s>
+M'	jo	PP1CS000	-
+he	haver	VAIP1S0	Aux
+d'	de	SPS00	-
+afanyar	afanyar	VMN0000	Process
+a	a	SPS00	-
+acabar	acabar	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+"	"	Fe	-
+"	"	Fe	-
+No	no	RN	-
+,	,	Fc	-
+però	però	CC	-
+de	de	SPS00	-
+què	què	PT0CS000	-
+em	jo	PP1CS000	-
+parles	parlar	VMSP2S0	Communication
+?	?	Fit	-
+Sí	sí	RG	-
+,	,	Fc	-
+esclar	esclar	RG	-
+,	,	Fc	-
+ja	ja	RG	TimeInterval
+he	haver	VAIP1S0	Aux
+fet	fer	VMP00SM	Process
+les	el	DA0FP0	-
+maletes	maleta	NCFP000	Object
+...	...	Fs	-
+"	"	Fe	-
+"	"	Fe	-
+Escolta	escoltar	VMIP2S0	Hearing
+,	,	Fc	-
+ara	ara	RG	TimeInterval
+no	no	RN	-
+puc	poder	VMIP1S0	Aux
+parlar	parlar	VMN0000	Communication
+.	.	Fp	-
+</s>
+<s>
+T'	tu	PP2CS000	-
+he	haver	VAIP1S0	Aux
+de	de	SPS00	-
+deixar	deixar	VMN0000	Process
+.	.	Fp	-
+</s>
+<s>
+"	"	Fe	-
+Passeja_la_vista	passejar_la_vista	VMIP3S0	Seeing
+,	,	Fc	-
+estranyada	estranyar	VMP00SF	A-StateOfMind
+.	.	Fp	-
+</s>
+<s>
+Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
+:	:	Fd	-
+"	"	Fe	-
+Zoé	zoé	NP00000	-
+,	,	Fc	-
+la	el	DA0FS0	-
+següent	següent	AQ0CS0	A-PositionalAttribute
+"	"	Fe	-
+.	.	Fp	-
+</s>
+<s>
+Fosa	fosa	NP00000	FilmLanguage
+a	a	SPS00	-
+negre	negre	AQ0MS0	A-ColorAttribute
+.	.	Fp	-
+</s>
+<s>
+Sobre	sobre	SPS00	Location
+fons	fons	NCMN000	FilmLanguage
+blanc	blanc	AQ0MS0	A-ColorAttribute
+,	,	Fc	-
+les	el	DA0FP0	-
+lletres	lletra	NCFP000	FilmLanguage
+"	"	Fe	-
+què	què	PR0CN000	-
+passa	passar	VMIP3S0	Process
+mentre	mentre	CS	TimeInterval
+...	...	Fs	-
+"	"	Fe	-
+i	i	CC	-
+els	el	DA0MP0	-
+crèdits	crèdit	NCMP000	FilmLanguage
+.	.	Fp	-
+</s>
+<s>

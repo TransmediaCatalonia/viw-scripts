@@ -1,14 +1,14 @@
 # viw-scripts
 
-This repository contains the scripts used to edit and manage data in the VIW project (Visual into Words http://pagines.uab.cat/viw)
+This repository contains the scripts used to edit and manage data in the VIW project (Visual into Words http://pagines.uab.cat/viw).
 
+Thee cqp_files subdir contains corpus files in cqp format ready to be loaded into the CWB.
 
-####addPoS.py
 
 
 ####annotate.py
 
-Adds annotations to an eaf file.
+Adds annotations to an eaf file previously tokenised by tokenise.py.
 Annotations are read from tabular file (conLL format).
 Annotations go to Token's children Tiers in the eaf file (pos, lemma and semantics)
 
@@ -40,17 +40,15 @@ removes annotations Tokens + dependent Tiers in selected eaf file.
 
 ####eaf2conll.py
 
-Reads eaf file and creates a tabular a file (coneLL format) with form, lemma, postag, semantics
+Reads eaf file and creates a tabular a file (conLL format) with form, lemma, postag, semantics
 
 ####freeling2CQP.sh
 
-cats 'freeling' files in one single file ready to be indexed in CQP.
+'cats' conLL/freeling files in one single file ready to be indexed in CQP.
 
-each file is included in <text> tags.
+each file is included between <text> tags where text/@id = file_name. 
 
-sentences in conll file are enclosed between <s> tags.
-
-####ModifyFreeling.py
+sentences in conLL file are enclosed between <s> tags.
 
 ####tokenise.py
 
@@ -62,9 +60,13 @@ usage: $ tokenize.py elanFile.eaf conllFile.txt
 
 output is written in a new eaf file: elanFile-Tokens.eaf
 
-####WordNet-NOUNS.py
 ####WordNet.py
-####WordNet-Stanford.py
+
+Adds WordNet semantic classes to freeling files (for Nouns, Verbs and Adjectives)
+
+This script uses the IULA sparql server at http://lodserver.iula.upf.edu/sparql
+
+
 
 
 
