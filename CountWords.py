@@ -8,7 +8,6 @@
 #
 # usage: $ python CountWords.py input_path
 #
-# output is written in countWords.txt
 #
 #-----------------------------------------------------------------------------------
 
@@ -18,8 +17,7 @@ sys.stdout.encoding
 'UTF-8'
 args = sys.argv
 
-inFile = args[1] + "/data/sentences.txt"
-outFile =  args[1] + "countWords.txt"
+inFile = args[1] 
 
 ### some stats functions
 def avg(list):

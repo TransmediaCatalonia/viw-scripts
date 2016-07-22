@@ -9,9 +9,9 @@
 #
 # sentences in conll file are enclosed between <s> tags.
 #
-# usage: $ ./freeling2CQO.sh 'path_to_freeling_dir'
+# usage: $ ./stanford2CQP.sh 'path_to_freeling_dir'
 #
-# output is written in a new file cqp.txt	sed '/^$/d' |
+# output is written in a new file cqp.txt	
 #-----------------------------------------------------------------------------------
 
 if [ ! $# -ge 1 ]; then
@@ -27,9 +27,9 @@ path=$1
 for file in $path
 do
     echo doing $file
-	awk 'BEGIN { OFS = "\t"} {print $1,$2,$3,$7}' $file | sed "1s|^|<text id=\'${file//[_-]}\'>\n<s>\n|" | 
-	sed "s/\t\t\t//" | sed "s/\t$/\t-/" |
-        sed 's/Fp\t-/Fp\t-\n<\/s>\n<s>/' | sed 's/Fit\t-/Fit\t-\n<\/s>\n<s>/' >> cqp.txt
+	cat $file | sed "1s|^|<text id=\'${file//[_-]}\'>\n<s>\n|" |
+	
+        sed 's/^$/\n<\/s>\n<s>/'  >> cqp.txt
 
     echo done $file  
 done

@@ -46,9 +46,9 @@ Reads eaf file and creates a tabular a file (conLL format) with form, lemma, pos
 
 'cats' conLL/freeling files in one single file ready to be indexed in CQP.
 
-each file is included between <text> tags where text/@id = file_name. 
+each file is included between 'text' tags where text/@id = file_name. 
 
-sentences in conLL file are enclosed between <s> tags.
+sentences in conLL file are enclosed between 's' tags.
 
 ####tokenise.py
 

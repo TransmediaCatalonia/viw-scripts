@@ -13,7 +13,9 @@
 #
 # output is written in a new eaf file: elanFile-Annotated.eaf
 #
-# Note!!! look for "CHECK!!" and configure as you need
+# This assumes the conll file is like this: "form lemma postag ..... semtag" (where semtag = the last column of a tabular file)
+# If you have any other format, look for "CHECK!!" and configure as you need
+#
 # Return as pretty-printed XML has character encoding problems
 # better use "xmllint --format" on output file to get an indented version
 #-----------------------------------------------------------------------------------
@@ -63,8 +65,9 @@ def readAnnotationFile(freeling):
          else:
             tags.append(line[2].decode('utf-8'))    ### CHECK!!
    	    lemmas.append(line[1].decode('utf-8'))  ### CHECK!!
-            if len(line) > 6:
-	        semantics.append(line[6].decode('utf-8'))  ### CHECK!!
+            if len(line) > 2:
+		i = len(line)-1
+	        semantics.append(line[i].decode('utf-8'))  ### CHECK!!
 	    else: semantics.append('-')  ###
 	 
    #print tags

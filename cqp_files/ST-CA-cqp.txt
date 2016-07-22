@@ -1,4 +1,4 @@
-<text id='Altadill_Judit_CA'>
+<text id='AltadillJuditCA'>
 <s>
 És	ser	VSIP3S0	Aux
 de	de	SPS00	-
@@ -676,6 +676,8 @@ què	què	PT0CS000	-
 em	jo	PP1CS000	-
 parles	parlar	VMSP2S0	Communication
 ?	?	Fit	-
+</s>
+<s>
 Si	si	CS	-
 ,	,	Fc	-
 esclar	esclar	RG	-
@@ -748,8 +750,7 @@ una	un	DI0FS0	-
 ratlla	ratlla	NCFS000	-
 .	.	Fp	-
 </s>
-<s>
-<text id='Arderius_Elvira_CA'>
+<text id='ArderiusElviraCA'>
 <s>
 En	en	SPS00	-
 un	un	DI0MS0	-
@@ -1503,6 +1504,8 @@ què	què	PT0CS000	-
 em	jo	PP1CS000	-
 parles	parlar	VMSP2S0	Communication
 ?	?	Fit	-
+</s>
+<s>
 Sí	sí	RG	-
 ,	,	Fc	-
 esclar	esclar	RG	-
@@ -1553,8 +1556,7 @@ passa	passar	VMIP3S0	Process
 mentre	mentre	CS	TimeInterval
 .	.	Fp	-
 </s>
-<s>
-<text id='Beneito_Satorres_CA'>
+<text id='BeneitoSatorresCA'>
 <s>
 És	ser	VSIP3S0	Aux
 de	de	SPS00	-
@@ -2322,6 +2324,8 @@ què	què	PT0CS000	-
 em	jo	PP1CS000	-
 parles	parlar	VMSP2S0	Communication
 ?	?	Fit	-
+</s>
+<s>
 Clar	clar	RG	-
 que	que	CS	-
 he	haver	VAIP1S0	Aux
@@ -2376,7 +2380,8 @@ passa	passar	VMIP3S0	Process
 mentre	mentre	CS	TimeInterval
 ...	...	Fs	-
 "	"	Fe	-
-<text id='Bonjoch_Sara_CA'>
+</s>
+<text id='BonjochSaraCA'>
 <s>
 A	a	SPS00	-
 primera	primer	AO0FS0	A-PositionalAttribute
@@ -3037,6 +3042,8 @@ passa	passar	VMIP3S0	Process
 mentre	mentre	CS	TimeInterval
 ...	...	Fs	-
 ?	?	Fit	-
+</s>
+<s>
 Direcció	direcció	NCFS000	FilmLanguage
 ,	,	Fc	-
 guió	guió	NCMS000	FilmLanguage
@@ -3099,8 +3106,7 @@ vostre	vostre	PX2MS0P0	-
 temps	temps	NCMN000	TimeInterval
 .	.	Fp	-
 </s>
-<s>
-<text id='Colomer_Sandra_CA'>
+<text id='ColomerSandraCA'>
 <s>
 A	a	SPS00	-
 l'	el	DA0CS0	-
@@ -3678,6 +3684,8 @@ què	què	PT0CS000	-
 em	em	PP	-
 parles	parlar	VMIP3S0	Communication
 ?	?	Fit	-
+</s>
+<s>
 Sí	sí	RG	-
 ,	,	Fc	-
 esclar	esclar	RG	-
@@ -3745,8 +3753,7 @@ una	un	DI0FS0	-
 línia	línia	NCFS000	-
 .	.	Fp	-
 </s>
-<s>
-<text id='Juan_Magdalena_CA'>
+<text id='JuanMagdalenaCA'>
 <s>
 A	a	SPS00	-
 la	el	DA0FS0	-
@@ -4630,6 +4637,8 @@ què	què	PT0CS000	-
 em	jo	PP1CS000	-
 parles	parlar	VMSP2S0	Communication
 ?	?	Fit	-
+</s>
+<s>
 Sí	sí	RG	-
 ,	,	Fc	-
 esclar	esclar	RG	-
@@ -4676,7 +4685,8 @@ Què	què	PT0CS000	-
 passa	passar	VMIP3S0	Process
 mentre	mentre	CS	TimeInterval
 ...	...	Fs	-
-<text id='Mor_Polo_CA'>
+</s>
+<text id='MorPoloCA'>
 <s>
 De_bon_matí	de_bon_matí	RG	TimeInterval
 ,	,	Fc	-
@@ -5448,6 +5458,8 @@ què	què	PT0CS000	-
 em	jo	PP1CS000	-
 parles	parlar	VMSP2S0	Communication
 ?	?	Fit	-
+</s>
+<s>
 Sí	sí	RG	-
 ,	,	Fc	-
 és	ser	VSIP3S0	Aux
@@ -5500,3 +5512,5 @@ pantalla	pantalla	NCFS000	FilmsLanguage
 what	what	NCFS000	-
 happens	happens	NCMP000	-
 while	while	AQ0CS0	-
+</s>
+</text>

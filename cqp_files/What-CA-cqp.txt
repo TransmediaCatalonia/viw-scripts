@@ -1,4 +1,4 @@
-<text id='AccessFriendly-CA'>
+<text id='AccessFriendlyCA'>
 <s>
 Dia	dia	NCMS000	TimeInterval
 gris	gris	AQ0MS0	A-ColorAttribute
@@ -878,7 +878,8 @@ Zoé	zoé	NP00000	-
 ,	,	Fc	-
 la	el	DA0FS0	-
 següent	següent	AQ0CS0	A-PositionalAttribute
-<text id='Aptent-CA'>
+</s>
+<text id='AptentCA'>
 <s>
 A	a	SPS00	-
 una	un	DI0FS0	-
@@ -1361,7 +1362,7 @@ l'	el	DA0CS0	-
 de	de	SPS00	-
 la	el	DA0FS0	-
 mà	mà	NCFS000	BodyPart
-esquerra	esquer	AQ0FS0	A-PositionalSttribute
+esquerra	esquer	AQ0FS0	A-PositionalAttribute
 .	.	Fp	-
 </s>
 <s>
@@ -1468,7 +1469,7 @@ mòbil	mòbil	NCMS000	Object
 de	de	SPS00	-
 la	el	DA0FS0	-
 butxaca	butxaca	NCFS000	Clothing
-posterior	posterior	AQ0CS0	A-PositionalSttribute
+posterior	posterior	AQ0CS0	A-PositionalAttribute
 de	de	SPS00	-
 els	el	DA0MP0	-
 pantalons	pantaló	NCMP000	Clothing
@@ -1982,6 +1983,8 @@ què	què	PT0CS000	-
 em	jo	PP1CS000	-
 parles	parlar	VMSP2S0	Communication
 ?	?	Fit	-
+</s>
+<s>
 Sí	sí	RG	-
 ,	,	Fc	-
 esclar	esclar	RG	-
@@ -2047,7 +2050,8 @@ passa	passar	VMIP3S0	Process
 mentre	mentre	CS	TimeInterval
 ...	...	Fs	-
 ?	?	Fit	-
-<text id='Descriptik-CA'>
+</s>
+<text id='DescriptikCA'>
 <s>
 A	a	SPS00	-
 l'	el	DA0CS0	-
@@ -2839,6 +2843,8 @@ què	què	PT0CS000	-
 em	jo	PP1CS000	-
 parles	parlar	VMSP2S0	Communication
 ?	?	Fit	-
+</s>
+<s>
 Sí	sí	RG	-
 ,	,	Fc	-
 esclar	esclar	RG	-
@@ -2910,8 +2916,7 @@ línia	línia	NCFS000	-
 contínua	continu	AQ0FS0	A-SubjectiveAssessmentAttribute
 .	.	Fp	-
 </s>
-<s>
-<text id='LB-CA'>
+<text id='LBCA'>
 <s>
 Un	un	DI0MS0	-
 matí	matí	NCMS000	TimeInterval
@@ -4199,6 +4204,8 @@ què	què	PT0CS000	-
 em	jo	PP1CS000	-
 parles	parlar	VMSP2S0	Communication
 ?	?	Fit	-
+</s>
+<s>
 Si	si	CS	-
 ,	,	Fc	-
 esclar	esclar	RG	null
@@ -4270,6 +4277,8 @@ What	what	NP00000	-
 happens	happens	NCMP000	-
 While	while	NP00000	-
 ?	?	Fit	-
+</s>
+<s>
 "	"	Fe	-
 .	.	Fp	-
 </s>
@@ -4277,7 +4286,8 @@ While	while	NP00000	-
 Què	què	PT0CS000	-
 passa	passar	VMIP3S0	Process
 mentre	mentre	CS	TimeInterval
-<text id='MultiSignes-CA'>
+</s>
+<text id='MultiSignesCA'>
 <s>
 Un	un	DI0MS0	-
 matí	matí	NCMS000	TimeInterval
@@ -4535,7 +4545,7 @@ en_creu	en_creu	RG	Mode
 Amb	amb	SPS00	-
 la	el	DA0FS0	-
 mà	mà	NCFS000	BodyPart
-esquerra	esquer	AQ0FS0	A-PositionalSttribute
+esquerra	esquer	AQ0FS0	A-PositionalAttribute
 acarona	acaronar	VMIP3S0	Touching
 la	el	DA0FS0	-
 sorra	sorra	NCFS000	-
@@ -5597,7 +5607,8 @@ passa	passar	VMIP3S0	Process
 mentre	mentre	CS	TimeInterval
 ...	...	Fs	-
 "	"	Fe	-
-<text id='Plurals-CA'>
+</s>
+<text id='PluralsCA'>
 <s>
 Un	un	DI0MS0	-
 pla	pla	NCMS000	FilmLanguage
@@ -6461,6 +6472,8 @@ què	què	PT0CS000	-
 em	jo	PP1CS000	-
 parles	parlar	VMSP2S0	Communication
 ?	?	Fit	-
+</s>
+<s>
 Sí	sí	RG	-
 ,	,	Fc	-
 esclar	esclar	RG	-
@@ -6523,7 +6536,8 @@ passa	passar	VMIP3S0	Process
 mentre	mentre	CS	TimeInterval
 ...	...	Fs	-
 "	"	Fe	-
-<text id='SBT-Carme-CA'>
+</s>
+<text id='SBTCarmeCA'>
 <s>
 En	en	SPS00	-
 un	un	DI0MS0	-
@@ -7425,6 +7439,8 @@ què	què	PT0CS000	-
 em	jo	PP1CS000	-
 parles	parlar	VMSP2S0	Communication
 ?	?	Fit	-
+</s>
+<s>
 Sí	sí	RG	-
 ,	,	Fc	-
 esclar	esclar	RG	-
@@ -7479,8 +7495,7 @@ els	el	DA0MP0	-
 crèdits	crèdit	NCMP000	FilmLanguage
 .	.	Fp	-
 </s>
-<s>
-<text id='SDI-Media-CA'>
+<text id='SDIMediaCA'>
 <s>
 Un	un	DI0MS0	-
 noi	noi	NCMS000	Human
@@ -8028,8 +8043,7 @@ la	el	DA0FS0	-
 següent	següent	AQ0CS0	A-PositionalAttribute
 .	.	Fp	-
 </s>
-<s>
-<text id='Sonidos-CA'>
+<text id='SonidosCA'>
 <s>
 De	de	SPS00	-
 dia	dia	NCMS000	TimeInterval
@@ -8963,6 +8977,8 @@ què	què	PT0CS000	-
 em	jo	PP1CS000	-
 parles	parlar	VMSP2S0	Communication
 ?	?	Fit	-
+</s>
+<s>
 Sí	sí	RG	-
 ,	,	Fc	-
 esclar	esclar	RG	-
@@ -9031,7 +9047,8 @@ Què	què	PR0CN000	-
 passa	passar	VMIP3S0	Process
 mentre	mentre	CS	TimeInterval
 ...	...	Fs	-
-<text id='Subtil-CA'>
+</s>
+<text id='SubtilCA'>
 <s>
 Sota	sota	SPS00	Location
 un	un	DI0MS0	-
@@ -9761,6 +9778,8 @@ què	què	PT0CS000	-
 em	jo	PP1CS000	-
 parles	parlar	VMSP2S0	Communication
 ?	?	Fit	-
+</s>
+<s>
 Sí	sí	RG	-
 ,	,	Fc	-
 esclar	esclar	RG	-
@@ -9830,4 +9849,4 @@ els	el	DA0MP0	-
 crèdits	crèdit	NCMP000	FilmLanguage
 .	.	Fp	-
 </s>
-<s>
+</text>

@@ -1,4 +1,4 @@
-<text id='Castro_Aina_ES'>
+<text id='CastroAinaES'>
 <s>
 En	en	SPS00	-
 una	uno	DI0FS0	-
@@ -437,6 +437,8 @@ qué	qué	PT0CN000	-
 me	me	PP1CS000	-
 hablas	hablar	VMIP2S0	Communication
 ?	?	Fit	-
+</s>
+<s>
 Sí	sí	RG	-
 ,	,	Fc	-
 claro	claro	RG	-
@@ -474,7 +476,8 @@ Qué	qué	PT0CN000	-
 pasa	pasar	VMIP3S0	Process
 mientras	mientras	CS	-
 ?	?	Fit	-
-<text id='Fuente_Virginia_ES'>
+</s>
+<text id='FuenteVirginiaES'>
 <s>
 A	a	SPS00	-
 el	el	DA0MS0	-
@@ -1229,6 +1232,8 @@ qué	qué	PT0CN000	-
 me	me	PP1CS000	-
 hablas	hablar	VMIP2S1	Communication
 ?	?	Fit	-
+</s>
+<s>
 Sí	sí	RG	-
 ,	,	Fc	-
 claro	claro	RG	-
@@ -1293,7 +1298,8 @@ pasa	pasar	VMIP3S0	Process
 mientras	mientras	CS	-
 ...	...	Fs	-
 ?	?	Fit	-
-<text id='Garcia_Isabel_ES'>
+</s>
+<text id='GarciaIsabelES'>
 <s>
 De	de	SPS00	-
 día	día	NCMS000	Time
@@ -2083,6 +2089,8 @@ de	de	SPS00	-
 qué	qué	DT0CN0	-
 hablas	hablar	VMIP2S2	Communication
 ?	?	Fit	-
+</s>
+<s>
 Sí	sí	RG	-
 ,	,	Fc	-
 las	el	DA0FP0	-
@@ -2138,8 +2146,7 @@ línea	línea	NCFS000	-
 continua	continuo	AQ0FS0	A-PositionalAttribute
 .	.	Fp	-
 </s>
-<s>
-<text id='Jimenez_Jose_ES'>
+<text id='JimenezJoseES'>
 <s>
 De	de	SPS00	-
 día	día	NCMS000	Time
@@ -2738,7 +2745,8 @@ pasa	pasar	VMIP3S0	Process
 mientras	mientras	CS	-
 ...	...	Fs	-
 ?	?	Fit	-
-<text id='Marco_Carmen_ES'>
+</s>
+<text id='MarcoCarmenES'>
 <s>
 El	el	DA0MS0	-
 paisaje	paisaje	NCMS000	Location
@@ -3636,6 +3644,8 @@ de	de	SPS00	-
 qué	qué	DT0CN0	-
 hablas	hablar	VMIP2S3	Communication
 ?	?	Fit	-
+</s>
+<s>
 Claro	claro	RG	-
 .	.	Fp	-
 </s>
@@ -3693,7 +3703,8 @@ Qué	qué	PT0CN000	-
 pasa	pasar	VMIP3S0	Process
 mientras	mientras	CS	-
 ...	...	Fs	-
-<text id='MartindelRio_Barbara_ES'>
+</s>
+<text id='MartindelRioBarbaraES'>
 <s>
 A	a	SPS00	-
 pleno	pleno	AQ0MS0	A-SubjectiveAssessmentAttribute
@@ -4349,6 +4360,8 @@ qué	qué	PT0CN000	-
 me	me	PP1CS000	-
 hablas	hablar	VMIP2S4	Communication
 ?	?	Fit	-
+</s>
+<s>
 Sí	sí	RG	-
 ,	,	Fc	-
 claro	claro	RG	-
@@ -4390,7 +4403,8 @@ pasa	pasar	VMIP3S0	Process
 mientras	mientras	CS	-
 ...	...	Fs	-
 ?	?	Fit	-
-<text id='Mateo_Antonio_ES'>
+</s>
+<text id='MateoAntonioES'>
 <s>
 En	en	SPS00	-
 una	uno	DI0FS0	-
@@ -5320,6 +5334,8 @@ Pero	pero	CC	-
 qué	qué	PT0CN000	-
 dices	decir	VMIP2S0	Communication
 ?	?	Fit	-
+</s>
+<s>
 Claro	claro	RG	-
 que	que	PR0CN000	-
 he	haber	VAIP1S0	Aux
@@ -5369,8 +5385,7 @@ la	el	DA0FS0	-
 próxima	próximo	AQ0FS0	A-PositionalAttribute
 .	.	Fp	-
 </s>
-<s>
-<text id='Palacios_Raquel_ES'>
+<text id='PalaciosRaquelES'>
 <s>
 Es	ser	VSIP3S0	Aux
 un_día	TM_d:1	Zu	Time
@@ -5863,6 +5878,8 @@ qué	qué	PT0CN000	-
 me	me	PP1CS000	-
 hablas	hablar	VMIP2S5	Communication
 ?	?	Fit	-
+</s>
+<s>
 Sí	sí	RG	-
 ,	,	Fc	-
 claro	claro	RG	-
@@ -5899,8 +5916,7 @@ La	el	DA0FS0	-
 próxima	próximo	AQ0FS0	A-PositionalAttribute
 .	.	Fp	-
 </s>
-<s>
-<text id='Roldan_Marina_ES'>
+<text id='RoldanMarinaES'>
 <s>
 De	de	SPS00	-
 día	día	NCMS000	Time
@@ -6560,6 +6576,8 @@ qué	qué	PT0CN000	-
 me	me	PP1CS000	-
 hablas	hablar	VMIP2S6	Communication
 ?	?	Fit	-
+</s>
+<s>
 (	(	Fpa	-
 Audiosubtítulos	audiosubtítulos	NP00O00	FilmLanguage
 )	)	Fpt	-
@@ -6601,7 +6619,8 @@ Qué	qué	PT0CN000	-
 pasa	pasar	VMIP3S0	Process
 mientras	mientras	CS	-
 ...	...	Fs	-
-<text id='Rubio_Jennifer_ES'>
+</s>
+<text id='RubioJenniferES'>
 <s>
 En	en	SPS00	-
 el	el	DA0MS0	-
@@ -7015,6 +7034,8 @@ qué	qué	PT0CN000	-
 me	me	PP1CS000	-
 hablas	hablar	VMIP2S7	Communication
 ?	?	Fit	-
+</s>
+<s>
 Si	si	CS	-
 ,	,	Fc	-
 las	el	DA0FP0	-
@@ -7062,3 +7083,5 @@ pasa	pasar	VMIP3S0	Process
 mientras	mientras	CS	-
 ...	...	Fs	-
 ?	?	Fit	-
+</s>
+</text>
