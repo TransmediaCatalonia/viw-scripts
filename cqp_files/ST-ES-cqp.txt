@@ -133,7 +133,7 @@ la	el	DA0FS0	-
 arena	arena	NCFS000	Location
 mirando	mirar	VMG0000	Seeing
 hacia	hacia	SPS00	-
-arriba	arriba	RG	LocationLocation
+arriba	arriba	RG	Location
 .	.	Fp	-
 </s>
 <s>

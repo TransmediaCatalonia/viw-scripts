@@ -1438,7 +1438,7 @@ ladera	ladera	NCFS000	Location
 cubierta	cubrir	VMP00SF	A-PositionalAttribute
 por	por	SPS00	-
 matorral	matorral	NCMS000	Vegetable
-bajo	bajo	AQ0MS0	ALocationSubjectiveAssessmentAttribute
+bajo	bajo	AQ0MS0	A-SubjectiveAssessmentAttribute
 .	.	Fp	-
 </s>
 <s>
@@ -6188,7 +6188,7 @@ suyo	suyo	PX3MS0C0	-
 Saca	sacar	VMIP3S0	Putting
 el	el	DA0MS0	-
 teléfono	teléfono	NCMS000	Object
-móvil	móvil	AQ0CS0	A
+móvil	móvil	AQ0CS0	A-SubjectiveAsssessmentAttribute
 de	de	SPS00	-
 el	el	DA0MS0	-
 bolsillo	bolsillo	NCMS000	Clothing
@@ -8025,7 +8025,7 @@ se	se	PP3CN000	-
 saca	sacar	VMIP3S0	Putting
 el	el	DA0MS0	-
 teléfono	teléfono	NCMS000	Object
-móvil	móvil	AQ0CS0	A
+móvil	móvil	AQ0CS0	A-SubjectiveAsssessmentAttribute
 que	que	PR0CN000	-
 tiene	tener	VMIP3S0	possesses
 en	en	SPS00	-

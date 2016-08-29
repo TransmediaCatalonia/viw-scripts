@@ -277,7 +277,7 @@ la	el	DA0FS0	-
 dreta	dreta	NCFS000	Location
 de	de	SPS00	-
 la	el	DA0FS0	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 ,	,	Fc	-
 a	a	SPS00	-
 el	el	DA0MS0	-
@@ -625,7 +625,7 @@ encuriosit	encuriosir	VMP00SM	A-StateOfMind
 .	.	Fp	-
 </s>
 <s>
-Noia	noi	NCFS000	HumanHuman
+Noia	noi	NCFS000	Human
 jove	jove	AQ0FS0	A-SubjectiveAssessmentAttribute
 davant	davant	SPS00	Location
 l'	el	DA0CS0	-
@@ -859,7 +859,7 @@ bosc	bosc	NCMS000	Location
 .	.	Fp	-
 </s>
 <s>
-Pantalla	pantalla	NP00000	FilmsLanguage
+Pantalla	pantalla	NP00000	FilmLanguage
 negre	negre	NCMS000	A-ColorAttribute
 .	.	Fp	-
 </s>
@@ -1385,7 +1385,7 @@ tapa	tapa	NCFS000	Object
 .	.	Fp	-
 </s>
 <s>
-Conté	contenir	VMIP3S0	Possesses
+Conté	contenir	VMIP3S0	possesses
 cafè	cafè	NCMS000	-
 sol	sol	AQ0MS0	A-SubjectiveAssessmentAttribute
 .	.	Fp	-
@@ -2907,7 +2907,7 @@ les	el	DA0FP0	-
 lletres	lletra	NCFP000	FilmLanguage
 de	de	SPS00	-
 el	el	DA0MS0	-
-títol	títol	NCMS000	FilmsLanguage
+títol	títol	NCMS000	FilmLanguage
 ,	,	Fc	-
 seguides	seguir	VMP00PM	A-PositionalAttribute
 d'	de	SPS00	-
@@ -3694,7 +3694,7 @@ un	un	DI0MS0	-
 <s>
 Toca	tocar	VMIP3S0	Touching
 la	el	DA0FS0	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 i	i	CC	-
 es	es	P0300000	-
 posa	posar	VMIP3S0	Putting
@@ -4145,7 +4145,7 @@ platja	platja	NCFS000	Location
 </s>
 <s>
 La	el	DA0FS0	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 s'	es	P0300000	-
 enfosqueix	enfosquir	VMIP3S0	RadiatingLight
 .	.	Fp	-
@@ -4444,7 +4444,7 @@ i	i	CC	-
 sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
 a	a	SPS00	-
 la	el	DA0FS0	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 es	es	P0300000	-
 llegeix	llegir	VMIP3S0	Seeing
 :	:	Fd	-
@@ -4937,7 +4937,7 @@ i	i	CC	-
 sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
 a	a	SPS00	-
 la	el	DA0FS0	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 es	es	P0300000	-
 llegeix	llegir	VMIP3S0	Seeing
 :	:	Fd	-
@@ -7484,7 +7484,7 @@ negre	negre	AQ0MS0	A-ColorAttribute
 </s>
 <s>
 "	"	Fe	-
-QUÈ_PASSA_MENTRE	què_passa_mentre	NP00000	-
+QUÈ_PASSA-MENTRE	què_passa_mentre	NP00000	-
 ...	...	Fs	-
 "	"	Fe	-
 Sobre	sobre	SPS00	Location
@@ -8164,7 +8164,7 @@ posa	posar	VMIP3S0	Putting
 <s>
 Sobreescrit	sobreescriure	VMP00SM	FilmLanguage
 en	en	SPS00	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 :	:	Fd	-
 James	james	NP00000	-
 ,	,	Fc	-
@@ -8482,7 +8482,7 @@ beu	beure	VMIP3S0	Drinking
 <s>
 Sobreescrit	sobreescriure	VMP00SM	FilmLanguage
 en	en	SPS00	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 :	:	Fd	-
 Rick	rick	NP00000	-
 ,	,	Fc	-
@@ -8631,7 +8631,7 @@ ordinador	ordinador	NCMS000	Object
 <s>
 Sobreescrit	sobreescriure	VMP00SM	FilmLanguage
 en	en	SPS00	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 :	:	Fd	-
 Jess	jess	NP00000	-
 ,	,	Fc	-
@@ -8907,7 +8907,7 @@ ells	ell	PP3MP000	Location
 El	el	DA0MS0	-
 James	james	NP00000	-
 li	ell	PP3CSD00	-
-passa	passar	VMIP3S0	BodMotion
+passa	passar	VMIP3S0	BodyMotion
 el	el	DA0MS0	-
 braç	braç	NCMS000	BodyPart
 per	per	SPS00	-
@@ -8946,7 +8946,7 @@ telèfon	telèfon	NCMS000	Object
 <s>
 Sobreescrit	sobreescriure	VMP00SM	FilmLanguage
 en	en	SPS00	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 :	:	Fd	-
 "	"	Fe	-
 No	no	RN	-
@@ -9001,7 +9001,7 @@ estranyada	estranyar	VMP00SF	A-StateOfMind
 <s>
 Sobreescrit	sobreescriure	VMP00SM	FilmLanguage
 en	en	SPS00	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 :	:	Fd	-
 "	"	Fe	-
 Escolta	escoltar	VMIP2S0	Hearing
@@ -9023,7 +9023,7 @@ deixar	deixar	VMN0000	Process
 <s>
 Sobreescrit	sobreescriure	VMP00SM	FilmLanguage
 en	en	SPS00	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 :	:	Fd	-
 Zoé	zoé	NP00000	-
 ,	,	Fc	-

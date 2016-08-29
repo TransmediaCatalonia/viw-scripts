@@ -5,7 +5,6 @@ This repository contains the scripts used to edit and manage data in the VIW pro
 Thee cqp_files subdir contains corpus files in cqp format ready to be loaded into the CWB.
 
 
-
 ####annotate.py
 
 Adds annotations to an eaf file previously tokenised by tokenise.py.
@@ -49,6 +48,10 @@ Reads eaf file and creates a tabular a file (conLL format) with form, lemma, pos
 each file is included between 'text' tags where text/@id = file_name. 
 
 sentences in conLL file are enclosed between 's' tags.
+
+####lexparser.sh
+
+This is the shell script used to run the Stanford parser.
 
 ####tokenise.py
 

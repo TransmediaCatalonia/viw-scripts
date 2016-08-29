@@ -1286,7 +1286,7 @@ confusa	confús	AQ0FS0	A-StateOfMind
 a	a	SPS00	-
 el	el	DA0MS0	-
 seu	seu	PX3MS0C0	-
-voltant	voltant	NCMS000	Locaton
+voltant	voltant	NCMS000	Location
 .	.	Fp	-
 </s>
 <s>
@@ -1715,7 +1715,7 @@ posa	posar	VMIP3S0	Putting
 <s>
 Imprès	imprimir	VMP00SM	FilmLanguage
 en	en	SPS00	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 :	:	Fd	-
 "	"	Fe	-
 James	james	NP00000	-
@@ -1763,7 +1763,7 @@ estesa	estendre	VMP00SF	A-PositionalAttribute
 </s>
 <s>
 Es	es	P0300000	-
-posa	posar	VMIP3S0	BodMotion
+posa	posar	VMIP3S0	BodyMotion
 un	un	DI0MS0	-
 moment	moment	NCMS000	TimeInterval
 les	el	DA0FP0	-
@@ -1989,7 +1989,7 @@ cavil·lós	cavil·lós	AQ0MS0	A-StateOfMind
 <s>
 Imprès	imprimir	VMP00SM	FilmLanguage
 en	en	SPS00	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 :	:	Fd	-
 "	"	Fe	-
 Rick	rick	NP00000	-
@@ -2113,7 +2113,7 @@ angoixada	angoixar	VMP00SF	A-StateOfMind
 <s>
 Imprès	imprimir	VMP00SM	FilmLanguage
 en	en	SPS00	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 :	:	Fd	-
 "	"	Fe	-
 Jess	jess	NP00000	-
@@ -2353,7 +2353,7 @@ deixar	deixar	VMN0000	Process
 <s>
 Imprès	imprimir	VMP00SM	FilmLanguage
 en	en	SPS00	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 :	:	Fd	-
 "	"	Fe	-
 Zoé	zoé	NP00000	-
@@ -4790,7 +4790,7 @@ ulleres_de_sol	ulleres_de_sol	NCFP000	Clothing
 <s>
 Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
 en	en	SPS00	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 :	:	Fd	-
 James	james	NP00000	-
 ,	,	Fc	-
@@ -5057,7 +5057,7 @@ beu	beure	VMIP3S0	Drinking
 <s>
 Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
 en	en	SPS00	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 :	:	Fd	-
 Rick	rick	NP00000	-
 ,	,	Fc	-
@@ -5496,7 +5496,7 @@ de	de	SPS00	-
 deixar	deixar	VMN0000	Process
 Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
 en	en	SPS00	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 :	:	Fd	-
 Zoé	zoé	NP00000	-
 ,	,	Fc	-
@@ -5507,7 +5507,7 @@ següent	següent	AQ0CS0	A-PositionalAttribute
 <s>
 Sobreimprès	sobreimprimir	VMP00SM	FilmLanguage
 en	en	SPS00	-
-pantalla	pantalla	NCFS000	FilmsLanguage
+pantalla	pantalla	NCFS000	FilmLanguage
 :	:	Fd	-
 what	what	NCFS000	-
 happens	happens	NCMP000	-

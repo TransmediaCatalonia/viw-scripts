@@ -16,9 +16,9 @@ the	the	DT	-
 seaside	seaside	NN	Location
 with	with	IN	-
 a	a	DT	-
-large	large	JJ	A-SubjectiveAssessment
+large	large	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-lanky	lanky	JJ	A-SubjectiveAssessment
+lanky	lanky	JJ	A-SubjectiveAssessmentAttribute
 dog	dog	NN	Animal
 .	.	.	-
 A	a	DT	-
@@ -27,7 +27,7 @@ passes	pass	VBZ	Motion
 them	them	PRP	-
 in	in	IN	-
 the	the	DT	-
-opposite	opposite	JJ	A-SubjectiveAssessment
+opposite	opposite	JJ	A-SubjectiveAssessmentAttribute
 direction	direction	NN	Location
 .	.	.	-
 The	the	DT	-
@@ -59,10 +59,10 @@ happens	happen	VBZ	Process
 while	while	IN	-
 '	'	''	-
 ,	,	,	-
-followed	followed	JJ	A-SubjectiveAssessment
+followed	followed	JJ	A-SubjectiveAssessmentAttribute
 by	by	IN	-
 a	a	DT	-
-long	long	JJ	A-SubjectiveAssessment
+long	long	JJ	A-SubjectiveAssessmentAttribute
 black	black	JJ	A-ColorAttribute
 line	line	NN	FilmLanguage
 .	.	.	-
@@ -205,7 +205,7 @@ briefs	brief	NNS	Clothing
 on	on	IN	-
 the	the	DT	-
 seemingly	seemingly	RB	-
-deserted	deserted	JJ	A-SubjectiveAssessment
+deserted	deserted	JJ	A-SubjectiveAssessmentAttribute
 beach	beach	NN	Location
 .	.	.	-
 </s>
@@ -214,7 +214,7 @@ He	he	PRP	-
 walks	walk	VBZ	Walking
 near	near	IN	-
 the	the	DT	-
-calm	calm	JJ	A-SubjectiveAssessment
+calm	calm	JJ	A-SubjectiveAssessmentAttribute
 water	water	NN	-
 's	's	POS	-
 edge	edge	NN	Location
@@ -266,9 +266,9 @@ marches	march	VBZ	Walking
 down	down	RB	-
 a	a	DT	-
 street	street	NN	Location
-lined	lined	JJ	A-SubjectiveAssessment
+lined	lined	JJ	A-SubjectiveAssessmentAttribute
 with	with	IN	-
-leafy	leafy	JJ	A-SubjectiveAssessment
+leafy	leafy	JJ	A-SubjectiveAssessmentAttribute
 trees	tree	NNS	Vegetable
 .	.	.	-
 </s>
@@ -280,12 +280,12 @@ his	his	PRP$	-
 way	way	NN	Location
 up	up	IN	-
 a	a	DT	-
-steep	steep	JJ	A-SubjectiveAssessment
+steep	steep	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-craggy	craggy	JJ	A-SubjectiveAssessment
+craggy	craggy	JJ	A-SubjectiveAssessmentAttribute
 slope	slope	NN	Location
 with	with	IN	-
-dry	dry	JJ	A-SubjectiveAssessment
+dry	dry	JJ	A-SubjectiveAssessmentAttribute
 vegetation	vegetation	NNS	Vegetable
 .	.	.	-
 A	a	DT	-
@@ -295,7 +295,7 @@ his	his	PRP$	-
 finger	finger	NN	BodyPart
 on	on	IN	-
 a	a	DT	-
-takeaway	takeaway	JJ	A-SubjectiveAssessment
+takeaway	takeaway	JJ	A-SubjectiveAssessmentAttribute
 coffee	coffee	NN	-
 cup	cup	NN	Object
 .	.	.	-
@@ -312,7 +312,7 @@ a	a	DT	-
 greying	greying	JJ	A-ColorAttribute
 beard	beard	NN	BodyPart
 and	and	CC	-
-frizzy	frizzy	JJ	A-SubjectiveAssessment
+frizzy	frizzy	JJ	A-SubjectiveAssessmentAttribute
 hair	hair	NN	BodyPart
 .	.	.	-
 He	he	PRP	-
@@ -332,7 +332,7 @@ finger	finger	NN	BodyPart
 around	around	IN	Time
 the	the	DT	-
 white	white	JJ	A-ColorAttribute
-plastic	plastic	JJ	A-SubjectiveAssessment
+plastic	plastic	JJ	A-SubjectiveAssessmentAttribute
 lid	lid	NN	Object
 ,	,	,	-
 then	then	RB	Time
@@ -342,7 +342,7 @@ it	it	PRP	-
 Examining	examine	VBG	IntentionalPsychologicalProcess
 the	the	DT	-
 dark	dark	JJ	A-ColorAttribute
-liquid	liquid	JJ	A-SubjectiveAssessment
+liquid	liquid	JJ	A-SubjectiveAssessmentAttribute
 contents	content	NNS	-
 ,	,	,	-
 he	he	PRP	-
@@ -375,11 +375,11 @@ Rick	rick	NNP	Human
 sits	sit	VBZ	BodyMotion
 on	on	IN	-
 a	a	DT	-
-wooden	wooden	JJ	A-SubjectiveAssessment
+wooden	wooden	JJ	A-SubjectiveAssessmentAttribute
 chair	chair	NN	Object
 in	in	IN	-
 a	a	DT	-
-leafy	leafy	JJ	A-SubjectiveAssessment
+leafy	leafy	JJ	A-SubjectiveAssessmentAttribute
 urban	urban	JJ	A-PositionalAttribute
 park	park	NN	Location
 .	.	.	-
@@ -423,7 +423,7 @@ his	his	PRP$	-
 phone	phone	NN	Object
 from	from	IN	-
 his	his	PRP$	-
-back	back	JJ	ALocationPositionalAttribute
+back	back	JJ	A-PositionalAttribute
 trouser	trouser	NN	Clothing
 pocket	pocket	NN	Clothing
 ,	,	,	-
@@ -472,7 +472,7 @@ gets_up	get_up	VBZ	BodyMotion
 and	and	CC	-
 leaves	leave	VBZ	Putting
 his	his	PRP$	-
-takeaway	takeaway	JJ	A-SubjectiveAssessment
+takeaway	takeaway	JJ	A-SubjectiveAssessmentAttribute
 cup	cup	NN	Object
 on	on	IN	-
 the	the	DT	-
@@ -493,7 +493,7 @@ A	a	DT	-
 woman	woman	NN	Human
 with	with	IN	-
 tightly	tightly	RB	-
-curled	curled	JJ	A-SubjectiveAssessment
+curled	curled	JJ	A-SubjectiveAssessmentAttribute
 brunette	brunette	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
 holds	hold	VBZ	Touching
@@ -542,7 +542,7 @@ looks_around	look_around	VBZ	Seeing
 ,	,	,	-
 her	her	PRP$	-
 eyes	eye	NNS	BodyPart
-roving	roving	JJ	A-SubjectiveAssessment
+roving	roving	JJ	A-SubjectiveAssessmentAttribute
 .	.	.	-
 </s>
 <s>
@@ -574,7 +574,7 @@ emerges	emerge	VBZ	Motion
 on	on	IN	-
 to	to	TO	-
 a	a	DT	-
-dry	dry	JJ	A-SubjectiveAssessment
+dry	dry	JJ	A-SubjectiveAssessmentAttribute
 plateau	plateau	NN	Location
 under	under	IN	-
 a	a	DT	-
@@ -589,7 +589,7 @@ stand	stand	VBP	PositionalAttribute
 James	james	NNP	Human
 gives	give	VBZ	Gesture
 a	a	DT	-
-small	small	JJ	A-SubjectiveAssessment
+small	small	JJ	A-SubjectiveAssessmentAttribute
 shrug	shrug	NN	Gesture
 ,	,	,	-
 and	and	CC	-
@@ -620,7 +620,7 @@ he	he	PRP	-
 looks_up	look_up	VBZ	Seeing
 into	into	IN	-
 the	the	DT	-
-harsh	harsh	JJ	A-SubjectiveAssessment
+harsh	harsh	JJ	A-SubjectiveAssessmentAttribute
 sunlight	sunlight	NN	RadiatingLight
 .	.	.	-
 </s>
@@ -755,7 +755,7 @@ yes	yes	UH	-
 our	our	PRP$	-
 luggage	luggage	NN	Object
 is	be	VBZ	Aux
-ready	ready	JJ	A-SubjectiveAssessment
+ready	ready	JJ	A-SubjectiveAssessmentAttribute
 .	.	.	-
 </s>
 <s>
@@ -793,9 +793,9 @@ partly-cloudy	partly-cloudy	JJ	A-RadiatingLight
 sky	sky	NN	Location
 ,	,	,	-
 a	a	DT	-
-wide	wide	JJ	A-SubjectiveAssessment
+wide	wide	JJ	A-SubjectiveAssessmentAttribute
 and	and	CC	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 beachfront	beachfront	NN	Location
 and	and	CC	-
 parking	parking	NN	Location
@@ -815,7 +815,7 @@ a	a	DT	-
 couple	couple	NN	Human
 walks	walk	VBZ	Walking
 a	a	DT	-
-large	large	JJ	A-SubjectiveAssessment
+large	large	JJ	A-SubjectiveAssessmentAttribute
 dog	dog	NN	Animal
 .	.	.	-
 </s>
@@ -838,7 +838,7 @@ a	a	DT	-
 man	man	NN	Human
 with	with	IN	-
 a	a	DT	-
-trim	trim	JJ	A-SubjectiveAssessment
+trim	trim	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 reddish-brown	reddish-brown	JJ	A-ColorAttribute
 beard	beard	NN	BodyPart
@@ -877,7 +877,7 @@ his	his	PRP$	-
 briefcase	briefcase	NN	Object
 for	for	IN	-
 a	a	DT	-
-striped	striped	JJ	A-SubjectiveAssessment
+striped	striped	JJ	A-SubjectiveAssessmentAttribute
 cloth	cloth	NN	-
 bag	bag	NN	Clothing
 from	from	IN	-
@@ -983,7 +983,7 @@ stands	stand	VBZ	PositionalAttribute
 and	and	CC	-
 wearing	wear	VBG	Dressing
 gray	gray	JJ	A-ColorAttribute
-swim	swim	JJ	A-SubjectiveAssessment
+swim	swim	JJ	A-SubjectiveAssessmentAttribute
 trunks	trunk	NNS	Clothing
 ,	,	,	-
 strolls	stroll	VBZ	Walking
@@ -1037,7 +1037,7 @@ tie	tie	NN	Clothing
 James	james	NNP	Human
 strolls	stroll	VBZ	Walking
 a	a	DT	-
-tree-lined	tree-lined	JJ	A-SubjectiveAssessment
+tree-lined	tree-lined	JJ	A-SubjectiveAssessmentAttribute
 walkway	walkway	NN	Location
 /	/	NN	-
 Then	then	RB	Time
@@ -1048,13 +1048,13 @@ a	a	DT	-
 hill	hill	NN	Location
 along	along	IN	-
 a	a	DT	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 path	path	NN	Location
 bordered	bordered	VBN	A-PositionalAttribute
 by	by	IN	-
 bushes	bushe	NNS	Vegetable
 and	and	CC	-
-dry	dry	JJ	A-SubjectiveAssessment
+dry	dry	JJ	A-SubjectiveAssessmentAttribute
 scrub	scrub	NN	Vegetable
 .	.	.	-
 </s>
@@ -1118,9 +1118,9 @@ a	a	DT	-
 salt-and-pepper	salt-and-pepper	JJ	A-ColorAttribute
 beard	beard	NN	BodyPart
 and	and	CC	-
-straggly	straggly	JJ	A-SubjectiveAssessment
+straggly	straggly	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-wind-blown	wind-blown	JJ	A-SubjectiveAssessment
+wind-blown	wind-blown	JJ	A-SubjectiveAssessmentAttribute
 hair	hair	NN	BodyPart
 .	.	.	-
 </s>
@@ -1171,7 +1171,7 @@ him	him	PRP	-
 ,	,	,	-
 foliage	foliage	NN	Vegetable
 and	and	CC	-
-tall	tall	JJ	A-SubjectiveAssessment
+tall	tall	JJ	A-SubjectiveAssessmentAttribute
 trees	tree	NNS	Vegetable
 .	.	.	-
 </s>
@@ -1250,7 +1250,7 @@ Rick	rick	NNP	Human
 strolls	stroll	VBZ	Walking
 along	along	IN	-
 a	a	DT	-
-concrete	concrete	JJ	A-SubjectiveAssessment
+concrete	concrete	JJ	A-SubjectiveAssessmentAttribute
 walkway	walkway	NN	Location
 ,	,	,	-
 his	his	PRP$	-
@@ -1272,12 +1272,12 @@ the	the	DT	-
 background	background	NN	Location
 ,	,	,	-
 a	a	DT	-
-young	young	JJ	A-SubjectiveAssessment
+young	young	JJ	A-SubjectiveAssessmentAttribute
 woman	woman	NN	Human
 with	with	IN	-
-long	long	JJ	A-SubjectiveAssessment
+long	long	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-curly	curly	JJ	A-SubjectiveAssessment
+curly	curly	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 red	red	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
@@ -1342,7 +1342,7 @@ steps_up	step_up	VBZ	Motion
 an	an	DT	-
 embankment	embankment	NN	Location
 past	past	IN	-
-tall	tall	JJ	A-SubjectiveAssessment
+tall	tall	JJ	A-SubjectiveAssessmentAttribute
 grasses	grasse	NNS	Vegetable
 /	/	NNS	-
 Turns	turn	VBZ	BodyMotion
@@ -1448,7 +1448,7 @@ them	them	PRP	-
 Their	their	PRP$	-
 figures	figure	NNS	Human
 are	be	VBP	Aux
-tiny	tiny	JJ	A-SubjectiveAssessment
+tiny	tiny	JJ	A-SubjectiveAssessmentAttribute
 against	against	IN	-
 the	the	DT	-
 stretch	stretch	NN	Location
@@ -1502,11 +1502,11 @@ yes	yes	UH	-
 our	our	PRP$	-
 luggage	luggage	NN	Object
 is	be	VBZ	Aux
-ready	ready	JJ	A-SubjectiveAssessment
+ready	ready	JJ	A-SubjectiveAssessmentAttribute
 /	/	:	-
 She	she	PRP	-
 looks	look	VBZ	Seeing
-arround	arround	JJ	A-SubjectiveAssessment
+arround	arround	JJ	A-SubjectiveAssessmentAttribute
 .	.	.	-
 </s>
 <s>
@@ -1538,7 +1538,7 @@ one	one	NN	-
 <s>
 A	a	DT	-
 nearly	nearly	RB	-
-empty	empty	JJ	A-SubjectiveAssessment
+empty	empty	JJ	A-SubjectiveAssessmentAttribute
 beach	beach	NN	Location
 beside	beside	IN	-
 a	a	DT	-
@@ -1553,8 +1553,8 @@ they	they	PRP	-
 stroll	stroll	VBP	Walking
 with	with	IN	-
 their	their	PRP$	-
-large	large	JJ	A-SubjectiveAssessment
-Great	great	JJ	A-SubjectiveAssessment
+large	large	JJ	A-SubjectiveAssessmentAttribute
+Great	great	JJ	A-SubjectiveAssessmentAttribute
 Dane	dane	NN	Animal
 .	.	.	-
 </s>
@@ -1592,7 +1592,7 @@ While	while	IN	-
 ...	...	:	-
 with	with	IN	-
 a	a	DT	-
-long	long	JJ	A-SubjectiveAssessment
+long	long	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 blank	blank	JJ	A-ColorAttribute
 line	line	NN	FilmLanguage
@@ -1603,7 +1603,7 @@ end	end	NN	-
 </s>
 <s>
 A	a	DT	-
-slick	slick	JJ	A-SubjectiveAssessment
+slick	slick	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 white	white	JJ	A-ColorAttribute
 car	car	NN	-
@@ -1632,7 +1632,7 @@ phone	phone	NN	Object
 <s>
 He	he	PRP	-
 looks	look	VBZ	Seeing
-aggressive	aggressive	JJ	A-SubjectiveAssessment
+aggressive	aggressive	JJ	A-SubjectiveAssessmentAttribute
 as	as	IN	-
 he	he	PRP	-
 bangs	bang	VBZ	BodyMotion
@@ -1678,9 +1678,9 @@ His	his	PRP$	-
 pale	pale	JJ	A-ColorAttribute
 skin	skin	NN	BodyPart
 looks	look	VBZ	Seeing
-cool	cool	JJ	A-SubjectiveAssessment
+cool	cool	JJ	A-SubjectiveAssessmentAttribute
 and	and	CC	-
-soft	soft	JJ	A-SubjectiveAssessment
+soft	soft	JJ	A-SubjectiveAssessmentAttribute
 in	in	IN	-
 the	the	DT	-
 muted	muted	JJ	A-RadiatingLight
@@ -1710,7 +1710,7 @@ He	he	PRP	-
 walks_along	walk_along	VBZ	Walking
 the	the	DT	-
 nearly	nearly	RB	-
-empty	empty	JJ	A-SubjectiveAssessment
+empty	empty	JJ	A-SubjectiveAssessmentAttribute
 beach	beach	NN	Location
 carrying	carry	VBG	Process
 a	a	DT	-
@@ -1755,7 +1755,7 @@ ground	ground	NN	Location
 <s>
 He	he	PRP	-
 exhales	exhale	VBZ	Gesture
-hard	hard	JJ	A-SubjectiveAssessment
+hard	hard	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 then	then	RB	Time
 rubs	rub	VBZ	BodyMotion
@@ -1912,7 +1912,7 @@ is	be	VBZ	Aux
 hazy-white	hazy-white	JJ	A-RadiatingLight
 ,	,	,	-
 without	without	IN	-
-distinguishable	distinguishable	JJ	A-SubjectiveAssessment
+distinguishable	distinguishable	JJ	A-SubjectiveAssessmentAttribute
 clouds	cloud	NNS	RadiatingLight
 or	or	CC	-
 sun	sun	NN	RadiatingLight
@@ -1934,7 +1934,7 @@ trying	try	VBG	Aux
 to	to	TO	-
 locate	locate	VB	IntentionalPsychologicalProcess
 the	the	DT	-
-mysterious	mysterious	JJ	A-SubjectiveAssessment
+mysterious	mysterious	JJ	A-SubjectiveAssessmentAttribute
 sound	sound	NN	RadiatingSound
 .	.	.	-
 </s>
@@ -1980,9 +1980,9 @@ suit	suit	NN	Clothing
 and	and	CC	-
 walks	walk	VBZ	Walking
 under	under	IN	-
-large	large	JJ	A-SubjectiveAssessment
+large	large	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-leafy	leafy	JJ	A-SubjectiveAssessment
+leafy	leafy	JJ	A-SubjectiveAssessmentAttribute
 trees	tree	NNS	Vegetable
 .	.	.	-
 </s>
@@ -2008,9 +2008,9 @@ a	a	DT	-
 mountain	mountain	NN	Location
 covered	covered	VBN	A-PositionalAttribute
 in	in	IN	-
-short	short	JJ	A-SubjectiveAssessment
+short	short	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-dense	dense	JJ	A-SubjectiveAssessment
+dense	dense	JJ	A-SubjectiveAssessmentAttribute
 bushes	bushe	NNS	Vegetable
 and	and	CC	-
 cactuses	cactuse	NNS	Vegetable
@@ -2024,7 +2024,7 @@ lightly	lightly	RB	-
 tap	tap	VB	BodyMotion
 on	on	IN	-
 a	a	DT	-
-to-go	to-go	JJ	A-SubjectiveAssessment
+to-go	to-go	JJ	A-SubjectiveAssessmentAttribute
 coffee	coffee	NN	-
 cup	cup	NN	Object
 .	.	.	-
@@ -2032,12 +2032,12 @@ cup	cup	NN	Object
 <s>
 An	an	DT	-
 unshaven	unshaven	JJ	A-BodyPart
-older	older	JJ	A-SubjectiveAssessment
+older	older	JJ	A-SubjectiveAssessmentAttribute
 man	man	NN	Human
 with	with	IN	-
-messy	messy	JJ	A-SubjectiveAssessment
+messy	messy	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-longish	longish	JJ	A-SubjectiveAssessment
+longish	longish	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 grey	grey	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
@@ -2063,7 +2063,7 @@ his	his	PRP$	-
 fingers	finger	NNS	BodyPart
 around	around	IN	Time
 the	the	DT	-
-plastic	plastic	JJ	A-SubjectiveAssessment
+plastic	plastic	JJ	A-SubjectiveAssessmentAttribute
 lid	lid	NN	Object
 .	.	.	-
 </s>
@@ -2091,7 +2091,7 @@ then	then	RB	Time
 gulps	gulp	VBZ	BodyMotion
 from	from	IN	-
 the	the	DT	-
-small	small	JJ	A-SubjectiveAssessment
+small	small	JJ	A-SubjectiveAssessmentAttribute
 cup	cup	NN	Object
 .	.	.	-
 </s>
@@ -2099,9 +2099,9 @@ cup	cup	NN	Object
 His	his	PRP$	-
 eyes	eye	NNS	BodyPart
 look	look	VBP	Seeing
-moist	moist	JJ	A-SubjectiveAssessment
+moist	moist	JJ	A-SubjectiveAssessmentAttribute
 and	and	CC	-
-glassy	glassy	JJ	A-SubjectiveAssessment
+glassy	glassy	JJ	A-SubjectiveAssessmentAttribute
 .	.	.	-
 </s>
 <s>
@@ -2132,7 +2132,7 @@ up	up	RB	-
 and	and	CC	-
 down	down	RB	-
 in	in	IN	-
-tiny	tiny	JJ	A-SubjectiveAssessment
+tiny	tiny	JJ	A-SubjectiveAssessmentAttribute
 movements	movement	NNS	BodyMotion
 .	.	.	-
 </s>
@@ -2205,7 +2205,7 @@ He	he	PRP	-
 selects	select	VBZ	BodyMotion
 a	a	DT	-
 contact	contact	NN	-
-named	named	JJ	A-SubjectiveAssessment
+named	named	JJ	A-SubjectiveAssessmentAttribute
 ''	''	''	-
 ``	``	``	-
 Craig_Anderson	craig_anderson	NNP	Human
@@ -2252,7 +2252,7 @@ bench	bench	NN	Object
 Rick	rick	NNP	Human
 wears	wear	VBZ	Dressing
 a	a	DT	-
-loose	loose	JJ	A-SubjectiveAssessment
+loose	loose	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 green	green	JJ	A-ColorAttribute
 tank-top	tank-top	NN	Clothing
@@ -2278,7 +2278,7 @@ sound	sound	NN	RadiatingSound
 Now	now	RB	Time
 ,	,	,	-
 a	a	DT	-
-young	young	JJ	A-SubjectiveAssessment
+young	young	JJ	A-SubjectiveAssessmentAttribute
 woman	woman	NN	Human
 looks	look	VBZ	Seeing
 tired	tired	JJ	A-StateOfMind
@@ -2286,7 +2286,7 @@ and	and	CC	-
 gazes	gaze	VBZ	Seeing
 at	at	IN	-
 an	an	DT	-
-open	open	JJ	A-SubjectiveAssessment
+open	open	JJ	A-SubjectiveAssessmentAttribute
 laptop	laptop	NN	Object
 .	.	.	-
 </s>
@@ -2354,9 +2354,9 @@ right	right	RB	-
 She	she	PRP	-
 touches	touch	VBZ	Touching
 her	her	PRP$	-
-thick	thick	JJ	A-SubjectiveAssessment
+thick	thick	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-curly	curly	JJ	A-SubjectiveAssessment
+curly	curly	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 brown	brown	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
@@ -2389,7 +2389,7 @@ up	up	RB	-
 a	a	DT	-
 hill	hill	NN	Location
 .	.	.	-
-Tall	tall	JJ	A-SubjectiveAssessment
+Tall	tall	JJ	A-SubjectiveAssessmentAttribute
 grass	gras	NN	Vegetable
 and	and	CC	-
 plants	plant	NNS	Vegetable
@@ -2444,7 +2444,7 @@ in	in	IN	-
 a	a	DT	-
 bright	bright	JJ	A-ColorAttribute
 ,	,	,	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 clearing	clearing	NN	Location
 .	.	.	-
 </s>
@@ -2462,13 +2462,13 @@ three	three	CD	-
 stand	stand	VBP	PositionalAttribute
 on	on	IN	-
 the	the	DT	-
-empty	empty	JJ	A-SubjectiveAssessment
+empty	empty	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 sun-bleached	sun-bleached	JJ	A-RadiatingLight
 ground	ground	NN	Location
 ,	,	,	-
 looking	look	VBG	Seeing
-bewildered	bewildered	JJ	A-SubjectiveAssessment
+bewildered	bewildered	JJ	A-SubjectiveAssessmentAttribute
 .	.	.	-
 </s>
 <s>
@@ -2545,7 +2545,7 @@ follows	follow	VBZ	Process
 James	james	NNP	Human
 across	across	IN	-
 the	the	DT	-
-pebbly	pebbly	JJ	A-SubjectiveAssessment
+pebbly	pebbly	JJ	A-SubjectiveAssessmentAttribute
 ground	ground	NN	Location
 .	.	.	-
 </s>
@@ -2591,16 +2591,16 @@ walk	walk	VBP	Walking
 together	together	RB	-
 across	across	IN	-
 the	the	DT	-
-dusty	dusty	JJ	A-SubjectiveAssessment
+dusty	dusty	JJ	A-SubjectiveAssessmentAttribute
 ground	ground	NN	Location
 ,	,	,	-
 heading	head	VBG	Motion
 toward	toward	IN	-
 the	the	DT	-
-leafy	leafy	JJ	A-SubjectiveAssessment
+leafy	leafy	JJ	A-SubjectiveAssessmentAttribute
 plants	plant	NNS	Vegetable
 and	and	CC	-
-gentle	gentle	JJ	A-SubjectiveAssessment
+gentle	gentle	JJ	A-SubjectiveAssessmentAttribute
 mountain	mountain	NN	Location
 .	.	.	-
 The	the	DT	-
@@ -2659,7 +2659,7 @@ yes	yes	RB	-
 our	our	PRP$	-
 luggage	luggage	NN	Object
 is	be	VBZ	Aux
-ready	ready	JJ	A-SubjectiveAssessment
+ready	ready	JJ	A-SubjectiveAssessmentAttribute
 ...	...	:	-
 </s>
 <s>
@@ -2710,7 +2710,7 @@ While	while	IN	-
 ...	...	:	-
 with	with	IN	-
 a	a	DT	-
-long	long	JJ	A-SubjectiveAssessment
+long	long	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 blank	blank	JJ	A-ColorAttribute
 line	line	NN	FilmLanguage
@@ -2732,7 +2732,7 @@ their	their	PRP$	-
 dog	dog	NN	Animal
 along	along	IN	-
 an	an	DT	-
-urban	urban	JJ	A_PositionalAttribute
+urban	urban	JJ	A-PositionalAttribute
 beach	beach	NN	Location
 .	.	.	-
 They	they	PRP	-
@@ -2742,7 +2742,7 @@ jogger	jogger	NN	Human
 running	run	VBG	Walking
 in	in	IN	-
 the	the	DT	-
-opposite	opposite	JJ	A_SubjectiveAssessment
+opposite	opposite	JJ	A-SubjectiveAssessmentAttribute
 direction	direction	NN	Location
 .	.	.	-
 The	the	DT	-
@@ -2771,28 +2771,28 @@ owners	owner	NNS	Human
 .	.	.	-
 Words	word	NNS	FilmLanguage
 in	in	IN	-
-black	black	JJ	A_ColorAttribute
+black	black	JJ	A-ColorAttribute
 letters	letter	NNS	FilmLanguage
 on	on	IN	-
 a	a	DT	-
-white	white	JJ	A_ColorAttribute
+white	white	JJ	A-ColorAttribute
 background	background	NN	FilmLanguage
 .	.	.	-
 what	what	WDT	-
 happens	happen	VBZ	Process
 while	while	IN	-
 ,	,	,	-
-followed	followed	JJ	A_SubjectiveAssessment
+followed	followed	JJ	A-SubjectiveAssessmentAttribute
 by	by	IN	-
 a	a	DT	-
-long	long	JJ	A_SubjectiveAssessment
-black	black	JJ	A_ColorAttribute
+long	long	JJ	A-SubjectiveAssessmentAttribute
+black	black	JJ	A-ColorAttribute
 line	line	NN	FilmLanguage
 .	.	.	-
 </s>
 <s>
 A	a	DT	-
-white	white	JJ	A_ColorAttribute
+white	white	JJ	A-ColorAttribute
 saloon	saloon	NN	-
 pulls_up	pull_up	VBZ	Motion
 alongside	alongside	IN	-
@@ -2801,7 +2801,7 @@ beach	beach	NN	Location
 wall	wall	NN	-
 .	.	.	-
 The	the	DT	-
-male	male	JJ	A_Human
+male	male	JJ	A-Human
 driver	driver	NN	Human
 is	be	VBZ	located
 on	on	IN	-
@@ -2814,12 +2814,12 @@ The	the	DT	-
 man	man	NN	Human
 in	in	IN	-
 his	his	PRP$	-
-mid	mid	JJ	A_SubjectiveAssessment
+mid	mid	JJ	A-SubjectiveAssessmentAttribute
 30	30	CD	-
 's	's	POS	-
 with	with	IN	-
 a	a	DT	-
-sandy	sandy	JJ	A_ColorAttribute
+sandy	sandy	JJ	A-ColorAttribute
 beard	beard	NN	BodyPart
 ,	,	,	-
 sighs	sigh	VBZ	Gesture
@@ -2835,7 +2835,7 @@ suit	suit	NN	Clothing
 ,	,	,	-
 his	his	PRP$	-
 tie	tie	NN	Clothing
-loosened	loosened	JJ	A_SubjectiveAssessment
+loosened	loosened	JJ	A-SubjectiveAssessmentAttribute
 at	at	IN	-
 the	the	DT	-
 collar	collar	NN	BodyPart
@@ -2850,7 +2850,7 @@ sunglasses	sunglasse	NNS	Clothing
 </s>
 <s>
 In	in	IN	-
-white	white	JJ	A_ColorAttribute
+white	white	JJ	A-ColorAttribute
 letters	letter	NNS	FilmLanguage
 ,	,	,	-
 JAMES	james	NNP	Human
@@ -2874,7 +2874,7 @@ shoulder	shoulder	NN	BodyPart
 </s>
 <s>
 Having	have	VBG	Aux
-taken_off	take_off	VBN	A_Dressing
+taken_off	take_off	VBN	A-Dressing
 his	his	PRP$	-
 suit	suit	NN	Clothing
 ,	,	,	-
@@ -2882,7 +2882,7 @@ James	james	NNP	Human
 lies_back	lie_back	VBZ	BodyMotion
 on	on	IN	-
 a	a	DT	-
-thin	thin	JJ	A_SubjectiveAssessment
+thin	thin	JJ	A-SubjectiveAssessmentAttribute
 towel	towel	NN	Object
 on	on	IN	-
 the	the	DT	-
@@ -2962,7 +2962,7 @@ of	of	IN	-
 Barcelona	barcelona	NNP	Location
 is	be	VBZ	Aux
 a	a	DT	-
-hazy	hazy	JJ	A_RadiatingLight
+hazy	hazy	JJ	A-RadiatingLight
 outline	outline	NN	FilmLanguage
 .	.	.	-
 </s>
@@ -2983,11 +2983,11 @@ face	face	VB	Process
 the	the	DT	-
 sea	sea	NN	Location
 ,	,	,	-
-puzzled	puzzled	VBN	A_StateOfMind
+puzzled	puzzled	VBN	A-StateOfMind
 by	by	IN	-
 the	the	DT	-
-high	high	JJ	A_SubjectiveAssessment
-pitched	pitched	JJ	A_RadiatingSound
+high	high	JJ	A-SubjectiveAssessmentAttribute
+pitched	pitched	JJ	A-RadiatingSound
 whine	whine	NN	RadiatingSound
 .	.	.	-
 </s>
@@ -3018,7 +3018,7 @@ clothes	clothe	NNS	Clothing
 He	he	PRP	-
 puts_on	put_on	VBZ	Dressing
 his	his	PRP$	-
-blue	blue	JJ	A_ColorAttribute
+blue	blue	JJ	A-ColorAttribute
 shirt	shirt	NN	Clothing
 ,	,	,	-
 his	his	PRP$	-
@@ -3054,41 +3054,41 @@ of	of	IN	-
 trees	tree	NNS	Vegetable
 still	still	RB	-
 looking	look	VBG	Seeing
-puzzled	puzzled	VBN	A_StateOfMind
+puzzled	puzzled	VBN	A-StateOfMind
 .	.	.	-
 </s>
 <s>
 He	he	PRP	-
 clambers_up	clamber_up	VBZ	Walking
 a	a	DT	-
-sandy	sandy	JJ	A_SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 pathway	pathway	NN	Location
 to	to	TO	-
 the	the	DT	-
 top	top	NN	Location
 of	of	IN	-
 a	a	DT	-
-steep	steep	JJ	A_SubjectiveAssessment
-rocky	rocky	JJ	A_SubjectiveAssessment
+steep	steep	JJ	A-SubjectiveAssessmentAttribute
+rocky	rocky	JJ	A-SubjectiveAssessmentAttribute
 slope	slope	NN	Location
 ###	###	NN	-
 .	.	.	-
 </s>
 <s>
 A	a	DT	-
-middle	middle	JJ	A_SubjectiveAssessment
-aged	aged	JJ	A_SubjectiveAssessment
+middle	middle	JJ	A-SubjectiveAssessmentAttribute
+aged	aged	JJ	A-SubjectiveAssessmentAttribute
 man	man	NN	Human
 with	with	IN	-
-unkempt	unkempt	JJ	A_SubjectiveAssessment
-grey	grey	JJ	A_ColorAttribute
+unkempt	unkempt	JJ	A-SubjectiveAssessmentAttribute
+grey	grey	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
 ,	,	,	-
-heavy	heavy	JJ	A_SubjectiveAssessment
+heavy	heavy	JJ	A-SubjectiveAssessmentAttribute
 brows	brow	NNS	BodyPart
 and	and	CC	-
 a	a	DT	-
-bristly	bristly	JJ	A_SubjectiveAssessment
+bristly	bristly	JJ	A-SubjectiveAssessmentAttribute
 beard	beard	NN	BodyPart
 taps	tap	VBZ	Touching
 his	his	PRP$	-
@@ -3101,7 +3101,7 @@ fingers	finger	NNS	BodyPart
 He	he	PRP	-
 wears	wear	VBZ	Dressing
 a	a	DT	-
-green	green	JJ	A_ColorAttribute
+green	green	JJ	A-ColorAttribute
 vest	vest	NN	Clothing
 and	and	CC	-
 a	a	DT	-
@@ -3131,7 +3131,7 @@ a	a	DT	-
 tatoo	tatoo	NN	BodyPart
 on	on	IN	-
 his	his	PRP$	-
-upper	upper	JJ	A_PositionalAttribute
+upper	upper	JJ	A-PositionalAttribute
 arm	arm	NN	BodyPart
 and	and	CC	-
 a	a	DT	-
@@ -3158,8 +3158,8 @@ He	he	PRP	-
 peers	peer	VBZ	Seeing
 at	at	IN	-
 the	the	DT	-
-half	half	JJ	A_SubjectiveAssessment
-full	full	JJ	A_SubjectiveAssessment
+half	half	JJ	A-SubjectiveAssessmentAttribute
+full	full	JJ	A-SubjectiveAssessmentAttribute
 cup	cup	NN	Object
 of	of	IN	-
 coffee	coffee	NN	-
@@ -3171,7 +3171,7 @@ sip	sip	NN	Drinking
 </s>
 <s>
 In	in	IN	-
-white	white	JJ	A_ColorAttribute
+white	white	JJ	A-ColorAttribute
 letters	letter	NNS	FilmLanguage
 :	:	:	-
 RICK	rick	NNP	Human
@@ -3189,7 +3189,7 @@ beneath	beneath	IN	-
 some	some	DT	-
 trees	tree	NNS	Vegetable
 in	in	IN	-
-full	full	JJ	A_SubjectiveAssessment
+full	full	JJ	A-SubjectiveAssessmentAttribute
 leaf	leaf	NN	-
 .	.	.	-
 He	he	PRP	-
@@ -3209,7 +3209,7 @@ the	the	DT	-
 coffee	coffee	NN	-
 ,	,	,	-
 his	his	PRP$	-
-right	right	JJ	A_PositionalAttribute
+right	right	JJ	A-PositionalAttribute
 knee	knee	NN	BodyPart
 jigging	jigg	VBG	BodyMotion
 up	up	RB	-
@@ -3240,7 +3240,7 @@ He	he	PRP	-
 reaches	reach	VBZ	Touching
 in	in	IN	-
 the	the	DT	-
-back	back	JJ	A_PositionalAttribute
+back	back	JJ	A-PositionalAttribute
 pocket	pocket	NN	Clothing
 of	of	IN	-
 his	his	PRP$	-
@@ -3269,7 +3269,7 @@ one	one	CD	-
 taps	tap	NNS	Clothing
 on	on	IN	-
 the	the	DT	-
-green	green	JJ	A_ColorAttribute
+green	green	JJ	A-ColorAttribute
 ring	ring	NN	Object
 icon	icon	NN	-
 and	and	CC	-
@@ -3285,8 +3285,8 @@ ear	ear	NN	BodyPart
 He	he	PRP	-
 hears	hear	VBZ	Hearing
 the	the	DT	-
-high	high	JJ	A_SubjectiveAssessment
-pitched	pitched	JJ	A_RadiatingSound
+high	high	JJ	A-SubjectiveAssessmentAttribute
+pitched	pitched	JJ	A-RadiatingSound
 sound	sound	NN	RadiatingSound
 .	.	.	-
 </s>
@@ -3329,8 +3329,8 @@ goes	go	VBZ	Motion
 A	a	DT	-
 girl	girl	NN	Human
 with	with	IN	-
-ringletted	ringletted	JJ	A_SubjectiveAssessment
-auburn	auburn	JJ	A_ColorAttribute
+ringletted	ringletted	JJ	A-SubjectiveAssessmentAttribute
+auburn	auburn	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
 ,	,	,	-
 heaves	heave	VBZ	Gesture
@@ -3345,7 +3345,7 @@ pencil	pencil	NN	Object
 </s>
 <s>
 In	in	IN	-
-white	white	JJ	A_ColorAttribute
+white	white	JJ	A-ColorAttribute
 letters	letter	NNS	FilmLanguage
 :	:	:	-
 JESS	jess	NNP	Human
@@ -3372,7 +3372,7 @@ phone	phone	NN	Object
 She	she	PRP	-
 rings_off	rings_off	VBZ	Process
 ,	,	,	-
-perplexed	perplexed	VBN	A_StateOfMind
+perplexed	perplexed	VBN	A-StateOfMind
 by	by	IN	-
 the	the	DT	-
 sound	sound	NN	RadiatingSound
@@ -3387,7 +3387,7 @@ her	her	PRP	-
 <s>
 Wearing	wear	VBG	Dressing
 a	a	DT	-
-hooded	hooded	JJ	A_Clothing
+hooded	hooded	JJ	A-Clothing
 jacket	jacket	NN	Clothing
 ,	,	,	-
 she	she	PRP	-
@@ -3399,15 +3399,15 @@ outside	outside	RB	Location
 She	she	PRP	-
 climbs	climb	VBZ	Walking
 an	an	DT	-
-overgrown	overgrown	JJ	A_PositionalAttribute
+overgrown	overgrown	JJ	A-PositionalAttribute
 slope	slope	NN	Location
 ,	,	,	-
 the	the	DT	-
 sunlight	sunlight	NN	RadiatingLight
-reflected	reflected	JJ	A_SubjectiveAssessment
+reflected	reflected	JJ	A-SubjectiveAssessmentAttribute
 on	on	IN	-
 her	her	PRP$	-
-long	long	JJ	A_SubjectiveAssessment
+long	long	JJ	A-SubjectiveAssessmentAttribute
 ringlets	ringlet	NNS	BodyPart
 .	.	.	-
 </s>
@@ -3424,7 +3424,7 @@ She	she	PRP	-
 runs_out	run_out	VBZ	Walking
 onto	onto	IN	-
 a	a	DT	-
-sun_bleached	sun_bleached	JJ	A_RadiatingLight
+sun_bleached	sun_bleached	JJ	A-RadiatingLight
 beach	beach	NN	Location
 ,	,	,	-
 where	where	WRB	-
@@ -3441,7 +3441,7 @@ puzzlement	puzzlement	NN	StateOfMind
 </s>
 <s>
 A	a	DT	-
-disembodied	disembodied	JJ	A_SubjectiveAssessment
+disembodied	disembodied	JJ	A-SubjectiveAssessmentAttribute
 voice	voice	NN	RadiatingSound
 .	.	.	-
 </s>
@@ -3498,8 +3498,8 @@ together	together	RB	-
 </s>
 <s>
 A	a	DT	-
-young	young	JJ	A_SubjectiveAssessment
-black	black	JJ	A_ColorAttribute
+young	young	JJ	A-SubjectiveAssessmentAttribute
+black	black	JJ	A-ColorAttribute
 woman	woman	NN	Human
 is	be	VBZ	located
 on	on	IN	-
@@ -3540,7 +3540,7 @@ yes	yes	UH	-
 our	our	PRP$	-
 luggage	luggage	NN	Object
 is	be	VBZ	Aux
-ready	ready	JJ	A_SubjectiveAssessment
+ready	ready	JJ	A-SubjectiveAssessmentAttribute
 .	.	.	-
 </s>
 <s>
@@ -3570,45 +3570,45 @@ you	you	PRP	-
 </s>
 <s>
 In	in	IN	-
-white	white	JJ	A_ColorAttribute
+white	white	JJ	A-ColorAttribute
 capitals	capital	NNS	FilmLanguage
 ,	,	,	-
 Zoe	zoe	NNP	Human
 ,	,	,	-
 the	the	DT	-
-next	next	JJ	A_PositionalAttribute
+next	next	JJ	A-PositionalAttribute
 one	one	NN	-
 .	.	.	-
 </s>
 <s>
 cut	cut	NN	FilmLanguage
 to	to	TO	-
-black	black	JJ	A_ColorAttribute
+black	black	JJ	A-ColorAttribute
 .	.	.	-
 The	the	DT	-
 title	title	NN	FilmLanguage
 again	again	RB	Time
 ,	,	,	-
 in	in	IN	-
-white	white	JJ	A_ColorAttribute
+white	white	JJ	A-ColorAttribute
 letters	letter	NNS	FilmLanguage
 on	on	IN	-
 a	a	DT	-
-black	black	JJ	A_ColorAttribute
+black	black	JJ	A-ColorAttribute
 background	background	NN	FilmLanguage
 :	:	:	-
 what	what	WP	-
 happens	happen	VBZ	Process
 while	while	IN	-
 ,	,	,	-
-followed	followed	JJ	A_SubjectiveAssessment
+followed	followed	JJ	A-SubjectiveAssessmentAttribute
 by	by	IN	-
 a	a	DT	-
-long	long	JJ	A_SubjectiveAssessment
-black	black	JJ	A_ColorAttribute
+long	long	JJ	A-SubjectiveAssessmentAttribute
+black	black	JJ	A-ColorAttribute
 line	line	NN	FilmLanguage
 .	.	.	-
-Directed	directed	VBN	A_FilmLanguage
+Directed	directed	VBN	A-FilmLanguage
 by	by	IN	-
 Nuria	nuria	NNP	-
 Nia	nia	NNP	-
@@ -3629,7 +3629,7 @@ their	their	PRP$	-
 dog	dog	NN	Animal
 on	on	IN	-
 the	the	DT	-
-flat	flat	JJ	A-SubjectiveAssessment
+flat	flat	JJ	A-SubjectiveAssessmentAttribute
 beach	beach	NN	Location
 and	and	CC	-
 a	a	DT	-
@@ -3643,7 +3643,7 @@ above	above	RB	-
 is	be	VBZ	Aux
 pale	pale	JJ	A-ColorAttribute
 and	and	CC	-
-dappled	dappled	JJ	A-SubjectiveAssessment
+dappled	dappled	JJ	A-SubjectiveAssessmentAttribute
 with	with	IN	-
 light	light	JJ	A-ColorAttribute
 grey	grey	JJ	A-ColorAttribute
@@ -3667,7 +3667,7 @@ A	a	DT	-
 man	man	NN	Human
 parks	park	VBZ	Motion
 a	a	DT	-
-sleek	sleek	JJ	A-SubjectiveAssessment
+sleek	sleek	JJ	A-SubjectiveAssessmentAttribute
 white	white	JJ	A-ColorAttribute
 BMW	bmw	NN	-
 on	on	IN	-
@@ -3698,7 +3698,7 @@ The	the	DT	-
 man	man	NN	Human
 put	put	VBD	Putting
 a	a	DT	-
-brief	brief	JJ	A-SubjectiveAssessment
+brief	brief	JJ	A-SubjectiveAssessmentAttribute
 case	case	NN	Object
 in	in	IN	-
 the	the	DT	-
@@ -3709,7 +3709,7 @@ car	car	NN	-
 and	and	CC	-
 took_out	took_out	VBD	Putting
 a	a	DT	-
-stripy	stripy	JJ	A-SubjectiveAssessment
+stripy	stripy	JJ	A-SubjectiveAssessmentAttribute
 cotton	cotton	NN	-
 bag	bag	NN	Clothing
 .	.	.	-
@@ -3721,7 +3721,7 @@ suit	suit	NN	Clothing
 .	.	.	-
 He	he	PRP	-
 has	have	VBZ	possesses
-short	short	JJ	A-SubjectiveAssessment
+short	short	JJ	A-SubjectiveAssessmentAttribute
 light	light	JJ	A-ColorAttribute
 brown	brown	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
@@ -3771,7 +3771,7 @@ a	a	DT	-
 towel	towel	NN	Object
 on	on	IN	-
 the	the	DT	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 beach	beach	NN	Location
 .	.	.	-
 </s>
@@ -3828,16 +3828,16 @@ aside	aside	RB	Location
 He	he	PRP	-
 's	be	VBZ	Aux
 a	a	DT	-
-craggy	craggy	JJ	A-SubjectiveAssessment
-faced	faced	JJ	A-SubjectiveAssessment
+craggy	craggy	JJ	A-SubjectiveAssessmentAttribute
+faced	faced	JJ	A-SubjectiveAssessmentAttribute
 man	man	NN	Human
 in	in	IN	-
 his	his	PRP$	-
-late	late	JJ	A-SubjectiveAssessment
+late	late	JJ	A-SubjectiveAssessmentAttribute
 forties	fortie	NNS	-
 with	with	IN	-
 a	a	DT	-
-slight	slight	JJ	A-SubjectiveAssessment
+slight	slight	JJ	A-SubjectiveAssessmentAttribute
 paunch	paunch	NN	BodyPart
 .	.	.	-
 He	he	PRP	-
@@ -3859,7 +3859,7 @@ in	in	IN	-
 the	the	DT	-
 distance	distance	NN	Location
 with	with	IN	-
-industrial	industrial	JJ	A-SubjectiveAssessment
+industrial	industrial	JJ	A-SubjectiveAssessmentAttribute
 buildings	building	NNS	Location
 running_along	run_along	VBG	located
 it	it	PRP	-
@@ -3876,7 +3876,7 @@ direction	direction	NN	Location
 .	.	.	-
 As	as	IN	-
 the	the	DT	-
-strange	strange	JJ	A-SubjectiveAssessment
+strange	strange	JJ	A-SubjectiveAssessmentAttribute
 sound	sound	NN	RadiatingSound
 begins	begin	VBZ	Process
 again	again	RB	Time
@@ -3953,10 +3953,10 @@ running_up	run_up	VBG	Walking
 a	a	DT	-
 hill	hill	NN	Location
 between	between	IN	-
-scrubby	scrubby	JJ	A-SubjectiveAssessment
+scrubby	scrubby	JJ	A-SubjectiveAssessmentAttribute
 bushes	bushe	NNS	Vegetable
 .	.	.	-
-Further	further	JJ	A-SubjectiveAssessment
+Further	further	JJ	A-SubjectiveAssessmentAttribute
 up	up	RB	-
 are	be	VBP	located
 craggy	craggy	JJ	A-SubjectiveAssessmentAttribute
@@ -3970,8 +3970,8 @@ man	man	NN	Human
 sits	sit	VBZ	BodyMotion
 tapping	tap	VBG	Touching
 a	a	DT	-
-lidded	lidded	JJ	A-SubjectiveAssessment
-takeaway	takeaway	JJ	A-SubjectiveAssessment
+lidded	lidded	JJ	A-SubjectiveAssessmentAttribute
+takeaway	takeaway	JJ	A-SubjectiveAssessmentAttribute
 coffee	coffee	NN	-
 cup	cup	NN	Object
 with	with	IN	-
@@ -3992,8 +3992,8 @@ He	he	PRP	-
 about	about	RB	-
 60	60	CD	-
 with	with	IN	-
-fine	fine	JJ	A-SubjectiveAssessment
-shaggy	shaggy	JJ	A-SubjectiveAssessment
+fine	fine	JJ	A-SubjectiveAssessmentAttribute
+shaggy	shaggy	JJ	A-SubjectiveAssessmentAttribute
 grey	grey	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
 and	and	CC	-
@@ -4007,7 +4007,7 @@ head	head	NN	BodyPart
 and	and	CC	-
 lets_out	let_out	VBZ	Process
 a	a	DT	-
-long	long	JJ	A-SubjectiveAssessment
+long	long	JJ	A-SubjectiveAssessmentAttribute
 weary	weary	JJ	A-StateOfMind
 breath	breath	NN	Gesture
 .	.	.	-
@@ -4028,8 +4028,8 @@ off	off	RP	-
 He	he	PRP	-
 holds_up	hold_up	VBZ	Touching
 the	the	DT	-
-half	half	JJ	A-SubjectiveAssessment
-full	full	JJ	A-SubjectiveAssessment
+half	half	JJ	A-SubjectiveAssessmentAttribute
+full	full	JJ	A-SubjectiveAssessmentAttribute
 cup	cup	NN	Object
 of	of	IN	-
 black	black	JJ	A-ColorAttribute
@@ -4106,7 +4106,7 @@ mobile	mobile	NN	Object
 phone	phone	NN	Object
 from	from	IN	-
 his	his	PRP$	-
-back	back	JJ	ALocationPositionalAttribute
+back	back	JJ	A-PositionalAttribute
 pocket	pocket	NN	Clothing
 ,	,	,	-
 opens	open	VBZ	Motion
@@ -4168,7 +4168,7 @@ he	he	PRP	-
 goes	go	VBZ	Motion
 .	.	.	-
 A	a	DT	-
-young	young	JJ	A-SubjectiveAssessment
+young	young	JJ	A-SubjectiveAssessmentAttribute
 woman	woman	NN	Human
 of	of	IN	-
 about	about	RB	-
@@ -4183,7 +4183,7 @@ typing	type	VBG	Process
 <s>
 She	she	PRP	-
 has	have	VBZ	possesses
-long	long	JJ	A-SubjectiveAssessment
+long	long	JJ	A-SubjectiveAssessmentAttribute
 red	red	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
 that	that	WDT	-
@@ -4257,7 +4257,7 @@ walks_up	walk_up	VBZ	Walking
 a	a	DT	-
 hill	hill	NN	Location
 .	.	.	-
-Tall	tall	JJ	A-SubjectiveAssessment
+Tall	tall	JJ	A-SubjectiveAssessmentAttribute
 grass	gras	NN	Vegetable
 and	and	CC	-
 bushes	bushe	NNS	Vegetable
@@ -4284,7 +4284,7 @@ Jess	jess	NNP	Human
 stand	stand	VBP	PositionalAttribute
 in	in	IN	-
 a	a	DT	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 clearing	clearing	NN	Location
 at	at	IN	-
 the	the	DT	-
@@ -4453,7 +4453,7 @@ yes	yes	RB	-
 our	our	PRP$	-
 luggage	luggage	NN	Object
 is	be	VBZ	Aux
-ready	ready	JJ	A-SubjectiveAssessment
+ready	ready	JJ	A-SubjectiveAssessmentAttribute
 .	.	.	-
 Listen	listen	VB	Hearing
 ,	,	,	-
@@ -4489,7 +4489,7 @@ One	one	CD	-
 <text id='../viwsymfony2/data/WHWENPr/EricssonAU/data/stanford.txt'>
 <s>
 A	a	DT	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 promenade	promenade	NN	Location
 at	at	IN	-
 the	the	DT	-
@@ -4510,7 +4510,7 @@ a	a	DT	-
 couple	couple	NN	Human
 with	with	IN	-
 a	a	DT	-
-large	large	JJ	A-SubjectiveAssessment
+large	large	JJ	A-SubjectiveAssessmentAttribute
 dog	dog	NN	Animal
 ,	,	,	-
 which	which	WDT	-
@@ -4547,7 +4547,7 @@ a	a	DT	-
 suit	suit	NN	Clothing
 parks	park	VBZ	Motion
 his	his	PRP$	-
-expensive	expensive	JJ	A-SubjectiveAssessment
+expensive	expensive	JJ	A-SubjectiveAssessmentAttribute
 car	car	NN	-
 by	by	IN	-
 the	the	DT	-
@@ -4596,7 +4596,7 @@ He	he	PRP	-
 's	be	VBZ	Aux
 carrying	carry	VBG	Process
 a	a	DT	-
-stripy	stripy	JJ	A-SubjectiveAssessment
+stripy	stripy	JJ	A-SubjectiveAssessmentAttribute
 beach	beach	NN	Location
 bag	bag	NN	Clothing
 .	.	.	-
@@ -4628,7 +4628,7 @@ wearily	wearily	RB	-
 then	then	RB	Time
 runs	run	VBZ	BodyMotion
 his	his	PRP$	-
-left	left	JJ	ATimePositionalAttribute
+left	left	JJ	A-PositionalAttribute
 hand	hand	NN	BodyPart
 over	over	IN	-
 the	the	DT	-
@@ -4764,11 +4764,11 @@ promenade	promenade	NN	Location
 and	and	CC	-
 scrambles_up	scramble_up	VBZ	Walking
 a	a	DT	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 embankment	embankment	NN	Location
 overgrown	overgrown	JJ	A-PositionalAttribute
 with	with	IN	-
-dry	dry	JJ	A-SubjectiveAssessment
+dry	dry	JJ	A-SubjectiveAssessmentAttribute
 shrubs	shrub	NNS	Vegetable
 ,	,	,	-
 grasses	grasse	NNS	Vegetable
@@ -4781,7 +4781,7 @@ Two	two	CD	-
 hands	hand	NNS	BodyPart
 holding	hold	VBG	Touching
 a	a	DT	-
-takeaway	takeaway	JJ	A-SubjectiveAssessment
+takeaway	takeaway	JJ	A-SubjectiveAssessmentAttribute
 coffee	coffee	NN	-
 cup	cup	NN	Object
 .	.	.	-
@@ -4789,19 +4789,19 @@ They	they	PRP	-
 belong	belong	VBP	possesses
 to	to	TO	-
 a	a	DT	-
-thick-set	thick-set	JJ	A-SubjectiveAssessment
+thick-set	thick-set	JJ	A-SubjectiveAssessmentAttribute
 man	man	NN	Human
 with	with	IN	-
 a	a	DT	-
 greying	greying	JJ	A-ColorAttribute
 beard	beard	NN	BodyPart
 and	and	CC	-
-fuzzy	fuzzy	JJ	A-SubjectiveAssessment
+fuzzy	fuzzy	JJ	A-SubjectiveAssessmentAttribute
 grey	grey	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
 .	.	.	-
 His	his	PRP$	-
-large	large	JJ	A-SubjectiveAssessment
+large	large	JJ	A-SubjectiveAssessmentAttribute
 eyes	eye	NNS	BodyPart
 look_about	look_about	VBP	Seeing
 him	him	PRP	-
@@ -4850,7 +4850,7 @@ a	a	DT	-
 park	park	NN	Location
 bench	bench	NN	Object
 in	in	IN	-
-dappled	dappled	JJ	A-SubjectiveAssessment
+dappled	dappled	JJ	A-SubjectiveAssessmentAttribute
 shade	shade	NN	-
 ,	,	,	-
 wearing	wear	VBG	Dressing
@@ -4904,7 +4904,7 @@ a	a	DT	-
 phone	phone	NN	Object
 from	from	IN	-
 his	his	PRP$	-
-back	back	JJ	ALocationPositionalAttribute
+back	back	JJ	A-PositionalAttribute
 pocket	pocket	NN	Clothing
 ,	,	,	-
 he	he	PRP	-
@@ -4919,7 +4919,7 @@ the	the	DT	-
 number	number	NN	-
 of	of	IN	-
 someone	someone	NN	-
-called	called	JJ	A-SubjectiveAssessment
+called	called	JJ	A-SubjectiveAssessmentAttribute
 Craig_Anderson	craig_anderson	NNP	Human
 .	.	.	-
 </s>
@@ -4964,10 +4964,10 @@ head	head	NN	BodyPart
 </s>
 <s>
 A	a	DT	-
-young	young	JJ	A-SubjectiveAssessment
+young	young	JJ	A-SubjectiveAssessmentAttribute
 woman	woman	NN	Human
 with	with	IN	-
-springy	springy	JJ	A-SubjectiveAssessment
+springy	springy	JJ	A-SubjectiveAssessmentAttribute
 red-brown	red-brown	JJ	A-ColorAttribute
 curls	curl	NNS	BodyPart
 is	be	VBZ	Aux
@@ -4986,7 +4986,7 @@ student	student	NN	Human
 She	she	PRP	-
 searches	search	VBZ	IntentionalPsychologicalProcess
 her	her	PRP$	-
-cluttered	cluttered	JJ	A-SubjectiveAssessment
+cluttered	cluttered	JJ	A-SubjectiveAssessmentAttribute
 desk	desk	NN	Object
 .	.	.	-
 </s>
@@ -5013,7 +5013,7 @@ Outside	outside	RB	Location
 dressed	dressed	VBN	A-Dressing
 in	in	IN	-
 a	a	DT	-
-warm	warm	JJ	A-SubjectiveAssessment
+warm	warm	JJ	A-SubjectiveAssessmentAttribute
 jacket	jacket	NN	Clothing
 ,	,	,	-
 jeans	jean	NNS	Clothing
@@ -5037,9 +5037,9 @@ sun	sun	NN	RadiatingLight
 glinting	glint	VBG	RadiatingLight
 on	on	IN	-
 her	her	PRP$	-
-long	long	JJ	A-SubjectiveAssessment
+long	long	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-springy	springy	JJ	A-SubjectiveAssessment
+springy	springy	JJ	A-SubjectiveAssessmentAttribute
 hair	hair	NN	BodyPart
 .	.	.	-
 She	she	PRP	-
@@ -5071,7 +5071,7 @@ on	on	IN	-
 an	an	DT	-
 expanse	expanse	NN	Location
 of	of	IN	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 dirt	dirt	NN	Location
 .	.	.	-
 Jess	jess	NNP	Human
@@ -5093,7 +5093,7 @@ look	look	VBP	Seeing
 baffled	baffled	JJ	A-StateOfMind
 by	by	IN	-
 the	the	DT	-
-disembodied	disembodied	JJ	A-SubjectiveAssessment
+disembodied	disembodied	JJ	A-SubjectiveAssessmentAttribute
 voice	voice	NN	RadiatingSound
 .	.	.	-
 </s>
@@ -5215,7 +5215,7 @@ yes	yes	RB	-
 our	our	PRP$	-
 luggage	luggage	NN	Object
 is	be	VBZ	Aux
-ready	ready	JJ	A-SubjectiveAssessment
+ready	ready	JJ	A-SubjectiveAssessmentAttribute
 ...	...	:	-
 ''	''	''	-
 </s>
@@ -5275,7 +5275,7 @@ their	their	PRP$	-
 dog	dog	NN	Animal
 along	along	IN	-
 a	a	DT	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 promenade	promenade	NN	Location
 ,	,	,	-
 passing	pass	VBG	Motion
@@ -5284,7 +5284,7 @@ jogger	jogger	NN	Human
 going	go	VBG	Motion
 in	in	IN	-
 the	the	DT	-
-opposite	opposite	JJ	A-SubjectiveAssessment
+opposite	opposite	JJ	A-SubjectiveAssessmentAttribute
 direction	direction	NN	Location
 .	.	.	-
 </s>
@@ -5309,9 +5309,9 @@ driver	driver	NN	Human
 ,	,	,	-
 who	who	WP	-
 is	be	VBZ	Aux
-having	have	VBG	Possesses
+having	have	VBG	possesses
 an	an	DT	-
-animated	animated	JJ	A-SubjectiveAssessment
+animated	animated	JJ	A-SubjectiveAssessmentAttribute
 conversation	conversation	NN	-
 on	on	IN	-
 his	his	PRP$	-
@@ -5330,7 +5330,7 @@ then	then	RB	Time
 reaches	reach	VBZ	Touching
 into	into	IN	-
 his	his	PRP$	-
-inside	inside	JJ	ATimePositionalAttribute
+inside	inside	JJ	A-PositionalAttribute
 jacket	jacket	NN	Clothing
 pocket	pocket	NN	Clothing
 and	and	CC	-
@@ -5351,8 +5351,8 @@ fifty	fifty	CD	-
 and	and	CC	-
 has	have	VBZ	possesses
 a	a	DT	-
-short	short	JJ	A-SubjectiveAssessment
-trimmed	trimmed	JJ	A-SubjectiveAssessment
+short	short	JJ	A-SubjectiveAssessmentAttribute
+trimmed	trimmed	JJ	A-SubjectiveAssessmentAttribute
 beard	beard	NN	BodyPart
 .	.	.	-
 James	james	NNP	Human
@@ -5369,7 +5369,7 @@ the	the	DT	-
 promenade	promenade	NN	Location
 with	with	IN	-
 a	a	DT	-
-striped	striped	JJ	A-SubjectiveAssessment
+striped	striped	JJ	A-SubjectiveAssessmentAttribute
 bag	bag	NN	Clothing
 slung_over	slung_over	VBN	A-PositionalAttribute
 his	his	PRP$	-
@@ -5398,7 +5398,7 @@ a	a	DT	-
 towel	towel	NN	Object
 he	he	PRP	-
 has	have	VBZ	Aux
-spread	spread	JJ	A-SubjectiveAssessment
+spread	spread	JJ	A-SubjectiveAssessmentAttribute
 out	out	RP	Location
 on	on	IN	-
 the	the	DT	-
@@ -5445,7 +5445,7 @@ stands	stand	VBZ	PositionalAttribute
 and	and	CC	-
 walks	walk	VBZ	Walking
 a	a	DT	-
-little	little	JJ	A-SubjectiveAssessment
+little	little	JJ	A-SubjectiveAssessmentAttribute
 way	way	NN	Location
 across	across	IN	-
 the	the	DT	-
@@ -5493,7 +5493,7 @@ suit	suit	NN	Clothing
 lying	lie	VBG	BodyMotion
 in	in	IN	-
 a	a	DT	-
-crumpled	crumpled	JJ	A-SubjectiveAssessment
+crumpled	crumpled	JJ	A-SubjectiveAssessmentAttribute
 heap	heap	NN	BodyPart
 .	.	.	-
 </s>
@@ -5511,7 +5511,7 @@ looks_about	look_about	VBZ	Seeing
 perturbed	perturbed	VBN	A-StateOfMind
 by	by	IN	-
 the	the	DT	-
-strange	strange	JJ	A-SubjectiveAssessment
+strange	strange	JJ	A-SubjectiveAssessmentAttribute
 trilling	trilling	NN	RadiatingSound
 .	.	.	-
 </s>
@@ -5570,9 +5570,9 @@ it	it	PRP	-
 He	he	PRP	-
 heads_up	head_up	VBZ	Motion
 a	a	DT	-
-steep	steep	JJ	A-SubjectiveAssessment
+steep	steep	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-rugged	rugged	JJ	A-SubjectiveAssessment
+rugged	rugged	JJ	A-SubjectiveAssessmentAttribute
 slope	slope	NN	Location
 ,	,	,	-
 trying	try	VBG	Aux
@@ -5592,7 +5592,7 @@ man	man	NN	Human
 is	be	VBZ	Aux
 holding	hold	VBG	Touching
 a	a	DT	-
-takeaway	takeaway	JJ	A-SubjectiveAssessment
+takeaway	takeaway	JJ	A-SubjectiveAssessmentAttribute
 coffee	coffee	NN	-
 cup	cup	NN	Object
 in	in	IN	-
@@ -5625,7 +5625,7 @@ his	his	PRP$	-
 sixties	sixtie	NNS	-
 ,	,	,	-
 has	have	VBZ	possesses
-unruly	unruly	JJ	A-SubjectiveAssessment
+unruly	unruly	JJ	A-SubjectiveAssessmentAttribute
 collar	collar	NN	BodyPart
 length	length	NN	-
 hair	hair	NN	BodyPart
@@ -5646,7 +5646,7 @@ beard	beard	NN	BodyPart
 He	he	PRP	-
 lifts	lift	VBZ	Motion
 the	the	DT	-
-plastic	plastic	JJ	A-SubjectiveAssessment
+plastic	plastic	JJ	A-SubjectiveAssessmentAttribute
 lid	lid	NN	Object
 off	off	IN	-
 the	the	DT	-
@@ -5656,7 +5656,7 @@ peers	peer	VBZ	Seeing
 at	at	IN	-
 the	the	DT	-
 dark	dark	JJ	A-ColorAttribute
-liquid	liquid	JJ	A-SubjectiveAssessment
+liquid	liquid	JJ	A-SubjectiveAssessmentAttribute
 inside	inside	RB	Time
 ,	,	,	-
 hesitates	hesitate	VBZ	StateOfMind
@@ -5681,7 +5681,7 @@ is	be	VBZ	Aux
 sitting	sit	VBG	BodyMotion
 on	on	IN	-
 a	a	DT	-
-wooden	wooden	JJ	A-SubjectiveAssessment
+wooden	wooden	JJ	A-SubjectiveAssessmentAttribute
 chair	chair	NN	Object
 in	in	IN	-
 the	the	DT	-
@@ -5728,7 +5728,7 @@ smartphone	smartphone	NN	Object
 out	out	RP	Location
 of	of	IN	-
 his	his	PRP$	-
-back	back	JJ	ALocationPositionalAttribute
+back	back	JJ	A-PositionalAttribute
 pocket	pocket	NN	Clothing
 and	and	CC	-
 starts	start	VBZ	Aux
@@ -5771,7 +5771,7 @@ looking	look	VBG	Seeing
 intrigued	intrigued	VBN	A-StateOfMind
 by	by	IN	-
 the	the	DT	-
-strange	strange	JJ	A-SubjectiveAssessment
+strange	strange	JJ	A-SubjectiveAssessmentAttribute
 sound	sound	NN	RadiatingSound
 .	.	.	-
 He	he	PRP	-
@@ -5880,13 +5880,13 @@ and	and	CC	-
 Rick	rick	NNP	Human
 on	on	IN	-
 an	an	DT	-
-arid	arid	JJ	A-SubjectiveAssessment
+arid	arid	JJ	A-SubjectiveAssessmentAttribute
 patch	patch	NN	Location
 of	of	IN	-
 land	land	NN	Location
 bordered	bordered	VBN	A-PositionalAttribute
 by	by	IN	-
-parched	parched	JJ	A-SubjectiveAssessment
+parched	parched	JJ	A-SubjectiveAssessmentAttribute
 vegetation	vegetation	NNS	Vegetable
 .	.	.	-
 </s>
@@ -5903,7 +5903,7 @@ ca	ca	MD	-
 n't	n't	RB	-
 locate	locate	VB	IntentionalPsychologicalProcess
 the	the	DT	-
-exact	exact	JJ	A-SubjectiveAssessment
+exact	exact	JJ	A-SubjectiveAssessmentAttribute
 source	source	NN	-
 of	of	IN	-
 the	the	DT	-
@@ -5954,7 +5954,7 @@ her	her	PRP$	-
 shoulders	shoulder	NNS	BodyPart
 for	for	IN	-
 a	a	DT	-
-brief	brief	JJ	A-SubjectiveAssessment
+brief	brief	JJ	A-SubjectiveAssessmentAttribute
 moment	moment	NN	Time
 ,	,	,	-
 then	then	RB	Time
@@ -6011,7 +6011,7 @@ yes	yes	RB	-
 our	our	PRP$	-
 luggage	luggage	NN	Object
 is	be	VBZ	Aux
-ready	ready	JJ	A-SubjectiveAssessment
+ready	ready	JJ	A-SubjectiveAssessmentAttribute
 ...	...	:	-
 </s>
 <s>
@@ -6042,7 +6042,7 @@ one	one	NN	-
 It	it	PRP	-
 's	be	VBZ	Aux
 an	an	DT	-
-early	early	JJ	A-SubjectiveAssessment
+early	early	JJ	A-SubjectiveAssessmentAttribute
 grey	grey	JJ	A-ColorAttribute
 morning	morning	NN	Time
 at	at	IN	-
@@ -6054,15 +6054,15 @@ A	a	DT	-
 couple	couple	NN	Human
 dressed	dressed	VBN	A-Dressing
 in	in	IN	-
-warm	warm	JJ	A-SubjectiveAssessment
+warm	warm	JJ	A-SubjectiveAssessmentAttribute
 clothes	cloth	NNS	Clothing
 walk	walk	VBP	Walking
 their	their	PRP$	-
-great	great	JJ	A-SubjectiveAssessment
+great	great	JJ	A-SubjectiveAssessmentAttribute
 dane	dane	NN	Animal
 as	as	IN	-
 a	a	DT	-
-lone	lone	JJ	A-SubjectiveAssessment
+lone	lone	JJ	A-SubjectiveAssessmentAttribute
 jogger	jogger	NN	Human
 rambles	ramble	VBZ	Walking
 past	past	IN	-
@@ -6078,7 +6078,7 @@ alongside	alongside	IN	-
 a	a	DT	-
 road	road	NN	Location
 is	be	VBZ	Aux
-vacant	vacant	JJ	A-SubjectiveAssessment
+vacant	vacant	JJ	A-SubjectiveAssessmentAttribute
 .	.	.	-
 </s>
 <s>
@@ -6095,7 +6095,7 @@ BLANK	blank	JJ	A-ColorAttribute
 <s>
 A	a	DT	-
 white	white	JJ	A-ColorAttribute
-two-door	two-door	JJ	A-SubjectiveAssessment
+two-door	two-door	JJ	A-SubjectiveAssessmentAttribute
 coupe	coupe	NN	-
 pulls_up	pull_up	VBZ	Motion
 in	in	IN	-
@@ -6106,7 +6106,7 @@ sidewalk	sidewalk	NN	Location
 .	.	.	-
 It	it	PRP	-
 's	be	VBZ	Aux
-driven	driven	JJ	A-SubjectiveAssessment
+driven	driven	JJ	A-SubjectiveAssessmentAttribute
 by	by	IN	-
 a	a	DT	-
 man	man	NN	Human
@@ -6285,7 +6285,7 @@ briefs	brief	NNS	Clothing
 .	.	.	-
 On	on	IN	-
 the	the	DT	-
-opposite	opposite	JJ	A-SubjectiveAssessment
+opposite	opposite	JJ	A-SubjectiveAssessmentAttribute
 side	side	NN	Location
 of	of	IN	-
 the	the	DT	-
@@ -6296,7 +6296,7 @@ smokestack	smokestack	NN	-
 looms_over	loom_over	VBZ	Process
 a	a	DT	-
 city	city	NN	Location
-blurred	blurred	JJ	A-SubjectiveAssessment
+blurred	blurred	JJ	A-SubjectiveAssessmentAttribute
 by	by	IN	-
 the	the	DT	-
 haze	haze	NN	-
@@ -6398,7 +6398,7 @@ open	open	JJ	A-PositionalAttribute
 he	he	PRP	-
 strolls	stroll	VBZ	Walking
 beneath	beneath	IN	-
-tall	tall	JJ	A-SubjectiveAssessment
+tall	tall	JJ	A-SubjectiveAssessmentAttribute
 trees	tree	NNS	Vegetable
 .	.	.	-
 </s>
@@ -6408,7 +6408,7 @@ he	he	PRP	-
 climbs	climb	VBZ	Walking
 a	a	DT	-
 well	well	RB	-
-worn	worn	JJ	A-SubjectiveAssessment
+worn	worn	JJ	A-SubjectiveAssessmentAttribute
 dirt	dirt	NN	Location
 path	path	NN	Location
 up	up	IN	-
@@ -6439,12 +6439,12 @@ in	in	IN	-
 his	his	PRP$	-
 sixties	sixtie	NNS	-
 has	have	VBZ	possesses
-unruly	unruly	JJ	A-SubjectiveAssessment
+unruly	unruly	JJ	A-SubjectiveAssessmentAttribute
 grey	grey	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
 and	and	CC	-
 a	a	DT	-
-thick	thick	JJ	A-SubjectiveAssessment
+thick	thick	JJ	A-SubjectiveAssessmentAttribute
 beard	beard	NN	BodyPart
 .	.	.	-
 He	he	PRP	-
@@ -6552,11 +6552,11 @@ impatiently	impatiently	RB	-
 He	he	PRP	-
 grabs	grab	VBZ	Touching
 a	a	DT	-
-smart	smart	JJ	A-SubjectiveAssessment
+smart	smart	JJ	A-SubjectiveAssessmentAttribute
 phone	phone	NN	Object
 from	from	IN	-
 his	his	PRP$	-
-back	back	JJ	ALocationPositionalAttribute
+back	back	JJ	A-PositionalAttribute
 pocket	pocket	NN	Clothing
 .	.	.	-
 </s>
@@ -6623,11 +6623,11 @@ a	a	DT	-
 girl	girl	NN	Human
 in	in	IN	-
 her	her	PRP$	-
-early	early	JJ	A-SubjectiveAssessment
+early	early	JJ	A-SubjectiveAssessmentAttribute
 twenties	twentie	NNS	-
 with	with	IN	-
-thick	thick	JJ	A-SubjectiveAssessment
-curly	curly	JJ	A-SubjectiveAssessment
+thick	thick	JJ	A-SubjectiveAssessmentAttribute
+curly	curly	JJ	A-SubjectiveAssessmentAttribute
 red	red	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
 sits	sit	VBZ	BodyMotion
@@ -6698,7 +6698,7 @@ scarf	scarf	NN	Clothing
 She	she	PRP	-
 hikes_up	hike_up	VBZ	Walking
 an	an	DT	-
-overgrown	overgrown	JJ	A-SubjectiveAssessment
+overgrown	overgrown	JJ	A-SubjectiveAssessmentAttribute
 grassy	grassy	JJ	A-Vegetable
 slope	slope	NN	Location
 .	.	.	-
@@ -6716,7 +6716,7 @@ she	she	PRP	-
 rushes_off	rushe_off	VBZ	Walking
 behind	behind	IN	-
 some	some	DT	-
-tall	tall	JJ	A-SubjectiveAssessment
+tall	tall	JJ	A-SubjectiveAssessmentAttribute
 grasses	grasse	NNS	Vegetable
 .	.	.	-
 </s>
@@ -6730,7 +6730,7 @@ and	and	CC	-
 Rick	rick	NNP	Human
 on	on	IN	-
 a	a	DT	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 plateau	plateau	NN	Location
 atop	atop	IN	-
 the	the	DT	-
@@ -6881,7 +6881,7 @@ yes	yes	RB	-
 our	our	PRP$	-
 luggage	luggage	NN	Object
 is	be	VBZ	Aux
-ready	ready	JJ	A-SubjectiveAssessment
+ready	ready	JJ	A-SubjectiveAssessmentAttribute
 .	.	.	-
 '	'	''	-
 </s>
@@ -6959,7 +6959,7 @@ walk	walk	VBP	Walking
 by	by	IN	-
 with	with	IN	-
 a	a	DT	-
-big	big	JJ	A-SubjectiveAssessment
+big	big	JJ	A-SubjectiveAssessmentAttribute
 black	black	JJ	A-ColorAttribute
 dog	dog	NN	Animal
 .	.	.	-
@@ -7018,7 +7018,7 @@ beach	beach	NN	Location
 ,	,	,	-
 silver	silver	JJ	A-ColorAttribute
 with	with	IN	-
-sporty	sporty	JJ	A-SubjectiveAssessment
+sporty	sporty	JJ	A-SubjectiveAssessmentAttribute
 wheels	wheel	NNS	Object
 .	.	.	-
 Inside	inside	RB	Time
@@ -7059,7 +7059,7 @@ boot	boot	NN	Location
 ,	,	,	-
 gets_out	get_out	VBZ	Motion
 a	a	DT	-
-striped	striped	JJ	A-SubjectiveAssessment
+striped	striped	JJ	A-SubjectiveAssessmentAttribute
 bag	bag	NN	Clothing
 .	.	.	-
 </s>
@@ -7081,7 +7081,7 @@ sea	sea	NN	Location
 .	.	.	-
 Takes	take	VBZ	BodyMotion
 a	a	DT	-
-deep	deep	JJ	A-SubjectiveAssessment
+deep	deep	JJ	A-SubjectiveAssessmentAttribute
 breath	breath	NN	Gesture
 .	.	.	-
 </s>
@@ -7236,7 +7236,7 @@ him	him	PRP	-
 the	the	DT	-
 buildings	building	NNS	Location
 are	be	VBP	Aux
-silhouetted	silhouetted	JJ	A-SubjectiveAssessment
+silhouetted	silhouetted	JJ	A-SubjectiveAssessmentAttribute
 against	against	IN	-
 a	a	DT	-
 hazy	hazy	JJ	A-RadiatingLight
@@ -7288,7 +7288,7 @@ his	his	PRP$	-
 clothes	cloth	NNS	Clothing
 ,	,	,	-
 passing	pass	VBG	Motion
-small	small	JJ	A-SubjectiveAssessment
+small	small	JJ	A-SubjectiveAssessmentAttribute
 boats	boat	NNS	-
 out	out	RP	Location
 at	at	IN	-
@@ -7327,7 +7327,7 @@ shirt	shirt	NN	Clothing
 He	he	PRP	-
 climbs	climb	VBZ	Walking
 a	a	DT	-
-winding	winding	JJ	A-SubjectiveAssessment
+winding	winding	JJ	A-SubjectiveAssessmentAttribute
 path	path	NN	Location
 up	up	IN	-
 a	a	DT	-
@@ -7343,7 +7343,7 @@ business	busines	NN	-
 shoes	shoe	NNS	Clothing
 .	.	.	-
 A	a	DT	-
-takeaway	takeaway	JJ	A-SubjectiveAssessment
+takeaway	takeaway	JJ	A-SubjectiveAssessmentAttribute
 coffee	coffee	NN	-
 cup	cup	NN	Object
 in	in	IN	-
@@ -7361,7 +7361,7 @@ grey	grey	JJ	A-ColorAttribute
 haired	haired	JJ	A-BodyPart
 man	man	NN	Human
 with	with	IN	-
-heavy	heavy	JJ	A-SubjectiveAssessment
+heavy	heavy	JJ	A-SubjectiveAssessmentAttribute
 green	green	JJ	A-ColorAttribute
 eyes	eye	NNS	BodyPart
 .	.	.	-
@@ -7454,7 +7454,7 @@ mobile	mobile	NN	Object
 phone	phone	NN	Object
 from	from	IN	-
 his	his	PRP$	-
-back	back	JJ	ALocationPositionalAttribute
+back	back	JJ	A-PositionalAttribute
 trouser	trouser	NN	Clothing
 pocket	pocket	NN	Clothing
 ,	,	,	-
@@ -7514,10 +7514,10 @@ him	him	PRP	-
 </s>
 <s>
 A	a	DT	-
-young	young	JJ	A-SubjectiveAssessment
+young	young	JJ	A-SubjectiveAssessmentAttribute
 woman	woman	NN	Human
 with	with	IN	-
-crinkly	crinkly	JJ	A-SubjectiveAssessment
+crinkly	crinkly	JJ	A-SubjectiveAssessmentAttribute
 red	red	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
 .	.	.	-
@@ -7578,14 +7578,14 @@ outside	outside	RB	Location
 She	she	PRP	-
 wears	wear	VBZ	Dressing
 a	a	DT	-
-warm	warm	JJ	A-SubjectiveAssessment
+warm	warm	JJ	A-SubjectiveAssessmentAttribute
 coat	coat	NN	Clothing
 with	with	IN	-
-fur-trimmed	fur-trimmed	JJ	A-SubjectiveAssessment
+fur-trimmed	fur-trimmed	JJ	A-SubjectiveAssessmentAttribute
 hood	hood	NN	Clothing
 ,	,	,	-
 a	a	DT	-
-patterned	patterned	JJ	A-SubjectiveAssessment
+patterned	patterned	JJ	A-SubjectiveAssessmentAttribute
 scarf	scarf	NN	Clothing
 around	around	IN	Time
 her	her	PRP$	-
@@ -7596,10 +7596,10 @@ climbs_up	climb_up	VBZ	Walking
 the	the	DT	-
 hillside	hillside	NN	Location
 ,	,	,	-
-past	past	JJ	A-SubjectiveAssessment
+past	past	JJ	A-SubjectiveAssessmentAttribute
 trees	tree	NNS	Vegetable
 and	and	CC	-
-long	long	JJ	A-SubjectiveAssessment
+long	long	JJ	A-SubjectiveAssessmentAttribute
 grasses	grasse	NNS	Vegetable
 ,	,	,	-
 pausing	pause	VBG	Process
@@ -7631,7 +7631,7 @@ brightly	brightly	RB	-
 on	on	IN	-
 the	the	DT	-
 three	three	CD	-
-small	small	JJ	A-SubjectiveAssessment
+small	small	JJ	A-SubjectiveAssessmentAttribute
 figures	figure	NNS	Human
 .	.	.	-
 </s>
@@ -7695,7 +7695,7 @@ The	the	DT	-
 wind	wind	NN	-
 blows	blow	VBZ	Process
 his	his	PRP$	-
-wiry	wiry	JJ	A-SubjectiveAssessment
+wiry	wiry	JJ	A-SubjectiveAssessmentAttribute
 hair	hair	NN	BodyPart
 .	.	.	-
 </s>
@@ -7785,7 +7785,7 @@ goes	go	VBZ	Motion
 black	black	JJ	A-ColorAttribute
 .	.	.	-
 A	a	DT	-
-young	young	JJ	A-SubjectiveAssessment
+young	young	JJ	A-SubjectiveAssessmentAttribute
 woman	woman	NN	Human
 ,	,	,	-
 her	her	PRP$	-
@@ -7833,7 +7833,7 @@ yes	yes	RB	-
 our	our	PRP$	-
 luggage	luggage	NN	Object
 is	be	VBZ	Aux
-ready	ready	JJ	A-SubjectiveAssessment
+ready	ready	JJ	A-SubjectiveAssessmentAttribute
 .	.	.	-
 She	she	PRP	-
 turns	turn	VBZ	BodyMotion
@@ -7907,11 +7907,11 @@ couple	couple	NN	Human
 stroll_along	stroll_along	VBP	Walking
 a	a	DT	-
 virtually	virtually	RB	-
-deserted	deserted	JJ	A-SubjectiveAssessment
+deserted	deserted	JJ	A-SubjectiveAssessmentAttribute
 beach	beach	NN	Location
 with	with	IN	-
 a	a	DT	-
-large	large	JJ	A-SubjectiveAssessment
+large	large	JJ	A-SubjectiveAssessmentAttribute
 dog	dog	NN	Animal
 lolloping	lollop	VBG	Walking
 behind	behind	IN	-
@@ -7944,7 +7944,7 @@ the	the	DT	-
 beach	beach	NN	Location
 and	and	CC	-
 a	a	DT	-
-forty-something	forty-something	JJ	A-SubjectiveAssessment
+forty-something	forty-something	JJ	A-SubjectiveAssessmentAttribute
 guy	guy	NN	Human
 gets_out	get_out	VBZ	Motion
 ,	,	,	-
@@ -7965,7 +7965,7 @@ reaches	reach	VBZ	Touching
 into	into	IN	-
 in	in	IN	-
 his	his	PRP$	-
-inside	inside	JJ	ATimePositionalAttribute
+inside	inside	JJ	A-PositionalAttribute
 jacket	jacket	NN	Clothing
 pocket	pocket	NN	Clothing
 .	.	.	-
@@ -8026,13 +8026,13 @@ lies_back	lie_back	VBZ	BodyMotion
 Slender	slender	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 with	with	IN	-
-short	short	JJ	A-SubjectiveAssessment
+short	short	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 sandy-coloured	sandy-coloured	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
 and	and	CC	-
 a	a	DT	-
-neat	neat	JJ	A-SubjectiveAssessment
+neat	neat	JJ	A-SubjectiveAssessmentAttribute
 beard	beard	NN	BodyPart
 ,	,	,	-
 James	james	NNP	Human
@@ -8107,7 +8107,7 @@ He	he	PRP	-
 walks	walk	VBZ	Walking
 through	through	IN	-
 the	the	DT	-
-soft	soft	JJ	A-SubjectiveAssessment
+soft	soft	JJ	A-SubjectiveAssessmentAttribute
 sand	sand	NN	Location
 ,	,	,	-
 stops	stop	VBZ	Motion
@@ -8136,7 +8136,7 @@ checks	check	VBZ	IntentionalPsychologicalProcess
 about	about	IN	-
 him	him	PRP	-
 .	.	.	-
-Further	further	JJ	A-SubjectiveAssessment
+Further	further	JJ	A-SubjectiveAssessmentAttribute
 round	round	NN	Location
 the	the	DT	-
 coast	coast	NN	Location
@@ -8179,7 +8179,7 @@ his	his	PRP$	-
 shirt	shirt	NN	Clothing
 .	.	.	-
 Two	two	CD	-
-small	small	JJ	A-SubjectiveAssessment
+small	small	JJ	A-SubjectiveAssessmentAttribute
 boats	boat	NNS	-
 bob	bob	VBP	Motion
 about	about	IN	-
@@ -8202,7 +8202,7 @@ tie	tie	NN	Clothing
 James	james	NNP	Human
 walks	walk	VBZ	Walking
 past	past	IN	-
-leafy	leafy	JJ	A-SubjectiveAssessment
+leafy	leafy	JJ	A-SubjectiveAssessmentAttribute
 trees	tree	NNS	Vegetable
 .	.	.	-
 </s>
@@ -8214,9 +8214,9 @@ scrubland	scrubland	NN	Location
 he	he	PRP	-
 climbs	climb	VBZ	Walking
 a	a	DT	-
-steep	steep	JJ	A-SubjectiveAssessment
+steep	steep	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-dusty	dusty	JJ	A-SubjectiveAssessment
+dusty	dusty	JJ	A-SubjectiveAssessmentAttribute
 track	track	NN	Location
 .	.	.	-
 </s>
@@ -8225,7 +8225,7 @@ A	a	DT	-
 man	man	NN	Human
 holding	hold	VBG	Touching
 a	a	DT	-
-plastic	plastic	JJ	A-SubjectiveAssessment
+plastic	plastic	JJ	A-SubjectiveAssessmentAttribute
 cup	cup	NN	Object
 taps	tap	VBZ	Touching
 the	the	DT	-
@@ -8237,9 +8237,9 @@ He	he	PRP	-
 's	be	VBZ	Aux
 in	in	IN	-
 late	late	RB	Time
-middle-age	middle-age	JJ	A-SubjectiveAssessment
+middle-age	middle-age	JJ	A-SubjectiveAssessmentAttribute
 with	with	IN	-
-strong	strong	JJ	A-SubjectiveAssessment
+strong	strong	JJ	A-SubjectiveAssessmentAttribute
 features	feature	NNS	BodyPart
 and	and	CC	-
 a	a	DT	-
@@ -8255,9 +8255,9 @@ the	the	DT	-
 man	man	NN	Human
 who	who	WP	-
 has	have	VBZ	possesses
-wild	wild	JJ	A-SubjectiveAssessment
+wild	wild	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-wiry	wiry	JJ	A-SubjectiveAssessment
+wiry	wiry	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 greying	greying	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
@@ -8280,11 +8280,11 @@ The	the	DT	-
 cup	cup	NN	Object
 is	be	VBZ	Aux
 half	half	DT	-
-full	full	JJ	A-SubjectiveAssessment
+full	full	JJ	A-SubjectiveAssessmentAttribute
 of	of	IN	-
 clear	clear	JJ	A-ColorAttribute
 dark	dark	JJ	A-ColorAttribute
-liquid	liquid	JJ	A-SubjectiveAssessment
+liquid	liquid	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 which	which	WDT	-
 he	he	PRP	-
@@ -8310,7 +8310,7 @@ vest	vest	NN	Clothing
 top	top	NN	Clothing
 and	and	CC	-
 a	a	DT	-
-heavy	heavy	JJ	A-SubjectiveAssessment
+heavy	heavy	JJ	A-SubjectiveAssessmentAttribute
 chain	chain	NN	Clothing
 around	around	IN	Time
 his	his	PRP$	-
@@ -8359,7 +8359,7 @@ his	his	PRP$	-
 phone	phone	NN	Object
 from	from	IN	-
 a	a	DT	-
-back	back	JJ	ALocationPositionalAttribute
+back	back	JJ	A-PositionalAttribute
 pocket	pocket	NN	Clothing
 of	of	IN	-
 his	his	PRP$	-
@@ -8410,7 +8410,7 @@ Rick	rick	NNP	Human
 hurries_away	hurrie_away	VBZ	Process
 along	along	IN	-
 a	a	DT	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 path	path	NN	Location
 ,	,	,	-
 scanning	scan	VBG	IntentionalPsychologicalProcess
@@ -8426,7 +8426,7 @@ noise	noise	NN	RadiatingSound
 </s>
 <s>
 A	a	DT	-
-young	young	JJ	A-SubjectiveAssessment
+young	young	JJ	A-SubjectiveAssessmentAttribute
 woman	woman	NN	Human
 .	.	.	-
 </s>
@@ -8469,9 +8469,9 @@ laptop	laptop	NN	Object
 Jess	jess	NNP	Human
 who	who	WP	-
 has	have	VBZ	possesses
-long	long	JJ	A-SubjectiveAssessment
+long	long	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-curly	curly	JJ	A-SubjectiveAssessment
+curly	curly	JJ	A-SubjectiveAssessmentAttribute
 auburn	auburn	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
 scans	scan	VBZ	IntentionalPsychologicalProcess
@@ -8501,7 +8501,7 @@ a	a	DT	-
 Parka	parka	NN	Clothing
 with	with	IN	-
 a	a	DT	-
-fur-trimmed	fur-trimmed	JJ	A-SubjectiveAssessment
+fur-trimmed	fur-trimmed	JJ	A-SubjectiveAssessmentAttribute
 hood	hood	NN	Clothing
 ,	,	,	-
 she	she	PRP	-
@@ -8512,7 +8512,7 @@ heads_up	head_up	VBZ	Motion
 a	a	DT	-
 slope	slope	NN	Location
 of	of	IN	-
-tall	tall	JJ	A-SubjectiveAssessment
+tall	tall	JJ	A-SubjectiveAssessmentAttribute
 grasses	grasse	NNS	Vegetable
 and	and	CC	-
 scrubby	scrubby	RB	-
@@ -8550,7 +8550,7 @@ in	in	IN	-
 a	a	DT	-
 sunny	sunny	JJ	A-RadiatingLight
 ,	,	,	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 clearing	clearing	NN	Location
 .	.	.	-
 </s>
@@ -8682,7 +8682,7 @@ yes	yes	RB	-
 our	our	PRP$	-
 luggage	luggage	NN	Object
 is	be	VBZ	Aux
-ready	ready	JJ	A-SubjectiveAssessment
+ready	ready	JJ	A-SubjectiveAssessmentAttribute
 .	.	.	-
 Listen	listen	VB	Hearing
 ,	,	,	-
