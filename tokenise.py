@@ -74,10 +74,10 @@ def annotate(sentencesSorted):
       tokens = line.split('\n')
       tokens.pop()
       #print tokens ## freeling annotated sentence 
-      # get id (refId) of referenced Annotation in AD-en according to time in sentences
+      # get id (refId) of referenced Annotation in AD-unit according to time in sentences
 
       time = sentence[0]
-      for aid, (begin, end, _, _) in eaf.tiers['AD-en'][0].items():
+      for aid, (begin, end, _, _) in eaf.tiers['AD-unit'][0].items():
                begin = eaf.timeslots[begin]
                if begin == time: 
                    #print('AI',aid)
@@ -107,11 +107,11 @@ def annotate(sentencesSorted):
          if len(ids) > 0:
             previous = 'a' + str(ids[0])
             ##print('KEY1T',time, columns[1],previous)
-            eaf.add_ref_annotation('Tokens','AD-en',time, columns[0],previous) ### CHECK!! we need the 'form': stanford columns[1], freeling columns[0]
+            eaf.add_ref_annotation('Tokens','AD-unit',time, columns[0],previous) ### CHECK!! we need the 'form': stanford columns[1], freeling columns[0]
          else:
 	    ##print('KEY3T',time, columns[1])
-            eaf.add_ref_annotation('Tokens','AD-en',time, columns[0]) ### CHECK!! we need the 'form': stanford columns[1], freeling columns[0]
-            #eaf.add_ref_annotation('AD-Focus','AD-en',time, columns[3])
+            eaf.add_ref_annotation('Tokens','AD-unit',time, columns[0]) ### CHECK!! we need the 'form': stanford columns[1], freeling columns[0]
+            #eaf.add_ref_annotation('AD-Focus','AD-unit',time, columns[3])
           
       #print("----------")
 
@@ -158,7 +158,7 @@ if __name__ == '__main__':
    print ('Num sentences in Freeling file: ' , len(tags))
 
    ### Get 'Sentences' from eaf file & sort them (they come unnordered!!)
-   sentences = eaf.get_annotation_data_for_tier('AD-en')
+   sentences = eaf.get_annotation_data_for_tier('AD-unit')
    print ('Num sentences in eaf file: ' , len(sentences))
    sentencesSorted = sorted(sentences, key=getKey)
    #print("Freeling",tags)

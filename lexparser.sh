@@ -9,15 +9,15 @@ if [ ! $# -ge 1 ]; then
 fi
 
 
-scriptdir=`dirname $0`
+#scriptdir=`dirname $0`
 
-java -mx150m -cp "$scriptdir/*:" edu.stanford.nlp.trees.EnglishGrammaticalStructure -treeFile $* -conllx 
+#java -mx150m -cp "$scriptdir/*:" edu.stanford.nlp.trees.EnglishGrammaticalStructure -treeFile $* -conllx 
 
 ## use this instead if you also want the dependency tree (in temp.txt).
-## TEMP=temp.txt
-## scriptdir=`dirname $0`
+TEMP=temp.txt
+scriptdir=`dirname $0`
 
-## java -mx150m -cp "$scriptdir/*:" edu.stanford.nlp.parser.lexparser.LexicalizedParser \
-## -outputFormat "penn"  edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz $* > temp.txt
+java -mx150m -cp "$scriptdir/*:" edu.stanford.nlp.parser.lexparser.LexicalizedParser \
+-outputFormat "penn"  edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz $* > temp.txt
 
-## java -mx150m -cp "$scriptdir/*:" edu.stanford.nlp.trees.EnglishGrammaticalStructure -treeFile $TEMP -conllx 
+java -mx150m -cp "$scriptdir/*:" edu.stanford.nlp.trees.EnglishGrammaticalStructure -treeFile $TEMP -conllx 

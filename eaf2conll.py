@@ -32,7 +32,7 @@ root = elan.getroot()
 def getIds():
    ids = []
    global elan
-   for ann in root.findall("TIER[@TIER_ID='AD-en']/ANNOTATION/ALIGNABLE_ANNOTATION"):
+   for ann in root.findall("TIER[@TIER_ID='AD-unit']/ANNOTATION/ALIGNABLE_ANNOTATION"):
       id = ann.get('ANNOTATION_ID')
       #print id
       ids.append(id)
